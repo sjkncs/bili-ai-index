@@ -1,6 +1,6 @@
 # 开源生态与 AIGC 实战
 
-> Source: **机器之心** - Snapshot: **2026-10-12** - **42** episodes.
+> Source: **机器之心** - Snapshot: **2026-10-13** - **42** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
