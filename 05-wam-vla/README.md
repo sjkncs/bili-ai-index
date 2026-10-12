@@ -1,6 +1,6 @@
 # WAM 与 VLA 论文解读
 
-> Source: **HyperHorizon** - Snapshot: **2026-10-12** - **66** episodes.
+> Source: **HyperHorizon** - Snapshot: **2026-10-13** - **66** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
