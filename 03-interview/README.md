@@ -797,10 +797,13 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1WLgQz8Enk)
 - **逐段讲解Kimi K2报告并对照ChatGPT Agent、Qwen3-Coder等：“系统工程的力量”**
   - [B station](https://www.bilibili.com/video/BV1cc8kzmEBs)
+  - links: https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf https://openai.com/zh-Hans-CN/index/introducing-chatgpt-agent/ https://www.sequoiacap.com/podcast/training-data-chatgpt-agent/
 - **干货！开源一段论文探索之旅给大家**
   - [B station](https://www.bilibili.com/video/BV1pkyqBxEdB)
+  - links: https://w7py8ou4dk.feishu.cn/wiki/KacewdlmSiSGC9kUOKDch9gwnKf?from=from_copylink
 - **领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE**
   - [B station](https://www.bilibili.com/video/BV1KZ8X6uEPL)
+  - links: https://www.microsoft.com/en-us/research/publication/retentive-network-a-successor-to-transformer-for-large-language-models/ https://research.nvidia.com/publication/2025-04_gated-delta-networks-improving-mamba2-delta-rule https://arxiv.org/abs/2510.26692
 - **【李想2024唯一深度对谈（纯享版）】张小珺对话李想**
   - [B station](https://www.bilibili.com/video/BV1Kt68YBEzq)
 - **【独家对话奔驰全球CEO康林松】转型之中的139岁巨人**
