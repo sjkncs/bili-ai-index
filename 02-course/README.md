@@ -1,6 +1,6 @@
 # AI 课程与教程
 
-> Source: **ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生** - Snapshot: **2026-10-12** - **357** episodes.
+> Source: **ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生** - Snapshot: **2026-10-13** - **357** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
@@ -1189,18 +1189,24 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1VNAVeZEG4)
 - **我将维护一个集成各主干网络的图像分类项目**
   - [B station](https://www.bilibili.com/video/BV1SY411P7Nd)
+  - links: https://github.com/Fafa-DL/Awesome-Backbones
 - **最新Windows配置VSCode与Anaconda环境**
   - [B station](https://www.bilibili.com/video/BV1QD4y147ek)
 - **『图像分类』从零环境搭建&快速开始**
   - [B station](https://www.bilibili.com/video/BV1fe4y1s77Q)
+  - links: https://github.com/Fafa-DL/Awesome-Backbones
 - **『图像分类』模型如何搭建|文件如何调用**
   - [B station](https://www.bilibili.com/video/BV12a411772h)
+  - links: https://github.com/Fafa-DL/Awesome-Backbones https://blog.csdn.net/zzh516451964zzh/article/details/124864793
 - **『图像分类』数据预处理|数据增强**
   - [B station](https://www.bilibili.com/video/BV1zY4y167Ju)
+  - links: https://github.com/Fafa-DL/Awesome-Backbones
 - **『图像分类』学习率更新策略|优化器**
   - [B station](https://www.bilibili.com/video/BV1WT4y1q7qN)
+  - links: https://github.com/Fafa-DL/Awesome-Backbones https://blog.csdn.net/zzh516451964zzh/article/details/124879584
 - **『图像分类』配置文件补充说明**
   - [B station](https://www.bilibili.com/video/BV1bt4y1W7mm)
+  - links: https://github.com/Fafa-DL/Awesome-Backbones
 - **【一个月吃透机器学习】李航《统计学习方法》，零基础同学必学课程！！！**
   - [B station](https://www.bilibili.com/video/BV14j421U7oW)
 - **【一个月吃透机器学习】K近邻，感知机，手把手代码实战教程！！！**
