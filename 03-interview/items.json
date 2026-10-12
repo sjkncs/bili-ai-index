@@ -19,7 +19,7 @@
         "talk_abstract":  "",
         "duration_s":  12054,
         "views":  65491,
-        "pubdate":  ""
+        "pubdate":  "2025-02-12"
     },
     {
         "bvid":  "BV1ZmAQekEMc",
@@ -41,7 +41,7 @@
         "talk_abstract":  "",
         "duration_s":  9373,
         "views":  35666,
-        "pubdate":  ""
+        "pubdate":  "2025-02-23"
     },
     {
         "bvid":  "BV1q6RzYnENi",
@@ -63,7 +63,7 @@
         "talk_abstract":  "",
         "duration_s":  8982,
         "views":  42426,
-        "pubdate":  ""
+        "pubdate":  "2025-04-06"
     },
     {
         "bvid":  "BV17sNEz2ER8",
@@ -85,7 +85,7 @@
         "talk_abstract":  "",
         "duration_s":  9223,
         "views":  193781,
-        "pubdate":  ""
+        "pubdate":  "2025-06-18"
     },
     {
         "bvid":  "BV1WLgQz8Enk",
@@ -107,7 +107,7 @@
         "talk_abstract":  "",
         "duration_s":  9491,
         "views":  43610,
-        "pubdate":  ""
+        "pubdate":  "2025-07-02"
     },
     {
         "bvid":  "BV1cc8kzmEBs",
@@ -120,7 +120,11 @@
         "arxiv_id":  "",
         "arxiv_url":  "",
         "links":  [
-
+                      "https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf",
+                      "https://openai.com/zh-Hans-CN/index/introducing-chatgpt-agent/",
+                      "https://www.sequoiacap.com/podcast/training-data-chatgpt-agent/",
+                      "https://qwenlm.github.io/blog/qwen3-coder/",
+                      "https://manus.im/zh-cn/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus"
                   ],
         "summary_zh":  "",
         "speaker":  "",
@@ -129,7 +133,7 @@
         "talk_abstract":  "",
         "duration_s":  8439,
         "views":  34666,
-        "pubdate":  ""
+        "pubdate":  "2025-07-31"
     },
     {
         "bvid":  "BV1pkyqBxEdB",
@@ -142,7 +146,7 @@
         "arxiv_id":  "",
         "arxiv_url":  "",
         "links":  [
-
+                      "https://w7py8ou4dk.feishu.cn/wiki/KacewdlmSiSGC9kUOKDch9gwnKf?from=from_copylink"
                   ],
         "summary_zh":  "",
         "speaker":  "",
@@ -151,7 +155,7 @@
         "talk_abstract":  "",
         "duration_s":  15758,
         "views":  49020,
-        "pubdate":  ""
+        "pubdate":  "2025-10-28"
     },
     {
         "bvid":  "BV1KZ8X6uEPL",
@@ -161,10 +165,27 @@
         "bvid_title":  "领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
         "full_title":  "",
         "venue":  "",
-        "arxiv_id":  "",
-        "arxiv_url":  "",
+        "arxiv_id":  "2510.26692",
+        "arxiv_url":  "https://arxiv.org/abs/2510.26692",
         "links":  [
-
+                      "https://www.microsoft.com/en-us/research/publication/retentive-network-a-successor-to-transformer-for-large-language-models/",
+                      "https://research.nvidia.com/publication/2025-04_gated-delta-networks-improving-mamba2-delta-rule",
+                      "https://arxiv.org/abs/2510.26692",
+                      "https://arxiv.org/abs/2505.06708",
+                      "https://arxiv.org/abs/2002.04745",
+                      "https://arxiv.org/abs/2409.19606",
+                      "https://arxiv.org/abs/2603.15031",
+                      "https://arxiv.org/abs/2601.18089",
+                      "https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf",
+                      "https://arxiv.org/abs/2502.16982",
+                      "https://kexue.fm/archives/11619",
+                      "https://arxiv.org/abs/2404.06395",
+                      "https://arxiv.org/abs/2501.18795",
+                      "https://arxiv.org/abs/2501.12599",
+                      "https://arxiv.org/abs/2602.02276",
+                      "https://arxiv.org/abs/2306.08543",
+                      "https://github.com/fla-org/flash-linear-attention",
+                      "https://arxiv.org/abs/2412.19437"
                   ],
         "summary_zh":  "",
         "speaker":  "",
@@ -173,7 +194,7 @@
         "talk_abstract":  "",
         "duration_s":  7460,
         "views":  60162,
-        "pubdate":  ""
+        "pubdate":  "2026-08-26"
     },
     {
         "bvid":  "BV1Kt68YBEzq",
@@ -195,7 +216,7 @@
         "talk_abstract":  "",
         "duration_s":  5234,
         "views":  126964,
-        "pubdate":  ""
+        "pubdate":  "2024-12-29"
     },
     {
         "bvid":  "BV1zQL9z3ETw",
@@ -217,7 +238,7 @@
         "talk_abstract":  "",
         "duration_s":  2047,
         "views":  51293,
-        "pubdate":  ""
+        "pubdate":  "2025-04-26"
     },
     {
         "bvid":  "BV1F1GHzLE2k",
@@ -239,7 +260,7 @@
         "talk_abstract":  "",
         "duration_s":  9227,
         "views":  102955,
-        "pubdate":  ""
+        "pubdate":  "2025-07-08"
     },
     {
         "bvid":  "BV1vMtUzJEC7",
@@ -261,7 +282,7 @@
         "talk_abstract":  "",
         "duration_s":  11164,
         "views":  96154,
-        "pubdate":  ""
+        "pubdate":  "2025-08-08"
     },
     {
         "bvid":  "BV1fiybB4EDU",
@@ -283,7 +304,7 @@
         "talk_abstract":  "",
         "duration_s":  9833,
         "views":  135699,
-        "pubdate":  ""
+        "pubdate":  "2025-10-30"
     },
     {
         "bvid":  "BV1d4GU6wEDo",
@@ -305,7 +326,7 @@
         "talk_abstract":  "",
         "duration_s":  5173,
         "views":  122853,
-        "pubdate":  ""
+        "pubdate":  "2026-05-28"
     },
     {
         "bvid":  "BV1N7oBYNEoU",
@@ -327,7 +348,7 @@
         "talk_abstract":  "",
         "duration_s":  4250,
         "views":  74148,
-        "pubdate":  ""
+        "pubdate":  "2025-03-23"
     },
     {
         "bvid":  "BV1PDKozTEZJ",
@@ -349,7 +370,7 @@
         "talk_abstract":  "",
         "duration_s":  9497,
         "views":  56478,
-        "pubdate":  ""
+        "pubdate":  "2025-06-26"
     },
     {
         "bvid":  "BV1N2uXzNEBa",
@@ -371,7 +392,7 @@
         "talk_abstract":  "",
         "duration_s":  6297,
         "views":  84862,
-        "pubdate":  ""
+        "pubdate":  "2025-07-19"
     },
     {
         "bvid":  "BV1hFe1zSEXp",
@@ -393,7 +414,7 @@
         "talk_abstract":  "",
         "duration_s":  5979,
         "views":  430738,
-        "pubdate":  ""
+        "pubdate":  "2025-08-27"
     },
     {
         "bvid":  "BV1knvYBDEjs",
@@ -415,7 +436,7 @@
         "talk_abstract":  "",
         "duration_s":  12661,
         "views":  461110,
-        "pubdate":  ""
+        "pubdate":  "2025-12-30"
     },
     {
         "bvid":  "BV1awiDBDEWS",
@@ -437,7 +458,7 @@
         "talk_abstract":  "",
         "duration_s":  8676,
         "views":  168106,
-        "pubdate":  ""
+        "pubdate":  "2026-01-08"
     },
     {
         "bvid":  "BV1ZczaBJE58",
@@ -459,7 +480,7 @@
         "talk_abstract":  "",
         "duration_s":  7205,
         "views":  117199,
-        "pubdate":  ""
+        "pubdate":  "2026-01-26"
     },
     {
         "bvid":  "BV1tew5zVEDf",
@@ -481,7 +502,7 @@
         "talk_abstract":  "",
         "duration_s":  24278,
         "views":  266808,
-        "pubdate":  ""
+        "pubdate":  "2026-03-16"
     },
     {
         "bvid":  "BV1sLX9B4EqD",
@@ -503,7 +524,7 @@
         "talk_abstract":  "",
         "duration_s":  9411,
         "views":  58257,
-        "pubdate":  ""
+        "pubdate":  "2026-03-30"
     },
     {
         "bvid":  "BV13BdfBoELd",
@@ -525,7 +546,7 @@
         "talk_abstract":  "",
         "duration_s":  15791,
         "views":  104250,
-        "pubdate":  ""
+        "pubdate":  "2026-04-20"
     },
     {
         "bvid":  "BV1iVoVBgERD",
@@ -547,7 +568,7 @@
         "talk_abstract":  "",
         "duration_s":  12879,
         "views":  587033,
-        "pubdate":  ""
+        "pubdate":  "2026-04-24"
     },
     {
         "bvid":  "BV1YR5E6EE9o",
@@ -569,7 +590,7 @@
         "talk_abstract":  "",
         "duration_s":  13681,
         "views":  774957,
-        "pubdate":  ""
+        "pubdate":  "2026-05-11"
     },
     {
         "bvid":  "BV18Qg96YE1W",
@@ -591,7 +612,7 @@
         "talk_abstract":  "",
         "duration_s":  10749,
         "views":  86921,
-        "pubdate":  ""
+        "pubdate":  "2026-07-28"
     },
     {
         "bvid":  "BV1fmgj66EtD",
@@ -613,7 +634,7 @@
         "talk_abstract":  "",
         "duration_s":  12973,
         "views":  194044,
-        "pubdate":  ""
+        "pubdate":  "2026-08-13"
     },
     {
         "bvid":  "BV1hGkUBoEqY",
