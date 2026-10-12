@@ -13,8 +13,8 @@
 | directory | type | source | episodes | full title | arXiv | speaker |
 |---|---|---|---:|---:|---:|---:|
 | [`01-paper-reading/`](01-paper-reading/) | AI 论文精读 | VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab | 1359 | 0 | 246 | 0 |
-| [`02-course/`](02-course/) | AI 课程与教程 | ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生 | 357 | 0 | 0 | 0 |
-| [`03-interview/`](03-interview/) | 访谈与行业观察 | 张小珺商业访谈录, 五里墩茶社, 林粒粒呀 | 760 | 0 | 0 | 0 |
+| [`02-course/`](02-course/) | AI 课程与教程 | ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生 | 357 | 0 | 7 | 0 |
+| [`03-interview/`](03-interview/) | 访谈与行业观察 | 张小珺商业访谈录, 五里墩茶社, 林粒粒呀 | 760 | 0 | 1 | 0 |
 | [`04-world-model/`](04-world-model/) | 世界模型论文解读 | HyperHorizon | 83 | 83 | 74 | 0 |
 | [`05-wam-vla/`](05-wam-vla/) | WAM 与 VLA 论文解读 | HyperHorizon | 66 | 66 | 57 | 0 |
 | [`06-video-generation/`](06-video-generation/) | 视频生成论文解读 | HyperHorizon | 32 | 31 | 29 | 0 |
