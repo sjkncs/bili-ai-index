@@ -1,6 +1,6 @@
 # 机器之心 · 顶会论文分享
 
-> Source: **机器之心** - Snapshot: **2026-10-12** - **96** episodes.
+> Source: **机器之心** - Snapshot: **2026-10-13** - **96** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
