@@ -1,6 +1,6 @@
 # AI 论文精读
 
-> Source: **VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab** - Snapshot: **2026-10-12** - **1359** episodes.
+> Source: **VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab** - Snapshot: **2026-10-13** - **1359** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
@@ -813,570 +813,570 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 | 793 | 论文分享TempSamp-R1：用混合采样强化视频大模型时序定位 | - | AI 论文精读 | [2509.18056](https://arxiv.org/abs/2509.18056) | [github.com](https://github.com/HVision-NKU/TempSamp-R1) | 10:18 | [link](https://www.bilibili.com/video/BV1QVKb6mEFm) |
 | 794 | 论文分享 FlashInfer：面向大模型推理服务的高效 Attention 引擎 | - | AI 论文精读 | [2501.01005](https://arxiv.org/abs/2501.01005) | [github.com](https://github.com/flashinfer-ai/flashinfer) | 9:36 | [link](https://www.bilibili.com/video/BV1QKgQ6xEgh) |
 | 795 | 论文分享 CAKE：面向长上下文大模型的自适应 KV Cache 淘汰框架 | - | AI 论文精读 | [2503.12491](https://arxiv.org/abs/2503.12491) | [github.com](https://github.com/antgroup/cakekv) | 21:21 | [link](https://www.bilibili.com/video/BV16w3a6HEfe) |
-| 796 | 计算机视觉与OpenMMLab 开源算法体系 | - | AI 论文精读 | - | - | 47:38 | [link](https://www.bilibili.com/video/BV1WG41177DP) |
-| 797 | 深度学习算法基础 | - | AI 论文精读 | - | - | 65:34 | [link](https://www.bilibili.com/video/BV1gP411N7yA) |
-| 798 | 上海交大学生创新中心人工智能实训平台介绍 | - | AI 论文精读 | - | - | 14:47 | [link](https://www.bilibili.com/video/BV1CV4y1V7SQ) |
-| 799 | 图像分类 | - | AI 论文精读 | - | - | 68:54 | [link](https://www.bilibili.com/video/BV11G4y1n7gC) |
-| 800 | MMClassification 介绍与代码实践 | - | AI 论文精读 | - | - | 51:53 | [link](https://www.bilibili.com/video/BV1LP411N7G4) |
-| 801 | MMClassification 实践 2 | - | AI 论文精读 | - | - | 33:50 | [link](https://www.bilibili.com/video/BV1be4y1e7uS) |
-| 802 | 目标检测 | - | AI 论文精读 | - | - | 56:52 | [link](https://www.bilibili.com/video/BV1BG4y1n7pn) |
-| 803 | MMDetection 介绍与代码实践 | - | AI 论文精读 | - | - | 37:02 | [link](https://www.bilibili.com/video/BV1o8411Y7Td) |
-| 804 | 数据集采集与标注、LabelBee工具介绍 | - | AI 论文精读 | - | - | 80:29 | [link](https://www.bilibili.com/video/BV16W4y1E74Z) |
-| 805 | 模型部署与 MMDeploy 实践 | - | AI 论文精读 | - | - | 29:14 | [link](https://www.bilibili.com/video/BV1Ne411G7RX) |
-| 806 | 语义分割与 MMSegmentation 实践 | - | AI 论文精读 | - | - | 32:49 | [link](https://www.bilibili.com/video/BV1fP411A74D) |
-| 807 | 文字字符识别与 MMOCR 实践 | - | AI 论文精读 | - | - | 16:31 | [link](https://www.bilibili.com/video/BV1Qe4y1e7fH) |
-| 808 | 人体姿态估计与 MMPose 实践 | - | AI 论文精读 | - | - | 56:20 | [link](https://www.bilibili.com/video/BV1Hg411z7Qk) |
-| 809 | 视频目标追踪与 MMTracking 实践 | - | AI 论文精读 | - | - | 23:51 | [link](https://www.bilibili.com/video/BV14t4y1T7rd) |
-| 810 | 生成模型 GAN 与 MMGeneration 实践 | - | AI 论文精读 | - | - | 43:33 | [link](https://www.bilibili.com/video/BV1SK411D7uS) |
-| 811 | 强化学习RL是否可以提升模型性能上限？亦或只是将模型的Pass@N向Pass@1收敛？ | - | AI 论文精读 | - | - | 10:09 | [link](https://www.bilibili.com/video/BV1saNbzQEwT) |
-| 812 | RLVR对推理能力的提升是否可以/如何才能泛化到通用能力？ | - | AI 论文精读 | - | - | 4:21 | [link](https://www.bilibili.com/video/BV1Q1Nez7E2t) |
-| 813 | 过去的PPO算法依赖于四个神经网络来进行稳定训练，近期以DAPO为代表的算法只需要一个policy model，是什么带来了模型训练稳定性的提升？ | - | AI 论文精读 | - | - | 9:27 | [link](https://www.bilibili.com/video/BV1THNBznEkF) |
-| 814 | 近期一些工作针对RL提出了一系列反直觉的结论，例如random reward也能提升性能，如何看待这些结论？ | - | AI 论文精读 | - | - | 5:29 | [link](https://www.bilibili.com/video/BV1SjNLzsEjq) |
-| 815 | 当前多模态领域的RL算法往往是纯语言领域RL算法的“应用”迁移，除了引入图像condition以外没有太多改进，如何针对多模态引入算法改进？ | - | AI 论文精读 | - | - | 8:56 | [link](https://www.bilibili.com/video/BV1TzN5zDE5V) |
-| 816 | 如何看待预训练数据/性能对RL效果的影响？ | - | AI 论文精读 | - | - | 7:55 | [link](https://www.bilibili.com/video/BV1oNN7z6Ecq) |
-| 817 | 零人工数据强化学习推理模型主题分享 | - | AI 论文精读 | - | - | 31:30 | [link](https://www.bilibili.com/video/BV1irNszFEtt) |
-| 818 | 小米 MiMo-VL 预训练及后训练技术分享 | - | AI 论文精读 | - | - | 30:41 | [link](https://www.bilibili.com/video/BV1xuKwz2Ejp) |
-| 819 | 强化学习范式 OREAL：超越蒸馏，推动轻中量级模型突破推理“三重门”困局 | - | AI 论文精读 | - | - | 21:31 | [link](https://www.bilibili.com/video/BV1BCKczeEJa) |
-| 820 | CPRet：面向编程竞赛检索的基准数据集和模型 | - | AI 论文精读 | - | - | 22:38 | [link](https://www.bilibili.com/video/BV1kFGgzjEtu) |
-| 821 | DyCodeEval: 数据污染下的代码模型的动态测评 | - | AI 论文精读 | - | - | 22:04 | [link](https://www.bilibili.com/video/BV1QrGuzbEPH) |
-| 822 | OSS-Bench：告别静态数据集！从真实开源项目中“活捉”高难度编程任务 | - | AI 论文精读 | - | - | 17:37 | [link](https://www.bilibili.com/video/BV1GauuzREiY) |
-| 823 | UTBoost：修复“漏风”的 SWE-Bench，揪出 345 个“假通过”补丁 | - | AI 论文精读 | - | - | 21:19 | [link](https://www.bilibili.com/video/BV1qtu3zKEq9) |
-| 824 | 上海人工智能实验室 大模型中心负责人 陈恺 深度解读 Intern-S1——科学多模态大模型 | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [huggingface.co](https://huggingface.co/InternLM) [modelscope.cn](https://modelscope.cn/organization/Shanghai_AI_Laboratory) | 14:48 | [link](https://www.bilibili.com/video/BV1K3agzBE9i) |
-| 825 | MiniCPM-V：迈向高效端侧多模态大模型 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/openbmb) [modelscope.cn](https://modelscope.cn/organization/OpenBMB) | 13:33 | [link](https://www.bilibili.com/video/BV1VZaCzLEJr) |
-| 826 | GLM-V：迈向通用推理的多模态大模型 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/zai-org) [modelscope.cn](https://modelscope.cn/organization/ZhipuAI) | 14:44 | [link](https://www.bilibili.com/video/BV1C9ahzbEmG) |
-| 827 | Ovis多模态大模型：结构对齐下的视觉语言融合 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/AIDC-AI) [modelscope.cn](https://modelscope.cn/organization/AIDC-AI) | 14:26 | [link](https://www.bilibili.com/video/BV168HUzkEEZ) |
-| 828 | 阶跃星辰在多模态方向上的探索 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/stepfun-ai) [modelscope.cn](https://modelscope.cn/organization/stepfun-ai) | 15:46 | [link](https://www.bilibili.com/video/BV1jAHXzmEao) |
-| 829 | 多模态模型哪些能力已逐渐饱和，还存在哪些不足和短板，未来有哪些值得关注的应用方向? | - | AI 论文精读 | - | - | 6:27 | [link](https://www.bilibili.com/video/BV1Y3HazDE2m) |
-| 830 | 多模态模型的推理相比于语言模型，有哪些不一样的技术挑战和发展思路？ | - | AI 论文精读 | - | - | 6:27 | [link](https://www.bilibili.com/video/BV1s1pWzJEGJ) |
-| 831 | 理解生成一体化是近期多模态大模型的热门探索方向，技术方案有什么样的演进趋势，未来是否有可能实现理解和生成任务的互相促进? | - | AI 论文精读 | - | - | 13:39 | [link](https://www.bilibili.com/video/BV1zCJkzQEmp) |
-| 832 | 多模态模型的突破是否被语言模型的研究进展所限制？模型架构和训练范式上有哪些创新路径？ | - | AI 论文精读 | - | - | 4:00 | [link](https://www.bilibili.com/video/BV1VFpCzQEG6) |
-| 833 | LongCat-Flash-Omni：美团全模态大模型探索 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) [modelscope.cn](https://modelscope.cn/models/meituan-longcat/LongCat-Flash-Omni) | 24:34 | [link](https://www.bilibili.com/video/BV16jyuBBEZ8) |
-| 834 | OmniVinci：全模态大模型的架构和数据探索 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/nvidia/omnivinci) | 14:57 | [link](https://www.bilibili.com/video/BV1FFU5B8E9x) |
-| 835 | Ming-Omni：百灵多模态的实践与探索 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) [modelscope.cn](https://modelscope.cn/models/inclusionAI/Ming-flash-omni-Preview) | 43:18 | [link](https://www.bilibili.com/video/BV1oeUbBaEGt) |
-| 836 | Omni 全模态模型在训练数据和策略上面临哪些挑战？如何构建和利用涵盖图像、视 频、音频、文本的海量数据集，并采用何种训练策略技巧来有效融合多模态信息的？ | - | AI 论文精读 | - | - | 9:56 | [link](https://www.bilibili.com/video/BV1ZPSaBCEXH) |
-| 837 | 在多模态统一模型中，模态不均衡或者模态偏置问题如何解决？ | - | AI 论文精读 | - | - | 6:25 | [link](https://www.bilibili.com/video/BV1to28BUEdg) |
-| 838 | 在长上下文建模方面，模型如何真正利用极长序列？例如视频长达上万帧，或多轮对话跨越很长距离，模型如何保留和利用这些信息？ | - | AI 论文精读 | - | - | 6:38 | [link](https://www.bilibili.com/video/BV1Q625B5Eyp) |
-| 839 | 如何看待通用模态 tokenization 未来面临的挑战？所有模态用统一“词表”表示是否现实？ | - | AI 论文精读 | - | - | 7:13 | [link](https://www.bilibili.com/video/BV1cG2kBMEQ9) |
-| 840 | 在一个模型中同时学习理解任务和生成任务会不会互相促进？可以从哪些技术路线去突破？ | - | AI 论文精读 | - | - | 5:02 | [link](https://www.bilibili.com/video/BV1dNmKBFExt) |
-| 841 | Omni 全模态模型的发展趋势是什么，可能会朝哪些新方向拓展？还有哪些关键技术要突破？ | - | AI 论文精读 | - | - | 3:59 | [link](https://www.bilibili.com/video/BV12VmCBJEK7) |
-| 842 | HunyuanOCR：混元原生多模态端到端 OCR 专家 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/spaces/tencent/HunyuanOCR) [modelscope.cn](https://modelscope.cn/models/Tencent-Hunyuan/HunyuanOCR) | 28:06 | [link](https://www.bilibili.com/video/BV1SBBVBEEMp) |
-| 843 | PaddleOCR-VL：支持 109 种语言的轻量化多模态文档解析方案 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/PaddlePaddle/PaddleOCR-VL) [modelscope.cn](https://modelscope.cn/models/PaddlePaddle/PaddleOCR-VL) | 24:03 | [link](https://www.bilibili.com/video/BV16CBDBzEHJ) |
-| 844 | MinerU：高效精准的文档解析技术攻坚 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B) [modelscope.cn](https://modelscope.cn/models/OpenDataLab/MinerU2.5-2509-1.2B) [github.com](https://github.com/opendatalab/MinerU) | 23:21 | [link](https://www.bilibili.com/video/BV1epBaB3EPA) |
-| 845 | 极致端侧推理、结构还原与语义泛化三者之间存在天然的张力，在设计模型架构或训练策略时，如何权衡这三者之间的 trade-off 的？ | - | AI 论文精读 | - | - | 9:51 | [link](https://www.bilibili.com/video/BV1WZqFBPEjU) |
-| 846 | OCR 模型是否还有必要加入推理能力吗？主要会用于什么样的场景，会用怎样的形式出现？ | - | AI 论文精读 | - | - | 4:48 | [link](https://www.bilibili.com/video/BV1ZhqwB8EEr) |
-| 847 | OCR 系统在工程落地过程中，常见的性能瓶颈或优化难点有哪些？能否分享一些踩坑经验，尤其是在部署、推理效率或模型压缩方面的教训？ | - | AI 论文精读 | - | - | 2:57 | [link](https://www.bilibili.com/video/BV1MCquBvEfK) |
-| 848 | 如果从头搭建一个面向真实商业场景的文档解析系统（如合同、发票、报表等），有哪些关键建议可以给到开发者？ | - | AI 论文精读 | - | - | 2:52 | [link](https://www.bilibili.com/video/BV1RCiCBzERG) |
-| 849 | 从开源视角看，当前 OCR 工业级工具链或范式还有哪些关键缺失？如果不考虑商业化,最想推动或实现的 OCR 方向是什么？ | - | AI 论文精读 | - | - | 3:34 | [link](https://www.bilibili.com/video/BV1B8iDBaEgF) |
-| 850 | 能否分享最近关注、但本次尚未提及的 OCR 前沿工作？对于希望参与贡献开源项目的开发者，有哪些建议？ | - | AI 论文精读 | - | - | 8:36 | [link](https://www.bilibili.com/video/BV1NUrwBXEDj) |
-| 851 | 下一代多模态大模型能力演进的度量分析 | - | AI 论文精读 | - | - | 32:49 | [link](https://www.bilibili.com/video/BV1XUrhBLEsK) |
-| 852 | 基于多模态大模型的图像评价及应用探索 | - | AI 论文精读 | - | - | 12:51 | [link](https://www.bilibili.com/video/BV1pWr6BWEGv) |
-| 853 | 探索大模型的通用科学能力边界 | - | AI 论文精读 | - | - | 40:45 | [link](https://www.bilibili.com/video/BV1CLrLBXEoo) |
-| 854 | NewtonBench：在“平行宇宙”中评估大模型科学发现能力 | - | AI 论文精读 | - | - | 20:36 | [link](https://www.bilibili.com/video/BV1oVrzB3E2y) |
-| 855 | ScienceBoard: 从数字智能体到 AI 科学家 | - | AI 论文精读 | - | - | 29:39 | [link](https://www.bilibili.com/video/BV1FJhwzTEQH) |
-| 856 | AutoMind: 知识增强智能体解锁数据科学潜力 | - | AI 论文精读 | - | - | 28:15 | [link](https://www.bilibili.com/video/BV1oNhczoEM9) |
-| 857 | Scientists’ First Exam，科学认知能力的“开场哨声” | - | AI 论文精读 | - | - | 26:58 | [link](https://www.bilibili.com/video/BV1pWh7zUEMb) |
-| 858 | 圆桌讨论——科学智能的边界与突破 | - | AI 论文精读 | - | - | 49:13 | [link](https://www.bilibili.com/video/BV1X1tgzzEBH) |
-| 859 | 大模型评测基准发展趋势探讨 | - | AI 论文精读 | - | - | 24:08 | [link](https://www.bilibili.com/video/BV1AbrHBME4n) |
-| 860 | 技术写作系列课程第一课：技术写作的内容风格与选题 | - | AI 论文精读 | - | [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247510508&idx=1&sn=3072808c7889d1b6dacaf032c8e9dc19&chksm=ebb6a10edcc128186649d95af2132fa88ec1ac30d004c00fb52291ec5e2019b75042bb4b66f1&token=238828277&lang=zh_CN#rd) | 36:27 | [link](https://www.bilibili.com/video/BV1YX4y1B7mH) |
-| 861 | 技术写作系列课程第二课：如何起一个吸引人的标题 | - | AI 论文精读 | - | [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247510508&idx=1&sn=3072808c7889d1b6dacaf032c8e9dc19&chksm=ebb6a10edcc128186649d95af2132fa88ec1ac30d004c00fb52291ec5e2019b75042bb4b66f1&token=238828277&lang=zh_CN#rd) | 19:47 | [link](https://www.bilibili.com/video/BV1qs4y1d7jm) |
-| 862 | 技术写作系列课程第三课：如何搭建文章结构 | - | AI 论文精读 | - | [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247510508&idx=1&sn=3072808c7889d1b6dacaf032c8e9dc19&chksm=ebb6a10edcc128186649d95af2132fa88ec1ac30d004c00fb52291ec5e2019b75042bb4b66f1&token=238828277&lang=zh_CN#rd) | 32:48 | [link](https://www.bilibili.com/video/BV1oc411E7nD) |
-| 863 | 技术写作系列课程第四课：技术写作必备的利器工具 | - | AI 论文精读 | - | [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247510508&idx=1&sn=3072808c7889d1b6dacaf032c8e9dc19&chksm=ebb6a10edcc128186649d95af2132fa88ec1ac30d004c00fb52291ec5e2019b75042bb4b66f1&token=238828277&lang=zh_CN#rd) | 44:11 | [link](https://www.bilibili.com/video/BV1Tg4y1777V) |
-| 864 | Label Studio x Segment Anything Model 半自动化标注 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/blob/main/label_anything/readme_zh.md) [cdn.vansin.top](https://cdn.vansin.top/open-mmlab/pg.jpg) | 0:22 | [link](https://www.bilibili.com/video/BV1uv4y1J7yM) |
-| 865 | Label-Studio X Segment Anything Model 半自动化标注（2）：Windows CPU 环境配置 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/blob/main/label_anything/readme_zh.md) [cdn.vansin.top](https://cdn.vansin.top/open-mmlab/pg.jpg) | 2:43 | [link](https://www.bilibili.com/video/BV1hh411F7uR) |
-| 866 | Label-Studio X Segment Anything Model 半自动化标注（3）：开启前后端并标注 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/blob/main/label_anything/readme_zh.md) [cdn.vansin.top](https://cdn.vansin.top/open-mmlab/pg.jpg) | 5:56 | [link](https://www.bilibili.com/video/BV1Fo4y1V77n) |
-| 867 | Label-Studio X Segment Anything Model 半自动化标注（4）：数据集可视化及模型训练和测试 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/blob/main/label_anything/readme_zh.md) [cdn.vansin.top](https://cdn.vansin.top/open-mmlab/pg.jpg) | 7:21 | [link](https://www.bilibili.com/video/BV1Lh4y1o7qN) |
-| 868 | 以最新数学博资考题为例，书生-S2可以围绕一道复杂问题进行数小时的持续探索 | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/intern-s1-math-research/CCQRPo7AqQJjn5hXHaO4VopPQh1Z89ONciSGUKmgFFA=/9) [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Intern-S1) | 7:54 | [link](https://www.bilibili.com/video/BV1L8eE6NEk3) |
-| 869 | 书生-S2 实现结合疾病靶标的蛋白药物的自主设计 | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/case/Intern-S2/protein-design) [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Intern-S1) | 0:28 | [link](https://www.bilibili.com/video/BV1fHeE6zESc) |
-| 870 | 基于给定的化学式，书生-S2 实现物理可行的晶体构建 | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/case/Intern-S2/crystal-structure-construction) [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Intern-S1) | 0:29 | [link](https://www.bilibili.com/video/BV1JneE63EUa) |
-| 871 | “书生-S2，帮我构建一个长征7火箭的3D CAD模型” | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Intern-S1) [internlm.intern-ai.org.cn](https://internlm.intern-ai.org.cn/api/strategy) | 1:08 | [link](https://www.bilibili.com/video/BV1RQe76cEAg) |
-| 872 | Linux 前置基础知识 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L0/Linux) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 15:01 | [link](https://www.bilibili.com/video/BV1FS421d7yg) |
-| 873 | Python 前置基础知识 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L0/Python) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 13:49 | [link](https://www.bilibili.com/video/BV1mS421X7h4) |
-| 874 | Git 前置基础知识 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L0/Git) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 6:06 | [link](https://www.bilibili.com/video/BV1Pz421i7bw) |
-| 875 | 书生·浦语大模型全链路开源开放体系 | - | AI 论文精读 | - | [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 29:02 | [link](https://www.bilibili.com/video/BV18142187g5) |
-| 876 | 8G 显存玩转书生大模型 Demo | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L1/Demo/readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 8:08 | [link](https://www.bilibili.com/video/BV18x4y147SU) |
-| 877 | 浦语提示词工程实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L1/Prompt) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 55:17 | [link](https://www.bilibili.com/video/BV1cU411S7iV) |
-| 878 | InternLM+LlamaIndex RAG 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L1/LlamaIndex) [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L1/LlamaIndex/task.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) | 55:20 | [link](https://www.bilibili.com/video/BV19E4m1X79q) |
-| 879 | XTuner 微调大模型个人小助手认知 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L1/XTuner) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 23:59 | [link](https://www.bilibili.com/video/BV1tz421B72y) |
-| 880 | OpenCompass 评测 InternLM-1.8B 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L1/OpenCompass/readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 21:15 | [link](https://www.bilibili.com/video/BV1RM4m1279j) |
-| 881 | Lagent 自定义你的 Agent 智能体 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L2/Lagent/readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 7:13 | [link](https://www.bilibili.com/video/BV18M4m1y7sm) |
-| 882 | LMDeploy 量化部署进阶实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L2/LMDeploy/readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 89:57 | [link](https://www.bilibili.com/video/BV1df421q7cR) |
-| 883 | InternVL（冷笑话大师）部署微调实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L2/InternVL/joke_readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 18:47 | [link](https://www.bilibili.com/video/BV1N6p1eXETX) |
-| 884 | 茴香豆：企业级知识库问答工具 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L2/Huixiangdou) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 51:40 | [link](https://www.bilibili.com/video/BV1C5W2epEYP) |
-| 885 | 销冠——卖货主播大模型 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/EasterEgg/StreamerSales) | 23:46 | [link](https://www.bilibili.com/video/BV1f1421b7Du) |
-| 886 | InternLM-1.8B 模型安卓端侧部署实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/EasterEgg/Android) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 4:20 | [link](https://www.bilibili.com/video/BV1Ai421a7R6) |
-| 887 | 手把手带你使用 InternLM 实现谁是卧底游戏 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/EasterEgg/Game) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 16:39 | [link](https://www.bilibili.com/video/BV1uhp1efEeE) |
-| 888 | 旋转~跳跃~检测王者 MMDetection 的好兄弟来啦！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmrotate) | 0:16 | [link](https://www.bilibili.com/video/BV1Hr4y1r73p) |
-| 889 | 墩墩生成器来啦！三步穿上墩墩服变身冰墩墩，做今年冬天最靓崽！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose/tree/master/tools/webcam/configs) | 1:11 | [link](https://www.bilibili.com/video/BV1Tq4y1t77C) |
-| 890 | 千行百业智能化落地，MMDeploy 助你一“部”到位！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmdeploy) | 1:14 | [link](https://www.bilibili.com/video/BV1g34y1z7EW) |
-| 891 | 操作顺滑，一秒上手，LabelBee 让人工标注更智能! | - | AI 论文精读 | - | - | 1:12 | [link](https://www.bilibili.com/video/BV1pr4y1X7VM) |
-| 892 | 画形亦画骨，知面也知心，与 MMHuman3D 一道探索人体参数化模型！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmhuman3d) | 0:43 | [link](https://www.bilibili.com/video/BV1Ch411s7mS) |
-| 893 | MMFlow:帧与帧之间的追光者 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmflow！) | 0:44 | [link](https://www.bilibili.com/video/BV1Zr4y1r72H) |
-| 894 | 【MMTracking】单目标跟踪！持续跟踪！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmtracking) | 0:29 | [link](https://www.bilibili.com/video/BV1Ev411376o) |
-| 895 | 【MMTracking】国庆快乐！多目标跟踪走丢也不怕！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmtracking) [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/414625166) | 0:29 | [link](https://www.bilibili.com/video/BV1tU4y1c7mj) |
-| 896 | 【MMtracking】实时追踪！套马杆的汉子的马 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmtracking) [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/412817354) | 0:17 | [link](https://www.bilibili.com/video/BV1xL41147n5) |
-| 897 | 【MMDetection】七夕没对象？用我检测一下！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmdetection) | 0:21 | [link](https://www.bilibili.com/video/BV1QU4y177oZ) |
-| 898 | 【MMPose】火柴人出击！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:29 | [link](https://www.bilibili.com/video/BV1YU4y1H7Dq) |
-| 899 | 【MMPose】 demo webcam | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:18 | [link](https://www.bilibili.com/video/BV1pw411R7iD) |
-| 900 | 【MMPose】3D Human Pose | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:21 | [link](https://www.bilibili.com/video/BV1B3411672x) |
-| 901 | 【MMPose】Animal Pose | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:17 | [link](https://www.bilibili.com/video/BV1t341167V7) |
-| 902 | 【MMPose】2D Human Pose | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:24 | [link](https://www.bilibili.com/video/BV1Zf4y157PF) |
-| 903 | AI 生成视频不闪了！社区大佬又整新活啦！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmagic) | 0:11 | [link](https://www.bilibili.com/video/BV19o4y1b7RZ) |
-| 904 | Segment Anything Model+ MMagic = Generate Anything！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/tree/main/mmagic_sam) [github.com](https://github.com/open-mmlab/mmagic) | 0:11 | [link](https://www.bilibili.com/video/BV1ws4y1R7aB) |
-| 905 | DragGAN 应用来啦，无需部署，在线体验！ | - | AI 论文精读 | - | [github.com](https://github.com/XingangPan/DragGAN) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/XingangPan/DragGAN) | 1:06 | [link](https://www.bilibili.com/video/BV1Rh4y1y7LK) |
-| 906 | 还在排队 SearchGPT？快来试试开源的 AI 搜索引擎框架 MindSearch！ | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/mindsearch) | 1:55 | [link](https://www.bilibili.com/video/BV1Kx4y1s7SS) |
-| 907 | 人工智能时代的创业新范式 | - | AI 论文精读 | - | - | 44:13 | [link](https://www.bilibili.com/video/BV1gAmnBZEuK) |
-| 908 | 从初心到商业化：以快速迭代创造用户真价值 | - | AI 论文精读 | - | - | 23:23 | [link](https://www.bilibili.com/video/BV1hwmnBbE7d) |
-| 909 | 医疗领域大模型微调实践 | - | AI 论文精读 | - | [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/c6?s=bili) | 9:56 | [link](https://www.bilibili.com/video/BV1gfqJBNEmT) |
-| 910 | MMSelfSup 代码库介绍 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 12:04 | [link](https://www.bilibili.com/video/BV1hg411r7iK) |
-| 911 | MMSelfSup 代码教程【1】模型自监督预训练 之 SimCLR | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 18:28 | [link](https://www.bilibili.com/video/BV1Ht4y1n7jy) |
-| 912 | MMSelfSup 代码教程【2】图片向量可视化 t-SNE | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 20:52 | [link](https://www.bilibili.com/video/BV1yS4y1W7B6) |
-| 913 | MMSelfSup 代码教程【3】自监督预训练模型的评估：“分类” 下游任务 之 线性评估 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 13:22 | [link](https://www.bilibili.com/video/BV1LP41157uA) |
-| 914 | MMSelfSup 代码教程【4】自监督预训练模型的评估：“分类” 下游任务 之 SVM 评估 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 18:17 | [link](https://www.bilibili.com/video/BV1Ga411G73i) |
-| 915 | MMSelfSup 代码教程【5】自监督预训练模型的评估：“检测”下游任务 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 11:10 | [link](https://www.bilibili.com/video/BV1EP41157BL) |
-| 916 | MMSelfSup 代码教程【6】在 MMDetection 中使用自监督预训练模型 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 10:20 | [link](https://www.bilibili.com/video/BV1Fe4y1Z7Wh) |
-| 917 | MMSelfSup 代码教程【7】模型自监督预训练 之 MAE | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 17:28 | [link](https://www.bilibili.com/video/BV1EY4y1u7Px) |
-| 918 | 10 分钟带你上手 MMEval（一）：MMEval 介绍 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmeval) | 6:34 | [link](https://www.bilibili.com/video/BV1m24y127Db) |
-| 919 | 10 分钟带你上手 MMEval（二）：MMEval 使用介绍 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmeval) | 8:41 | [link](https://www.bilibili.com/video/BV1HP4y117pA) |
-| 920 | 10 分钟带你上手 MMEval（三）：如何给 MMEval 添加新的评测指标 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmeval) | 10:12 | [link](https://www.bilibili.com/video/BV1Ev4y1d7nK) |
-| 921 | 大语言模型复杂医疗推理评测基准MedAgentsBench | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MedAgents-Bench) | 34:53 | [link](https://www.bilibili.com/video/BV1J5oXYYEYH) |
-| 922 | 通用写作评测基准 WritingBench | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/WritingBench) | 34:39 | [link](https://www.bilibili.com/video/BV1dFdpYqELh) |
-| 923 | 首个视频时空推理评估基准 V-STaR | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/V-STaR) | 38:35 | [link](https://www.bilibili.com/video/BV1DbdHYZEbq) |
-| 924 | ViLBench：多模态过程奖励（Process Reward）建模组件 | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/ViLBench) | 45:00 | [link](https://www.bilibili.com/video/BV1cZ5kzyECC) |
-| 925 | CMU团队打造考公逻辑谜题 VisualPuzzles | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/VisualPuzzles) | 41:03 | [link](https://www.bilibili.com/video/BV16kL7zrEdq) |
-| 926 | ToolHop：查询驱动的多跳工具使用评测集 | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/ToolHop) | 46:43 | [link](https://www.bilibili.com/video/BV1CjExzGE7s) |
-| 927 | 1. MMDetection3D 介绍及安装配置 | - | AI 论文精读 | - | - | 5:37 | [link](https://www.bilibili.com/video/BV1aG4y197is) |
-| 928 | 2. 使用 MMDet3D 预训练模型在点云和数据图像上推理 | - | AI 论文精读 | - | - | 15:49 | [link](https://www.bilibili.com/video/BV1E44y1Q7qi) |
-| 929 | 3. KITTI 数据集介绍及 MMDet3D 坐标系规范 | - | AI 论文精读 | - | - | 26:19 | [link](https://www.bilibili.com/video/BV1vv4y1d7br) |
-| 930 | 4. 使用 MMDetection3D 训练 | - | AI 论文精读 | - | - | 15:06 | [link](https://www.bilibili.com/video/BV11G4y157ux) |
-| 931 | 5. PointPillars 和 KittiDataset 的配置文件解读 | - | AI 论文精读 | - | - | 16:02 | [link](https://www.bilibili.com/video/BV14M41167Ct) |
-| 932 | 6. PointPillars 和 KittiDataset 的代码解读 | - | AI 论文精读 | - | - | 32:37 | [link](https://www.bilibili.com/video/BV1Xe4y1g7Xv) |
-| 933 | 大语言模型原理与书生大模型提示词工程实践 | - | AI 论文精读 | - | [aicarrier.feishu.cn](https://aicarrier.feishu.cn/wiki/SEfTwYCgAiDEkskx7yocvzuhnph) [aicarrier.feishu.cn](https://aicarrier.feishu.cn/wiki/DK9Wwf1DRiidwgk1FPDcvj6Bnxq) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz) | 39:46 | [link](https://www.bilibili.com/video/BV1vUjYz2Eys) |
-| 934 | 玩转书生大模型 API 之 Browse Use实践 | - | AI 论文精读 | - | [aicarrier.feishu.cn](https://aicarrier.feishu.cn/wiki/XhoNw2qzPir8qmkVNYyc5YAunrc) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz) | 1:29 | [link](https://www.bilibili.com/video/BV1SPGnzWEN4) |
-| 935 | InternLM 微调论文分类实践 | - | AI 论文精读 | - | [aicarrier.feishu.cn](https://aicarrier.feishu.cn/wiki/QdhEwaIINietCak3Y1dcdbLJn3e) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz) | 15:10 | [link](https://www.bilibili.com/video/BV1DyGuz4Ewp) |
-| 936 | GraphGen 训练数据合成框架 | - | AI 论文精读 | - | [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set) | 4:49 | [link](https://www.bilibili.com/video/BV1EA31zMEQk) |
-| 937 | CAMEL 书生多智能体系统实践 | - | AI 论文精读 | - | - | 41:23 | [link](https://www.bilibili.com/video/BV15A3EzWEPv) |
-| 938 | 国产开源、免费的 AI 图像与视频创作平台MagicMaker，新手教程来啦！ | - | AI 论文精读 | - | [magicmaker.openxlab.org.cn](https://magicmaker.openxlab.org.cn/) | 2:05 | [link](https://www.bilibili.com/video/BV1w2421A7YP) |
-| 939 | “龙在城隍庙吃小笼包”MagicMaker亮相东方卫视春晚特别直播节目，科技魔法点亮传统舞台 | - | AI 论文精读 | - | [magicmaker.openxlab.org.cn](https://magicmaker.openxlab.org.cn/home) | 0:45 | [link](https://www.bilibili.com/video/BV1TS421A7UR) |
-| 940 | “一个小男生和一个小女生在黄河路‘偷心’”MagicMaker亮相东方卫视春晚特别直播节目，科技魔法点亮传统舞台 | - | AI 论文精读 | - | [magicmaker.openxlab.org.cn](https://magicmaker.openxlab.org.cn/home) | 1:36 | [link](https://www.bilibili.com/video/BV18z421X7ci) |
-| 941 | “龙在东方明珠上盘旋”MagicMaker亮相东方卫视春晚特别直播节目，科技魔法点亮传统舞台 | - | AI 论文精读 | - | [magicmaker.openxlab.org.cn](https://magicmaker.openxlab.org.cn/home) | 1:17 | [link](https://www.bilibili.com/video/BV1VC411s7Fv) |
-| 942 | 社区开放麦#1｜基于关键点的动作识别 | - | AI 论文精读 | - | - | 46:41 | [link](https://www.bilibili.com/video/BV1Yu411k7Be) |
-| 943 | 社区开放麦#2｜CVPR前沿姿态估计论文精讲 | - | AI 论文精读 | - | - | 60:13 | [link](https://www.bilibili.com/video/BV1dS4y187sj) |
-| 944 | 社区开放麦#3｜PyTorch 分布式训练解读 | - | AI 论文精读 | - | - | 66:51 | [link](https://www.bilibili.com/video/BV1Jv4y1K7fv) |
-| 945 | 社区开放麦#4｜手把手带你复现最新自监督算法 | - | AI 论文精读 | - | - | 61:09 | [link](https://www.bilibili.com/video/BV1xt4y1x7sp) |
-| 946 | 社区开放麦#5｜带你探寻可见光之外的世界 | - | AI 论文精读 | - | - | 36:01 | [link](https://www.bilibili.com/video/BV1Ka411n7nP) |
-| 947 | 社区开放麦#6｜带你了解车速估计技术在自动驾驶领域的应用 | - | AI 论文精读 | - | - | 50:40 | [link](https://www.bilibili.com/video/BV1sY4y1L7Au) |
-| 948 | 社区开放麦#7  MMPose 姿态估计创意 demo 大赛 | - | AI 论文精读 | - | - | 59:49 | [link](https://www.bilibili.com/video/BV1J34y1j7AP) |
-| 949 | 社区开放麦#8 / 迈向真实世界的感知：3D 目标检测 | - | AI 论文精读 | - | - | 69:23 | [link](https://www.bilibili.com/video/BV1hg41197HX) |
-| 950 | 社区开放麦#9 / OpenMMLab 模块化设计背后的功臣 | - | AI 论文精读 | - | - | 59:46 | [link](https://www.bilibili.com/video/BV19Z4y1q7Q5) |
-| 951 | 社区开放麦#10 / MMDeploy ncnn 部署实战 | - | AI 论文精读 | - | - | 47:44 | [link](https://www.bilibili.com/video/BV1gS4y1p7gm) |
-| 952 | 社区开放麦#11 / BEV感知：下一代自动驾驶感知算法新范式 | - | AI 论文精读 | - | - | 57:01 | [link](https://www.bilibili.com/video/BV12t4y1t7Lq) |
-| 953 | 社区开放麦#12 / 视觉有向目标的高精度检测 | - | AI 论文精读 | - | - | 63:46 | [link](https://www.bilibili.com/video/BV1Wr4y1E7Qr) |
-| 954 | 社区开放麦#13 / 手势识别算法综述与正确打开方式 | - | AI 论文精读 | - | - | 57:48 | [link](https://www.bilibili.com/video/BV1ar4y1j7aN) |
-| 955 | 社区开放麦#14 / 从时间序列角度破解姿态估计中的两大问题 | - | AI 论文精读 | - | - | 94:16 | [link](https://www.bilibili.com/video/BV1aB4y1k7Ph) |
-| 956 | 社区开放麦#15/  突破纯视觉 3D 检测深度估计瓶颈 | - | AI 论文精读 | - | - | 59:31 | [link](https://www.bilibili.com/video/BV1dg41117ba) |
-| 957 | 社区开放麦#16 / 稀疏卷积的高性能部署 | - | AI 论文精读 | - | - | 58:07 | [link](https://www.bilibili.com/video/BV1gV4y177F6) |
-| 958 | 社区开放麦#17 / 像素级别的多目标跟踪方案 | - | AI 论文精读 | - | - | 32:41 | [link](https://www.bilibili.com/video/BV1814y1b7Za) |
-| 959 | 社区开放麦#18 / 半监督学习在 3D 目标检测的最新进展 | - | AI 论文精读 | - | - | 45:01 | [link](https://www.bilibili.com/video/BV1mT411c7kB) |
-| 960 | 社区开放麦#19 / 对 AI 炼丹师友好的模型部署探索 | - | AI 论文精读 | - | - | 84:31 | [link](https://www.bilibili.com/video/BV12V4y1H7XQ) |
-| 961 | 社区开放麦#20 / 简单有效的目标跟踪方案 | - | AI 论文精读 | - | - | 50:46 | [link](https://www.bilibili.com/video/BV1wd4y1X7j5) |
-| 962 | 社区开放麦#21 / 当钩子编程遇到深度学习：Runner & Hook | - | AI 论文精读 | - | - | 59:58 | [link](https://www.bilibili.com/video/BV1pe4y1C7n1) |
-| 963 | 社区开放麦#22 /  姿态估计领域的前沿进展 | - | AI 论文精读 | - | - | 77:13 | [link](https://www.bilibili.com/video/BV1HV4y1M7dG) |
-| 964 | 社区开放麦#23 / MMYOLO 圆桌会 | - | AI 论文精读 | - | - | 51:38 | [link](https://www.bilibili.com/video/BV1r24y1R7D1) |
-| 965 | 社区开放麦#24 / 释放数据潜力，打造 AI 加速引擎 | - | AI 论文精读 | - | - | 53:51 | [link](https://www.bilibili.com/video/BV1p8411s7W6) |
-| 966 | AI奇妙夜第一期 | - | AI 论文精读 | - | - | 76:09 | [link](https://www.bilibili.com/video/BV1P8411e7Cb) |
-| 967 | 社区开放麦#27 / 部署神器Halide, 实现高性能算法 | - | AI 论文精读 | - | - | 46:06 | [link](https://www.bilibili.com/video/BV1Tg411B7ch) |
-| 968 | AI 奇妙夜#2 / 子豪兄分享人工智能学习心法 | - | AI 论文精读 | - | - | 82:07 | [link](https://www.bilibili.com/video/BV1WG4y1f7yX) |
-| 969 | 社区开放麦#29 / ECCV Oral / 用于场景文本检测识别的弱监督视觉语言预训练方法 | - | AI 论文精读 | - | - | 53:31 | [link](https://www.bilibili.com/video/BV16G4y1x7es) |
-| 970 | 社区开放麦#30 / 入门剪枝利器 MMRazor，迈出模型压缩第一步 | - | AI 论文精读 | - | - | 53:24 | [link](https://www.bilibili.com/video/BV1wG411u7SP) |
-| 971 | 社区开放麦#31 / 异构检测器间知识蒸馏算法 PKD / NeurIPS22 | - | AI 论文精读 | - | - | 55:56 | [link](https://www.bilibili.com/video/BV1z24y1k7iu) |
-| 972 | 社区开放麦#32 / ONNX 新特性和最佳实践介绍 | - | AI 论文精读 | - | - | 66:28 | [link](https://www.bilibili.com/video/BV1LG411K7ah) |
-| 973 | 社区开放麦#33 / 详解 ACCV22 大规模细粒度图像分类夺冠方案 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup/tree/dev-1.x/projects/fgia_accv2022_1st) [github.com](https://github.com/open-mmlab/mmclassification/tree/dev-1.x/projects/fgia_accv2022_1st) | 36:03 | [link](https://www.bilibili.com/video/BV13M411S7b5) |
-| 974 | 社区开放麦#34 / 突破 AI 推理性能瓶颈，神经网络量化的方法与实践 | - | AI 论文精读 | - | - | 64:09 | [link](https://www.bilibili.com/video/BV128411n7yN) |
-| 975 | AI 奇妙夜#3 / 大规模多模态预训练最新研究进展 | - | AI 论文精读 | - | - | 53:10 | [link](https://www.bilibili.com/video/BV1J14y1A7SE) |
-| 976 | 社区开放麦#36 多模态场景下的高性能 Embedding 计算服务 | - | AI 论文精读 | - | - | 52:10 | [link](https://www.bilibili.com/video/BV1ET411m7gu) |
-| 977 | 社区开放麦#37 / 牛津大学vgg组博士：提高遮挡检测下的目标检测效果 | - | AI 论文精读 | - | - | 55:18 | [link](https://www.bilibili.com/video/BV1NA41167kN) |
-| 978 | 社区开放麦#38 目标检测新范式！DETR 系列算法解读 | - | AI 论文精读 | - | - | 123:27 | [link](https://www.bilibili.com/video/BV17x4y1w7ZK) |
-| 979 | 弱监督有向目标检测 / 杨学 | - | AI 论文精读 | - | - | 64:14 | [link](https://www.bilibili.com/video/BV1GD4y1g7s8) |
-| 980 | 社区开放麦#41 / 视觉大模型设计新范式 | - | AI 论文精读 | - | - | 66:15 | [link](https://www.bilibili.com/video/BV1zs4y15754) |
-| 981 | AI 奇妙夜#4 / 文字识别：从数据趋动到模型自监督 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmocr) | 66:35 | [link](https://www.bilibili.com/video/BV1Zb41197V4) |
-| 982 | 社区开放麦#42 / 面向自动驾驶场景的纯视觉三维语义占有预测 | - | AI 论文精读 | - | - | 70:13 | [link](https://www.bilibili.com/video/BV1P54y1T7vS) |
-| 983 | 社区开放麦#43 / 高精度实例分割 PatchDCT | - | AI 论文精读 | - | - | 22:03 | [link](https://www.bilibili.com/video/BV1Sx4y1w7JK) |
-| 984 | AI奇妙夜#5 / “视觉与语言”跨模态智能及应用 | - | AI 论文精读 | - | - | 60:59 | [link](https://www.bilibili.com/video/BV1Y84y1g7nP) |
-| 985 | CVPR 2023 有向目标检测角度预测新方法 — 相移编码 / 社区开放麦#45 | - | AI 论文精读 | - | - | 41:41 | [link](https://www.bilibili.com/video/BV1Cv4y1n72h) |
-| 986 | 业界可用的高性能的姿态估计模型能有多快？ / 社区开放麦#46 | - | AI 论文精读 | - | - | 87:37 | [link](https://www.bilibili.com/video/BV1Wc411p7HT) |
-| 987 | CVPR2023 首个大规模全场景人体数据集 Human-Art / 社区开放麦#47 | - | AI 论文精读 | - | - | 59:00 | [link](https://www.bilibili.com/video/BV1Hs4y1d7bJ) |
-| 988 | MOSS：如何打造对话式语言模型 / 社区开放麦#48 | - | AI 论文精读 | - | - | 65:19 | [link](https://www.bilibili.com/video/BV1fa4y1V7xG) |
-| 989 | 超大规模视觉通用感知模型-代季峰教授 / AI奇妙夜#6 | - | AI 论文精读 | - | - | 50:12 | [link](https://www.bilibili.com/video/BV1dM411g7Jn) |
-| 990 | 视频理解基础模型及下游应用-王利民教授 / AI奇妙夜#7 | - | AI 论文精读 | - | - | 60:43 | [link](https://www.bilibili.com/video/BV1rz4y1t7b7) |
-| 991 | ICLR Spotlight / 在卷积网络上做BERT式预训练 | - | AI 论文精读 | - | - | 56:44 | [link](https://www.bilibili.com/video/BV11s4y1M7qL) |
-| 992 | HumanBench：迈向以人为中心的通才模型 | - | AI 论文精读 | - | - | 45:54 | [link](https://www.bilibili.com/video/BV1Q24y1N72o) |
-| 993 | 低成本微调垂直领域专属 ChatGPT | - | AI 论文精读 | - | - | 67:12 | [link](https://www.bilibili.com/video/BV1Pz4y1q7yA) |
-| 994 | 自动驾驶场景中的半监督点云分割 | - | AI 论文精读 | - | - | 63:23 | [link](https://www.bilibili.com/video/BV11u4y1d7S2) |
-| 995 | 基于 Visual Transformer 的分割模型综述 | - | AI 论文精读 | - | - | 62:06 | [link](https://www.bilibili.com/video/BV1tc411M7DC) |
-| 996 | AI 2.0：突破性技术推动智能制造的应用创新 | - | AI 论文精读 | - | - | 55:11 | [link](https://www.bilibili.com/video/BV1ch4y1M7Re) |
-| 997 | 基于 SAM 大模型的实例分割研究 —— RSPrompter | - | AI 论文精读 | - | - | 52:55 | [link](https://www.bilibili.com/video/BV1J94y1i7bB) |
-| 998 | 开放检测视觉场景理解 / 社区开放麦 | - | AI 论文精读 | - | - | 67:01 | [link](https://www.bilibili.com/video/BV1u14y1R7mn) |
-| 999 | 运用 SAM 模型分割任意点云 | - | AI 论文精读 | - | - | 76:19 | [link](https://www.bilibili.com/video/BV1gm4y1j7M2) |
-| 1000 | MMBench：基于ChatGPT的全方位多模能力评测体系 | - | AI 论文精读 | - | [opencompass.org.cn](https://opencompass.org.cn/MMBench) [opencompass.org.cn](https://opencompass.org.cn/omni-rank) | 42:30 | [link](https://www.bilibili.com/video/BV16z4y1x7qG) |
-| 1001 | 迈向更强的端到端多人姿态估计 | - | AI 论文精读 | - | - | 65:30 | [link](https://www.bilibili.com/video/BV1fj41197R9) |
-| 1002 | SAM 时代，图像/视频分割将何去何从？ | - | AI 论文精读 | - | [openxlab.org.cn](https://openxlab.org.cn/apps/detail/keleiwhu/sam-hq) | 67:34 | [link](https://www.bilibili.com/video/BV1ZP41147xQ) |
-| 1003 | MFF：简单高效的多级特征融合自监督方法 / ICCV 2023 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpretrain/tree/dev) [readpaper.com](https://readpaper.com/paper/4784261971549618177?channel=OpenMMlab) | 39:03 | [link](https://www.bilibili.com/video/BV1q94y1z7Xe) |
-| 1004 | 更好的人体姿态，更好的生成图像 | - | AI 论文精读 | [2307.15880](https://arxiv.org/abs/2307.15880) | [yzd-v.github.io](https://yzd-v.github.io/page/) [github.com](https://github.com/IDEA-Research/DWPose) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/mmpose/RTMPose) | 33:05 | [link](https://www.bilibili.com/video/BV1rw411Q7t6) |
-| 1005 | 基于大规模多模态扩散模型的文本到视频生成 | - | AI 论文精读 | [2212.09478](https://arxiv.org/abs/2212.09478) | [github.com](https://github.com/researchmm/MM-Diffusion) [github.com](https://github.com/daooshee/HD-VG-130M) | 70:46 | [link](https://www.bilibili.com/video/BV1BP411h7oQ) |
-| 1006 | 多模态任务终结者：Meta-Transformer | - | AI 论文精读 | - | [readpaper.com](https://readpaper.com/paper/1880723763752826112?channel=OpenMMLab) | 59:30 | [link](https://www.bilibili.com/video/BV1Bu4y1y714) |
-| 1007 | 迈向更强的开集目标检测-From Detection to Grounding | - | AI 论文精读 | - | [readpaper.com](https://readpaper.com/paper/4731752776334327809?channel=OpenMMlab) | 57:19 | [link](https://www.bilibili.com/video/BV1Mk4y1F7cp) |
-| 1008 | 如何基于大模型构建智能体？多机构百页综述从交互角度详解 AI Agent！ | - | AI 论文精读 | - | - | 70:51 | [link](https://www.bilibili.com/video/BV1884y1U7CR) |
-| 1009 | 你的3D感知模型够鲁棒吗？Robo3D告诉你答案！ | - | AI 论文精读 | [2303.17597](https://arxiv.org/abs/2303.17597) | - | 69:08 | [link](https://www.bilibili.com/video/BV1nu411u7W6) |
-| 1010 | 如何高效微调大模型？技术原理与最佳实践揭秘！ | - | AI 论文精读 | - | [github.com](https://github.com/liguodongiot/llm-action/tree/main/train/peft) | 86:20 | [link](https://www.bilibili.com/video/BV1qw411c7Hd) |
-| 1011 | 大模型时代通用检测趋势解读及MMDetection未来展望 | - | AI 论文精读 | - | - | 82:24 | [link](https://www.bilibili.com/video/BV1o94y1L7fg) |
-| 1012 | CVPR23 / 3D Occupancy 预测冠军方案：FB-OCC | - | AI 论文精读 | - | - | 52:45 | [link](https://www.bilibili.com/video/BV1PX4y1e7zz) |
-| 1013 | 多模态 Agents：用大模型语言模型串联多模态专家 | - | AI 论文精读 | - | - | 39:48 | [link](https://www.bilibili.com/video/BV1mM411X7Zn) |
-| 1014 | 探索未知：LLM Agent 应用开发的全新时代 | - | AI 论文精读 | - | [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/622947810) [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/629589593) [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/633033220) | 67:39 | [link](https://www.bilibili.com/video/BV1W84y197qq) |
-| 1015 | AI时代数据应用的全链路工厂- Chat2DB | - | AI 论文精读 | - | [sqlgpt.cn](https://sqlgpt.cn/zh) [github.com](https://github.com/chat2db/Chat2DB/) | 35:53 | [link](https://www.bilibili.com/video/BV1re411m7p3) |
-| 1016 | 语音与音频生成 Amphion揭秘霉霉如何演唱《稻香》 | - | AI 论文精读 | [2312.09911](https://arxiv.org/abs/2312.09911) | [github.com](https://github.com/open-mmlab/Amphion) | 59:55 | [link](https://www.bilibili.com/video/BV1AV411R7SS) |
-| 1017 | RTMPose 家族史诗级更新！多人、全身一网打尽 | - | AI 论文精读 | [2312.07526](https://arxiv.org/abs/2312.07526) | [github.com](https://github.com/open-mmlab/mmpose/tree/main/projects/rtmo) | 80:21 | [link](https://www.bilibili.com/video/BV1P5411v7tz) |
-| 1018 | 清华提出首个面向无监督和半监督新意图发现的文本聚类框架USNID | - | AI 论文精读 | [2304.07699](https://arxiv.org/abs/2304.07699) | [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/10349963) [github.com](https://github.com/thuiar/TEXTOIR) | 69:12 | [link](https://www.bilibili.com/video/BV1464y1w73f) |
-| 1019 | Beyond Segmentation Anything，超越SAM | - | AI 论文精读 | [2312.06660](https://arxiv.org/abs/2312.06660) | [github.com](https://github.com/chongzhou96/EdgeSAM) [huggingface.co](https://huggingface.co/spaces/chongzhou/EdgeSAM) [github.com](https://github.com/HarborYuan/ovsam) | 68:50 | [link](https://www.bilibili.com/video/BV1xC411r7qq) |
-| 1020 | Sora 夜谈之 Video Diffusion 综述 | - | AI 论文精读 | - | [github.com](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) | 90:09 | [link](https://www.bilibili.com/video/BV1cJ4m1e7sQ) |
-| 1021 | 新一代换脸神器 InstantID：高保真人像秒级生成 | - | AI 论文精读 | [2401.07519](https://arxiv.org/abs/2401.07519) | [github.com](https://github.com/InstantID/InstantID) [instantid.github.io](https://instantid.github.io/) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/InstantX/InstantID) | 76:56 | [link](https://www.bilibili.com/video/BV1HH4y177T5) |
-| 1022 | CVPR 2024 - 具身智能中的多模态三维感知思考 | - | AI 论文精读 | [2312.16170](https://arxiv.org/abs/2312.16170) | [tai-wang.github.io](http://tai-wang.github.io/embodiedscan) [github.com](https://github.com/OpenRobotLab/EmbodiedScan) [opendrivelab.com](https://opendrivelab.com/challenge2024/#multiview_3d_visual_grounding) | 51:26 | [link](https://www.bilibili.com/video/BV1nt421V7UY) |
-| 1023 | PK 周杰伦，全能音乐创作大模型 SongComposer 作词作曲令人惊叹 | - | AI 论文精读 | [2402.17645](https://arxiv.org/abs/2402.17645) | [pjlab-songcomposer.github.io](https://pjlab-songcomposer.github.io/) | 66:09 | [link](https://www.bilibili.com/video/BV1bw4m1d7dK) |
-| 1024 | Stable Diffusion 3 论文技术解析，架构细节大揭秘！ | - | AI 论文精读 | - | [stabilityai-public-packages.s3.us-west-2.amazonaws.com](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf) | 58:15 | [link](https://www.bilibili.com/video/BV1Ni421d7ud) |
-| 1025 | 无需训练的 Stable Diffusion 视频编辑方法 | - | AI 论文精读 | [2306.07954](https://arxiv.org/abs/2306.07954) | [github.com](https://github.com/williamyang1991/Rerender_A_Video) | 56:49 | [link](https://www.bilibili.com/video/BV12w4m1R75t) |
-| 1026 | Latte 专场: 深度解读视频生成与训练技术 | - | AI 论文精读 | - | [github.com](https://github.com/Vchitect) [wyhsirius.github.io](https://wyhsirius.github.io/) [github.com](https://github.com/InternLM/xtuner) | 120:08 | [link](https://www.bilibili.com/video/BV14F4m1K7Wz) |
-| 1027 | 微软研究院谭旭带来零样本 TTS 模型 NaturalSpeech 3 | - | AI 论文精读 | - | [speechresearch.github.io](https://speechresearch.github.io/naturalspeech3/) [huggingface.co](https://huggingface.co/spaces/amphion/naturalspeech3_facodec) | 62:41 | [link](https://www.bilibili.com/video/BV1tm421s7B6) |
-| 1028 | 零样本语音生成大模型与Amphion实践 | - | AI 论文精读 | [2312.09911](https://arxiv.org/abs/2312.09911) | [github.com](https://github.com/open-mmlab/Amphion) | 67:19 | [link](https://www.bilibili.com/video/BV18C41177JA) |
-| 1029 | 多模态大模型的技术实践与思考 | - | AI 论文精读 | - | - | 65:53 | [link](https://www.bilibili.com/video/BV17n4y1d7wp) |
-| 1030 | 当大模型遇上心理咨询：基于心理咨询报告的对话重构和评测框架CPsyCoun | - | AI 论文精读 | - | - | 54:02 | [link](https://www.bilibili.com/video/BV1vJ4m1g7G4) |
-| 1031 | ACL 24 论文分享（东北大学信息检索小组场） | - | AI 论文精读 | - | - | 73:27 | [link](https://www.bilibili.com/video/BV144421Q7ir) |
-| 1032 | SD-Eval新基准，让语音交互大模型情智兼备 | - | AI 论文精读 | - | - | 47:56 | [link](https://www.bilibili.com/video/BV16E421A7wU) |
-| 1033 | 魔搭社区-浦语模型和工具实战 | - | AI 论文精读 | - | [modelscope.cn](https://www.modelscope.cn/studios/Shanghai_AI_Laboratory/MindSearch) [modelscope.cn](https://modelscope.cn/studios/opencompass/CompassArena) | 70:26 | [link](https://www.bilibili.com/video/BV1zy411i7yp) |
-| 1034 | 开源工具MinerU助力复杂PDF高效解析提取 | - | AI 论文精读 | - | - | 67:06 | [link](https://www.bilibili.com/video/BV15rHSeyEk2) |
-| 1035 | MindSearch：AI 时代的“思考型”智能搜索引擎 | - | AI 论文精读 | - | - | 58:35 | [link](https://www.bilibili.com/video/BV1UHy3YYEHz) |
-| 1036 | MaskGCT：基于掩码生成模型的大规模零样本 TTS 模型 | - | AI 论文精读 | - | - | 82:28 | [link](https://www.bilibili.com/video/BV1LJD1YsEd4) |
-| 1037 | 玩转 MMYOLO 之工具篇（一）：特征图可视化 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) | 17:48 | [link](https://www.bilibili.com/video/BV188411s7o8) |
-| 1038 | 玩转 MMYOLO 之基础篇（一）：配置文件全解读 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 18:33 | [link](https://www.bilibili.com/video/BV1214y157ck) |
-| 1039 | 【MMYOLO】超酷炫 RTMDet 特征图可视化 demo | - | AI 论文精读 | - | - | 0:33 | [link](https://www.bilibili.com/video/BV1je4y1478R) |
-| 1040 | 玩转 MMYOLO 之实用篇（一）: 源码阅读和调试「必备」技巧 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 43:02 | [link](https://www.bilibili.com/video/BV1N14y1V7mB) |
-| 1041 | MMYOLO 社区贡献者经验分享会 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 82:05 | [link](https://www.bilibili.com/video/BV12d4y1r7Nd) |
-| 1042 | 玩转 MMYOLO 之基础篇（二）： 工程文件结构简析 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 12:06 | [link](https://www.bilibili.com/video/BV1LP4y117jS) |
-| 1043 | 玩转 MMYOLO 之实用篇（二）: 10分钟带你换遍主干网络 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 9:07 | [link](https://www.bilibili.com/video/BV1JG4y1d7GC) |
-| 1044 | 玩转 MMYOLO 之工具篇（二）：十分钟轻松掌握大图推理 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 11:34 | [link](https://www.bilibili.com/video/BV1EK411R7Ws) |
-| 1045 | 玩转 MMYOLO 之实用篇（三）：自定义数据集从标注到部署保姆级教程 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 49:30 | [link](https://www.bilibili.com/video/BV1RG4y137i5) |
-| 1046 | 玩转 MMYOLO 之实用篇（四）：顶会第一步 · 模块自定义 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 8:15 | [link](https://www.bilibili.com/video/BV1yd4y1j7VD) |
-| 1047 | 玩转 MMYOLO 之实用篇（五）：训练和测试技巧合集 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 24:29 | [link](https://www.bilibili.com/video/BV1GM4y1U77z) |
-| 1048 | 清华大学导师亲授！3D目标检测超硬核课程新鲜出炉~ | - | AI 论文精读 | - | - | 100:24 | [link](https://www.bilibili.com/video/BV1Sc411K7L1) |
-| 1049 | 人体关键点检测与MMPose | - | AI 论文精读 | - | - | 50:23 | [link](https://www.bilibili.com/video/BV1kk4y1L7Xb) |
-| 1050 | 1. PyTorch 模型部署基础知识 | - | AI 论文精读 | - | - | 41:49 | [link](https://www.bilibili.com/video/BV1Tx4y1F768) |
-| 1051 | 2. 安装配置 MMDeploy 环境 | - | AI 论文精读 | - | - | 10:03 | [link](https://www.bilibili.com/video/BV1yX4y1X7jp) |
-| 1052 | 3. 部署 MMClassification 图像分类模型 | - | AI 论文精读 | - | - | 5:45 | [link](https://www.bilibili.com/video/BV1V84y1J7MT) |
-| 1053 | 4. 部署 MMDetection 目标检测模型 | - | AI 论文精读 | - | - | 2:55 | [link](https://www.bilibili.com/video/BV11R4y1v7L2) |
-| 1054 | 自监督学习与 MMSelfSup | - | AI 论文精读 | - | - | 66:02 | [link](https://www.bilibili.com/video/BV1iu4y1e7tV) |
-| 1055 | Linux 前置基础（基本命令、SSH及端口映射） | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp4/docs/L0/linux) [github.com](https://github.com/InternLM/Tutorial/tree/camp4/docs/L0/linux/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz4) | 15:01 | [link](https://www.bilibili.com/video/BV13U1VYmEUr) |
-| 1056 | Python 前置基础（熟悉断点调试、依赖指定路径安装） | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/Python) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/Python/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzl0python) | 10:34 | [link](https://www.bilibili.com/video/BV1u61jYSExg) |
-| 1057 | Git 前置基础（熟悉常见 Git 命令及GitHub 平台） | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/git) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/git/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz_git) | 14:40 | [link](https://www.bilibili.com/video/BV15MShYkEgg) |
-| 1058 | 玩转Hugging Face/魔搭/魔乐平台(熟悉模型下载上传及应用上传) | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/maas) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/maas/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzl0maas) | 11:04 | [link](https://www.bilibili.com/video/BV1XxStYYEH1) |
-| 1059 | 书生·浦语大模型开源开放体系 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp4/docs/L1/ToolChain) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz_toolchain) [studio.intern-ai.org.cn](https://studio.intern-ai.org.cn/) | 29:01 | [link](https://www.bilibili.com/video/BV1CkSUYGE1v) |
-| 1060 | 玩转书生「多模态对话」与「AI 搜索」产品 | - | AI 论文精读 | - | [internlm.intern-ai.org.cn](https://internlm.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/InternIntro) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/InternIntro/tasks.md) | 4:49 | [link](https://www.bilibili.com/video/BV1ExDQYyEAA) |
-| 1061 | 浦语提示词工程实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/Prompt) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/Prompt/tasks.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzprompt) | 70:53 | [link](https://www.bilibili.com/video/BV1tjS7YfEWJ) |
-| 1062 | 浦语+LlamaIndex 外挂知识库 RAG 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/LlamaIndex/readme_api.md) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/LlamaIndex/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzxtuner) | 55:19 | [link](https://www.bilibili.com/video/BV1YzDJY1E2i) |
-| 1063 | XTuner 微调 InternLM 个人小助手认知实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/XTuner) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/XTuner/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzxtuner) | 23:47 | [link](https://www.bilibili.com/video/BV1G9SJYGEtD) |
-| 1064 | OpenCompass 评测书生大模型实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/Evaluation) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/Evaluation/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzoc) | 23:42 | [link](https://www.bilibili.com/video/BV1dtD4YKENj) |
-| 1065 | Lagent 从零搭建你的 Multi-Agent (书生·浦语 API 版) | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/Agent) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/Agent/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzlagent) | 22:29 | [link](https://www.bilibili.com/video/BV19RzcYaEFy) |
-| 1066 | LMDeploy 量化部署进阶实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/LMDeploy) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/LMDeploy/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz_lmdeploy) | 89:57 | [link](https://www.bilibili.com/video/BV18aUHY3EEG) |
-| 1067 | 多模态大模型发展简述及其微调部署实践(InternVL2为例) | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/InternVL) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/InternVL/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzinternvl) | 23:10 | [link](https://www.bilibili.com/video/BV1nESCYWEnN) |
-| 1068 | InternLM+WasmEdge 部署智能体实践 | - | AI 论文精读 | - | - | 13:52 | [link](https://www.bilibili.com/video/BV1K2rAYeEXG) |
-| 1069 | EgoExolearn跨视角技能学习数据集 | - | AI 论文精读 | - | - | 25:11 | [link](https://www.bilibili.com/video/BV1pT42167pQ) |
-| 1070 | 单阶段多维度模型搜索范式 | - | AI 论文精读 | - | - | 34:25 | [link](https://www.bilibili.com/video/BV1Yb421J7wA) |
-| 1071 | MVBench 多模态视频评测体系 | - | AI 论文精读 | - | - | 28:53 | [link](https://www.bilibili.com/video/BV1ZE4m1R7Tc) |
-| 1072 | 人机协作的视觉生成 | - | AI 论文精读 | - | - | 29:13 | [link](https://www.bilibili.com/video/BV1fZ421N7re) |
-| 1073 | 个性化图像动画生成器，利用文本提示将图像变为奇妙的动画 | - | AI 论文精读 | [2312.13964](https://arxiv.org/abs/2312.13964) | [github.com](https://github.com/open-mmlab/PIA) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/zhangyiming/PiaPia/) | 28:27 | [link](https://www.bilibili.com/video/BV1PE4m197ZM) |
-| 1074 | 基于像素点的拖拽式图像编辑分享 | - | AI 论文精读 | - | [github.com](https://github.com/LPengYang/FreeDrag) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/LPengYang/FreeDrag) | 38:13 | [link](https://www.bilibili.com/video/BV1XH4y1c78r) |
-| 1075 | GenNBV：面向主动三维重建的可泛化最佳视角探索策略 | - | AI 论文精读 | [2402.16174](https://arxiv.org/abs/2402.16174) | [github.com](https://github.com/zjwzcx/GenNBV) | 37:23 | [link](https://www.bilibili.com/video/BV1yy411i7jh) |
-| 1076 | 多模态大模型幻觉成因解释以及基于惩罚回退策略的幻觉缓解方法 | - | AI 论文精读 | [2311.17911](https://arxiv.org/abs/2311.17911) | [github.com](https://github.com/shikiw/OPERA) | 25:13 | [link](https://www.bilibili.com/video/BV1QH4y1c7p3) |
-| 1077 | 中文常识推理基准-CHARM | - | AI 论文精读 | [2403.14112](https://arxiv.org/abs/2403.14112) | [github.com](https://github.com/opendatalab/CHARM) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/CHARM) | 12:23 | [link](https://www.bilibili.com/video/BV1QcmdYiExz) |
-| 1078 | 分享 SALAD-BENCH 数据集与评估方法 | - | AI 论文精读 | - | [github.com](https://github.com/OpenSafetyLab/SALAD-BENCH) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/SALAD-Bench) | 28:19 | [link](https://www.bilibili.com/video/BV1KimoYaExY) |
-| 1079 | 评估大语言模型多轮对话能力的细粒度评测集 | - | AI 论文精读 | - | [aclanthology.org](https://aclanthology.org/2024.acl-long.401/) [github.com](https://github.com/mtbench101) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MT-Bench-101) | 23:11 | [link](https://www.bilibili.com/video/BV1mvmoYAEAv) |
-| 1080 | ConvBench：多轮视觉对话评测基准与能力解耦评测方式 | - | AI 论文精读 | [2406.11833](https://arxiv.org/abs/2406.11833) | [github.com](https://github.com/Liuziyu77/MMDU) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MMDU) | 17:00 | [link](https://www.bilibili.com/video/BV1QbcRevE61) |
-| 1081 | GTA：大模型复杂任务工具调用能力评测 | - | AI 论文精读 | [2407.08713](https://arxiv.org/abs/2407.08713) | [open-compass.github.io](https://open-compass.github.io/GTA) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/GTA) | 17:17 | [link](https://www.bilibili.com/video/BV1cucReJETD) |
-| 1082 | MMDU：高质量多图多轮对话数据集 | - | AI 论文精读 | [2406.11833](https://arxiv.org/abs/2406.11833) | [github.com](https://github.com/Liuziyu77/MMDU) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MMDU) | 15:36 | [link](https://www.bilibili.com/video/BV1HTcReDEhX) |
-| 1083 | MMLongBench-Doc：使用可视化对长上下文文档理解进行基准测试 | - | AI 论文精读 | [2407.01523](https://arxiv.org/abs/2407.01523) | [github.com](https://github.com/mayubo2333/MMLongBench-Doc) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MMLongBench-Doc) | 25:00 | [link](https://www.bilibili.com/video/BV19scReMEdS) |
-| 1084 | 多模态推理的评测以及后训练 | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MMIU) | 17:44 | [link](https://www.bilibili.com/video/BV1C9XrYaEyz) |
-| 1085 | 多模态动态评测（Oral） | - | AI 论文精读 | - | - | 20:41 | [link](https://www.bilibili.com/video/BV1P9XrYYEje) |
-| 1086 | LOKI：基于多模态大模型的合成数据检测基准 | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/LOKI) | 37:35 | [link](https://www.bilibili.com/video/BV1JJXrYdEXi) |
-| 1087 | Sim-CoT 驱动高效隐式思考 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/SIM-CoT) | 28:03 | [link](https://www.bilibili.com/video/BV1VGEC6fErh) |
-| 1088 | 数据分布解读 RL 如何“学新不忘旧” | - | AI 论文精读 | - | - | 24:25 | [link](https://www.bilibili.com/video/BV1afE16NEXf) |
-| 1089 | 数据驱动的大模型长度泛化推理新范式 | - | AI 论文精读 | [2507.13332](https://arxiv.org/abs/2507.13332) | - | 14:15 | [link](https://www.bilibili.com/video/BV1H2TF64Ek9) |
-| 1090 | 利用智能体解锁地球观测的完整图景 | - | AI 论文精读 | [2509.23141](https://arxiv.org/abs/2509.23141) | [opendatalab.github.io](https://opendatalab.github.io/Earth-Agent/) | 13:43 | [link](https://www.bilibili.com/video/BV1LUTj6FE9N) |
-| 1091 | 冗余性解耦的高效长文本偏好优化 | - | AI 论文精读 | - | [openreview.net](https://openreview.net/pdf?id=iiBjaiikJG) [github.com](https://github.com/shs910/SoLoPO) | 30:48 | [link](https://www.bilibili.com/video/BV12uTQ6CEHz) |
-| 1092 | AI科研加速营第1课｜用AI快速看懂一个研究方向 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 17:37 | [link](https://www.bilibili.com/video/BV1jMY163EWE) |
-| 1093 | AI科研加速营第2课｜AI论文工作流：检索、精读与核验 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 12:32 | [link](https://www.bilibili.com/video/BV1tTen6ZEmy) |
-| 1094 | AI科研加速营第3课｜建立可持续更新的研究上下文 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 18:30 | [link](https://www.bilibili.com/video/BV11zec6NE3k) |
-| 1095 | AI科研加速营第4课｜AI辅助实验设计：科学数据与计算一体化实践 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 41:38 | [link](https://www.bilibili.com/video/BV1FTeG6dEQ4) |
-| 1096 | AI科研加速营第5课｜AI辅助论文与课题申请书写作 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 20:59 | [link](https://www.bilibili.com/video/BV1xLe16bE2p) |
-| 1097 | AI科研加速营第6课｜把科研方法沉淀为可复用的Agent Skill | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 17:55 | [link](https://www.bilibili.com/video/BV1TZem6BEQP) |
-| 1098 | AI科研加速营第7课｜通往可扩展、统一的蛋白基础模型之路 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 33:54 | [link](https://www.bilibili.com/video/BV1sHem6AEXD) |
-| 1099 | AI科研加速营第8课｜大模型时代的物质科学研究 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 18:23 | [link](https://www.bilibili.com/video/BV1Vfhv6BEXx) |
-| 1100 | AI科研加速营第9课｜地球科学中的科学智能：从工具的革命到革命的工具 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 24:30 | [link](https://www.bilibili.com/video/BV16RhE6TEmM) |
-| 1101 | OpenMMLab 环境配置 （一） Windows 11 CPU | - | AI 论文精读 | - | [mmsig.openmmlab.com](https://mmsig.openmmlab.com/general/env/win11) | 18:43 | [link](https://www.bilibili.com/video/BV1Bh41157gL) |
-| 1102 | 通用、统一且灵活的开源算法平台 OpenMMLab 2.0 / CVPR 2023 （全英分享） | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab) | 17:28 | [link](https://www.bilibili.com/video/BV1Zg4y1P7LB) |
-| 1103 | 视觉基础模型的探索：MMPreTrain / CVPR 2023 (全英分享) | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpretrain) | 31:56 | [link](https://www.bilibili.com/video/BV11s4y1C7S9) |
-| 1104 | 通用目标检测工具 MMDetection3.0 / CVPR 2023 （全英分享） | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmdetection) | 30:47 | [link](https://www.bilibili.com/video/BV1214y1274j) |
-| 1105 | 图像与视频生成、编辑和增强工具 MMagic / CVPR 2023 （全英分享） | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmagic) | 26:08 | [link](https://www.bilibili.com/video/BV1nX4y1q7DF) |
-| 1106 | 面向人工智能的开放数据平台：OpenDataLab / CVPR 2023 （全英分享） | - | AI 论文精读 | - | - | 12:09 | [link](https://www.bilibili.com/video/BV1Hm4y1a7Xa) |
-| 1107 | 【CVPR-2022】/ Kai Chen -- Overview of OpenMMLab and Recent Updates | - | AI 论文精读 | - | - | 38:09 | [link](https://www.bilibili.com/video/BV1H84y1z7Ce) |
-| 1108 | 【CVPR-2022】/ Chen Change Loy -- Improving Video Super-Resolution | - | AI 论文精读 | - | - | 32:03 | [link](https://www.bilibili.com/video/BV1mP411P7za) |
-| 1109 | 【CVPR-2022】/ Han Hu -- Convergence of Architectures and Learning Methods | - | AI 论文精读 | - | - | 33:38 | [link](https://www.bilibili.com/video/BV1vG411j79R) |
-| 1110 | 【CVPR-2022】/ Hang Zhao -- Vision-centric 3D Perception | - | AI 论文精读 | - | - | 32:42 | [link](https://www.bilibili.com/video/BV1y44y1f72z) |
-| 1111 | 【CVPR-2022】/ Haodong Duan -- Action Understanding in A Human-centric View | - | AI 论文精读 | - | - | 24:33 | [link](https://www.bilibili.com/video/BV1iG4y1p78W) |
-| 1112 | Wenwei Zhang / General Detection with MMDetection | - | AI 论文精读 | - | - | 34:02 | [link](https://www.bilibili.com/video/BV1A8411F7Ti) |
-| 1113 | OpenMMLab：视觉、语言与生成式人工智能开源平台 | - | AI 论文精读 | - | - | 21:25 | [link](https://www.bilibili.com/video/BV1z94y18767) |
-| 1114 | OpenMMLab基础模型研究进展 | - | AI 论文精读 | - | - | 28:52 | [link](https://www.bilibili.com/video/BV1tC4y157hc) |
-| 1115 | OpenDataLab —— 一个面向人工智能的开放数据平台 | - | AI 论文精读 | - | - | 14:37 | [link](https://www.bilibili.com/video/BV1334y1G7RA) |
-| 1116 | MMagic —— 图像与视频生成、编辑及增强工具库 | - | AI 论文精读 | - | - | 21:40 | [link](https://www.bilibili.com/video/BV1P94y187HE) |
-| 1117 | MMDetection：从通用目标检测迈向多模态智能体 | - | AI 论文精读 | - | - | 33:54 | [link](https://www.bilibili.com/video/BV1134y1u7dq) |
-| 1118 | 书生·浦语大模型全链路开源体系 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/InternLM/) [wjx.cn](https://www.wjx.cn/vm/tUX8dEV.aspx?udsid=240962) | 36:24 | [link](https://www.bilibili.com/video/BV1Vx421X72D) |
-| 1119 | 轻松玩转书生·浦语大模型趣味 Demo | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md) [wjx.cn](https://www.wjx.cn/vm/tUX8dEV.aspx?udsid=240962) [github.com](https://github.com/InternLM/InternLM) | 21:15 | [link](https://www.bilibili.com/video/BV1AH4y1H78d) |
-| 1120 | 茴香豆：搭建你的 RAG 智能助理 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/huixiangdou/readme.md) [wjx.cn](https://www.wjx.cn/vm/tUX8dEV.aspx?udsid=240962) [github.com](https://github.com/InternLM/HuixiangDou) | 42:26 | [link](https://www.bilibili.com/video/BV1QA4m1F7t4) |
-| 1121 | XTuner 微调 LLM：1.8B、多模态、Agent | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/xtuner/readme.md) [github.com](https://github.com/InternLM/Tutorial/blob/camp2/xtuner/homework.md) [github.com](https://github.com/InternLM/XTuner) | 72:29 | [link](https://www.bilibili.com/video/BV15m421j78d) |
-| 1122 | LMDeploy 量化部署 LLM-VLM 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/lmdeploy/README.md) [github.com](https://github.com/InternLM/Tutorial/blob/camp2/lmdeploy/homework.md) [github.com](https://github.com/InternLM/LMDeploy) | 52:30 | [link](https://www.bilibili.com/video/BV1tr421x75B) |
-| 1123 | Lagent & AgentLego 智能体应用搭建 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp2/agent) [github.com](https://github.com/InternLM/Tutorial/blob/camp2/agent/homework.md) [github.com](https://github.com/InternLM/Lagent) | 35:40 | [link](https://www.bilibili.com/video/BV1Xt4217728) |
-| 1124 | OpenCompass 大模型评测实战 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/opencompass/readme.md) [github.com](https://github.com/InternLM/Tutorial/blob/camp2/opencompass/homework.md) [github.com](https://github.com/open-compass/opencompass) | 45:36 | [link](https://www.bilibili.com/video/BV1Pm41127jU) |
-| 1125 | 大模型微调数据构造（补充课程） | - | AI 论文精读 | - | - | 38:14 | [link](https://www.bilibili.com/video/BV1Dx4y1z7Ju) |
-| 1126 | 多模态简述 | - | AI 论文精读 | - | - | 46:34 | [link](https://www.bilibili.com/video/BV12E421A76T) |
-| 1127 | LMDeploy 量化部署 InternVL 浦语灵笔实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp2/lmdeploy_vlm) | 7:19 | [link](https://www.bilibili.com/video/BV11m421373q) |
-| 1128 | XTuner 微调 LLaVA 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/xtuner/llava/xtuner_llava.md) | 28:28 | [link](https://www.bilibili.com/video/BV1vZ421M7ig) |
-| 1129 | AI实战营第二期 开营仪式 | - | AI 论文精读 | - | - | 66:24 | [link](https://www.bilibili.com/video/BV1sc411V74M) |
-| 1130 | Github八万star，开源计算机视觉神器OpenMMLab | - | AI 论文精读 | - | [openmmlab.com](https://openmmlab.com) [github.com](https://github.com/open-mmlab) | 27:02 | [link](https://www.bilibili.com/video/BV1js4y1i72P) |
-| 1131 | 深度学习预训练与MMPretrain | - | AI 论文精读 | - | - | 38:07 | [link](https://www.bilibili.com/video/BV1PN411y7C1) |
-| 1132 | 目标检测与MMDetection | - | AI 论文精读 | - | - | 89:59 | [link](https://www.bilibili.com/video/BV1Ak4y1p7W9) |
-| 1133 | MMDetection代码课 | - | AI 论文精读 | - | - | 46:49 | [link](https://www.bilibili.com/video/BV1Tm4y1q7fy) |
-| 1134 | 语义分割与MMSegmentation | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmsegmentation) [github.com](https://github.com/TommyZihao/MMSegmentation_Tutorials) | 37:05 | [link](https://www.bilibili.com/video/BV1gV4y1m74P) |
-| 1135 | 玩转AIGC神器MMagic | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmagic) [github.com](https://github.com/TommyZihao/MMagic_Tutorials) | 31:24 | [link](https://www.bilibili.com/video/BV1gM4y1n7vP) |
-| 1136 | 【OpenMMLab 2.0 系列直播】OpenMMLab 2.0 整体介绍 | - | AI 论文精读 | - | - | 22:15 | [link](https://www.bilibili.com/video/BV1Yd4y1z7bo) |
-| 1137 | 【OpenMMLab 2.0 系列直播】MMEngine & MMCV 介绍 | - | AI 论文精读 | - | - | 82:27 | [link](https://www.bilibili.com/video/BV15B4y1779M) |
-| 1138 | 【OpenMMLab 2.0 系列直播】MMClassification 介绍 | - | AI 论文精读 | - | - | 28:11 | [link](https://www.bilibili.com/video/BV1x24y1R7mD) |
-| 1139 | 【OpenMMLab 2.0 系列直播】MMSelfsup 介绍 | - | AI 论文精读 | - | - | 15:53 | [link](https://www.bilibili.com/video/BV1214y1h7CJ) |
-| 1140 | 【OpenMMLab 2.0 系列直播】MMDetection 介绍 | - | AI 论文精读 | - | - | 31:26 | [link](https://www.bilibili.com/video/BV19G411g7w9) |
-| 1141 | 【OpenMMLab 2.0 系列直播】MMDetection3D 介绍 | - | AI 论文精读 | - | - | 17:32 | [link](https://www.bilibili.com/video/BV1YD4y117w6) |
-| 1142 | 【OpenMMLab 2.0 系列直播】OpenMMLab 社区荣誉体系介绍 | - | AI 论文精读 | - | - | 16:50 | [link](https://www.bilibili.com/video/BV1kB4y1J7u9) |
-| 1143 | 【OpenMMLab 2.0 系列直播】MMSegmentation 介绍 | - | AI 论文精读 | - | - | 42:06 | [link](https://www.bilibili.com/video/BV1F841147JZ) |
-| 1144 | 【OpenMMLab 2.0 系列直播】 MMAction2 介绍 | - | AI 论文精读 | - | - | 18:03 | [link](https://www.bilibili.com/video/BV1V841147Jp) |
-| 1145 | 【OpenMMLab 2.0 系列直播】MMPose 介绍 | - | AI 论文精读 | - | - | 33:39 | [link](https://www.bilibili.com/video/BV11B4y1J7oD) |
-| 1146 | 【OpenMMLab 2.0 系列直播】 MMEditing & MMGeneration 介绍 | - | AI 论文精读 | - | - | 34:12 | [link](https://www.bilibili.com/video/BV1Xd4y1M7zE) |
-| 1147 | 【OpenMMLab 2.0 系列直播】MMOCR 介绍 | - | AI 论文精读 | - | - | 43:42 | [link](https://www.bilibili.com/video/BV1wY4y1K7DZ) |
-| 1148 | 【OpenMMLab 2.0 系列直播】MMRazor 介绍 | - | AI 论文精读 | - | - | 51:11 | [link](https://www.bilibili.com/video/BV1ug411e7Jp) |
-| 1149 | 【OpenMMLab 2.0 系列直播】MMYOLO 介绍 | - | AI 论文精读 | - | - | 26:03 | [link](https://www.bilibili.com/video/BV19e4y1674D) |
-| 1150 | 【OpenMMLab 2.0 系列直播】RTMDet | - | AI 论文精读 | - | - | 36:58 | [link](https://www.bilibili.com/video/BV1e841147GD) |
-| 1151 | 大模型时代下视觉网络的创新设计与拓展 / 热门研究 云际会#1 | - | AI 论文精读 | - | - | 136:51 | [link](https://www.bilibili.com/video/BV18L411m7jU) |
-| 1152 | 多模态大模型的前奏：迈向真实世界的通用感知 / 热门研究云际会#2 | - | AI 论文精读 | - | - | 118:53 | [link](https://www.bilibili.com/video/BV1W24y1c7mB) |
-| 1153 | 探索之路：OCR 领域在大模型浪潮中的创新契机 / 热门研究云际会#3 | - | AI 论文精读 | - | - | 119:15 | [link](https://www.bilibili.com/video/BV1Lh411E787) |
-| 1154 | 多模态扩散模型的革新应用 / 热门研究云际会#4 | - | AI 论文精读 | - | - | 123:44 | [link](https://www.bilibili.com/video/BV1pP411273K) |
-| 1155 | 基于 SiliconCloud 平台使用 MindSearch | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/mindsearch) [mindsearch.netlify.app](https://mindsearch.netlify.app/) [cloud.siliconflow.cn](https://cloud.siliconflow.cn/playground/chat) | 18:13 | [link](https://www.bilibili.com/video/BV163sxeZEPi) |
-| 1156 | AI 实战营开营仪式 | - | AI 论文精读 | - | - | 48:06 | [link](https://www.bilibili.com/video/BV1o3411X7MB) |
-| 1157 | 1 计算机视觉算法基础与OpenMMLab介绍 | - | AI 论文精读 | - | - | 114:53 | [link](https://www.bilibili.com/video/BV1Ty4y1X7X1) |
-| 1158 | 2 计算机视觉之图像分类算法基础 | - | AI 论文精读 | - | - | 91:03 | [link](https://www.bilibili.com/video/BV1js4y1W7CN) |
-| 1159 | 3 图像分类代码实战与超算平台介绍 | - | AI 论文精读 | - | - | 117:34 | [link](https://www.bilibili.com/video/BV1MA411k7NT) |
-| 1160 | 4 目标检测算法基础 | - | AI 论文精读 | - | - | 75:28 | [link](https://www.bilibili.com/video/BV1Ay4y1Q7mC) |
-| 1161 | 5 MMDetection 代码教学 | - | AI 论文精读 | - | - | 134:41 | [link](https://www.bilibili.com/video/BV1Av4y1475i) |
-| 1162 | 6 语义分割算法基础 | - | AI 论文精读 | - | - | 61:09 | [link](https://www.bilibili.com/video/BV1s24y1W7Xa) |
-| 1163 | 7 MMSegmentation 代码教学 | - | AI 论文精读 | - | - | 79:20 | [link](https://www.bilibili.com/video/BV1eT411R7Jq) |
-| 1164 | AI实战营 结营仪式 | - | AI 论文精读 | - | - | 17:33 | [link](https://www.bilibili.com/video/BV1ge4y1c7tY) |
-| 1165 | 书生·浦语大模型全链路开源体系 | - | AI 论文精读 | - | [github.com](https://github.com/internLM/tutorial) | 42:00 | [link](https://www.bilibili.com/video/BV1Rc411b7ns) |
-| 1166 | 轻松玩转书生·浦语大模型趣味Demo | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/helloworld/hello_world.md) | 45:49 | [link](https://www.bilibili.com/video/BV1Ci4y1z72H) |
-| 1167 | 基于 InternLM 和 LangChain 搭建你的知识库 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/tree/main/langchain) | 39:17 | [link](https://www.bilibili.com/video/BV1sT4y1p71V) |
-| 1168 | XTuner 大模型单卡低成本微调实战 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/xtuner/README.md) [github.com](https://github.com/internLM/xtuner) | 94:01 | [link](https://www.bilibili.com/video/BV1yK4y1B75J) |
-| 1169 | XTuner 大模型低成本微调作业讲解——个人小助手认知微调实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/xtuner/self.md) | 15:58 | [link](https://www.bilibili.com/video/BV13t4y1o75X) |
-| 1170 | LMDeploy 大模型量化部署实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/lmdeploy/lmdeploy.md) [github.com](https://github.com/internLM/lmdeploy) | 91:12 | [link](https://www.bilibili.com/video/BV1iW4y1A77P) |
-| 1171 | OpenCompass 大模型评测 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/opencompass/opencompass_tutorial.md) [github.com](https://github.com/open-compass/opencompass) | 51:31 | [link](https://www.bilibili.com/video/BV1Gg4y1U7uc) |
-| 1172 | 01 课程介绍 | - | AI 论文精读 | - | - | 1:57 | [link](https://www.bilibili.com/video/BV16BGbzAEq2) |
-| 1173 | 01 神经网络基础 | - | AI 论文精读 | - | - | 12:59 | [link](https://www.bilibili.com/video/BV1cBGbzPE3T) |
-| 1174 | 02 深度学习的进化 | - | AI 论文精读 | - | - | 12:01 | [link](https://www.bilibili.com/video/BV1cBGbzPEKk) |
-| 1175 | 03 大语言模型 | - | AI 论文精读 | - | - | 8:26 | [link](https://www.bilibili.com/video/BV1cBGbzPEb2) |
-| 1176 | 01 faster-RCNN算法原理 | - | AI 论文精读 | - | - | 8:52 | [link](https://www.bilibili.com/video/BV1rBGbzAEFS) |
-| 1177 | 02 fasterRCNN实战 | - | AI 论文精读 | - | - | 12:41 | [link](https://www.bilibili.com/video/BV16BGbzAEtd) |
-| 1178 | 03 YOLOv11实战 | - | AI 论文精读 | - | - | 5:47 | [link](https://www.bilibili.com/video/BV1cBGbzPEb1) |
-| 1179 | 01 文本情感分类实战_1 | - | AI 论文精读 | - | - | 9:24 | [link](https://www.bilibili.com/video/BV1rBGbzAE5P) |
-| 1180 | 02 文本情感分类实战_2 | - | AI 论文精读 | - | - | 16:55 | [link](https://www.bilibili.com/video/BV1FBGbzPEoQ) |
-| 1181 | 01 大模型预训练基础_1 | - | AI 论文精读 | - | - | 7:39 | [link](https://www.bilibili.com/video/BV16BGbzAEbA) |
-| 1182 | 02 大模型预训练基础_2 | - | AI 论文精读 | - | - | 9:39 | [link](https://www.bilibili.com/video/BV1aRGbzHEmA) |
-| 1183 | 01 数据准备_1 | - | AI 论文精读 | - | - | 9:43 | [link](https://www.bilibili.com/video/BV1XRGbzHECt) |
-| 1184 | 02 数据准备_2 | - | AI 论文精读 | - | - | 11:16 | [link](https://www.bilibili.com/video/BV1YRGbzHEgK) |
-| 1185 | 03 模型结构_1 | - | AI 论文精读 | - | - | 13:19 | [link](https://www.bilibili.com/video/BV1GRGbzpEyR) |
-| 1186 | 04 模型结构_2 | - | AI 论文精读 | - | - | 14:58 | [link](https://www.bilibili.com/video/BV1YRGbzHE5h) |
-| 1187 | 01 预训练任务实现 | - | AI 论文精读 | - | - | 9:10 | [link](https://www.bilibili.com/video/BV1XRGbzHEXj) |
-| 1188 | 02 训练优化_1 | - | AI 论文精读 | - | - | 10:48 | [link](https://www.bilibili.com/video/BV1YRGbzHEWn) |
-| 1189 | 03 训练优化_2 | - | AI 论文精读 | - | - | 11:25 | [link](https://www.bilibili.com/video/BV1aRGbzHEBG) |
-| 1190 | 01 性能评估 | - | AI 论文精读 | - | - | 15:31 | [link](https://www.bilibili.com/video/BV1YRGbzHEcL) |
-| 1191 | 01 课程介绍 | - | AI 论文精读 | - | - | 1:02 | [link](https://www.bilibili.com/video/BV1gMjBzJE1B) |
-| 1192 | 01 大模型微调概述 | - | AI 论文精读 | - | - | 10:23 | [link](https://www.bilibili.com/video/BV1gMjBzJEDw) |
-| 1193 | 01 模型数据收集与处理 | - | AI 论文精读 | - | - | 14:32 | [link](https://www.bilibili.com/video/BV1gMjBzJEP9) |
-| 1194 | 01 数据预处理理论 | - | AI 论文精读 | - | - | 10:54 | [link](https://www.bilibili.com/video/BV1gMjBzJEap) |
-| 1195 | 02 启发式规则 | - | AI 论文精读 | - | - | 15:31 | [link](https://www.bilibili.com/video/BV1gMjBzJEEM) |
-| 1196 | 03 评估模型过滤(1) | - | AI 论文精读 | - | - | 13:30 | [link](https://www.bilibili.com/video/BV1DMjBzJEm9) |
-| 1197 | 04 评估模型过滤(2) | - | AI 论文精读 | - | - | 9:46 | [link](https://www.bilibili.com/video/BV1gMjBzJEPy) |
-| 1198 | 05 完全匹配去重 | - | AI 论文精读 | - | - | 18:28 | [link](https://www.bilibili.com/video/BV1hMjBzJENe) |
-| 1199 | 06 近似匹配去重(1) | - | AI 论文精读 | - | - | 11:18 | [link](https://www.bilibili.com/video/BV18MjBzJEY6) |
-| 1200 | 07 近似匹配去重(2) | - | AI 论文精读 | - | - | 10:22 | [link](https://www.bilibili.com/video/BV1gMjBzJESX) |
-| 1201 | 01 大模型微调工具与主流框架介绍 | - | AI 论文精读 | - | - | 19:17 | [link](https://www.bilibili.com/video/BV1c4jBzTEto) |
-| 1202 | 02 微调框架实战(1) | - | AI 论文精读 | - | - | 11:40 | [link](https://www.bilibili.com/video/BV1c4jBzTEpJ) |
-| 1203 | 03 微调框架实战(2) | - | AI 论文精读 | - | - | 15:23 | [link](https://www.bilibili.com/video/BV1wsjBzBE9p) |
-| 1204 | 01 微调方法(1) | - | AI 论文精读 | - | - | 10:04 | [link](https://www.bilibili.com/video/BV1wsjBzBEGW) |
-| 1205 | 02 微调方法(2) | - | AI 论文精读 | - | - | 12:48 | [link](https://www.bilibili.com/video/BV1wsjBzBEKA) |
-| 1206 | 01 人类对齐 | - | AI 论文精读 | - | - | 9:08 | [link](https://www.bilibili.com/video/BV1x7jBzVEbX) |
-| 1207 | 01 大模型评估与问题解决(1) | - | AI 论文精读 | - | - | 11:09 | [link](https://www.bilibili.com/video/BV1K7jBzVEFv) |
-| 1208 | 02 大模型评估与问题解决(2) | - | AI 论文精读 | - | - | 11:28 | [link](https://www.bilibili.com/video/BV1mLjBzyEAc) |
-| 1209 | 01 法律大模型强化学习实战 | - | AI 论文精读 | - | - | 17:38 | [link](https://www.bilibili.com/video/BV1WnjBz3Eip) |
-| 1210 | 02 法律大模型评估实战(1) | - | AI 论文精读 | - | - | 12:09 | [link](https://www.bilibili.com/video/BV1NnjBz3ETP) |
-| 1211 | 03 法律大模型评估实战(2) | - | AI 论文精读 | - | - | 10:36 | [link](https://www.bilibili.com/video/BV1PnjBz3ELn) |
-| 1212 | 课程介绍 | - | AI 论文精读 | - | - | 1:42 | [link](https://www.bilibili.com/video/BV1SkLtzHEkT) |
-| 1213 | 01 大模型推理挑战 | - | AI 论文精读 | - | - | 4:14 | [link](https://www.bilibili.com/video/BV1SkLtzHEdH) |
-| 1214 | 02 主流推理引擎对比 | - | AI 论文精读 | - | - | 6:08 | [link](https://www.bilibili.com/video/BV1gkLtzpEBa) |
-| 1215 | 03 大模型推理瓶颈分析 | - | AI 论文精读 | - | - | 17:46 | [link](https://www.bilibili.com/video/BV1DkLtzHEpD) |
-| 1216 | 01 vLLM环境搭建 | - | AI 论文精读 | - | - | 5:02 | [link](https://www.bilibili.com/video/BV1SkLtzHEDo) |
-| 1217 | 02 vLLM使用入门 | - | AI 论文精读 | - | - | 11:16 | [link](https://www.bilibili.com/video/BV1SkLtzHE2h) |
-| 1218 | 03 vLLM推理分析 | - | AI 论文精读 | - | - | 3:33 | [link](https://www.bilibili.com/video/BV1DkLtzHEF1) |
-| 1219 | 01 LoRA模型部署及实操 | - | AI 论文精读 | - | - | 18:10 | [link](https://www.bilibili.com/video/BV1gkLtzpEL4) |
-| 1220 | 02 多模态模型部署及实操 | - | AI 论文精读 | - | - | 13:43 | [link](https://www.bilibili.com/video/BV1gkLtzpEkd) |
-| 1221 | 01 vLLM量化模型支持 | - | AI 论文精读 | - | - | 3:44 | [link](https://www.bilibili.com/video/BV18kLtzpEZq) |
-| 1222 | 02 模型量化 | - | AI 论文精读 | - | - | 19:06 | [link](https://www.bilibili.com/video/BV1U1LtzJEWP) |
-| 1223 | 03 KV Cache量化 | - | AI 论文精读 | - | - | 9:04 | [link](https://www.bilibili.com/video/BV1U1LtzJEaX) |
-| 1224 | 01 性能测试指标(1) | - | AI 论文精读 | - | - | 15:43 | [link](https://www.bilibili.com/video/BV1U1LtzJEEB) |
-| 1225 | 02 性能测试指标(2) | - | AI 论文精读 | - | - | 13:16 | [link](https://www.bilibili.com/video/BV1U1LtzJE5V) |
-| 1226 | 03 性能测试工具 | - | AI 论文精读 | - | - | 4:55 | [link](https://www.bilibili.com/video/BV1M1LtznEme) |
-| 1227 | 04 性能分析 | - | AI 论文精读 | - | - | 8:52 | [link](https://www.bilibili.com/video/BV1S1LtznEM8) |
-| 1228 | 01 算子优化 | - | AI 论文精读 | - | - | 11:42 | [link](https://www.bilibili.com/video/BV1t1LtzEE1f) |
-| 1229 | 01 LLM引擎参数(1) | - | AI 论文精读 | - | - | 13:41 | [link](https://www.bilibili.com/video/BV1GjL7z8EZo) |
-| 1230 | 02 LLM引擎参数(2) | - | AI 论文精读 | - | - | 11:11 | [link](https://www.bilibili.com/video/BV19jL7zbEV7) |
-| 1231 | 03 推测解码与PD分离 | - | AI 论文精读 | - | - | 8:55 | [link](https://www.bilibili.com/video/BV1XjL7zbE4o) |
-| 1232 | 01 DeepSeek可视化部署(1) | - | AI 论文精读 | - | - | 13:25 | [link](https://www.bilibili.com/video/BV1wmjjzVEFC) |
-| 1233 | 02 DeepSeek可视化部署(2) | - | AI 论文精读 | - | - | 13:00 | [link](https://www.bilibili.com/video/BV1wmjjzVEFf) |
-| 1234 | 01 RAG本地部署(1) | - | AI 论文精读 | - | - | 16:47 | [link](https://www.bilibili.com/video/BV1A1jjzyELv) |
-| 1235 | 02 RAG本地部署(2) | - | AI 论文精读 | - | - | 20:33 | [link](https://www.bilibili.com/video/BV1w1jjzyEsX) |
-| 1236 | 01 vLLM+Dify构建Agent应用(1) | - | AI 论文精读 | - | - | 17:42 | [link](https://www.bilibili.com/video/BV1p1jjzyEhT) |
-| 1237 | 02 vLLM+Dify构建Agent应用(2) | - | AI 论文精读 | - | - | 13:29 | [link](https://www.bilibili.com/video/BV1C1jjzyEFA) |
-| 1238 | 03 vLLM+Dify构建Agent应用(3) | - | AI 论文精读 | - | - | 16:11 | [link](https://www.bilibili.com/video/BV1H1jjzyE9U) |
-| 1239 | 【AI实操 · 优化篇】01 Triton在PyTorch中的角色 | - | AI 论文精读 | - | - | 32:21 | [link](https://www.bilibili.com/video/BV1ZoRPYQE2K) |
-| 1240 | 【AI实操 · 优化篇】02 内核性能分析工具 | - | AI 论文精读 | - | - | 54:50 | [link](https://www.bilibili.com/video/BV1ZUQ1YtEwP) |
-| 1241 | 【AI实操 · 优化篇】03 Triton编译器及Pass管理器 | - | AI 论文精读 | - | - | 27:35 | [link](https://www.bilibili.com/video/BV1VYQdYJEBb) |
-| 1242 | 【AI实操 · 优化篇】04 Triton算子关键参数优化 | - | AI 论文精读 | - | - | 34:33 | [link](https://www.bilibili.com/video/BV1miotY3E2D) |
-| 1243 | 【AI实操 · 优化篇】05 Triton算子开发 | - | AI 论文精读 | - | - | 53:42 | [link](https://www.bilibili.com/video/BV193fFYkE7P) |
-| 1244 | 【AI实操 · 优化篇】06 Triton访存合并解析 | - | AI 论文精读 | - | - | 33:56 | [link](https://www.bilibili.com/video/BV1j6dRY8Erc) |
-| 1245 | 【AI实操 · 优化篇】07 Triton布局介绍 | - | AI 论文精读 | - | - | 43:48 | [link](https://www.bilibili.com/video/BV1F45HzLEHo) |
-| 1246 | 【AI实操 · 优化篇】08 Triton访存合并优化 | - | AI 论文精读 | - | - | 21:52 | [link](https://www.bilibili.com/video/BV1gzL2zTEq7) |
-| 1247 | 【AI实操 · 优化篇】09 编译优化实践(一)：代数变换 | - | AI 论文精读 | - | - | 23:21 | [link](https://www.bilibili.com/video/BV1UQEjz4EzX) |
-| 1248 | 【AI实操 · 优化篇】10 编译优化实践(二)：冗余去除 | - | AI 论文精读 | - | - | 16:41 | [link](https://www.bilibili.com/video/BV14TEczGE4i) |
-| 1249 | 【AI实操 · 优化篇】11 Triton归约操作解析 | - | AI 论文精读 | - | - | 50:01 | [link](https://www.bilibili.com/video/BV16fj8zGEjD) |
-| 1250 | 【AI实操 · 优化篇】12 Triton MMA操作解析：Tensor Core & MMA指令 | - | AI 论文精读 | - | - | 33:06 | [link](https://www.bilibili.com/video/BV1LnTszhEdY) |
-| 1251 | 【AI实操 · 优化篇】13 Triton MMA操作解析：Pipeline & Prefetch | - | AI 论文精读 | - | - | 35:15 | [link](https://www.bilibili.com/video/BV1vyN1zmEVG) |
-| 1252 | 深度学习模型压缩概述 | - | AI 论文精读 | - | - | 14:25 | [link](https://www.bilibili.com/video/BV1ht4y1P73i) |
-| 1253 | 无数据模型量化论文分享：ZeroQ | - | AI 论文精读 | - | - | 10:23 | [link](https://www.bilibili.com/video/BV1614y1T7FS) |
-| 1254 | 深度学习模型压缩方法（一）：模型蒸馏 | - | AI 论文精读 | - | - | 12:30 | [link](https://www.bilibili.com/video/BV1eb411971p) |
-| 1255 | 深度学习模型压缩方法（二）：剪枝 | - | AI 论文精读 | - | - | 11:21 | [link](https://www.bilibili.com/video/BV1pg4y1J73p) |
-| 1256 | 深度学习模型压缩方法（三）：量化 | - | AI 论文精读 | - | - | 11:14 | [link](https://www.bilibili.com/video/BV1bL411U747) |
-| 1257 | LLVM编译器入门（一）：LLVM整体设计 | - | AI 论文精读 | - | - | 13:40 | [link](https://www.bilibili.com/video/BV18j411B7TF) |
-| 1258 | LLVM编译器入门（二）：Clang前端 | - | AI 论文精读 | - | - | 12:35 | [link](https://www.bilibili.com/video/BV11j411B7XZ) |
-| 1259 | LLVM编译器入门（三）：IR优化 | - | AI 论文精读 | - | - | 14:53 | [link](https://www.bilibili.com/video/BV1fX4y1x79Y) |
-| 1260 | LLVM编译器入门（四）：代码生成 上 | - | AI 论文精读 | - | - | 15:33 | [link](https://www.bilibili.com/video/BV1tN411B71r) |
-| 1261 | LLVM编译器入门（五）：代码生成 下 | - | AI 论文精读 | - | - | 10:08 | [link](https://www.bilibili.com/video/BV1YG411o7AQ) |
-| 1262 | 基础篇：大语言模型推理发展 | - | AI 论文精读 | - | - | 5:42 | [link](https://www.bilibili.com/video/BV1v718BpEsV) |
-| 1263 | 核心篇：vLLM整体架构与请求预处理模块 | - | AI 论文精读 | - | - | 20:04 | [link](https://www.bilibili.com/video/BV1YcywBiEJ1) |
-| 1264 | 核心篇：vLLM 调度器模块 | - | AI 论文精读 | - | - | 19:08 | [link](https://www.bilibili.com/video/BV18tB8BFE1L) |
-| 1265 | 核心篇：vLLM 键值缓存管理器 | - | AI 论文精读 | - | - | 22:26 | [link](https://www.bilibili.com/video/BV1NhFjzTEKe) |
-| 1266 | 【AI论文救星】01 规划论文选题与结构 | - | AI 论文精读 | - | - | 2:29 | [link](https://www.bilibili.com/video/BV1NddtYvEb4) |
-| 1267 | 【AI论文救星】02 高效搜集整理文献 | - | AI 论文精读 | - | - | 2:11 | [link](https://www.bilibili.com/video/BV1FNdbYbE4b) |
-| 1268 | 【AI论文救星】03 可视化数据图表制作 | - | AI 论文精读 | - | - | 2:27 | [link](https://www.bilibili.com/video/BV1n3dgYrEcf) |
-| 1269 | 【AI论文救星】04 辅助写作与论文润色 | - | AI 论文精读 | - | - | 4:36 | [link](https://www.bilibili.com/video/BV1fKdbYoEm4) |
-| 1270 | 【AI论文救星】05 自动排版与文献格式规范 | - | AI 论文精读 | - | - | 1:40 | [link](https://www.bilibili.com/video/BV1PZdtYPEER) |
-| 1271 | 【AI论文救星】06 答辩PPT与讲稿生成 | - | AI 论文精读 | - | - | 3:30 | [link](https://www.bilibili.com/video/BV1kcdbYcEb6) |
-| 1272 | 【AI论文救星】07 毕业答辩问答模拟 | - | AI 论文精读 | - | - | 2:20 | [link](https://www.bilibili.com/video/BV1g6dAYzEiq) |
-| 1273 | 拥抱AI Agent~全网最详细的OpenManus本地部署教程 | - | AI 论文精读 | - | - | 7:45 | [link](https://www.bilibili.com/video/BV1w4XVY7Eou) |
-| 1274 | 突破常规！Julius 借 “交互式分析”，革新 AI 数据 | - | AI 论文精读 | - | - | 4:13 | [link](https://www.bilibili.com/video/BV1c7DfYPEgi) |
-| 1275 | 小白1分钟搞定！全网最详细的Deepseek的神仙级用法 | - | AI 论文精读 | - | - | 4:48 | [link](https://www.bilibili.com/video/BV1jb9iYMEBu) |
-| 1276 | 什么？？？马上开组会了~ PPT 还没做！ | - | AI 论文精读 | - | - | 3:13 | [link](https://www.bilibili.com/video/BV19aDfYXETT) |
-| 1277 | Deepseek+word打造会思考的智能文档 | - | AI 论文精读 | - | - | 5:26 | [link](https://www.bilibili.com/video/BV1ALQvY3E9a) |
-| 1278 | AI+Excel：如何让工作效率原地飞起 | - | AI 论文精读 | - | - | 5:32 | [link](https://www.bilibili.com/video/BV1JCQeYAEw8) |
-| 1279 | TVM简介 | - | AI 论文精读 | - | - | 14:59 | [link](https://www.bilibili.com/video/BV14N4y1c7zq) |
-| 1280 | TVM自动调度算法AutoTVM | - | AI 论文精读 | - | - | 14:46 | [link](https://www.bilibili.com/video/BV1114y1e7FK) |
-| 1281 | ANSOR：为深度学习生成高性能张量程序 | - | AI 论文精读 | - | - | 13:10 | [link](https://www.bilibili.com/video/BV1m14y1Y7LN) |
-| 1282 | TVM 编译流程与中间表示分析（一） | - | AI 论文精读 | - | - | 15:36 | [link](https://www.bilibili.com/video/BV1v3411U7fM) |
-| 1283 | TVM 编译流程与中间表示分析（二） | - | AI 论文精读 | - | - | 12:55 | [link](https://www.bilibili.com/video/BV1624y1v7wx) |
-| 1284 | ANSOR 优化算子代码解读（一） | - | AI 论文精读 | - | - | 12:51 | [link](https://www.bilibili.com/video/BV1ih4y127fX) |
-| 1285 | ANSOR优化算子代码解读（二） | - | AI 论文精读 | - | - | 6:56 | [link](https://www.bilibili.com/video/BV1C44y1c7WL) |
-| 1286 | ANSOR优化算子代码解读（三） | - | AI 论文精读 | - | - | 9:24 | [link](https://www.bilibili.com/video/BV1e94y167Qy) |
-| 1287 | ANSOR优化算子代码解读（四） | - | AI 论文精读 | - | - | 9:16 | [link](https://www.bilibili.com/video/BV1C8411X7BS) |
-| 1288 | TVM的量化框架（一） | - | AI 论文精读 | - | - | 10:37 | [link](https://www.bilibili.com/video/BV1ph4y1U7Dy) |
-| 1289 | TVM的量化框架（二） | - | AI 论文精读 | - | - | 5:44 | [link](https://www.bilibili.com/video/BV1aN4y1R7MY) |
-| 1290 | TVM的量化框架（三） | - | AI 论文精读 | - | - | 7:28 | [link](https://www.bilibili.com/video/BV1ur4y197zj) |
-| 1291 | TVM的量化框架（四） | - | AI 论文精读 | - | - | 10:52 | [link](https://www.bilibili.com/video/BV18w411S7Mh) |
-| 1292 | 自动并行论文分享：FlexFlow | - | AI 论文精读 | - | - | 15:52 | [link](https://www.bilibili.com/video/BV1wg411H78v) |
-| 1293 | 自动并行论文分享：CoCoNet | - | AI 论文精读 | - | - | 18:01 | [link](https://www.bilibili.com/video/BV1Nv4y1j78t) |
-| 1294 | 论文分享：新型注意力算法FlashAttention | - | AI 论文精读 | - | - | 7:24 | [link](https://www.bilibili.com/video/BV1zs4y1J7tb) |
-| 1295 | 自动并行—并行划分 | - | AI 论文精读 | - | - | 8:59 | [link](https://www.bilibili.com/video/BV1wo4y1L7WJ) |
-| 1296 | 数据并行通信优化论文分享：MG-WFBP | - | AI 论文精读 | - | - | 10:50 | [link](https://www.bilibili.com/video/BV1hj411Z7SS) |
-| 1297 | 自动并行论文分享：Merak | - | AI 论文精读 | - | - | 8:58 | [link](https://www.bilibili.com/video/BV1T94y1C7i4) |
-| 1298 | 论文分享：并行程序自动转换 | - | AI 论文精读 | - | - | 13:10 | [link](https://www.bilibili.com/video/BV1sa4y1C7p7) |
-| 1299 | 论文分享：自动并行AvgPipe | - | AI 论文精读 | - | - | 15:21 | [link](https://www.bilibili.com/video/BV1rw41137QG) |
-| 1300 | 论文分享：自动并行AlpaServe | - | AI 论文精读 | - | - | 17:28 | [link](https://www.bilibili.com/video/BV1wc411m7ki) |
-| 1301 | 论文分享：自动并行Alpa | - | AI 论文精读 | - | - | 15:25 | [link](https://www.bilibili.com/video/BV11j41177TQ) |
-| 1302 | 论文分享：高性能计算领域大语言模型HPC-Coder | - | AI 论文精读 | - | - | 12:46 | [link](https://www.bilibili.com/video/BV1e4421c7Gk) |
-| 1303 | 自编教材分享：第一章—程序性能优化的意义（一） | - | AI 论文精读 | - | - | 9:08 | [link](https://www.bilibili.com/video/BV1LL411B7uW) |
-| 1304 | 自编教材分享：第一章—程序性能优化的意义（二） | - | AI 论文精读 | - | - | 6:53 | [link](https://www.bilibili.com/video/BV15g4y1F7QQ) |
-| 1305 | 自编教材分享：第二章—程序性能的度量指标及优化流程（一） | - | AI 论文精读 | - | - | 12:03 | [link](https://www.bilibili.com/video/BV1vu411s7Xw) |
-| 1306 | 自编教材分享：第三章—程序性能的分析和测量（一） | - | AI 论文精读 | - | - | 13:36 | [link](https://www.bilibili.com/video/BV1ZV4y1U7wr) |
-| 1307 | 自编教材分享：第三章—程序性能的分析和测量（二） | - | AI 论文精读 | - | - | 15:50 | [link](https://www.bilibili.com/video/BV11k4y1p7Bw) |
-| 1308 | 自编教材分享：第三章—程序性能的分析和测量（三） | - | AI 论文精读 | - | - | 15:14 | [link](https://www.bilibili.com/video/BV1Wm4y1v7yZ) |
-| 1309 | 自编教材分享：第四章—系统配置优化（一） | - | AI 论文精读 | - | - | 11:31 | [link](https://www.bilibili.com/video/BV1go4y1K72Y) |
-| 1310 | 自编教材分享：第四章—系统配置优化（二） | - | AI 论文精读 | - | - | 9:39 | [link](https://www.bilibili.com/video/BV12o4y1P7kW) |
-| 1311 | 自编教材分享：第五章—编译与运行优化 | - | AI 论文精读 | - | - | 54:05 | [link](https://www.bilibili.com/video/BV1KN4y1L7XT) |
-| 1312 | 自编教材分享：第六章—程序编写优化（一） | - | AI 论文精读 | - | - | 10:11 | [link](https://www.bilibili.com/video/BV1gX4y1q7Ms) |
-| 1313 | 自编教材分享：第六章—程序编写优化（二） | - | AI 论文精读 | - | - | 9:01 | [link](https://www.bilibili.com/video/BV1Aj411S7kJ) |
-| 1314 | 自编教材分享：第六章—程序编写优化（三） | - | AI 论文精读 | - | - | 6:04 | [link](https://www.bilibili.com/video/BV1sg4y1N763) |
-| 1315 | 自编教材分享：第六章—程序编写优化（四） | - | AI 论文精读 | - | - | 9:29 | [link](https://www.bilibili.com/video/BV1rh411A79q) |
-| 1316 | 自编教材分享：第六章—程序编写优化（五） | - | AI 论文精读 | - | - | 8:11 | [link](https://www.bilibili.com/video/BV1mz4y1E7rb) |
-| 1317 | 自编教材分享：第七章—指令级并行（一） | - | AI 论文精读 | - | - | 9:03 | [link](https://www.bilibili.com/video/BV1iV4y1h7wm) |
-| 1318 | 自编教材分享：第七章—指令级并行（二） | - | AI 论文精读 | - | - | 8:14 | [link](https://www.bilibili.com/video/BV1ym4y1E783) |
-| 1319 | 自编教材分享：第七章—数据级并行（一） | - | AI 论文精读 | - | - | 13:28 | [link](https://www.bilibili.com/video/BV1M94y1q7B4) |
-| 1320 | 自编教材分享：第七章—数据级并行（二） | - | AI 论文精读 | - | - | 11:26 | [link](https://www.bilibili.com/video/BV1Wj411R74A) |
-| 1321 | 自编教材分享：第七章—数据级并行（三） | - | AI 论文精读 | - | - | 15:23 | [link](https://www.bilibili.com/video/BV1Kk4y1G77z) |
-| 1322 | 自编教材分享：第八章—访存优化（一） | - | AI 论文精读 | - | - | 7:21 | [link](https://www.bilibili.com/video/BV1yz4y1s7qp) |
-| 1323 | 自编教材分享：第八章—访存优化（二） | - | AI 论文精读 | - | - | 11:08 | [link](https://www.bilibili.com/video/BV1fM4y1H7Ba) |
-| 1324 | 自编教材分享：第八章—访存优化（三） | - | AI 论文精读 | - | - | 10:10 | [link](https://www.bilibili.com/video/BV18m4y1W7fH) |
-| 1325 | 自编教材分享：第八章—访存优化（四） | - | AI 论文精读 | - | - | 8:51 | [link](https://www.bilibili.com/video/BV1Np4y1776Z) |
-| 1326 | 自编教材分享：第八章—访存优化（五） | - | AI 论文精读 | - | - | 6:29 | [link](https://www.bilibili.com/video/BV1gw411D7Bw) |
-| 1327 | 自编教材分享：第八章—访存优化（六） | - | AI 论文精读 | - | - | 8:03 | [link](https://www.bilibili.com/video/BV1cp4y1j7ga) |
-| 1328 | 自编教材分享：第九章—OpenMP编程简介 | - | AI 论文精读 | - | - | 10:55 | [link](https://www.bilibili.com/video/BV1Zw411U7a8) |
-| 1329 | 自编教材分享：第九章—并行区重构 | - | AI 论文精读 | - | - | 9:04 | [link](https://www.bilibili.com/video/BV1eu411A79T) |
-| 1330 | 自编教材分享：第九章—向量化指导命令 | - | AI 论文精读 | - | - | 4:47 | [link](https://www.bilibili.com/video/BV12h4y1Y7vH) |
-| 1331 | 自编教材分享：第九章—避免伪共享 | - | AI 论文精读 | - | - | 7:04 | [link](https://www.bilibili.com/video/BV1Gw411i7rS) |
-| 1332 | 自编教材分享：第九章—负载均衡优化 | - | AI 论文精读 | - | - | 9:45 | [link](https://www.bilibili.com/video/BV1XN4y1o7NQ) |
-| 1333 | 自编教材分享：第九章—避免隐式同步 | - | AI 论文精读 | - | - | 6:34 | [link](https://www.bilibili.com/video/BV19u4y1x7CS) |
-| 1334 | 自编教材分享：第九章—流水并行优化 | - | AI 论文精读 | - | - | 13:24 | [link](https://www.bilibili.com/video/BV1LB4y1Z74v) |
-| 1335 | 自编教材分享：第十章—CUDA程序优化（一） | - | AI 论文精读 | - | - | 12:57 | [link](https://www.bilibili.com/video/BV1pB4y1f7Md) |
-| 1336 | 自编教材分享：第十章—CUDA程序优化（二） | - | AI 论文精读 | - | - | 13:50 | [link](https://www.bilibili.com/video/BV1C94y187iq) |
-| 1337 | 自编教材分享：第十章—CUDA程序优化（三） | - | AI 论文精读 | - | - | 14:50 | [link](https://www.bilibili.com/video/BV1Kw411z7Wd) |
-| 1338 | 自编教材分享：第十章—CUDA程序优化（四） | - | AI 论文精读 | - | - | 9:10 | [link](https://www.bilibili.com/video/BV1G84y1R7Ak) |
-| 1339 | 自编教材分享：第十一章—MPI程序简介 | - | AI 论文精读 | - | - | 7:17 | [link](https://www.bilibili.com/video/BV1cj411a7Sb) |
-| 1340 | 自编教材分享：第十一章—MPI程序简介（二） | - | AI 论文精读 | - | - | 7:08 | [link](https://www.bilibili.com/video/BV1ra4y1m7JP) |
-| 1341 | 自编教材分享：第十一章—数据划分优化 | - | AI 论文精读 | - | - | 12:15 | [link](https://www.bilibili.com/video/BV1Lc411b7Fw) |
-| 1342 | 深度学习的产生与发展 | - | AI 论文精读 | - | - | 13:35 | [link](https://www.bilibili.com/video/BV1AM411P7JG) |
-| 1343 | 深度神经网络的结构 | - | AI 论文精读 | - | - | 10:35 | [link](https://www.bilibili.com/video/BV1bD4y1G7oV) |
-| 1344 | 神经网络的运行机制 | - | AI 论文精读 | - | - | 10:59 | [link](https://www.bilibili.com/video/BV1xs4y1b7nt) |
-| 1345 | CNN-卷积神经网络（一） | - | AI 论文精读 | - | - | 12:51 | [link](https://www.bilibili.com/video/BV1iL411o7iz) |
-| 1346 | CNN-卷积神经网络（二） | - | AI 论文精读 | - | - | 10:54 | [link](https://www.bilibili.com/video/BV1bL411o74W) |
-| 1347 | 【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月16日09点场 | - | AI 论文精读 | - | - | 271:31 | [link](https://www.bilibili.com/video/BV18XYnzVEWa) |
-| 1348 | 【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月16日14点场 | - | AI 论文精读 | - | - | 206:54 | [link](https://www.bilibili.com/video/BV1bXYnzVEQV) |
-| 1349 | 【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月17日08点场 | - | AI 论文精读 | - | - | 234:06 | [link](https://www.bilibili.com/video/BV18XYnzVEJv) |
-| 1350 | 【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月17日13点场 | - | AI 论文精读 | - | - | 323:22 | [link](https://www.bilibili.com/video/BV1wQYWzrEBz) |
-| 1351 | OpenAI triton分享：Triton概述 | - | AI 论文精读 | - | - | 5:24 | [link](https://www.bilibili.com/video/BV1Kr421M7rt) |
-| 1352 | OpenAI triton分享：Triton安装教程 | - | AI 论文精读 | - | - | 5:44 | [link](https://www.bilibili.com/video/BV1b9W8eQEW3) |
-| 1353 | OpenAI triton分享：triton程序编写 | - | AI 论文精读 | - | - | 7:15 | [link](https://www.bilibili.com/video/BV154421S7TE) |
-| 1354 | OpenAI triton分享：triton源码结构 | - | AI 论文精读 | - | - | 8:17 | [link](https://www.bilibili.com/video/BV1SHxWeTEMe) |
-| 1355 | OpenAI triton分享：triton编译流程 | - | AI 论文精读 | - | - | 12:19 | [link](https://www.bilibili.com/video/BV1Di2CYcEba) |
-| 1356 | OpenAI triton分享：triton调试方法及工具（上） | - | AI 论文精读 | - | - | 8:27 | [link](https://www.bilibili.com/video/BV1aY2CYAEhy) |
-| 1357 | OpenAI triton分享：triton调试方法及工具（下） | - | AI 论文精读 | - | - | 6:40 | [link](https://www.bilibili.com/video/BV1m6C1YsEn1) |
-| 1358 | OpenAI triton分享：triton IR 剖析（上） | - | AI 论文精读 | - | - | 12:06 | [link](https://www.bilibili.com/video/BV1EwzyYZELz) |
-| 1359 | OpenAI triton分享：triton IR 剖析（下） | - | AI 论文精读 | - | - | 11:01 | [link](https://www.bilibili.com/video/BV1AHCJYkESY) |
+| 796 | 01 课程介绍 | - | AI 论文精读 | - | - | 1:57 | [link](https://www.bilibili.com/video/BV16BGbzAEq2) |
+| 797 | 01 神经网络基础 | - | AI 论文精读 | - | - | 12:59 | [link](https://www.bilibili.com/video/BV1cBGbzPE3T) |
+| 798 | 02 深度学习的进化 | - | AI 论文精读 | - | - | 12:01 | [link](https://www.bilibili.com/video/BV1cBGbzPEKk) |
+| 799 | 03 大语言模型 | - | AI 论文精读 | - | - | 8:26 | [link](https://www.bilibili.com/video/BV1cBGbzPEb2) |
+| 800 | 01 faster-RCNN算法原理 | - | AI 论文精读 | - | - | 8:52 | [link](https://www.bilibili.com/video/BV1rBGbzAEFS) |
+| 801 | 02 fasterRCNN实战 | - | AI 论文精读 | - | - | 12:41 | [link](https://www.bilibili.com/video/BV16BGbzAEtd) |
+| 802 | 03 YOLOv11实战 | - | AI 论文精读 | - | - | 5:47 | [link](https://www.bilibili.com/video/BV1cBGbzPEb1) |
+| 803 | 01 文本情感分类实战_1 | - | AI 论文精读 | - | - | 9:24 | [link](https://www.bilibili.com/video/BV1rBGbzAE5P) |
+| 804 | 02 文本情感分类实战_2 | - | AI 论文精读 | - | - | 16:55 | [link](https://www.bilibili.com/video/BV1FBGbzPEoQ) |
+| 805 | 01 大模型预训练基础_1 | - | AI 论文精读 | - | - | 7:39 | [link](https://www.bilibili.com/video/BV16BGbzAEbA) |
+| 806 | 02 大模型预训练基础_2 | - | AI 论文精读 | - | - | 9:39 | [link](https://www.bilibili.com/video/BV1aRGbzHEmA) |
+| 807 | 01 数据准备_1 | - | AI 论文精读 | - | - | 9:43 | [link](https://www.bilibili.com/video/BV1XRGbzHECt) |
+| 808 | 02 数据准备_2 | - | AI 论文精读 | - | - | 11:16 | [link](https://www.bilibili.com/video/BV1YRGbzHEgK) |
+| 809 | 03 模型结构_1 | - | AI 论文精读 | - | - | 13:19 | [link](https://www.bilibili.com/video/BV1GRGbzpEyR) |
+| 810 | 04 模型结构_2 | - | AI 论文精读 | - | - | 14:58 | [link](https://www.bilibili.com/video/BV1YRGbzHE5h) |
+| 811 | 01 预训练任务实现 | - | AI 论文精读 | - | - | 9:10 | [link](https://www.bilibili.com/video/BV1XRGbzHEXj) |
+| 812 | 02 训练优化_1 | - | AI 论文精读 | - | - | 10:48 | [link](https://www.bilibili.com/video/BV1YRGbzHEWn) |
+| 813 | 03 训练优化_2 | - | AI 论文精读 | - | - | 11:25 | [link](https://www.bilibili.com/video/BV1aRGbzHEBG) |
+| 814 | 01 性能评估 | - | AI 论文精读 | - | - | 15:31 | [link](https://www.bilibili.com/video/BV1YRGbzHEcL) |
+| 815 | 01 课程介绍 | - | AI 论文精读 | - | - | 1:02 | [link](https://www.bilibili.com/video/BV1gMjBzJE1B) |
+| 816 | 01 大模型微调概述 | - | AI 论文精读 | - | - | 10:23 | [link](https://www.bilibili.com/video/BV1gMjBzJEDw) |
+| 817 | 01 模型数据收集与处理 | - | AI 论文精读 | - | - | 14:32 | [link](https://www.bilibili.com/video/BV1gMjBzJEP9) |
+| 818 | 01 数据预处理理论 | - | AI 论文精读 | - | - | 10:54 | [link](https://www.bilibili.com/video/BV1gMjBzJEap) |
+| 819 | 02 启发式规则 | - | AI 论文精读 | - | - | 15:31 | [link](https://www.bilibili.com/video/BV1gMjBzJEEM) |
+| 820 | 03 评估模型过滤(1) | - | AI 论文精读 | - | - | 13:30 | [link](https://www.bilibili.com/video/BV1DMjBzJEm9) |
+| 821 | 04 评估模型过滤(2) | - | AI 论文精读 | - | - | 9:46 | [link](https://www.bilibili.com/video/BV1gMjBzJEPy) |
+| 822 | 05 完全匹配去重 | - | AI 论文精读 | - | - | 18:28 | [link](https://www.bilibili.com/video/BV1hMjBzJENe) |
+| 823 | 06 近似匹配去重(1) | - | AI 论文精读 | - | - | 11:18 | [link](https://www.bilibili.com/video/BV18MjBzJEY6) |
+| 824 | 07 近似匹配去重(2) | - | AI 论文精读 | - | - | 10:22 | [link](https://www.bilibili.com/video/BV1gMjBzJESX) |
+| 825 | 01 大模型微调工具与主流框架介绍 | - | AI 论文精读 | - | - | 19:17 | [link](https://www.bilibili.com/video/BV1c4jBzTEto) |
+| 826 | 02 微调框架实战(1) | - | AI 论文精读 | - | - | 11:40 | [link](https://www.bilibili.com/video/BV1c4jBzTEpJ) |
+| 827 | 03 微调框架实战(2) | - | AI 论文精读 | - | - | 15:23 | [link](https://www.bilibili.com/video/BV1wsjBzBE9p) |
+| 828 | 01 微调方法(1) | - | AI 论文精读 | - | - | 10:04 | [link](https://www.bilibili.com/video/BV1wsjBzBEGW) |
+| 829 | 02 微调方法(2) | - | AI 论文精读 | - | - | 12:48 | [link](https://www.bilibili.com/video/BV1wsjBzBEKA) |
+| 830 | 01 人类对齐 | - | AI 论文精读 | - | - | 9:08 | [link](https://www.bilibili.com/video/BV1x7jBzVEbX) |
+| 831 | 01 大模型评估与问题解决(1) | - | AI 论文精读 | - | - | 11:09 | [link](https://www.bilibili.com/video/BV1K7jBzVEFv) |
+| 832 | 02 大模型评估与问题解决(2) | - | AI 论文精读 | - | - | 11:28 | [link](https://www.bilibili.com/video/BV1mLjBzyEAc) |
+| 833 | 01 法律大模型强化学习实战 | - | AI 论文精读 | - | - | 17:38 | [link](https://www.bilibili.com/video/BV1WnjBz3Eip) |
+| 834 | 02 法律大模型评估实战(1) | - | AI 论文精读 | - | - | 12:09 | [link](https://www.bilibili.com/video/BV1NnjBz3ETP) |
+| 835 | 03 法律大模型评估实战(2) | - | AI 论文精读 | - | - | 10:36 | [link](https://www.bilibili.com/video/BV1PnjBz3ELn) |
+| 836 | 课程介绍 | - | AI 论文精读 | - | - | 1:42 | [link](https://www.bilibili.com/video/BV1SkLtzHEkT) |
+| 837 | 01 大模型推理挑战 | - | AI 论文精读 | - | - | 4:14 | [link](https://www.bilibili.com/video/BV1SkLtzHEdH) |
+| 838 | 02 主流推理引擎对比 | - | AI 论文精读 | - | - | 6:08 | [link](https://www.bilibili.com/video/BV1gkLtzpEBa) |
+| 839 | 03 大模型推理瓶颈分析 | - | AI 论文精读 | - | - | 17:46 | [link](https://www.bilibili.com/video/BV1DkLtzHEpD) |
+| 840 | 01 vLLM环境搭建 | - | AI 论文精读 | - | - | 5:02 | [link](https://www.bilibili.com/video/BV1SkLtzHEDo) |
+| 841 | 02 vLLM使用入门 | - | AI 论文精读 | - | - | 11:16 | [link](https://www.bilibili.com/video/BV1SkLtzHE2h) |
+| 842 | 03 vLLM推理分析 | - | AI 论文精读 | - | - | 3:33 | [link](https://www.bilibili.com/video/BV1DkLtzHEF1) |
+| 843 | 01 LoRA模型部署及实操 | - | AI 论文精读 | - | - | 18:10 | [link](https://www.bilibili.com/video/BV1gkLtzpEL4) |
+| 844 | 02 多模态模型部署及实操 | - | AI 论文精读 | - | - | 13:43 | [link](https://www.bilibili.com/video/BV1gkLtzpEkd) |
+| 845 | 01 vLLM量化模型支持 | - | AI 论文精读 | - | - | 3:44 | [link](https://www.bilibili.com/video/BV18kLtzpEZq) |
+| 846 | 02 模型量化 | - | AI 论文精读 | - | - | 19:06 | [link](https://www.bilibili.com/video/BV1U1LtzJEWP) |
+| 847 | 03 KV Cache量化 | - | AI 论文精读 | - | - | 9:04 | [link](https://www.bilibili.com/video/BV1U1LtzJEaX) |
+| 848 | 01 性能测试指标(1) | - | AI 论文精读 | - | - | 15:43 | [link](https://www.bilibili.com/video/BV1U1LtzJEEB) |
+| 849 | 02 性能测试指标(2) | - | AI 论文精读 | - | - | 13:16 | [link](https://www.bilibili.com/video/BV1U1LtzJE5V) |
+| 850 | 03 性能测试工具 | - | AI 论文精读 | - | - | 4:55 | [link](https://www.bilibili.com/video/BV1M1LtznEme) |
+| 851 | 04 性能分析 | - | AI 论文精读 | - | - | 8:52 | [link](https://www.bilibili.com/video/BV1S1LtznEM8) |
+| 852 | 01 算子优化 | - | AI 论文精读 | - | - | 11:42 | [link](https://www.bilibili.com/video/BV1t1LtzEE1f) |
+| 853 | 01 LLM引擎参数(1) | - | AI 论文精读 | - | - | 13:41 | [link](https://www.bilibili.com/video/BV1GjL7z8EZo) |
+| 854 | 02 LLM引擎参数(2) | - | AI 论文精读 | - | - | 11:11 | [link](https://www.bilibili.com/video/BV19jL7zbEV7) |
+| 855 | 03 推测解码与PD分离 | - | AI 论文精读 | - | - | 8:55 | [link](https://www.bilibili.com/video/BV1XjL7zbE4o) |
+| 856 | 01 DeepSeek可视化部署(1) | - | AI 论文精读 | - | - | 13:25 | [link](https://www.bilibili.com/video/BV1wmjjzVEFC) |
+| 857 | 02 DeepSeek可视化部署(2) | - | AI 论文精读 | - | - | 13:00 | [link](https://www.bilibili.com/video/BV1wmjjzVEFf) |
+| 858 | 01 RAG本地部署(1) | - | AI 论文精读 | - | - | 16:47 | [link](https://www.bilibili.com/video/BV1A1jjzyELv) |
+| 859 | 02 RAG本地部署(2) | - | AI 论文精读 | - | - | 20:33 | [link](https://www.bilibili.com/video/BV1w1jjzyEsX) |
+| 860 | 01 vLLM+Dify构建Agent应用(1) | - | AI 论文精读 | - | - | 17:42 | [link](https://www.bilibili.com/video/BV1p1jjzyEhT) |
+| 861 | 02 vLLM+Dify构建Agent应用(2) | - | AI 论文精读 | - | - | 13:29 | [link](https://www.bilibili.com/video/BV1C1jjzyEFA) |
+| 862 | 03 vLLM+Dify构建Agent应用(3) | - | AI 论文精读 | - | - | 16:11 | [link](https://www.bilibili.com/video/BV1H1jjzyE9U) |
+| 863 | 【AI实操 · 优化篇】01 Triton在PyTorch中的角色 | - | AI 论文精读 | - | - | 32:21 | [link](https://www.bilibili.com/video/BV1ZoRPYQE2K) |
+| 864 | 【AI实操 · 优化篇】02 内核性能分析工具 | - | AI 论文精读 | - | - | 54:50 | [link](https://www.bilibili.com/video/BV1ZUQ1YtEwP) |
+| 865 | 【AI实操 · 优化篇】03 Triton编译器及Pass管理器 | - | AI 论文精读 | - | - | 27:35 | [link](https://www.bilibili.com/video/BV1VYQdYJEBb) |
+| 866 | 【AI实操 · 优化篇】04 Triton算子关键参数优化 | - | AI 论文精读 | - | - | 34:33 | [link](https://www.bilibili.com/video/BV1miotY3E2D) |
+| 867 | 【AI实操 · 优化篇】05 Triton算子开发 | - | AI 论文精读 | - | - | 53:42 | [link](https://www.bilibili.com/video/BV193fFYkE7P) |
+| 868 | 【AI实操 · 优化篇】06 Triton访存合并解析 | - | AI 论文精读 | - | - | 33:56 | [link](https://www.bilibili.com/video/BV1j6dRY8Erc) |
+| 869 | 【AI实操 · 优化篇】07 Triton布局介绍 | - | AI 论文精读 | - | - | 43:48 | [link](https://www.bilibili.com/video/BV1F45HzLEHo) |
+| 870 | 【AI实操 · 优化篇】08 Triton访存合并优化 | - | AI 论文精读 | - | - | 21:52 | [link](https://www.bilibili.com/video/BV1gzL2zTEq7) |
+| 871 | 【AI实操 · 优化篇】09 编译优化实践(一)：代数变换 | - | AI 论文精读 | - | - | 23:21 | [link](https://www.bilibili.com/video/BV1UQEjz4EzX) |
+| 872 | 【AI实操 · 优化篇】10 编译优化实践(二)：冗余去除 | - | AI 论文精读 | - | - | 16:41 | [link](https://www.bilibili.com/video/BV14TEczGE4i) |
+| 873 | 【AI实操 · 优化篇】11 Triton归约操作解析 | - | AI 论文精读 | - | - | 50:01 | [link](https://www.bilibili.com/video/BV16fj8zGEjD) |
+| 874 | 【AI实操 · 优化篇】12 Triton MMA操作解析：Tensor Core & MMA指令 | - | AI 论文精读 | - | - | 33:06 | [link](https://www.bilibili.com/video/BV1LnTszhEdY) |
+| 875 | 【AI实操 · 优化篇】13 Triton MMA操作解析：Pipeline & Prefetch | - | AI 论文精读 | - | - | 35:15 | [link](https://www.bilibili.com/video/BV1vyN1zmEVG) |
+| 876 | 深度学习模型压缩概述 | - | AI 论文精读 | - | - | 14:25 | [link](https://www.bilibili.com/video/BV1ht4y1P73i) |
+| 877 | 无数据模型量化论文分享：ZeroQ | - | AI 论文精读 | - | - | 10:23 | [link](https://www.bilibili.com/video/BV1614y1T7FS) |
+| 878 | 深度学习模型压缩方法（一）：模型蒸馏 | - | AI 论文精读 | - | - | 12:30 | [link](https://www.bilibili.com/video/BV1eb411971p) |
+| 879 | 深度学习模型压缩方法（二）：剪枝 | - | AI 论文精读 | - | - | 11:21 | [link](https://www.bilibili.com/video/BV1pg4y1J73p) |
+| 880 | 深度学习模型压缩方法（三）：量化 | - | AI 论文精读 | - | - | 11:14 | [link](https://www.bilibili.com/video/BV1bL411U747) |
+| 881 | LLVM编译器入门（一）：LLVM整体设计 | - | AI 论文精读 | - | - | 13:40 | [link](https://www.bilibili.com/video/BV18j411B7TF) |
+| 882 | LLVM编译器入门（二）：Clang前端 | - | AI 论文精读 | - | - | 12:35 | [link](https://www.bilibili.com/video/BV11j411B7XZ) |
+| 883 | LLVM编译器入门（三）：IR优化 | - | AI 论文精读 | - | - | 14:53 | [link](https://www.bilibili.com/video/BV1fX4y1x79Y) |
+| 884 | LLVM编译器入门（四）：代码生成 上 | - | AI 论文精读 | - | - | 15:33 | [link](https://www.bilibili.com/video/BV1tN411B71r) |
+| 885 | LLVM编译器入门（五）：代码生成 下 | - | AI 论文精读 | - | - | 10:08 | [link](https://www.bilibili.com/video/BV1YG411o7AQ) |
+| 886 | 基础篇：大语言模型推理发展 | - | AI 论文精读 | - | - | 5:42 | [link](https://www.bilibili.com/video/BV1v718BpEsV) |
+| 887 | 核心篇：vLLM整体架构与请求预处理模块 | - | AI 论文精读 | - | - | 20:04 | [link](https://www.bilibili.com/video/BV1YcywBiEJ1) |
+| 888 | 核心篇：vLLM 调度器模块 | - | AI 论文精读 | - | - | 19:08 | [link](https://www.bilibili.com/video/BV18tB8BFE1L) |
+| 889 | 核心篇：vLLM 键值缓存管理器 | - | AI 论文精读 | - | - | 22:26 | [link](https://www.bilibili.com/video/BV1NhFjzTEKe) |
+| 890 | 【AI论文救星】01 规划论文选题与结构 | - | AI 论文精读 | - | - | 2:29 | [link](https://www.bilibili.com/video/BV1NddtYvEb4) |
+| 891 | 【AI论文救星】02 高效搜集整理文献 | - | AI 论文精读 | - | - | 2:11 | [link](https://www.bilibili.com/video/BV1FNdbYbE4b) |
+| 892 | 【AI论文救星】03 可视化数据图表制作 | - | AI 论文精读 | - | - | 2:27 | [link](https://www.bilibili.com/video/BV1n3dgYrEcf) |
+| 893 | 【AI论文救星】04 辅助写作与论文润色 | - | AI 论文精读 | - | - | 4:36 | [link](https://www.bilibili.com/video/BV1fKdbYoEm4) |
+| 894 | 【AI论文救星】05 自动排版与文献格式规范 | - | AI 论文精读 | - | - | 1:40 | [link](https://www.bilibili.com/video/BV1PZdtYPEER) |
+| 895 | 【AI论文救星】06 答辩PPT与讲稿生成 | - | AI 论文精读 | - | - | 3:30 | [link](https://www.bilibili.com/video/BV1kcdbYcEb6) |
+| 896 | 【AI论文救星】07 毕业答辩问答模拟 | - | AI 论文精读 | - | - | 2:20 | [link](https://www.bilibili.com/video/BV1g6dAYzEiq) |
+| 897 | 拥抱AI Agent~全网最详细的OpenManus本地部署教程 | - | AI 论文精读 | - | - | 7:45 | [link](https://www.bilibili.com/video/BV1w4XVY7Eou) |
+| 898 | 突破常规！Julius 借 “交互式分析”，革新 AI 数据 | - | AI 论文精读 | - | - | 4:13 | [link](https://www.bilibili.com/video/BV1c7DfYPEgi) |
+| 899 | 小白1分钟搞定！全网最详细的Deepseek的神仙级用法 | - | AI 论文精读 | - | - | 4:48 | [link](https://www.bilibili.com/video/BV1jb9iYMEBu) |
+| 900 | 什么？？？马上开组会了~ PPT 还没做！ | - | AI 论文精读 | - | - | 3:13 | [link](https://www.bilibili.com/video/BV19aDfYXETT) |
+| 901 | Deepseek+word打造会思考的智能文档 | - | AI 论文精读 | - | - | 5:26 | [link](https://www.bilibili.com/video/BV1ALQvY3E9a) |
+| 902 | AI+Excel：如何让工作效率原地飞起 | - | AI 论文精读 | - | - | 5:32 | [link](https://www.bilibili.com/video/BV1JCQeYAEw8) |
+| 903 | TVM简介 | - | AI 论文精读 | - | - | 14:59 | [link](https://www.bilibili.com/video/BV14N4y1c7zq) |
+| 904 | TVM自动调度算法AutoTVM | - | AI 论文精读 | - | - | 14:46 | [link](https://www.bilibili.com/video/BV1114y1e7FK) |
+| 905 | ANSOR：为深度学习生成高性能张量程序 | - | AI 论文精读 | - | - | 13:10 | [link](https://www.bilibili.com/video/BV1m14y1Y7LN) |
+| 906 | TVM 编译流程与中间表示分析（一） | - | AI 论文精读 | - | - | 15:36 | [link](https://www.bilibili.com/video/BV1v3411U7fM) |
+| 907 | TVM 编译流程与中间表示分析（二） | - | AI 论文精读 | - | - | 12:55 | [link](https://www.bilibili.com/video/BV1624y1v7wx) |
+| 908 | ANSOR 优化算子代码解读（一） | - | AI 论文精读 | - | - | 12:51 | [link](https://www.bilibili.com/video/BV1ih4y127fX) |
+| 909 | ANSOR优化算子代码解读（二） | - | AI 论文精读 | - | - | 6:56 | [link](https://www.bilibili.com/video/BV1C44y1c7WL) |
+| 910 | ANSOR优化算子代码解读（三） | - | AI 论文精读 | - | - | 9:24 | [link](https://www.bilibili.com/video/BV1e94y167Qy) |
+| 911 | ANSOR优化算子代码解读（四） | - | AI 论文精读 | - | - | 9:16 | [link](https://www.bilibili.com/video/BV1C8411X7BS) |
+| 912 | TVM的量化框架（一） | - | AI 论文精读 | - | - | 10:37 | [link](https://www.bilibili.com/video/BV1ph4y1U7Dy) |
+| 913 | TVM的量化框架（二） | - | AI 论文精读 | - | - | 5:44 | [link](https://www.bilibili.com/video/BV1aN4y1R7MY) |
+| 914 | TVM的量化框架（三） | - | AI 论文精读 | - | - | 7:28 | [link](https://www.bilibili.com/video/BV1ur4y197zj) |
+| 915 | TVM的量化框架（四） | - | AI 论文精读 | - | - | 10:52 | [link](https://www.bilibili.com/video/BV18w411S7Mh) |
+| 916 | 自动并行论文分享：FlexFlow | - | AI 论文精读 | - | - | 15:52 | [link](https://www.bilibili.com/video/BV1wg411H78v) |
+| 917 | 自动并行论文分享：CoCoNet | - | AI 论文精读 | - | - | 18:01 | [link](https://www.bilibili.com/video/BV1Nv4y1j78t) |
+| 918 | 论文分享：新型注意力算法FlashAttention | - | AI 论文精读 | - | - | 7:24 | [link](https://www.bilibili.com/video/BV1zs4y1J7tb) |
+| 919 | 自动并行—并行划分 | - | AI 论文精读 | - | - | 8:59 | [link](https://www.bilibili.com/video/BV1wo4y1L7WJ) |
+| 920 | 数据并行通信优化论文分享：MG-WFBP | - | AI 论文精读 | - | - | 10:50 | [link](https://www.bilibili.com/video/BV1hj411Z7SS) |
+| 921 | 自动并行论文分享：Merak | - | AI 论文精读 | - | [github.com](https://github.com/HPDL-Group/Merak) [ieeexplore.ieee.org](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10163912) | 8:58 | [link](https://www.bilibili.com/video/BV1T94y1C7i4) |
+| 922 | 论文分享：并行程序自动转换 | - | AI 论文精读 | - | - | 13:10 | [link](https://www.bilibili.com/video/BV1sa4y1C7p7) |
+| 923 | 论文分享：自动并行AvgPipe | - | AI 论文精读 | - | - | 15:21 | [link](https://www.bilibili.com/video/BV1rw41137QG) |
+| 924 | 论文分享：自动并行AlpaServe | - | AI 论文精读 | - | - | 17:28 | [link](https://www.bilibili.com/video/BV1wc411m7ki) |
+| 925 | 论文分享：自动并行Alpa | - | AI 论文精读 | - | - | 15:25 | [link](https://www.bilibili.com/video/BV11j41177TQ) |
+| 926 | 论文分享：高性能计算领域大语言模型HPC-Coder | - | AI 论文精读 | - | - | 12:46 | [link](https://www.bilibili.com/video/BV1e4421c7Gk) |
+| 927 | 自编教材分享：第一章—程序性能优化的意义（一） | - | AI 论文精读 | - | - | 9:08 | [link](https://www.bilibili.com/video/BV1LL411B7uW) |
+| 928 | 自编教材分享：第一章—程序性能优化的意义（二） | - | AI 论文精读 | - | - | 6:53 | [link](https://www.bilibili.com/video/BV15g4y1F7QQ) |
+| 929 | 自编教材分享：第二章—程序性能的度量指标及优化流程（一） | - | AI 论文精读 | - | - | 12:03 | [link](https://www.bilibili.com/video/BV1vu411s7Xw) |
+| 930 | 自编教材分享：第三章—程序性能的分析和测量（一） | - | AI 论文精读 | - | - | 13:36 | [link](https://www.bilibili.com/video/BV1ZV4y1U7wr) |
+| 931 | 自编教材分享：第三章—程序性能的分析和测量（二） | - | AI 论文精读 | - | - | 15:50 | [link](https://www.bilibili.com/video/BV11k4y1p7Bw) |
+| 932 | 自编教材分享：第三章—程序性能的分析和测量（三） | - | AI 论文精读 | - | - | 15:14 | [link](https://www.bilibili.com/video/BV1Wm4y1v7yZ) |
+| 933 | 自编教材分享：第四章—系统配置优化（一） | - | AI 论文精读 | - | - | 11:31 | [link](https://www.bilibili.com/video/BV1go4y1K72Y) |
+| 934 | 自编教材分享：第四章—系统配置优化（二） | - | AI 论文精读 | - | - | 9:39 | [link](https://www.bilibili.com/video/BV12o4y1P7kW) |
+| 935 | 自编教材分享：第五章—编译与运行优化 | - | AI 论文精读 | - | - | 54:05 | [link](https://www.bilibili.com/video/BV1KN4y1L7XT) |
+| 936 | 自编教材分享：第六章—程序编写优化（一） | - | AI 论文精读 | - | - | 10:11 | [link](https://www.bilibili.com/video/BV1gX4y1q7Ms) |
+| 937 | 自编教材分享：第六章—程序编写优化（二） | - | AI 论文精读 | - | - | 9:01 | [link](https://www.bilibili.com/video/BV1Aj411S7kJ) |
+| 938 | 自编教材分享：第六章—程序编写优化（三） | - | AI 论文精读 | - | - | 6:04 | [link](https://www.bilibili.com/video/BV1sg4y1N763) |
+| 939 | 自编教材分享：第六章—程序编写优化（四） | - | AI 论文精读 | - | - | 9:29 | [link](https://www.bilibili.com/video/BV1rh411A79q) |
+| 940 | 自编教材分享：第六章—程序编写优化（五） | - | AI 论文精读 | - | - | 8:11 | [link](https://www.bilibili.com/video/BV1mz4y1E7rb) |
+| 941 | 自编教材分享：第七章—指令级并行（一） | - | AI 论文精读 | - | - | 9:03 | [link](https://www.bilibili.com/video/BV1iV4y1h7wm) |
+| 942 | 自编教材分享：第七章—指令级并行（二） | - | AI 论文精读 | - | - | 8:14 | [link](https://www.bilibili.com/video/BV1ym4y1E783) |
+| 943 | 自编教材分享：第七章—数据级并行（一） | - | AI 论文精读 | - | - | 13:28 | [link](https://www.bilibili.com/video/BV1M94y1q7B4) |
+| 944 | 自编教材分享：第七章—数据级并行（二） | - | AI 论文精读 | - | - | 11:26 | [link](https://www.bilibili.com/video/BV1Wj411R74A) |
+| 945 | 自编教材分享：第七章—数据级并行（三） | - | AI 论文精读 | - | - | 15:23 | [link](https://www.bilibili.com/video/BV1Kk4y1G77z) |
+| 946 | 自编教材分享：第八章—访存优化（一） | - | AI 论文精读 | - | - | 7:21 | [link](https://www.bilibili.com/video/BV1yz4y1s7qp) |
+| 947 | 自编教材分享：第八章—访存优化（二） | - | AI 论文精读 | - | - | 11:08 | [link](https://www.bilibili.com/video/BV1fM4y1H7Ba) |
+| 948 | 自编教材分享：第八章—访存优化（三） | - | AI 论文精读 | - | - | 10:10 | [link](https://www.bilibili.com/video/BV18m4y1W7fH) |
+| 949 | 自编教材分享：第八章—访存优化（四） | - | AI 论文精读 | - | - | 8:51 | [link](https://www.bilibili.com/video/BV1Np4y1776Z) |
+| 950 | 自编教材分享：第八章—访存优化（五） | - | AI 论文精读 | - | - | 6:29 | [link](https://www.bilibili.com/video/BV1gw411D7Bw) |
+| 951 | 自编教材分享：第八章—访存优化（六） | - | AI 论文精读 | - | - | 8:03 | [link](https://www.bilibili.com/video/BV1cp4y1j7ga) |
+| 952 | 自编教材分享：第九章—OpenMP编程简介 | - | AI 论文精读 | - | - | 10:55 | [link](https://www.bilibili.com/video/BV1Zw411U7a8) |
+| 953 | 自编教材分享：第九章—并行区重构 | - | AI 论文精读 | - | - | 9:04 | [link](https://www.bilibili.com/video/BV1eu411A79T) |
+| 954 | 自编教材分享：第九章—向量化指导命令 | - | AI 论文精读 | - | - | 4:47 | [link](https://www.bilibili.com/video/BV12h4y1Y7vH) |
+| 955 | 自编教材分享：第九章—避免伪共享 | - | AI 论文精读 | - | - | 7:04 | [link](https://www.bilibili.com/video/BV1Gw411i7rS) |
+| 956 | 自编教材分享：第九章—负载均衡优化 | - | AI 论文精读 | - | - | 9:45 | [link](https://www.bilibili.com/video/BV1XN4y1o7NQ) |
+| 957 | 自编教材分享：第九章—避免隐式同步 | - | AI 论文精读 | - | - | 6:34 | [link](https://www.bilibili.com/video/BV19u4y1x7CS) |
+| 958 | 自编教材分享：第九章—流水并行优化 | - | AI 论文精读 | - | - | 13:24 | [link](https://www.bilibili.com/video/BV1LB4y1Z74v) |
+| 959 | 自编教材分享：第十章—CUDA程序优化（一） | - | AI 论文精读 | - | - | 12:57 | [link](https://www.bilibili.com/video/BV1pB4y1f7Md) |
+| 960 | 自编教材分享：第十章—CUDA程序优化（二） | - | AI 论文精读 | - | - | 13:50 | [link](https://www.bilibili.com/video/BV1C94y187iq) |
+| 961 | 自编教材分享：第十章—CUDA程序优化（三） | - | AI 论文精读 | - | - | 14:50 | [link](https://www.bilibili.com/video/BV1Kw411z7Wd) |
+| 962 | 自编教材分享：第十章—CUDA程序优化（四） | - | AI 论文精读 | - | - | 9:10 | [link](https://www.bilibili.com/video/BV1G84y1R7Ak) |
+| 963 | 自编教材分享：第十一章—MPI程序简介 | - | AI 论文精读 | - | - | 7:17 | [link](https://www.bilibili.com/video/BV1cj411a7Sb) |
+| 964 | 自编教材分享：第十一章—MPI程序简介（二） | - | AI 论文精读 | - | - | 7:08 | [link](https://www.bilibili.com/video/BV1ra4y1m7JP) |
+| 965 | 自编教材分享：第十一章—数据划分优化 | - | AI 论文精读 | - | - | 12:15 | [link](https://www.bilibili.com/video/BV1Lc411b7Fw) |
+| 966 | 深度学习的产生与发展 | - | AI 论文精读 | - | - | 13:35 | [link](https://www.bilibili.com/video/BV1AM411P7JG) |
+| 967 | 深度神经网络的结构 | - | AI 论文精读 | - | - | 10:35 | [link](https://www.bilibili.com/video/BV1bD4y1G7oV) |
+| 968 | 神经网络的运行机制 | - | AI 论文精读 | - | - | 10:59 | [link](https://www.bilibili.com/video/BV1xs4y1b7nt) |
+| 969 | CNN-卷积神经网络（一） | - | AI 论文精读 | - | - | 12:51 | [link](https://www.bilibili.com/video/BV1iL411o7iz) |
+| 970 | CNN-卷积神经网络（二） | - | AI 论文精读 | - | - | 10:54 | [link](https://www.bilibili.com/video/BV1bL411o74W) |
+| 971 | 【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月16日09点场 | - | AI 论文精读 | - | - | 271:31 | [link](https://www.bilibili.com/video/BV18XYnzVEWa) |
+| 972 | 【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月16日14点场 | - | AI 论文精读 | - | - | 206:54 | [link](https://www.bilibili.com/video/BV1bXYnzVEQV) |
+| 973 | 【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月17日08点场 | - | AI 论文精读 | - | - | 234:06 | [link](https://www.bilibili.com/video/BV18XYnzVEJv) |
+| 974 | 【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月17日13点场 | - | AI 论文精读 | - | - | 323:22 | [link](https://www.bilibili.com/video/BV1wQYWzrEBz) |
+| 975 | OpenAI triton分享：Triton概述 | - | AI 论文精读 | - | - | 5:24 | [link](https://www.bilibili.com/video/BV1Kr421M7rt) |
+| 976 | OpenAI triton分享：Triton安装教程 | - | AI 论文精读 | - | - | 5:44 | [link](https://www.bilibili.com/video/BV1b9W8eQEW3) |
+| 977 | OpenAI triton分享：triton程序编写 | - | AI 论文精读 | - | - | 7:15 | [link](https://www.bilibili.com/video/BV154421S7TE) |
+| 978 | OpenAI triton分享：triton源码结构 | - | AI 论文精读 | - | - | 8:17 | [link](https://www.bilibili.com/video/BV1SHxWeTEMe) |
+| 979 | OpenAI triton分享：triton编译流程 | - | AI 论文精读 | - | - | 12:19 | [link](https://www.bilibili.com/video/BV1Di2CYcEba) |
+| 980 | OpenAI triton分享：triton调试方法及工具（上） | - | AI 论文精读 | - | - | 8:27 | [link](https://www.bilibili.com/video/BV1aY2CYAEhy) |
+| 981 | OpenAI triton分享：triton调试方法及工具（下） | - | AI 论文精读 | - | - | 6:40 | [link](https://www.bilibili.com/video/BV1m6C1YsEn1) |
+| 982 | OpenAI triton分享：triton IR 剖析（上） | - | AI 论文精读 | - | - | 12:06 | [link](https://www.bilibili.com/video/BV1EwzyYZELz) |
+| 983 | OpenAI triton分享：triton IR 剖析（下） | - | AI 论文精读 | - | - | 11:01 | [link](https://www.bilibili.com/video/BV1AHCJYkESY) |
+| 984 | 计算机视觉与OpenMMLab 开源算法体系 | - | AI 论文精读 | - | - | 47:38 | [link](https://www.bilibili.com/video/BV1WG41177DP) |
+| 985 | 深度学习算法基础 | - | AI 论文精读 | - | - | 65:34 | [link](https://www.bilibili.com/video/BV1gP411N7yA) |
+| 986 | 上海交大学生创新中心人工智能实训平台介绍 | - | AI 论文精读 | - | - | 14:47 | [link](https://www.bilibili.com/video/BV1CV4y1V7SQ) |
+| 987 | 图像分类 | - | AI 论文精读 | - | - | 68:54 | [link](https://www.bilibili.com/video/BV11G4y1n7gC) |
+| 988 | MMClassification 介绍与代码实践 | - | AI 论文精读 | - | - | 51:53 | [link](https://www.bilibili.com/video/BV1LP411N7G4) |
+| 989 | MMClassification 实践 2 | - | AI 论文精读 | - | - | 33:50 | [link](https://www.bilibili.com/video/BV1be4y1e7uS) |
+| 990 | 目标检测 | - | AI 论文精读 | - | - | 56:52 | [link](https://www.bilibili.com/video/BV1BG4y1n7pn) |
+| 991 | MMDetection 介绍与代码实践 | - | AI 论文精读 | - | - | 37:02 | [link](https://www.bilibili.com/video/BV1o8411Y7Td) |
+| 992 | 数据集采集与标注、LabelBee工具介绍 | - | AI 论文精读 | - | - | 80:29 | [link](https://www.bilibili.com/video/BV16W4y1E74Z) |
+| 993 | 模型部署与 MMDeploy 实践 | - | AI 论文精读 | - | - | 29:14 | [link](https://www.bilibili.com/video/BV1Ne411G7RX) |
+| 994 | 语义分割与 MMSegmentation 实践 | - | AI 论文精读 | - | - | 32:49 | [link](https://www.bilibili.com/video/BV1fP411A74D) |
+| 995 | 文字字符识别与 MMOCR 实践 | - | AI 论文精读 | - | - | 16:31 | [link](https://www.bilibili.com/video/BV1Qe4y1e7fH) |
+| 996 | 人体姿态估计与 MMPose 实践 | - | AI 论文精读 | - | - | 56:20 | [link](https://www.bilibili.com/video/BV1Hg411z7Qk) |
+| 997 | 视频目标追踪与 MMTracking 实践 | - | AI 论文精读 | - | - | 23:51 | [link](https://www.bilibili.com/video/BV14t4y1T7rd) |
+| 998 | 生成模型 GAN 与 MMGeneration 实践 | - | AI 论文精读 | - | - | 43:33 | [link](https://www.bilibili.com/video/BV1SK411D7uS) |
+| 999 | 强化学习RL是否可以提升模型性能上限？亦或只是将模型的Pass@N向Pass@1收敛？ | - | AI 论文精读 | - | - | 10:09 | [link](https://www.bilibili.com/video/BV1saNbzQEwT) |
+| 1000 | RLVR对推理能力的提升是否可以/如何才能泛化到通用能力？ | - | AI 论文精读 | - | - | 4:21 | [link](https://www.bilibili.com/video/BV1Q1Nez7E2t) |
+| 1001 | 过去的PPO算法依赖于四个神经网络来进行稳定训练，近期以DAPO为代表的算法只需要一个policy model，是什么带来了模型训练稳定性的提升？ | - | AI 论文精读 | - | - | 9:27 | [link](https://www.bilibili.com/video/BV1THNBznEkF) |
+| 1002 | 近期一些工作针对RL提出了一系列反直觉的结论，例如random reward也能提升性能，如何看待这些结论？ | - | AI 论文精读 | - | - | 5:29 | [link](https://www.bilibili.com/video/BV1SjNLzsEjq) |
+| 1003 | 当前多模态领域的RL算法往往是纯语言领域RL算法的“应用”迁移，除了引入图像condition以外没有太多改进，如何针对多模态引入算法改进？ | - | AI 论文精读 | - | - | 8:56 | [link](https://www.bilibili.com/video/BV1TzN5zDE5V) |
+| 1004 | 如何看待预训练数据/性能对RL效果的影响？ | - | AI 论文精读 | - | - | 7:55 | [link](https://www.bilibili.com/video/BV1oNN7z6Ecq) |
+| 1005 | 零人工数据强化学习推理模型主题分享 | - | AI 论文精读 | - | - | 31:30 | [link](https://www.bilibili.com/video/BV1irNszFEtt) |
+| 1006 | 小米 MiMo-VL 预训练及后训练技术分享 | - | AI 论文精读 | - | - | 30:41 | [link](https://www.bilibili.com/video/BV1xuKwz2Ejp) |
+| 1007 | 强化学习范式 OREAL：超越蒸馏，推动轻中量级模型突破推理“三重门”困局 | - | AI 论文精读 | - | - | 21:31 | [link](https://www.bilibili.com/video/BV1BCKczeEJa) |
+| 1008 | CPRet：面向编程竞赛检索的基准数据集和模型 | - | AI 论文精读 | - | - | 22:38 | [link](https://www.bilibili.com/video/BV1kFGgzjEtu) |
+| 1009 | DyCodeEval: 数据污染下的代码模型的动态测评 | - | AI 论文精读 | - | - | 22:04 | [link](https://www.bilibili.com/video/BV1QrGuzbEPH) |
+| 1010 | OSS-Bench：告别静态数据集！从真实开源项目中“活捉”高难度编程任务 | - | AI 论文精读 | - | - | 17:37 | [link](https://www.bilibili.com/video/BV1GauuzREiY) |
+| 1011 | UTBoost：修复“漏风”的 SWE-Bench，揪出 345 个“假通过”补丁 | - | AI 论文精读 | - | - | 21:19 | [link](https://www.bilibili.com/video/BV1qtu3zKEq9) |
+| 1012 | 上海人工智能实验室 大模型中心负责人 陈恺 深度解读 Intern-S1——科学多模态大模型 | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [huggingface.co](https://huggingface.co/InternLM) [modelscope.cn](https://modelscope.cn/organization/Shanghai_AI_Laboratory) | 14:48 | [link](https://www.bilibili.com/video/BV1K3agzBE9i) |
+| 1013 | MiniCPM-V：迈向高效端侧多模态大模型 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/openbmb) [modelscope.cn](https://modelscope.cn/organization/OpenBMB) | 13:33 | [link](https://www.bilibili.com/video/BV1VZaCzLEJr) |
+| 1014 | GLM-V：迈向通用推理的多模态大模型 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/zai-org) [modelscope.cn](https://modelscope.cn/organization/ZhipuAI) | 14:44 | [link](https://www.bilibili.com/video/BV1C9ahzbEmG) |
+| 1015 | Ovis多模态大模型：结构对齐下的视觉语言融合 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/AIDC-AI) [modelscope.cn](https://modelscope.cn/organization/AIDC-AI) | 14:26 | [link](https://www.bilibili.com/video/BV168HUzkEEZ) |
+| 1016 | 阶跃星辰在多模态方向上的探索 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/stepfun-ai) [modelscope.cn](https://modelscope.cn/organization/stepfun-ai) | 15:46 | [link](https://www.bilibili.com/video/BV1jAHXzmEao) |
+| 1017 | 多模态模型哪些能力已逐渐饱和，还存在哪些不足和短板，未来有哪些值得关注的应用方向? | - | AI 论文精读 | - | - | 6:27 | [link](https://www.bilibili.com/video/BV1Y3HazDE2m) |
+| 1018 | 多模态模型的推理相比于语言模型，有哪些不一样的技术挑战和发展思路？ | - | AI 论文精读 | - | - | 6:27 | [link](https://www.bilibili.com/video/BV1s1pWzJEGJ) |
+| 1019 | 理解生成一体化是近期多模态大模型的热门探索方向，技术方案有什么样的演进趋势，未来是否有可能实现理解和生成任务的互相促进? | - | AI 论文精读 | - | - | 13:39 | [link](https://www.bilibili.com/video/BV1zCJkzQEmp) |
+| 1020 | 多模态模型的突破是否被语言模型的研究进展所限制？模型架构和训练范式上有哪些创新路径？ | - | AI 论文精读 | - | - | 4:00 | [link](https://www.bilibili.com/video/BV1VFpCzQEG6) |
+| 1021 | LongCat-Flash-Omni：美团全模态大模型探索 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) [modelscope.cn](https://modelscope.cn/models/meituan-longcat/LongCat-Flash-Omni) | 24:34 | [link](https://www.bilibili.com/video/BV16jyuBBEZ8) |
+| 1022 | OmniVinci：全模态大模型的架构和数据探索 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/nvidia/omnivinci) | 14:57 | [link](https://www.bilibili.com/video/BV1FFU5B8E9x) |
+| 1023 | Ming-Omni：百灵多模态的实践与探索 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) [modelscope.cn](https://modelscope.cn/models/inclusionAI/Ming-flash-omni-Preview) | 43:18 | [link](https://www.bilibili.com/video/BV1oeUbBaEGt) |
+| 1024 | Omni 全模态模型在训练数据和策略上面临哪些挑战？如何构建和利用涵盖图像、视 频、音频、文本的海量数据集，并采用何种训练策略技巧来有效融合多模态信息的？ | - | AI 论文精读 | - | - | 9:56 | [link](https://www.bilibili.com/video/BV1ZPSaBCEXH) |
+| 1025 | 在多模态统一模型中，模态不均衡或者模态偏置问题如何解决？ | - | AI 论文精读 | - | - | 6:25 | [link](https://www.bilibili.com/video/BV1to28BUEdg) |
+| 1026 | 在长上下文建模方面，模型如何真正利用极长序列？例如视频长达上万帧，或多轮对话跨越很长距离，模型如何保留和利用这些信息？ | - | AI 论文精读 | - | - | 6:38 | [link](https://www.bilibili.com/video/BV1Q625B5Eyp) |
+| 1027 | 如何看待通用模态 tokenization 未来面临的挑战？所有模态用统一“词表”表示是否现实？ | - | AI 论文精读 | - | - | 7:13 | [link](https://www.bilibili.com/video/BV1cG2kBMEQ9) |
+| 1028 | 在一个模型中同时学习理解任务和生成任务会不会互相促进？可以从哪些技术路线去突破？ | - | AI 论文精读 | - | - | 5:02 | [link](https://www.bilibili.com/video/BV1dNmKBFExt) |
+| 1029 | Omni 全模态模型的发展趋势是什么，可能会朝哪些新方向拓展？还有哪些关键技术要突破？ | - | AI 论文精读 | - | - | 3:59 | [link](https://www.bilibili.com/video/BV12VmCBJEK7) |
+| 1030 | HunyuanOCR：混元原生多模态端到端 OCR 专家 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/spaces/tencent/HunyuanOCR) [modelscope.cn](https://modelscope.cn/models/Tencent-Hunyuan/HunyuanOCR) | 28:06 | [link](https://www.bilibili.com/video/BV1SBBVBEEMp) |
+| 1031 | PaddleOCR-VL：支持 109 种语言的轻量化多模态文档解析方案 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/PaddlePaddle/PaddleOCR-VL) [modelscope.cn](https://modelscope.cn/models/PaddlePaddle/PaddleOCR-VL) | 24:03 | [link](https://www.bilibili.com/video/BV16CBDBzEHJ) |
+| 1032 | MinerU：高效精准的文档解析技术攻坚 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B) [modelscope.cn](https://modelscope.cn/models/OpenDataLab/MinerU2.5-2509-1.2B) [github.com](https://github.com/opendatalab/MinerU) | 23:21 | [link](https://www.bilibili.com/video/BV1epBaB3EPA) |
+| 1033 | 极致端侧推理、结构还原与语义泛化三者之间存在天然的张力，在设计模型架构或训练策略时，如何权衡这三者之间的 trade-off 的？ | - | AI 论文精读 | - | - | 9:51 | [link](https://www.bilibili.com/video/BV1WZqFBPEjU) |
+| 1034 | OCR 模型是否还有必要加入推理能力吗？主要会用于什么样的场景，会用怎样的形式出现？ | - | AI 论文精读 | - | - | 4:48 | [link](https://www.bilibili.com/video/BV1ZhqwB8EEr) |
+| 1035 | OCR 系统在工程落地过程中，常见的性能瓶颈或优化难点有哪些？能否分享一些踩坑经验，尤其是在部署、推理效率或模型压缩方面的教训？ | - | AI 论文精读 | - | - | 2:57 | [link](https://www.bilibili.com/video/BV1MCquBvEfK) |
+| 1036 | 如果从头搭建一个面向真实商业场景的文档解析系统（如合同、发票、报表等），有哪些关键建议可以给到开发者？ | - | AI 论文精读 | - | - | 2:52 | [link](https://www.bilibili.com/video/BV1RCiCBzERG) |
+| 1037 | 从开源视角看，当前 OCR 工业级工具链或范式还有哪些关键缺失？如果不考虑商业化,最想推动或实现的 OCR 方向是什么？ | - | AI 论文精读 | - | - | 3:34 | [link](https://www.bilibili.com/video/BV1B8iDBaEgF) |
+| 1038 | 能否分享最近关注、但本次尚未提及的 OCR 前沿工作？对于希望参与贡献开源项目的开发者，有哪些建议？ | - | AI 论文精读 | - | - | 8:36 | [link](https://www.bilibili.com/video/BV1NUrwBXEDj) |
+| 1039 | 下一代多模态大模型能力演进的度量分析 | - | AI 论文精读 | - | - | 32:49 | [link](https://www.bilibili.com/video/BV1XUrhBLEsK) |
+| 1040 | 基于多模态大模型的图像评价及应用探索 | - | AI 论文精读 | - | - | 12:51 | [link](https://www.bilibili.com/video/BV1pWr6BWEGv) |
+| 1041 | 探索大模型的通用科学能力边界 | - | AI 论文精读 | - | - | 40:45 | [link](https://www.bilibili.com/video/BV1CLrLBXEoo) |
+| 1042 | NewtonBench：在“平行宇宙”中评估大模型科学发现能力 | - | AI 论文精读 | - | - | 20:36 | [link](https://www.bilibili.com/video/BV1oVrzB3E2y) |
+| 1043 | ScienceBoard: 从数字智能体到 AI 科学家 | - | AI 论文精读 | - | - | 29:39 | [link](https://www.bilibili.com/video/BV1FJhwzTEQH) |
+| 1044 | AutoMind: 知识增强智能体解锁数据科学潜力 | - | AI 论文精读 | - | - | 28:15 | [link](https://www.bilibili.com/video/BV1oNhczoEM9) |
+| 1045 | Scientists’ First Exam，科学认知能力的“开场哨声” | - | AI 论文精读 | - | - | 26:58 | [link](https://www.bilibili.com/video/BV1pWh7zUEMb) |
+| 1046 | 圆桌讨论——科学智能的边界与突破 | - | AI 论文精读 | - | - | 49:13 | [link](https://www.bilibili.com/video/BV1X1tgzzEBH) |
+| 1047 | 大模型评测基准发展趋势探讨 | - | AI 论文精读 | - | - | 24:08 | [link](https://www.bilibili.com/video/BV1AbrHBME4n) |
+| 1048 | 技术写作系列课程第一课：技术写作的内容风格与选题 | - | AI 论文精读 | - | [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247510508&idx=1&sn=3072808c7889d1b6dacaf032c8e9dc19&chksm=ebb6a10edcc128186649d95af2132fa88ec1ac30d004c00fb52291ec5e2019b75042bb4b66f1&token=238828277&lang=zh_CN#rd) | 36:27 | [link](https://www.bilibili.com/video/BV1YX4y1B7mH) |
+| 1049 | 技术写作系列课程第二课：如何起一个吸引人的标题 | - | AI 论文精读 | - | [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247510508&idx=1&sn=3072808c7889d1b6dacaf032c8e9dc19&chksm=ebb6a10edcc128186649d95af2132fa88ec1ac30d004c00fb52291ec5e2019b75042bb4b66f1&token=238828277&lang=zh_CN#rd) | 19:47 | [link](https://www.bilibili.com/video/BV1qs4y1d7jm) |
+| 1050 | 技术写作系列课程第三课：如何搭建文章结构 | - | AI 论文精读 | - | [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247510508&idx=1&sn=3072808c7889d1b6dacaf032c8e9dc19&chksm=ebb6a10edcc128186649d95af2132fa88ec1ac30d004c00fb52291ec5e2019b75042bb4b66f1&token=238828277&lang=zh_CN#rd) | 32:48 | [link](https://www.bilibili.com/video/BV1oc411E7nD) |
+| 1051 | 技术写作系列课程第四课：技术写作必备的利器工具 | - | AI 论文精读 | - | [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247510508&idx=1&sn=3072808c7889d1b6dacaf032c8e9dc19&chksm=ebb6a10edcc128186649d95af2132fa88ec1ac30d004c00fb52291ec5e2019b75042bb4b66f1&token=238828277&lang=zh_CN#rd) | 44:11 | [link](https://www.bilibili.com/video/BV1Tg4y1777V) |
+| 1052 | Label Studio x Segment Anything Model 半自动化标注 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/blob/main/label_anything/readme_zh.md) [cdn.vansin.top](https://cdn.vansin.top/open-mmlab/pg.jpg) | 0:22 | [link](https://www.bilibili.com/video/BV1uv4y1J7yM) |
+| 1053 | Label-Studio X Segment Anything Model 半自动化标注（2）：Windows CPU 环境配置 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/blob/main/label_anything/readme_zh.md) [cdn.vansin.top](https://cdn.vansin.top/open-mmlab/pg.jpg) | 2:43 | [link](https://www.bilibili.com/video/BV1hh411F7uR) |
+| 1054 | Label-Studio X Segment Anything Model 半自动化标注（3）：开启前后端并标注 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/blob/main/label_anything/readme_zh.md) [cdn.vansin.top](https://cdn.vansin.top/open-mmlab/pg.jpg) | 5:56 | [link](https://www.bilibili.com/video/BV1Fo4y1V77n) |
+| 1055 | Label-Studio X Segment Anything Model 半自动化标注（4）：数据集可视化及模型训练和测试 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/blob/main/label_anything/readme_zh.md) [cdn.vansin.top](https://cdn.vansin.top/open-mmlab/pg.jpg) | 7:21 | [link](https://www.bilibili.com/video/BV1Lh4y1o7qN) |
+| 1056 | 以最新数学博资考题为例，书生-S2可以围绕一道复杂问题进行数小时的持续探索 | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/intern-s1-math-research/CCQRPo7AqQJjn5hXHaO4VopPQh1Z89ONciSGUKmgFFA=/9) [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Intern-S1) | 7:54 | [link](https://www.bilibili.com/video/BV1L8eE6NEk3) |
+| 1057 | 书生-S2 实现结合疾病靶标的蛋白药物的自主设计 | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/case/Intern-S2/protein-design) [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Intern-S1) | 0:28 | [link](https://www.bilibili.com/video/BV1fHeE6zESc) |
+| 1058 | 基于给定的化学式，书生-S2 实现物理可行的晶体构建 | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/case/Intern-S2/crystal-structure-construction) [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Intern-S1) | 0:29 | [link](https://www.bilibili.com/video/BV1JneE63EUa) |
+| 1059 | “书生-S2，帮我构建一个长征7火箭的3D CAD模型” | - | AI 论文精读 | - | [chat.intern-ai.org.cn](https://chat.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Intern-S1) [internlm.intern-ai.org.cn](https://internlm.intern-ai.org.cn/api/strategy) | 1:08 | [link](https://www.bilibili.com/video/BV1RQe76cEAg) |
+| 1060 | Linux 前置基础知识 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L0/Linux) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 15:01 | [link](https://www.bilibili.com/video/BV1FS421d7yg) |
+| 1061 | Python 前置基础知识 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L0/Python) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 13:49 | [link](https://www.bilibili.com/video/BV1mS421X7h4) |
+| 1062 | Git 前置基础知识 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L0/Git) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 6:06 | [link](https://www.bilibili.com/video/BV1Pz421i7bw) |
+| 1063 | 书生·浦语大模型全链路开源开放体系 | - | AI 论文精读 | - | [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 29:02 | [link](https://www.bilibili.com/video/BV18142187g5) |
+| 1064 | 8G 显存玩转书生大模型 Demo | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L1/Demo/readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 8:08 | [link](https://www.bilibili.com/video/BV18x4y147SU) |
+| 1065 | 浦语提示词工程实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L1/Prompt) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 55:17 | [link](https://www.bilibili.com/video/BV1cU411S7iV) |
+| 1066 | InternLM+LlamaIndex RAG 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L1/LlamaIndex) [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L1/LlamaIndex/task.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) | 55:20 | [link](https://www.bilibili.com/video/BV19E4m1X79q) |
+| 1067 | XTuner 微调大模型个人小助手认知 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L1/XTuner) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 23:59 | [link](https://www.bilibili.com/video/BV1tz421B72y) |
+| 1068 | OpenCompass 评测 InternLM-1.8B 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L1/OpenCompass/readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 21:15 | [link](https://www.bilibili.com/video/BV1RM4m1279j) |
+| 1069 | Lagent 自定义你的 Agent 智能体 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L2/Lagent/readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 7:13 | [link](https://www.bilibili.com/video/BV18M4m1y7sm) |
+| 1070 | LMDeploy 量化部署进阶实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L2/LMDeploy/readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 89:57 | [link](https://www.bilibili.com/video/BV1df421q7cR) |
+| 1071 | InternVL（冷笑话大师）部署微调实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp3/docs/L2/InternVL/joke_readme.md) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 18:47 | [link](https://www.bilibili.com/video/BV1N6p1eXETX) |
+| 1072 | 茴香豆：企业级知识库问答工具 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/L2/Huixiangdou) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 51:40 | [link](https://www.bilibili.com/video/BV1C5W2epEYP) |
+| 1073 | 销冠——卖货主播大模型 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/EasterEgg/StreamerSales) | 23:46 | [link](https://www.bilibili.com/video/BV1f1421b7Du) |
+| 1074 | InternLM-1.8B 模型安卓端侧部署实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/EasterEgg/Android) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 4:20 | [link](https://www.bilibili.com/video/BV1Ai421a7R6) |
+| 1075 | 手把手带你使用 InternLM 实现谁是卧底游戏 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp3/docs/EasterEgg/Game) [wjx.cn](https://www.wjx.cn/vm/PvefmG2.aspx?sojumpparm=openmmlabbz) [github.com](https://github.com/InternLM/Tutorial) | 16:39 | [link](https://www.bilibili.com/video/BV1uhp1efEeE) |
+| 1076 | 旋转~跳跃~检测王者 MMDetection 的好兄弟来啦！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmrotate) | 0:16 | [link](https://www.bilibili.com/video/BV1Hr4y1r73p) |
+| 1077 | 墩墩生成器来啦！三步穿上墩墩服变身冰墩墩，做今年冬天最靓崽！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose/tree/master/tools/webcam/configs) | 1:11 | [link](https://www.bilibili.com/video/BV1Tq4y1t77C) |
+| 1078 | 千行百业智能化落地，MMDeploy 助你一“部”到位！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmdeploy) | 1:14 | [link](https://www.bilibili.com/video/BV1g34y1z7EW) |
+| 1079 | 操作顺滑，一秒上手，LabelBee 让人工标注更智能! | - | AI 论文精读 | - | - | 1:12 | [link](https://www.bilibili.com/video/BV1pr4y1X7VM) |
+| 1080 | 画形亦画骨，知面也知心，与 MMHuman3D 一道探索人体参数化模型！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmhuman3d) | 0:43 | [link](https://www.bilibili.com/video/BV1Ch411s7mS) |
+| 1081 | MMFlow:帧与帧之间的追光者 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmflow！) | 0:44 | [link](https://www.bilibili.com/video/BV1Zr4y1r72H) |
+| 1082 | 【MMTracking】单目标跟踪！持续跟踪！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmtracking) | 0:29 | [link](https://www.bilibili.com/video/BV1Ev411376o) |
+| 1083 | 【MMTracking】国庆快乐！多目标跟踪走丢也不怕！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmtracking) [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/414625166) | 0:29 | [link](https://www.bilibili.com/video/BV1tU4y1c7mj) |
+| 1084 | 【MMtracking】实时追踪！套马杆的汉子的马 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmtracking) [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/412817354) | 0:17 | [link](https://www.bilibili.com/video/BV1xL41147n5) |
+| 1085 | 【MMDetection】七夕没对象？用我检测一下！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmdetection) | 0:21 | [link](https://www.bilibili.com/video/BV1QU4y177oZ) |
+| 1086 | 【MMPose】火柴人出击！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:29 | [link](https://www.bilibili.com/video/BV1YU4y1H7Dq) |
+| 1087 | 【MMPose】 demo webcam | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:18 | [link](https://www.bilibili.com/video/BV1pw411R7iD) |
+| 1088 | 【MMPose】3D Human Pose | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:21 | [link](https://www.bilibili.com/video/BV1B3411672x) |
+| 1089 | 【MMPose】Animal Pose | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:17 | [link](https://www.bilibili.com/video/BV1t341167V7) |
+| 1090 | 【MMPose】2D Human Pose | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpose) | 0:24 | [link](https://www.bilibili.com/video/BV1Zf4y157PF) |
+| 1091 | AI 生成视频不闪了！社区大佬又整新活啦！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmagic) | 0:11 | [link](https://www.bilibili.com/video/BV19o4y1b7RZ) |
+| 1092 | Segment Anything Model+ MMagic = Generate Anything！ | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/playground/tree/main/mmagic_sam) [github.com](https://github.com/open-mmlab/mmagic) | 0:11 | [link](https://www.bilibili.com/video/BV1ws4y1R7aB) |
+| 1093 | DragGAN 应用来啦，无需部署，在线体验！ | - | AI 论文精读 | - | [github.com](https://github.com/XingangPan/DragGAN) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/XingangPan/DragGAN) | 1:06 | [link](https://www.bilibili.com/video/BV1Rh4y1y7LK) |
+| 1094 | 还在排队 SearchGPT？快来试试开源的 AI 搜索引擎框架 MindSearch！ | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/mindsearch) | 1:55 | [link](https://www.bilibili.com/video/BV1Kx4y1s7SS) |
+| 1095 | 人工智能时代的创业新范式 | - | AI 论文精读 | - | - | 44:13 | [link](https://www.bilibili.com/video/BV1gAmnBZEuK) |
+| 1096 | 从初心到商业化：以快速迭代创造用户真价值 | - | AI 论文精读 | - | - | 23:23 | [link](https://www.bilibili.com/video/BV1hwmnBbE7d) |
+| 1097 | 医疗领域大模型微调实践 | - | AI 论文精读 | - | [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/c6?s=bili) | 9:56 | [link](https://www.bilibili.com/video/BV1gfqJBNEmT) |
+| 1098 | MMSelfSup 代码库介绍 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 12:04 | [link](https://www.bilibili.com/video/BV1hg411r7iK) |
+| 1099 | MMSelfSup 代码教程【1】模型自监督预训练 之 SimCLR | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 18:28 | [link](https://www.bilibili.com/video/BV1Ht4y1n7jy) |
+| 1100 | MMSelfSup 代码教程【2】图片向量可视化 t-SNE | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 20:52 | [link](https://www.bilibili.com/video/BV1yS4y1W7B6) |
+| 1101 | MMSelfSup 代码教程【3】自监督预训练模型的评估：“分类” 下游任务 之 线性评估 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 13:22 | [link](https://www.bilibili.com/video/BV1LP41157uA) |
+| 1102 | MMSelfSup 代码教程【4】自监督预训练模型的评估：“分类” 下游任务 之 SVM 评估 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 18:17 | [link](https://www.bilibili.com/video/BV1Ga411G73i) |
+| 1103 | MMSelfSup 代码教程【5】自监督预训练模型的评估：“检测”下游任务 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 11:10 | [link](https://www.bilibili.com/video/BV1EP41157BL) |
+| 1104 | MMSelfSup 代码教程【6】在 MMDetection 中使用自监督预训练模型 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 10:20 | [link](https://www.bilibili.com/video/BV1Fe4y1Z7Wh) |
+| 1105 | MMSelfSup 代码教程【7】模型自监督预训练 之 MAE | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup) | 17:28 | [link](https://www.bilibili.com/video/BV1EY4y1u7Px) |
+| 1106 | 10 分钟带你上手 MMEval（一）：MMEval 介绍 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmeval) | 6:34 | [link](https://www.bilibili.com/video/BV1m24y127Db) |
+| 1107 | 10 分钟带你上手 MMEval（二）：MMEval 使用介绍 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmeval) | 8:41 | [link](https://www.bilibili.com/video/BV1HP4y117pA) |
+| 1108 | 10 分钟带你上手 MMEval（三）：如何给 MMEval 添加新的评测指标 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmeval) | 10:12 | [link](https://www.bilibili.com/video/BV1Ev4y1d7nK) |
+| 1109 | 大语言模型复杂医疗推理评测基准MedAgentsBench | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MedAgents-Bench) | 34:53 | [link](https://www.bilibili.com/video/BV1J5oXYYEYH) |
+| 1110 | 通用写作评测基准 WritingBench | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/WritingBench) | 34:39 | [link](https://www.bilibili.com/video/BV1dFdpYqELh) |
+| 1111 | 首个视频时空推理评估基准 V-STaR | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/V-STaR) | 38:35 | [link](https://www.bilibili.com/video/BV1DbdHYZEbq) |
+| 1112 | ViLBench：多模态过程奖励（Process Reward）建模组件 | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/ViLBench) | 45:00 | [link](https://www.bilibili.com/video/BV1cZ5kzyECC) |
+| 1113 | CMU团队打造考公逻辑谜题 VisualPuzzles | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/VisualPuzzles) | 41:03 | [link](https://www.bilibili.com/video/BV16kL7zrEdq) |
+| 1114 | ToolHop：查询驱动的多跳工具使用评测集 | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/ToolHop) | 46:43 | [link](https://www.bilibili.com/video/BV1CjExzGE7s) |
+| 1115 | 1. MMDetection3D 介绍及安装配置 | - | AI 论文精读 | - | - | 5:37 | [link](https://www.bilibili.com/video/BV1aG4y197is) |
+| 1116 | 2. 使用 MMDet3D 预训练模型在点云和数据图像上推理 | - | AI 论文精读 | - | - | 15:49 | [link](https://www.bilibili.com/video/BV1E44y1Q7qi) |
+| 1117 | 3. KITTI 数据集介绍及 MMDet3D 坐标系规范 | - | AI 论文精读 | - | - | 26:19 | [link](https://www.bilibili.com/video/BV1vv4y1d7br) |
+| 1118 | 4. 使用 MMDetection3D 训练 | - | AI 论文精读 | - | - | 15:06 | [link](https://www.bilibili.com/video/BV11G4y157ux) |
+| 1119 | 5. PointPillars 和 KittiDataset 的配置文件解读 | - | AI 论文精读 | - | - | 16:02 | [link](https://www.bilibili.com/video/BV14M41167Ct) |
+| 1120 | 6. PointPillars 和 KittiDataset 的代码解读 | - | AI 论文精读 | - | - | 32:37 | [link](https://www.bilibili.com/video/BV1Xe4y1g7Xv) |
+| 1121 | 大语言模型原理与书生大模型提示词工程实践 | - | AI 论文精读 | - | [aicarrier.feishu.cn](https://aicarrier.feishu.cn/wiki/SEfTwYCgAiDEkskx7yocvzuhnph) [aicarrier.feishu.cn](https://aicarrier.feishu.cn/wiki/DK9Wwf1DRiidwgk1FPDcvj6Bnxq) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz) | 39:46 | [link](https://www.bilibili.com/video/BV1vUjYz2Eys) |
+| 1122 | 玩转书生大模型 API 之 Browse Use实践 | - | AI 论文精读 | - | [aicarrier.feishu.cn](https://aicarrier.feishu.cn/wiki/XhoNw2qzPir8qmkVNYyc5YAunrc) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz) | 1:29 | [link](https://www.bilibili.com/video/BV1SPGnzWEN4) |
+| 1123 | InternLM 微调论文分类实践 | - | AI 论文精读 | - | [aicarrier.feishu.cn](https://aicarrier.feishu.cn/wiki/QdhEwaIINietCak3Y1dcdbLJn3e) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz) | 15:10 | [link](https://www.bilibili.com/video/BV1DyGuz4Ewp) |
+| 1124 | GraphGen 训练数据合成框架 | - | AI 论文精读 | - | [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set) | 4:49 | [link](https://www.bilibili.com/video/BV1EA31zMEQk) |
+| 1125 | CAMEL 书生多智能体系统实践 | - | AI 论文精读 | - | - | 41:23 | [link](https://www.bilibili.com/video/BV15A3EzWEPv) |
+| 1126 | 国产开源、免费的 AI 图像与视频创作平台MagicMaker，新手教程来啦！ | - | AI 论文精读 | - | [magicmaker.openxlab.org.cn](https://magicmaker.openxlab.org.cn/) | 2:05 | [link](https://www.bilibili.com/video/BV1w2421A7YP) |
+| 1127 | “龙在城隍庙吃小笼包”MagicMaker亮相东方卫视春晚特别直播节目，科技魔法点亮传统舞台 | - | AI 论文精读 | - | [magicmaker.openxlab.org.cn](https://magicmaker.openxlab.org.cn/home) | 0:45 | [link](https://www.bilibili.com/video/BV1TS421A7UR) |
+| 1128 | “一个小男生和一个小女生在黄河路‘偷心’”MagicMaker亮相东方卫视春晚特别直播节目，科技魔法点亮传统舞台 | - | AI 论文精读 | - | [magicmaker.openxlab.org.cn](https://magicmaker.openxlab.org.cn/home) | 1:36 | [link](https://www.bilibili.com/video/BV18z421X7ci) |
+| 1129 | “龙在东方明珠上盘旋”MagicMaker亮相东方卫视春晚特别直播节目，科技魔法点亮传统舞台 | - | AI 论文精读 | - | [magicmaker.openxlab.org.cn](https://magicmaker.openxlab.org.cn/home) | 1:17 | [link](https://www.bilibili.com/video/BV1VC411s7Fv) |
+| 1130 | 社区开放麦#1｜基于关键点的动作识别 | - | AI 论文精读 | - | - | 46:41 | [link](https://www.bilibili.com/video/BV1Yu411k7Be) |
+| 1131 | 社区开放麦#2｜CVPR前沿姿态估计论文精讲 | - | AI 论文精读 | - | - | 60:13 | [link](https://www.bilibili.com/video/BV1dS4y187sj) |
+| 1132 | 社区开放麦#3｜PyTorch 分布式训练解读 | - | AI 论文精读 | - | - | 66:51 | [link](https://www.bilibili.com/video/BV1Jv4y1K7fv) |
+| 1133 | 社区开放麦#4｜手把手带你复现最新自监督算法 | - | AI 论文精读 | - | - | 61:09 | [link](https://www.bilibili.com/video/BV1xt4y1x7sp) |
+| 1134 | 社区开放麦#5｜带你探寻可见光之外的世界 | - | AI 论文精读 | - | - | 36:01 | [link](https://www.bilibili.com/video/BV1Ka411n7nP) |
+| 1135 | 社区开放麦#6｜带你了解车速估计技术在自动驾驶领域的应用 | - | AI 论文精读 | - | - | 50:40 | [link](https://www.bilibili.com/video/BV1sY4y1L7Au) |
+| 1136 | 社区开放麦#7  MMPose 姿态估计创意 demo 大赛 | - | AI 论文精读 | - | - | 59:49 | [link](https://www.bilibili.com/video/BV1J34y1j7AP) |
+| 1137 | 社区开放麦#8 / 迈向真实世界的感知：3D 目标检测 | - | AI 论文精读 | - | - | 69:23 | [link](https://www.bilibili.com/video/BV1hg41197HX) |
+| 1138 | 社区开放麦#9 / OpenMMLab 模块化设计背后的功臣 | - | AI 论文精读 | - | - | 59:46 | [link](https://www.bilibili.com/video/BV19Z4y1q7Q5) |
+| 1139 | 社区开放麦#10 / MMDeploy ncnn 部署实战 | - | AI 论文精读 | - | - | 47:44 | [link](https://www.bilibili.com/video/BV1gS4y1p7gm) |
+| 1140 | 社区开放麦#11 / BEV感知：下一代自动驾驶感知算法新范式 | - | AI 论文精读 | - | - | 57:01 | [link](https://www.bilibili.com/video/BV12t4y1t7Lq) |
+| 1141 | 社区开放麦#12 / 视觉有向目标的高精度检测 | - | AI 论文精读 | - | - | 63:46 | [link](https://www.bilibili.com/video/BV1Wr4y1E7Qr) |
+| 1142 | 社区开放麦#13 / 手势识别算法综述与正确打开方式 | - | AI 论文精读 | - | - | 57:48 | [link](https://www.bilibili.com/video/BV1ar4y1j7aN) |
+| 1143 | 社区开放麦#14 / 从时间序列角度破解姿态估计中的两大问题 | - | AI 论文精读 | - | - | 94:16 | [link](https://www.bilibili.com/video/BV1aB4y1k7Ph) |
+| 1144 | 社区开放麦#15/  突破纯视觉 3D 检测深度估计瓶颈 | - | AI 论文精读 | - | - | 59:31 | [link](https://www.bilibili.com/video/BV1dg41117ba) |
+| 1145 | 社区开放麦#16 / 稀疏卷积的高性能部署 | - | AI 论文精读 | - | - | 58:07 | [link](https://www.bilibili.com/video/BV1gV4y177F6) |
+| 1146 | 社区开放麦#17 / 像素级别的多目标跟踪方案 | - | AI 论文精读 | - | - | 32:41 | [link](https://www.bilibili.com/video/BV1814y1b7Za) |
+| 1147 | 社区开放麦#18 / 半监督学习在 3D 目标检测的最新进展 | - | AI 论文精读 | - | - | 45:01 | [link](https://www.bilibili.com/video/BV1mT411c7kB) |
+| 1148 | 社区开放麦#19 / 对 AI 炼丹师友好的模型部署探索 | - | AI 论文精读 | - | - | 84:31 | [link](https://www.bilibili.com/video/BV12V4y1H7XQ) |
+| 1149 | 社区开放麦#20 / 简单有效的目标跟踪方案 | - | AI 论文精读 | - | - | 50:46 | [link](https://www.bilibili.com/video/BV1wd4y1X7j5) |
+| 1150 | 社区开放麦#21 / 当钩子编程遇到深度学习：Runner & Hook | - | AI 论文精读 | - | - | 59:58 | [link](https://www.bilibili.com/video/BV1pe4y1C7n1) |
+| 1151 | 社区开放麦#22 /  姿态估计领域的前沿进展 | - | AI 论文精读 | - | - | 77:13 | [link](https://www.bilibili.com/video/BV1HV4y1M7dG) |
+| 1152 | 社区开放麦#23 / MMYOLO 圆桌会 | - | AI 论文精读 | - | - | 51:38 | [link](https://www.bilibili.com/video/BV1r24y1R7D1) |
+| 1153 | 社区开放麦#24 / 释放数据潜力，打造 AI 加速引擎 | - | AI 论文精读 | - | - | 53:51 | [link](https://www.bilibili.com/video/BV1p8411s7W6) |
+| 1154 | AI奇妙夜第一期 | - | AI 论文精读 | - | - | 76:09 | [link](https://www.bilibili.com/video/BV1P8411e7Cb) |
+| 1155 | 社区开放麦#27 / 部署神器Halide, 实现高性能算法 | - | AI 论文精读 | - | - | 46:06 | [link](https://www.bilibili.com/video/BV1Tg411B7ch) |
+| 1156 | AI 奇妙夜#2 / 子豪兄分享人工智能学习心法 | - | AI 论文精读 | - | - | 82:07 | [link](https://www.bilibili.com/video/BV1WG4y1f7yX) |
+| 1157 | 社区开放麦#29 / ECCV Oral / 用于场景文本检测识别的弱监督视觉语言预训练方法 | - | AI 论文精读 | - | - | 53:31 | [link](https://www.bilibili.com/video/BV16G4y1x7es) |
+| 1158 | 社区开放麦#30 / 入门剪枝利器 MMRazor，迈出模型压缩第一步 | - | AI 论文精读 | - | - | 53:24 | [link](https://www.bilibili.com/video/BV1wG411u7SP) |
+| 1159 | 社区开放麦#31 / 异构检测器间知识蒸馏算法 PKD / NeurIPS22 | - | AI 论文精读 | - | - | 55:56 | [link](https://www.bilibili.com/video/BV1z24y1k7iu) |
+| 1160 | 社区开放麦#32 / ONNX 新特性和最佳实践介绍 | - | AI 论文精读 | - | - | 66:28 | [link](https://www.bilibili.com/video/BV1LG411K7ah) |
+| 1161 | 社区开放麦#33 / 详解 ACCV22 大规模细粒度图像分类夺冠方案 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmselfsup/tree/dev-1.x/projects/fgia_accv2022_1st) [github.com](https://github.com/open-mmlab/mmclassification/tree/dev-1.x/projects/fgia_accv2022_1st) | 36:03 | [link](https://www.bilibili.com/video/BV13M411S7b5) |
+| 1162 | 社区开放麦#34 / 突破 AI 推理性能瓶颈，神经网络量化的方法与实践 | - | AI 论文精读 | - | - | 64:09 | [link](https://www.bilibili.com/video/BV128411n7yN) |
+| 1163 | AI 奇妙夜#3 / 大规模多模态预训练最新研究进展 | - | AI 论文精读 | - | - | 53:10 | [link](https://www.bilibili.com/video/BV1J14y1A7SE) |
+| 1164 | 社区开放麦#36 多模态场景下的高性能 Embedding 计算服务 | - | AI 论文精读 | - | - | 52:10 | [link](https://www.bilibili.com/video/BV1ET411m7gu) |
+| 1165 | 社区开放麦#37 / 牛津大学vgg组博士：提高遮挡检测下的目标检测效果 | - | AI 论文精读 | - | - | 55:18 | [link](https://www.bilibili.com/video/BV1NA41167kN) |
+| 1166 | 社区开放麦#38 目标检测新范式！DETR 系列算法解读 | - | AI 论文精读 | - | - | 123:27 | [link](https://www.bilibili.com/video/BV17x4y1w7ZK) |
+| 1167 | 弱监督有向目标检测 / 杨学 | - | AI 论文精读 | - | - | 64:14 | [link](https://www.bilibili.com/video/BV1GD4y1g7s8) |
+| 1168 | 社区开放麦#41 / 视觉大模型设计新范式 | - | AI 论文精读 | - | - | 66:15 | [link](https://www.bilibili.com/video/BV1zs4y15754) |
+| 1169 | AI 奇妙夜#4 / 文字识别：从数据趋动到模型自监督 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmocr) | 66:35 | [link](https://www.bilibili.com/video/BV1Zb41197V4) |
+| 1170 | 社区开放麦#42 / 面向自动驾驶场景的纯视觉三维语义占有预测 | - | AI 论文精读 | - | - | 70:13 | [link](https://www.bilibili.com/video/BV1P54y1T7vS) |
+| 1171 | 社区开放麦#43 / 高精度实例分割 PatchDCT | - | AI 论文精读 | - | - | 22:03 | [link](https://www.bilibili.com/video/BV1Sx4y1w7JK) |
+| 1172 | AI奇妙夜#5 / “视觉与语言”跨模态智能及应用 | - | AI 论文精读 | - | - | 60:59 | [link](https://www.bilibili.com/video/BV1Y84y1g7nP) |
+| 1173 | CVPR 2023 有向目标检测角度预测新方法 — 相移编码 / 社区开放麦#45 | - | AI 论文精读 | - | - | 41:41 | [link](https://www.bilibili.com/video/BV1Cv4y1n72h) |
+| 1174 | 业界可用的高性能的姿态估计模型能有多快？ / 社区开放麦#46 | - | AI 论文精读 | - | - | 87:37 | [link](https://www.bilibili.com/video/BV1Wc411p7HT) |
+| 1175 | CVPR2023 首个大规模全场景人体数据集 Human-Art / 社区开放麦#47 | - | AI 论文精读 | - | - | 59:00 | [link](https://www.bilibili.com/video/BV1Hs4y1d7bJ) |
+| 1176 | MOSS：如何打造对话式语言模型 / 社区开放麦#48 | - | AI 论文精读 | - | - | 65:19 | [link](https://www.bilibili.com/video/BV1fa4y1V7xG) |
+| 1177 | 超大规模视觉通用感知模型-代季峰教授 / AI奇妙夜#6 | - | AI 论文精读 | - | - | 50:12 | [link](https://www.bilibili.com/video/BV1dM411g7Jn) |
+| 1178 | 视频理解基础模型及下游应用-王利民教授 / AI奇妙夜#7 | - | AI 论文精读 | - | - | 60:43 | [link](https://www.bilibili.com/video/BV1rz4y1t7b7) |
+| 1179 | ICLR Spotlight / 在卷积网络上做BERT式预训练 | - | AI 论文精读 | - | - | 56:44 | [link](https://www.bilibili.com/video/BV11s4y1M7qL) |
+| 1180 | HumanBench：迈向以人为中心的通才模型 | - | AI 论文精读 | - | - | 45:54 | [link](https://www.bilibili.com/video/BV1Q24y1N72o) |
+| 1181 | 低成本微调垂直领域专属 ChatGPT | - | AI 论文精读 | - | - | 67:12 | [link](https://www.bilibili.com/video/BV1Pz4y1q7yA) |
+| 1182 | 自动驾驶场景中的半监督点云分割 | - | AI 论文精读 | - | - | 63:23 | [link](https://www.bilibili.com/video/BV11u4y1d7S2) |
+| 1183 | 基于 Visual Transformer 的分割模型综述 | - | AI 论文精读 | - | - | 62:06 | [link](https://www.bilibili.com/video/BV1tc411M7DC) |
+| 1184 | AI 2.0：突破性技术推动智能制造的应用创新 | - | AI 论文精读 | - | - | 55:11 | [link](https://www.bilibili.com/video/BV1ch4y1M7Re) |
+| 1185 | 基于 SAM 大模型的实例分割研究 —— RSPrompter | - | AI 论文精读 | - | - | 52:55 | [link](https://www.bilibili.com/video/BV1J94y1i7bB) |
+| 1186 | 开放检测视觉场景理解 / 社区开放麦 | - | AI 论文精读 | - | - | 67:01 | [link](https://www.bilibili.com/video/BV1u14y1R7mn) |
+| 1187 | 运用 SAM 模型分割任意点云 | - | AI 论文精读 | - | - | 76:19 | [link](https://www.bilibili.com/video/BV1gm4y1j7M2) |
+| 1188 | MMBench：基于ChatGPT的全方位多模能力评测体系 | - | AI 论文精读 | - | [opencompass.org.cn](https://opencompass.org.cn/MMBench) [opencompass.org.cn](https://opencompass.org.cn/omni-rank) | 42:30 | [link](https://www.bilibili.com/video/BV16z4y1x7qG) |
+| 1189 | 迈向更强的端到端多人姿态估计 | - | AI 论文精读 | - | - | 65:30 | [link](https://www.bilibili.com/video/BV1fj41197R9) |
+| 1190 | SAM 时代，图像/视频分割将何去何从？ | - | AI 论文精读 | - | [openxlab.org.cn](https://openxlab.org.cn/apps/detail/keleiwhu/sam-hq) | 67:34 | [link](https://www.bilibili.com/video/BV1ZP41147xQ) |
+| 1191 | MFF：简单高效的多级特征融合自监督方法 / ICCV 2023 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpretrain/tree/dev) [readpaper.com](https://readpaper.com/paper/4784261971549618177?channel=OpenMMlab) | 39:03 | [link](https://www.bilibili.com/video/BV1q94y1z7Xe) |
+| 1192 | 更好的人体姿态，更好的生成图像 | - | AI 论文精读 | [2307.15880](https://arxiv.org/abs/2307.15880) | [yzd-v.github.io](https://yzd-v.github.io/page/) [github.com](https://github.com/IDEA-Research/DWPose) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/mmpose/RTMPose) | 33:05 | [link](https://www.bilibili.com/video/BV1rw411Q7t6) |
+| 1193 | 基于大规模多模态扩散模型的文本到视频生成 | - | AI 论文精读 | [2212.09478](https://arxiv.org/abs/2212.09478) | [github.com](https://github.com/researchmm/MM-Diffusion) [github.com](https://github.com/daooshee/HD-VG-130M) | 70:46 | [link](https://www.bilibili.com/video/BV1BP411h7oQ) |
+| 1194 | 多模态任务终结者：Meta-Transformer | - | AI 论文精读 | - | [readpaper.com](https://readpaper.com/paper/1880723763752826112?channel=OpenMMLab) | 59:30 | [link](https://www.bilibili.com/video/BV1Bu4y1y714) |
+| 1195 | 迈向更强的开集目标检测-From Detection to Grounding | - | AI 论文精读 | - | [readpaper.com](https://readpaper.com/paper/4731752776334327809?channel=OpenMMlab) | 57:19 | [link](https://www.bilibili.com/video/BV1Mk4y1F7cp) |
+| 1196 | 如何基于大模型构建智能体？多机构百页综述从交互角度详解 AI Agent！ | - | AI 论文精读 | - | - | 70:51 | [link](https://www.bilibili.com/video/BV1884y1U7CR) |
+| 1197 | 你的3D感知模型够鲁棒吗？Robo3D告诉你答案！ | - | AI 论文精读 | [2303.17597](https://arxiv.org/abs/2303.17597) | - | 69:08 | [link](https://www.bilibili.com/video/BV1nu411u7W6) |
+| 1198 | 如何高效微调大模型？技术原理与最佳实践揭秘！ | - | AI 论文精读 | - | [github.com](https://github.com/liguodongiot/llm-action/tree/main/train/peft) | 86:20 | [link](https://www.bilibili.com/video/BV1qw411c7Hd) |
+| 1199 | 大模型时代通用检测趋势解读及MMDetection未来展望 | - | AI 论文精读 | - | - | 82:24 | [link](https://www.bilibili.com/video/BV1o94y1L7fg) |
+| 1200 | CVPR23 / 3D Occupancy 预测冠军方案：FB-OCC | - | AI 论文精读 | - | - | 52:45 | [link](https://www.bilibili.com/video/BV1PX4y1e7zz) |
+| 1201 | 多模态 Agents：用大模型语言模型串联多模态专家 | - | AI 论文精读 | - | - | 39:48 | [link](https://www.bilibili.com/video/BV1mM411X7Zn) |
+| 1202 | 探索未知：LLM Agent 应用开发的全新时代 | - | AI 论文精读 | - | [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/622947810) [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/629589593) [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/633033220) | 67:39 | [link](https://www.bilibili.com/video/BV1W84y197qq) |
+| 1203 | AI时代数据应用的全链路工厂- Chat2DB | - | AI 论文精读 | - | [sqlgpt.cn](https://sqlgpt.cn/zh) [github.com](https://github.com/chat2db/Chat2DB/) | 35:53 | [link](https://www.bilibili.com/video/BV1re411m7p3) |
+| 1204 | 语音与音频生成 Amphion揭秘霉霉如何演唱《稻香》 | - | AI 论文精读 | [2312.09911](https://arxiv.org/abs/2312.09911) | [github.com](https://github.com/open-mmlab/Amphion) | 59:55 | [link](https://www.bilibili.com/video/BV1AV411R7SS) |
+| 1205 | RTMPose 家族史诗级更新！多人、全身一网打尽 | - | AI 论文精读 | [2312.07526](https://arxiv.org/abs/2312.07526) | [github.com](https://github.com/open-mmlab/mmpose/tree/main/projects/rtmo) | 80:21 | [link](https://www.bilibili.com/video/BV1P5411v7tz) |
+| 1206 | 清华提出首个面向无监督和半监督新意图发现的文本聚类框架USNID | - | AI 论文精读 | [2304.07699](https://arxiv.org/abs/2304.07699) | [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/10349963) [github.com](https://github.com/thuiar/TEXTOIR) | 69:12 | [link](https://www.bilibili.com/video/BV1464y1w73f) |
+| 1207 | Beyond Segmentation Anything，超越SAM | - | AI 论文精读 | [2312.06660](https://arxiv.org/abs/2312.06660) | [github.com](https://github.com/chongzhou96/EdgeSAM) [huggingface.co](https://huggingface.co/spaces/chongzhou/EdgeSAM) [github.com](https://github.com/HarborYuan/ovsam) | 68:50 | [link](https://www.bilibili.com/video/BV1xC411r7qq) |
+| 1208 | Sora 夜谈之 Video Diffusion 综述 | - | AI 论文精读 | - | [github.com](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) | 90:09 | [link](https://www.bilibili.com/video/BV1cJ4m1e7sQ) |
+| 1209 | 新一代换脸神器 InstantID：高保真人像秒级生成 | - | AI 论文精读 | [2401.07519](https://arxiv.org/abs/2401.07519) | [github.com](https://github.com/InstantID/InstantID) [instantid.github.io](https://instantid.github.io/) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/InstantX/InstantID) | 76:56 | [link](https://www.bilibili.com/video/BV1HH4y177T5) |
+| 1210 | CVPR 2024 - 具身智能中的多模态三维感知思考 | - | AI 论文精读 | [2312.16170](https://arxiv.org/abs/2312.16170) | [tai-wang.github.io](http://tai-wang.github.io/embodiedscan) [github.com](https://github.com/OpenRobotLab/EmbodiedScan) [opendrivelab.com](https://opendrivelab.com/challenge2024/#multiview_3d_visual_grounding) | 51:26 | [link](https://www.bilibili.com/video/BV1nt421V7UY) |
+| 1211 | PK 周杰伦，全能音乐创作大模型 SongComposer 作词作曲令人惊叹 | - | AI 论文精读 | [2402.17645](https://arxiv.org/abs/2402.17645) | [pjlab-songcomposer.github.io](https://pjlab-songcomposer.github.io/) | 66:09 | [link](https://www.bilibili.com/video/BV1bw4m1d7dK) |
+| 1212 | Stable Diffusion 3 论文技术解析，架构细节大揭秘！ | - | AI 论文精读 | - | [stabilityai-public-packages.s3.us-west-2.amazonaws.com](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf) | 58:15 | [link](https://www.bilibili.com/video/BV1Ni421d7ud) |
+| 1213 | 无需训练的 Stable Diffusion 视频编辑方法 | - | AI 论文精读 | [2306.07954](https://arxiv.org/abs/2306.07954) | [github.com](https://github.com/williamyang1991/Rerender_A_Video) | 56:49 | [link](https://www.bilibili.com/video/BV12w4m1R75t) |
+| 1214 | Latte 专场: 深度解读视频生成与训练技术 | - | AI 论文精读 | - | [github.com](https://github.com/Vchitect) [wyhsirius.github.io](https://wyhsirius.github.io/) [github.com](https://github.com/InternLM/xtuner) | 120:08 | [link](https://www.bilibili.com/video/BV14F4m1K7Wz) |
+| 1215 | 微软研究院谭旭带来零样本 TTS 模型 NaturalSpeech 3 | - | AI 论文精读 | - | [speechresearch.github.io](https://speechresearch.github.io/naturalspeech3/) [huggingface.co](https://huggingface.co/spaces/amphion/naturalspeech3_facodec) | 62:41 | [link](https://www.bilibili.com/video/BV1tm421s7B6) |
+| 1216 | 零样本语音生成大模型与Amphion实践 | - | AI 论文精读 | [2312.09911](https://arxiv.org/abs/2312.09911) | [github.com](https://github.com/open-mmlab/Amphion) | 67:19 | [link](https://www.bilibili.com/video/BV18C41177JA) |
+| 1217 | 多模态大模型的技术实践与思考 | - | AI 论文精读 | - | - | 65:53 | [link](https://www.bilibili.com/video/BV17n4y1d7wp) |
+| 1218 | 当大模型遇上心理咨询：基于心理咨询报告的对话重构和评测框架CPsyCoun | - | AI 论文精读 | - | - | 54:02 | [link](https://www.bilibili.com/video/BV1vJ4m1g7G4) |
+| 1219 | ACL 24 论文分享（东北大学信息检索小组场） | - | AI 论文精读 | - | - | 73:27 | [link](https://www.bilibili.com/video/BV144421Q7ir) |
+| 1220 | SD-Eval新基准，让语音交互大模型情智兼备 | - | AI 论文精读 | - | - | 47:56 | [link](https://www.bilibili.com/video/BV16E421A7wU) |
+| 1221 | 魔搭社区-浦语模型和工具实战 | - | AI 论文精读 | - | [modelscope.cn](https://www.modelscope.cn/studios/Shanghai_AI_Laboratory/MindSearch) [modelscope.cn](https://modelscope.cn/studios/opencompass/CompassArena) | 70:26 | [link](https://www.bilibili.com/video/BV1zy411i7yp) |
+| 1222 | 开源工具MinerU助力复杂PDF高效解析提取 | - | AI 论文精读 | - | - | 67:06 | [link](https://www.bilibili.com/video/BV15rHSeyEk2) |
+| 1223 | MindSearch：AI 时代的“思考型”智能搜索引擎 | - | AI 论文精读 | - | - | 58:35 | [link](https://www.bilibili.com/video/BV1UHy3YYEHz) |
+| 1224 | MaskGCT：基于掩码生成模型的大规模零样本 TTS 模型 | - | AI 论文精读 | - | - | 82:28 | [link](https://www.bilibili.com/video/BV1LJD1YsEd4) |
+| 1225 | 玩转 MMYOLO 之工具篇（一）：特征图可视化 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) | 17:48 | [link](https://www.bilibili.com/video/BV188411s7o8) |
+| 1226 | 玩转 MMYOLO 之基础篇（一）：配置文件全解读 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 18:33 | [link](https://www.bilibili.com/video/BV1214y157ck) |
+| 1227 | 【MMYOLO】超酷炫 RTMDet 特征图可视化 demo | - | AI 论文精读 | - | - | 0:33 | [link](https://www.bilibili.com/video/BV1je4y1478R) |
+| 1228 | 玩转 MMYOLO 之实用篇（一）: 源码阅读和调试「必备」技巧 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 43:02 | [link](https://www.bilibili.com/video/BV1N14y1V7mB) |
+| 1229 | MMYOLO 社区贡献者经验分享会 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 82:05 | [link](https://www.bilibili.com/video/BV12d4y1r7Nd) |
+| 1230 | 玩转 MMYOLO 之基础篇（二）： 工程文件结构简析 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 12:06 | [link](https://www.bilibili.com/video/BV1LP4y117jS) |
+| 1231 | 玩转 MMYOLO 之实用篇（二）: 10分钟带你换遍主干网络 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 9:07 | [link](https://www.bilibili.com/video/BV1JG4y1d7GC) |
+| 1232 | 玩转 MMYOLO 之工具篇（二）：十分钟轻松掌握大图推理 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 11:34 | [link](https://www.bilibili.com/video/BV1EK411R7Ws) |
+| 1233 | 玩转 MMYOLO 之实用篇（三）：自定义数据集从标注到部署保姆级教程 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 49:30 | [link](https://www.bilibili.com/video/BV1RG4y137i5) |
+| 1234 | 玩转 MMYOLO 之实用篇（四）：顶会第一步 · 模块自定义 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 8:15 | [link](https://www.bilibili.com/video/BV1yd4y1j7VD) |
+| 1235 | 玩转 MMYOLO 之实用篇（五）：训练和测试技巧合集 | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmyolo) [github.com](https://github.com/open-mmlab/mmyolo/issues/136) [github.com](https://github.com/open-mmlab/OpenMMLabCourse) | 24:29 | [link](https://www.bilibili.com/video/BV1GM4y1U77z) |
+| 1236 | 清华大学导师亲授！3D目标检测超硬核课程新鲜出炉~ | - | AI 论文精读 | - | - | 100:24 | [link](https://www.bilibili.com/video/BV1Sc411K7L1) |
+| 1237 | 人体关键点检测与MMPose | - | AI 论文精读 | - | - | 50:23 | [link](https://www.bilibili.com/video/BV1kk4y1L7Xb) |
+| 1238 | 1. PyTorch 模型部署基础知识 | - | AI 论文精读 | - | - | 41:49 | [link](https://www.bilibili.com/video/BV1Tx4y1F768) |
+| 1239 | 2. 安装配置 MMDeploy 环境 | - | AI 论文精读 | - | - | 10:03 | [link](https://www.bilibili.com/video/BV1yX4y1X7jp) |
+| 1240 | 3. 部署 MMClassification 图像分类模型 | - | AI 论文精读 | - | - | 5:45 | [link](https://www.bilibili.com/video/BV1V84y1J7MT) |
+| 1241 | 4. 部署 MMDetection 目标检测模型 | - | AI 论文精读 | - | - | 2:55 | [link](https://www.bilibili.com/video/BV11R4y1v7L2) |
+| 1242 | 自监督学习与 MMSelfSup | - | AI 论文精读 | - | - | 66:02 | [link](https://www.bilibili.com/video/BV1iu4y1e7tV) |
+| 1243 | Linux 前置基础（基本命令、SSH及端口映射） | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp4/docs/L0/linux) [github.com](https://github.com/InternLM/Tutorial/tree/camp4/docs/L0/linux/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz4) | 15:01 | [link](https://www.bilibili.com/video/BV13U1VYmEUr) |
+| 1244 | Python 前置基础（熟悉断点调试、依赖指定路径安装） | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/Python) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/Python/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzl0python) | 10:34 | [link](https://www.bilibili.com/video/BV1u61jYSExg) |
+| 1245 | Git 前置基础（熟悉常见 Git 命令及GitHub 平台） | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/git) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/git/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz_git) | 14:40 | [link](https://www.bilibili.com/video/BV15MShYkEgg) |
+| 1246 | 玩转Hugging Face/魔搭/魔乐平台(熟悉模型下载上传及应用上传) | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/maas) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/maas/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzl0maas) | 11:04 | [link](https://www.bilibili.com/video/BV1XxStYYEH1) |
+| 1247 | 书生·浦语大模型开源开放体系 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp4/docs/L1/ToolChain) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz_toolchain) [studio.intern-ai.org.cn](https://studio.intern-ai.org.cn/) | 29:01 | [link](https://www.bilibili.com/video/BV1CkSUYGE1v) |
+| 1248 | 玩转书生「多模态对话」与「AI 搜索」产品 | - | AI 论文精读 | - | [internlm.intern-ai.org.cn](https://internlm.intern-ai.org.cn/) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/InternIntro) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/InternIntro/tasks.md) | 4:49 | [link](https://www.bilibili.com/video/BV1ExDQYyEAA) |
+| 1249 | 浦语提示词工程实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/Prompt) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/Prompt/tasks.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzprompt) | 70:53 | [link](https://www.bilibili.com/video/BV1tjS7YfEWJ) |
+| 1250 | 浦语+LlamaIndex 外挂知识库 RAG 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/LlamaIndex/readme_api.md) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/LlamaIndex/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzxtuner) | 55:19 | [link](https://www.bilibili.com/video/BV1YzDJY1E2i) |
+| 1251 | XTuner 微调 InternLM 个人小助手认知实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/XTuner) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/XTuner/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzxtuner) | 23:47 | [link](https://www.bilibili.com/video/BV1G9SJYGEtD) |
+| 1252 | OpenCompass 评测书生大模型实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/Evaluation) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/Evaluation/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzoc) | 23:42 | [link](https://www.bilibili.com/video/BV1dtD4YKENj) |
+| 1253 | Lagent 从零搭建你的 Multi-Agent (书生·浦语 API 版) | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/Agent) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/Agent/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzlagent) | 22:29 | [link](https://www.bilibili.com/video/BV19RzcYaEFy) |
+| 1254 | LMDeploy 量化部署进阶实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/LMDeploy) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/LMDeploy/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bz_lmdeploy) | 89:57 | [link](https://www.bilibili.com/video/BV18aUHY3EEG) |
+| 1255 | 多模态大模型发展简述及其微调部署实践(InternVL2为例) | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/InternVL) [github.com](https://github.com/InternLM/Tutorial/blob/camp4/docs/L2/InternVL/task.md) [colearn.intern-ai.org.cn](https://colearn.intern-ai.org.cn/set?s=bzinternvl) | 23:10 | [link](https://www.bilibili.com/video/BV1nESCYWEnN) |
+| 1256 | InternLM+WasmEdge 部署智能体实践 | - | AI 论文精读 | - | - | 13:52 | [link](https://www.bilibili.com/video/BV1K2rAYeEXG) |
+| 1257 | EgoExolearn跨视角技能学习数据集 | - | AI 论文精读 | - | - | 25:11 | [link](https://www.bilibili.com/video/BV1pT42167pQ) |
+| 1258 | 单阶段多维度模型搜索范式 | - | AI 论文精读 | - | - | 34:25 | [link](https://www.bilibili.com/video/BV1Yb421J7wA) |
+| 1259 | MVBench 多模态视频评测体系 | - | AI 论文精读 | - | - | 28:53 | [link](https://www.bilibili.com/video/BV1ZE4m1R7Tc) |
+| 1260 | 人机协作的视觉生成 | - | AI 论文精读 | - | - | 29:13 | [link](https://www.bilibili.com/video/BV1fZ421N7re) |
+| 1261 | 个性化图像动画生成器，利用文本提示将图像变为奇妙的动画 | - | AI 论文精读 | [2312.13964](https://arxiv.org/abs/2312.13964) | [github.com](https://github.com/open-mmlab/PIA) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/zhangyiming/PiaPia/) | 28:27 | [link](https://www.bilibili.com/video/BV1PE4m197ZM) |
+| 1262 | 基于像素点的拖拽式图像编辑分享 | - | AI 论文精读 | - | [github.com](https://github.com/LPengYang/FreeDrag) [openxlab.org.cn](https://openxlab.org.cn/apps/detail/LPengYang/FreeDrag) | 38:13 | [link](https://www.bilibili.com/video/BV1XH4y1c78r) |
+| 1263 | GenNBV：面向主动三维重建的可泛化最佳视角探索策略 | - | AI 论文精读 | [2402.16174](https://arxiv.org/abs/2402.16174) | [github.com](https://github.com/zjwzcx/GenNBV) | 37:23 | [link](https://www.bilibili.com/video/BV1yy411i7jh) |
+| 1264 | 多模态大模型幻觉成因解释以及基于惩罚回退策略的幻觉缓解方法 | - | AI 论文精读 | [2311.17911](https://arxiv.org/abs/2311.17911) | [github.com](https://github.com/shikiw/OPERA) | 25:13 | [link](https://www.bilibili.com/video/BV1QH4y1c7p3) |
+| 1265 | 中文常识推理基准-CHARM | - | AI 论文精读 | [2403.14112](https://arxiv.org/abs/2403.14112) | [github.com](https://github.com/opendatalab/CHARM) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/CHARM) | 12:23 | [link](https://www.bilibili.com/video/BV1QcmdYiExz) |
+| 1266 | 分享 SALAD-BENCH 数据集与评估方法 | - | AI 论文精读 | - | [github.com](https://github.com/OpenSafetyLab/SALAD-BENCH) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/SALAD-Bench) | 28:19 | [link](https://www.bilibili.com/video/BV1KimoYaExY) |
+| 1267 | 评估大语言模型多轮对话能力的细粒度评测集 | - | AI 论文精读 | - | [aclanthology.org](https://aclanthology.org/2024.acl-long.401/) [github.com](https://github.com/mtbench101) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MT-Bench-101) | 23:11 | [link](https://www.bilibili.com/video/BV1mvmoYAEAv) |
+| 1268 | ConvBench：多轮视觉对话评测基准与能力解耦评测方式 | - | AI 论文精读 | [2406.11833](https://arxiv.org/abs/2406.11833) | [github.com](https://github.com/Liuziyu77/MMDU) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MMDU) | 17:00 | [link](https://www.bilibili.com/video/BV1QbcRevE61) |
+| 1269 | GTA：大模型复杂任务工具调用能力评测 | - | AI 论文精读 | [2407.08713](https://arxiv.org/abs/2407.08713) | [open-compass.github.io](https://open-compass.github.io/GTA) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/GTA) | 17:17 | [link](https://www.bilibili.com/video/BV1cucReJETD) |
+| 1270 | MMDU：高质量多图多轮对话数据集 | - | AI 论文精读 | [2406.11833](https://arxiv.org/abs/2406.11833) | [github.com](https://github.com/Liuziyu77/MMDU) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MMDU) | 15:36 | [link](https://www.bilibili.com/video/BV1HTcReDEhX) |
+| 1271 | MMLongBench-Doc：使用可视化对长上下文文档理解进行基准测试 | - | AI 论文精读 | [2407.01523](https://arxiv.org/abs/2407.01523) | [github.com](https://github.com/mayubo2333/MMLongBench-Doc) [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MMLongBench-Doc) | 25:00 | [link](https://www.bilibili.com/video/BV19scReMEdS) |
+| 1272 | 多模态推理的评测以及后训练 | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/MMIU) | 17:44 | [link](https://www.bilibili.com/video/BV1C9XrYaEyz) |
+| 1273 | 多模态动态评测（Oral） | - | AI 论文精读 | - | - | 20:41 | [link](https://www.bilibili.com/video/BV1P9XrYYEje) |
+| 1274 | LOKI：基于多模态大模型的合成数据检测基准 | - | AI 论文精读 | - | [hub.opencompass.org.cn](https://hub.opencompass.org.cn/dataset-detail/LOKI) | 37:35 | [link](https://www.bilibili.com/video/BV1JJXrYdEXi) |
+| 1275 | Sim-CoT 驱动高效隐式思考 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/SIM-CoT) | 28:03 | [link](https://www.bilibili.com/video/BV1VGEC6fErh) |
+| 1276 | 数据分布解读 RL 如何“学新不忘旧” | - | AI 论文精读 | - | - | 24:25 | [link](https://www.bilibili.com/video/BV1afE16NEXf) |
+| 1277 | 数据驱动的大模型长度泛化推理新范式 | - | AI 论文精读 | [2507.13332](https://arxiv.org/abs/2507.13332) | - | 14:15 | [link](https://www.bilibili.com/video/BV1H2TF64Ek9) |
+| 1278 | 利用智能体解锁地球观测的完整图景 | - | AI 论文精读 | [2509.23141](https://arxiv.org/abs/2509.23141) | [opendatalab.github.io](https://opendatalab.github.io/Earth-Agent/) | 13:43 | [link](https://www.bilibili.com/video/BV1LUTj6FE9N) |
+| 1279 | 冗余性解耦的高效长文本偏好优化 | - | AI 论文精读 | - | [openreview.net](https://openreview.net/pdf?id=iiBjaiikJG) [github.com](https://github.com/shs910/SoLoPO) | 30:48 | [link](https://www.bilibili.com/video/BV12uTQ6CEHz) |
+| 1280 | AI科研加速营第1课｜用AI快速看懂一个研究方向 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 17:37 | [link](https://www.bilibili.com/video/BV1jMY163EWE) |
+| 1281 | AI科研加速营第2课｜AI论文工作流：检索、精读与核验 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 12:32 | [link](https://www.bilibili.com/video/BV1tTen6ZEmy) |
+| 1282 | AI科研加速营第3课｜建立可持续更新的研究上下文 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 18:30 | [link](https://www.bilibili.com/video/BV11zec6NE3k) |
+| 1283 | AI科研加速营第4课｜AI辅助实验设计：科学数据与计算一体化实践 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 41:38 | [link](https://www.bilibili.com/video/BV1FTeG6dEQ4) |
+| 1284 | AI科研加速营第5课｜AI辅助论文与课题申请书写作 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 20:59 | [link](https://www.bilibili.com/video/BV1xLe16bE2p) |
+| 1285 | AI科研加速营第6课｜把科研方法沉淀为可复用的Agent Skill | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 17:55 | [link](https://www.bilibili.com/video/BV1TZem6BEQP) |
+| 1286 | AI科研加速营第7课｜通往可扩展、统一的蛋白基础模型之路 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 33:54 | [link](https://www.bilibili.com/video/BV1sHem6AEXD) |
+| 1287 | AI科研加速营第8课｜大模型时代的物质科学研究 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 18:23 | [link](https://www.bilibili.com/video/BV1Vfhv6BEXx) |
+| 1288 | AI科研加速营第9课｜地球科学中的科学智能：从工具的革命到革命的工具 | - | AI 论文精读 | - | [sensorsdata.intern-ai.org.cn](https://sensorsdata.intern-ai.org.cn/t/ca) | 24:30 | [link](https://www.bilibili.com/video/BV16RhE6TEmM) |
+| 1289 | OpenMMLab 环境配置 （一） Windows 11 CPU | - | AI 论文精读 | - | [mmsig.openmmlab.com](https://mmsig.openmmlab.com/general/env/win11) | 18:43 | [link](https://www.bilibili.com/video/BV1Bh41157gL) |
+| 1290 | 通用、统一且灵活的开源算法平台 OpenMMLab 2.0 / CVPR 2023 （全英分享） | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab) | 17:28 | [link](https://www.bilibili.com/video/BV1Zg4y1P7LB) |
+| 1291 | 视觉基础模型的探索：MMPreTrain / CVPR 2023 (全英分享) | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmpretrain) | 31:56 | [link](https://www.bilibili.com/video/BV11s4y1C7S9) |
+| 1292 | 通用目标检测工具 MMDetection3.0 / CVPR 2023 （全英分享） | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmdetection) | 30:47 | [link](https://www.bilibili.com/video/BV1214y1274j) |
+| 1293 | 图像与视频生成、编辑和增强工具 MMagic / CVPR 2023 （全英分享） | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmagic) | 26:08 | [link](https://www.bilibili.com/video/BV1nX4y1q7DF) |
+| 1294 | 面向人工智能的开放数据平台：OpenDataLab / CVPR 2023 （全英分享） | - | AI 论文精读 | - | - | 12:09 | [link](https://www.bilibili.com/video/BV1Hm4y1a7Xa) |
+| 1295 | 【CVPR-2022】/ Kai Chen -- Overview of OpenMMLab and Recent Updates | - | AI 论文精读 | - | - | 38:09 | [link](https://www.bilibili.com/video/BV1H84y1z7Ce) |
+| 1296 | 【CVPR-2022】/ Chen Change Loy -- Improving Video Super-Resolution | - | AI 论文精读 | - | - | 32:03 | [link](https://www.bilibili.com/video/BV1mP411P7za) |
+| 1297 | 【CVPR-2022】/ Han Hu -- Convergence of Architectures and Learning Methods | - | AI 论文精读 | - | - | 33:38 | [link](https://www.bilibili.com/video/BV1vG411j79R) |
+| 1298 | 【CVPR-2022】/ Hang Zhao -- Vision-centric 3D Perception | - | AI 论文精读 | - | - | 32:42 | [link](https://www.bilibili.com/video/BV1y44y1f72z) |
+| 1299 | 【CVPR-2022】/ Haodong Duan -- Action Understanding in A Human-centric View | - | AI 论文精读 | - | - | 24:33 | [link](https://www.bilibili.com/video/BV1iG4y1p78W) |
+| 1300 | Wenwei Zhang / General Detection with MMDetection | - | AI 论文精读 | - | - | 34:02 | [link](https://www.bilibili.com/video/BV1A8411F7Ti) |
+| 1301 | OpenMMLab：视觉、语言与生成式人工智能开源平台 | - | AI 论文精读 | - | - | 21:25 | [link](https://www.bilibili.com/video/BV1z94y18767) |
+| 1302 | OpenMMLab基础模型研究进展 | - | AI 论文精读 | - | - | 28:52 | [link](https://www.bilibili.com/video/BV1tC4y157hc) |
+| 1303 | OpenDataLab —— 一个面向人工智能的开放数据平台 | - | AI 论文精读 | - | - | 14:37 | [link](https://www.bilibili.com/video/BV1334y1G7RA) |
+| 1304 | MMagic —— 图像与视频生成、编辑及增强工具库 | - | AI 论文精读 | - | - | 21:40 | [link](https://www.bilibili.com/video/BV1P94y187HE) |
+| 1305 | MMDetection：从通用目标检测迈向多模态智能体 | - | AI 论文精读 | - | - | 33:54 | [link](https://www.bilibili.com/video/BV1134y1u7dq) |
+| 1306 | 书生·浦语大模型全链路开源体系 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/InternLM/) [wjx.cn](https://www.wjx.cn/vm/tUX8dEV.aspx?udsid=240962) | 36:24 | [link](https://www.bilibili.com/video/BV1Vx421X72D) |
+| 1307 | 轻松玩转书生·浦语大模型趣味 Demo | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md) [wjx.cn](https://www.wjx.cn/vm/tUX8dEV.aspx?udsid=240962) [github.com](https://github.com/InternLM/InternLM) | 21:15 | [link](https://www.bilibili.com/video/BV1AH4y1H78d) |
+| 1308 | 茴香豆：搭建你的 RAG 智能助理 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/huixiangdou/readme.md) [wjx.cn](https://www.wjx.cn/vm/tUX8dEV.aspx?udsid=240962) [github.com](https://github.com/InternLM/HuixiangDou) | 42:26 | [link](https://www.bilibili.com/video/BV1QA4m1F7t4) |
+| 1309 | XTuner 微调 LLM：1.8B、多模态、Agent | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/xtuner/readme.md) [github.com](https://github.com/InternLM/Tutorial/blob/camp2/xtuner/homework.md) [github.com](https://github.com/InternLM/XTuner) | 72:29 | [link](https://www.bilibili.com/video/BV15m421j78d) |
+| 1310 | LMDeploy 量化部署 LLM-VLM 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/lmdeploy/README.md) [github.com](https://github.com/InternLM/Tutorial/blob/camp2/lmdeploy/homework.md) [github.com](https://github.com/InternLM/LMDeploy) | 52:30 | [link](https://www.bilibili.com/video/BV1tr421x75B) |
+| 1311 | Lagent & AgentLego 智能体应用搭建 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp2/agent) [github.com](https://github.com/InternLM/Tutorial/blob/camp2/agent/homework.md) [github.com](https://github.com/InternLM/Lagent) | 35:40 | [link](https://www.bilibili.com/video/BV1Xt4217728) |
+| 1312 | OpenCompass 大模型评测实战 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/opencompass/readme.md) [github.com](https://github.com/InternLM/Tutorial/blob/camp2/opencompass/homework.md) [github.com](https://github.com/open-compass/opencompass) | 45:36 | [link](https://www.bilibili.com/video/BV1Pm41127jU) |
+| 1313 | 大模型微调数据构造（补充课程） | - | AI 论文精读 | - | - | 38:14 | [link](https://www.bilibili.com/video/BV1Dx4y1z7Ju) |
+| 1314 | 多模态简述 | - | AI 论文精读 | - | - | 46:34 | [link](https://www.bilibili.com/video/BV12E421A76T) |
+| 1315 | LMDeploy 量化部署 InternVL 浦语灵笔实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/tree/camp2/lmdeploy_vlm) | 7:19 | [link](https://www.bilibili.com/video/BV11m421373q) |
+| 1316 | XTuner 微调 LLaVA 实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/Tutorial/blob/camp2/xtuner/llava/xtuner_llava.md) | 28:28 | [link](https://www.bilibili.com/video/BV1vZ421M7ig) |
+| 1317 | AI实战营第二期 开营仪式 | - | AI 论文精读 | - | - | 66:24 | [link](https://www.bilibili.com/video/BV1sc411V74M) |
+| 1318 | Github八万star，开源计算机视觉神器OpenMMLab | - | AI 论文精读 | - | [openmmlab.com](https://openmmlab.com) [github.com](https://github.com/open-mmlab) | 27:02 | [link](https://www.bilibili.com/video/BV1js4y1i72P) |
+| 1319 | 深度学习预训练与MMPretrain | - | AI 论文精读 | - | - | 38:07 | [link](https://www.bilibili.com/video/BV1PN411y7C1) |
+| 1320 | 目标检测与MMDetection | - | AI 论文精读 | - | - | 89:59 | [link](https://www.bilibili.com/video/BV1Ak4y1p7W9) |
+| 1321 | MMDetection代码课 | - | AI 论文精读 | - | - | 46:49 | [link](https://www.bilibili.com/video/BV1Tm4y1q7fy) |
+| 1322 | 语义分割与MMSegmentation | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmsegmentation) [github.com](https://github.com/TommyZihao/MMSegmentation_Tutorials) | 37:05 | [link](https://www.bilibili.com/video/BV1gV4y1m74P) |
+| 1323 | 玩转AIGC神器MMagic | - | AI 论文精读 | - | [github.com](https://github.com/open-mmlab/mmagic) [github.com](https://github.com/TommyZihao/MMagic_Tutorials) | 31:24 | [link](https://www.bilibili.com/video/BV1gM4y1n7vP) |
+| 1324 | 【OpenMMLab 2.0 系列直播】OpenMMLab 2.0 整体介绍 | - | AI 论文精读 | - | - | 22:15 | [link](https://www.bilibili.com/video/BV1Yd4y1z7bo) |
+| 1325 | 【OpenMMLab 2.0 系列直播】MMEngine & MMCV 介绍 | - | AI 论文精读 | - | - | 82:27 | [link](https://www.bilibili.com/video/BV15B4y1779M) |
+| 1326 | 【OpenMMLab 2.0 系列直播】MMClassification 介绍 | - | AI 论文精读 | - | - | 28:11 | [link](https://www.bilibili.com/video/BV1x24y1R7mD) |
+| 1327 | 【OpenMMLab 2.0 系列直播】MMSelfsup 介绍 | - | AI 论文精读 | - | - | 15:53 | [link](https://www.bilibili.com/video/BV1214y1h7CJ) |
+| 1328 | 【OpenMMLab 2.0 系列直播】MMDetection 介绍 | - | AI 论文精读 | - | - | 31:26 | [link](https://www.bilibili.com/video/BV19G411g7w9) |
+| 1329 | 【OpenMMLab 2.0 系列直播】MMDetection3D 介绍 | - | AI 论文精读 | - | - | 17:32 | [link](https://www.bilibili.com/video/BV1YD4y117w6) |
+| 1330 | 【OpenMMLab 2.0 系列直播】OpenMMLab 社区荣誉体系介绍 | - | AI 论文精读 | - | - | 16:50 | [link](https://www.bilibili.com/video/BV1kB4y1J7u9) |
+| 1331 | 【OpenMMLab 2.0 系列直播】MMSegmentation 介绍 | - | AI 论文精读 | - | - | 42:06 | [link](https://www.bilibili.com/video/BV1F841147JZ) |
+| 1332 | 【OpenMMLab 2.0 系列直播】 MMAction2 介绍 | - | AI 论文精读 | - | - | 18:03 | [link](https://www.bilibili.com/video/BV1V841147Jp) |
+| 1333 | 【OpenMMLab 2.0 系列直播】MMPose 介绍 | - | AI 论文精读 | - | - | 33:39 | [link](https://www.bilibili.com/video/BV11B4y1J7oD) |
+| 1334 | 【OpenMMLab 2.0 系列直播】 MMEditing & MMGeneration 介绍 | - | AI 论文精读 | - | - | 34:12 | [link](https://www.bilibili.com/video/BV1Xd4y1M7zE) |
+| 1335 | 【OpenMMLab 2.0 系列直播】MMOCR 介绍 | - | AI 论文精读 | - | - | 43:42 | [link](https://www.bilibili.com/video/BV1wY4y1K7DZ) |
+| 1336 | 【OpenMMLab 2.0 系列直播】MMRazor 介绍 | - | AI 论文精读 | - | - | 51:11 | [link](https://www.bilibili.com/video/BV1ug411e7Jp) |
+| 1337 | 【OpenMMLab 2.0 系列直播】MMYOLO 介绍 | - | AI 论文精读 | - | - | 26:03 | [link](https://www.bilibili.com/video/BV19e4y1674D) |
+| 1338 | 【OpenMMLab 2.0 系列直播】RTMDet | - | AI 论文精读 | - | - | 36:58 | [link](https://www.bilibili.com/video/BV1e841147GD) |
+| 1339 | 大模型时代下视觉网络的创新设计与拓展 / 热门研究 云际会#1 | - | AI 论文精读 | - | - | 136:51 | [link](https://www.bilibili.com/video/BV18L411m7jU) |
+| 1340 | 多模态大模型的前奏：迈向真实世界的通用感知 / 热门研究云际会#2 | - | AI 论文精读 | - | - | 118:53 | [link](https://www.bilibili.com/video/BV1W24y1c7mB) |
+| 1341 | 探索之路：OCR 领域在大模型浪潮中的创新契机 / 热门研究云际会#3 | - | AI 论文精读 | - | - | 119:15 | [link](https://www.bilibili.com/video/BV1Lh411E787) |
+| 1342 | 多模态扩散模型的革新应用 / 热门研究云际会#4 | - | AI 论文精读 | - | - | 123:44 | [link](https://www.bilibili.com/video/BV1pP411273K) |
+| 1343 | 基于 SiliconCloud 平台使用 MindSearch | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/mindsearch) [mindsearch.netlify.app](https://mindsearch.netlify.app/) [cloud.siliconflow.cn](https://cloud.siliconflow.cn/playground/chat) | 18:13 | [link](https://www.bilibili.com/video/BV163sxeZEPi) |
+| 1344 | AI 实战营开营仪式 | - | AI 论文精读 | - | - | 48:06 | [link](https://www.bilibili.com/video/BV1o3411X7MB) |
+| 1345 | 1 计算机视觉算法基础与OpenMMLab介绍 | - | AI 论文精读 | - | - | 114:53 | [link](https://www.bilibili.com/video/BV1Ty4y1X7X1) |
+| 1346 | 2 计算机视觉之图像分类算法基础 | - | AI 论文精读 | - | - | 91:03 | [link](https://www.bilibili.com/video/BV1js4y1W7CN) |
+| 1347 | 3 图像分类代码实战与超算平台介绍 | - | AI 论文精读 | - | - | 117:34 | [link](https://www.bilibili.com/video/BV1MA411k7NT) |
+| 1348 | 4 目标检测算法基础 | - | AI 论文精读 | - | - | 75:28 | [link](https://www.bilibili.com/video/BV1Ay4y1Q7mC) |
+| 1349 | 5 MMDetection 代码教学 | - | AI 论文精读 | - | - | 134:41 | [link](https://www.bilibili.com/video/BV1Av4y1475i) |
+| 1350 | 6 语义分割算法基础 | - | AI 论文精读 | - | - | 61:09 | [link](https://www.bilibili.com/video/BV1s24y1W7Xa) |
+| 1351 | 7 MMSegmentation 代码教学 | - | AI 论文精读 | - | - | 79:20 | [link](https://www.bilibili.com/video/BV1eT411R7Jq) |
+| 1352 | AI实战营 结营仪式 | - | AI 论文精读 | - | - | 17:33 | [link](https://www.bilibili.com/video/BV1ge4y1c7tY) |
+| 1353 | 书生·浦语大模型全链路开源体系 | - | AI 论文精读 | - | [github.com](https://github.com/internLM/tutorial) | 42:00 | [link](https://www.bilibili.com/video/BV1Rc411b7ns) |
+| 1354 | 轻松玩转书生·浦语大模型趣味Demo | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/helloworld/hello_world.md) | 45:49 | [link](https://www.bilibili.com/video/BV1Ci4y1z72H) |
+| 1355 | 基于 InternLM 和 LangChain 搭建你的知识库 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/tree/main/langchain) | 39:17 | [link](https://www.bilibili.com/video/BV1sT4y1p71V) |
+| 1356 | XTuner 大模型单卡低成本微调实战 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/xtuner/README.md) [github.com](https://github.com/internLM/xtuner) | 94:01 | [link](https://www.bilibili.com/video/BV1yK4y1B75J) |
+| 1357 | XTuner 大模型低成本微调作业讲解——个人小助手认知微调实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/xtuner/self.md) | 15:58 | [link](https://www.bilibili.com/video/BV13t4y1o75X) |
+| 1358 | LMDeploy 大模型量化部署实践 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/lmdeploy/lmdeploy.md) [github.com](https://github.com/internLM/lmdeploy) | 91:12 | [link](https://www.bilibili.com/video/BV1iW4y1A77P) |
+| 1359 | OpenCompass 大模型评测 | - | AI 论文精读 | - | [github.com](https://github.com/InternLM/tutorial/blob/main/opencompass/opencompass_tutorial.md) [github.com](https://github.com/open-compass/opencompass) | 51:31 | [link](https://www.bilibili.com/video/BV1Gg4y1U7uc) |
 
 ## Per entry
 
@@ -2175,6 +2175,194 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 - **论文分享TempSamp-R1：用混合采样强化视频大模型时序定位** - [arXiv:2509.18056](https://arxiv.org/abs/2509.18056) | [arxiv.org](https://arxiv.org/abs/2509.18056) | [github.com](https://github.com/HVision-NKU/TempSamp-R1) | [B station](https://www.bilibili.com/video/BV1QVKb6mEFm)
 - **论文分享 FlashInfer：面向大模型推理服务的高效 Attention 引擎** - [arXiv:2501.01005](https://arxiv.org/abs/2501.01005) | [arxiv.org](https://arxiv.org/abs/2501.01005) | [github.com](https://github.com/flashinfer-ai/flashinfer) | [B station](https://www.bilibili.com/video/BV1QKgQ6xEgh)
 - **论文分享 CAKE：面向长上下文大模型的自适应 KV Cache 淘汰框架** - [arXiv:2503.12491](https://arxiv.org/abs/2503.12491) | [arxiv.org](https://arxiv.org/abs/2503.12491) | [github.com](https://github.com/antgroup/cakekv) | [B station](https://www.bilibili.com/video/BV16w3a6HEfe)
+- **01 课程介绍** - [B station](https://www.bilibili.com/video/BV16BGbzAEq2)
+- **01 神经网络基础** - [B station](https://www.bilibili.com/video/BV1cBGbzPE3T)
+- **02 深度学习的进化** - [B station](https://www.bilibili.com/video/BV1cBGbzPEKk)
+- **03 大语言模型** - [B station](https://www.bilibili.com/video/BV1cBGbzPEb2)
+- **01 faster-RCNN算法原理** - [B station](https://www.bilibili.com/video/BV1rBGbzAEFS)
+- **02 fasterRCNN实战** - [B station](https://www.bilibili.com/video/BV16BGbzAEtd)
+- **03 YOLOv11实战** - [B station](https://www.bilibili.com/video/BV1cBGbzPEb1)
+- **01 文本情感分类实战_1** - [B station](https://www.bilibili.com/video/BV1rBGbzAE5P)
+- **02 文本情感分类实战_2** - [B station](https://www.bilibili.com/video/BV1FBGbzPEoQ)
+- **01 大模型预训练基础_1** - [B station](https://www.bilibili.com/video/BV16BGbzAEbA)
+- **02 大模型预训练基础_2** - [B station](https://www.bilibili.com/video/BV1aRGbzHEmA)
+- **01 数据准备_1** - [B station](https://www.bilibili.com/video/BV1XRGbzHECt)
+- **02 数据准备_2** - [B station](https://www.bilibili.com/video/BV1YRGbzHEgK)
+- **03 模型结构_1** - [B station](https://www.bilibili.com/video/BV1GRGbzpEyR)
+- **04 模型结构_2** - [B station](https://www.bilibili.com/video/BV1YRGbzHE5h)
+- **01 预训练任务实现** - [B station](https://www.bilibili.com/video/BV1XRGbzHEXj)
+- **02 训练优化_1** - [B station](https://www.bilibili.com/video/BV1YRGbzHEWn)
+- **03 训练优化_2** - [B station](https://www.bilibili.com/video/BV1aRGbzHEBG)
+- **01 性能评估** - [B station](https://www.bilibili.com/video/BV1YRGbzHEcL)
+- **01 课程介绍** - [B station](https://www.bilibili.com/video/BV1gMjBzJE1B)
+- **01 大模型微调概述** - [B station](https://www.bilibili.com/video/BV1gMjBzJEDw)
+- **01 模型数据收集与处理** - [B station](https://www.bilibili.com/video/BV1gMjBzJEP9)
+- **01 数据预处理理论** - [B station](https://www.bilibili.com/video/BV1gMjBzJEap)
+- **02 启发式规则** - [B station](https://www.bilibili.com/video/BV1gMjBzJEEM)
+- **03 评估模型过滤(1)** - [B station](https://www.bilibili.com/video/BV1DMjBzJEm9)
+- **04 评估模型过滤(2)** - [B station](https://www.bilibili.com/video/BV1gMjBzJEPy)
+- **05 完全匹配去重** - [B station](https://www.bilibili.com/video/BV1hMjBzJENe)
+- **06 近似匹配去重(1)** - [B station](https://www.bilibili.com/video/BV18MjBzJEY6)
+- **07 近似匹配去重(2)** - [B station](https://www.bilibili.com/video/BV1gMjBzJESX)
+- **01 大模型微调工具与主流框架介绍** - [B station](https://www.bilibili.com/video/BV1c4jBzTEto)
+- **02 微调框架实战(1)** - [B station](https://www.bilibili.com/video/BV1c4jBzTEpJ)
+- **03 微调框架实战(2)** - [B station](https://www.bilibili.com/video/BV1wsjBzBE9p)
+- **01 微调方法(1)** - [B station](https://www.bilibili.com/video/BV1wsjBzBEGW)
+- **02 微调方法(2)** - [B station](https://www.bilibili.com/video/BV1wsjBzBEKA)
+- **01 人类对齐** - [B station](https://www.bilibili.com/video/BV1x7jBzVEbX)
+- **01 大模型评估与问题解决(1)** - [B station](https://www.bilibili.com/video/BV1K7jBzVEFv)
+- **02 大模型评估与问题解决(2)** - [B station](https://www.bilibili.com/video/BV1mLjBzyEAc)
+- **01 法律大模型强化学习实战** - [B station](https://www.bilibili.com/video/BV1WnjBz3Eip)
+- **02 法律大模型评估实战(1)** - [B station](https://www.bilibili.com/video/BV1NnjBz3ETP)
+- **03 法律大模型评估实战(2)** - [B station](https://www.bilibili.com/video/BV1PnjBz3ELn)
+- **课程介绍** - [B station](https://www.bilibili.com/video/BV1SkLtzHEkT)
+- **01 大模型推理挑战** - [B station](https://www.bilibili.com/video/BV1SkLtzHEdH)
+- **02 主流推理引擎对比** - [B station](https://www.bilibili.com/video/BV1gkLtzpEBa)
+- **03 大模型推理瓶颈分析** - [B station](https://www.bilibili.com/video/BV1DkLtzHEpD)
+- **01 vLLM环境搭建** - [B station](https://www.bilibili.com/video/BV1SkLtzHEDo)
+- **02 vLLM使用入门** - [B station](https://www.bilibili.com/video/BV1SkLtzHE2h)
+- **03 vLLM推理分析** - [B station](https://www.bilibili.com/video/BV1DkLtzHEF1)
+- **01 LoRA模型部署及实操** - [B station](https://www.bilibili.com/video/BV1gkLtzpEL4)
+- **02 多模态模型部署及实操** - [B station](https://www.bilibili.com/video/BV1gkLtzpEkd)
+- **01 vLLM量化模型支持** - [B station](https://www.bilibili.com/video/BV18kLtzpEZq)
+- **02 模型量化** - [B station](https://www.bilibili.com/video/BV1U1LtzJEWP)
+- **03 KV Cache量化** - [B station](https://www.bilibili.com/video/BV1U1LtzJEaX)
+- **01 性能测试指标(1)** - [B station](https://www.bilibili.com/video/BV1U1LtzJEEB)
+- **02 性能测试指标(2)** - [B station](https://www.bilibili.com/video/BV1U1LtzJE5V)
+- **03 性能测试工具** - [B station](https://www.bilibili.com/video/BV1M1LtznEme)
+- **04 性能分析** - [B station](https://www.bilibili.com/video/BV1S1LtznEM8)
+- **01 算子优化** - [B station](https://www.bilibili.com/video/BV1t1LtzEE1f)
+- **01 LLM引擎参数(1)** - [B station](https://www.bilibili.com/video/BV1GjL7z8EZo)
+- **02 LLM引擎参数(2)** - [B station](https://www.bilibili.com/video/BV19jL7zbEV7)
+- **03 推测解码与PD分离** - [B station](https://www.bilibili.com/video/BV1XjL7zbE4o)
+- **01 DeepSeek可视化部署(1)** - [B station](https://www.bilibili.com/video/BV1wmjjzVEFC)
+- **02 DeepSeek可视化部署(2)** - [B station](https://www.bilibili.com/video/BV1wmjjzVEFf)
+- **01 RAG本地部署(1)** - [B station](https://www.bilibili.com/video/BV1A1jjzyELv)
+- **02 RAG本地部署(2)** - [B station](https://www.bilibili.com/video/BV1w1jjzyEsX)
+- **01 vLLM+Dify构建Agent应用(1)** - [B station](https://www.bilibili.com/video/BV1p1jjzyEhT)
+- **02 vLLM+Dify构建Agent应用(2)** - [B station](https://www.bilibili.com/video/BV1C1jjzyEFA)
+- **03 vLLM+Dify构建Agent应用(3)** - [B station](https://www.bilibili.com/video/BV1H1jjzyE9U)
+- **【AI实操 · 优化篇】01 Triton在PyTorch中的角色** - [B station](https://www.bilibili.com/video/BV1ZoRPYQE2K)
+- **【AI实操 · 优化篇】02 内核性能分析工具** - [B station](https://www.bilibili.com/video/BV1ZUQ1YtEwP)
+- **【AI实操 · 优化篇】03 Triton编译器及Pass管理器** - [B station](https://www.bilibili.com/video/BV1VYQdYJEBb)
+- **【AI实操 · 优化篇】04 Triton算子关键参数优化** - [B station](https://www.bilibili.com/video/BV1miotY3E2D)
+- **【AI实操 · 优化篇】05 Triton算子开发** - [B station](https://www.bilibili.com/video/BV193fFYkE7P)
+- **【AI实操 · 优化篇】06 Triton访存合并解析** - [B station](https://www.bilibili.com/video/BV1j6dRY8Erc)
+- **【AI实操 · 优化篇】07 Triton布局介绍** - [B station](https://www.bilibili.com/video/BV1F45HzLEHo)
+- **【AI实操 · 优化篇】08 Triton访存合并优化** - [B station](https://www.bilibili.com/video/BV1gzL2zTEq7)
+- **【AI实操 · 优化篇】09 编译优化实践(一)：代数变换** - [B station](https://www.bilibili.com/video/BV1UQEjz4EzX)
+- **【AI实操 · 优化篇】10 编译优化实践(二)：冗余去除** - [B station](https://www.bilibili.com/video/BV14TEczGE4i)
+- **【AI实操 · 优化篇】11 Triton归约操作解析** - [B station](https://www.bilibili.com/video/BV16fj8zGEjD)
+- **【AI实操 · 优化篇】12 Triton MMA操作解析：Tensor Core & MMA指令** - [B station](https://www.bilibili.com/video/BV1LnTszhEdY)
+- **【AI实操 · 优化篇】13 Triton MMA操作解析：Pipeline & Prefetch** - [B station](https://www.bilibili.com/video/BV1vyN1zmEVG)
+- **深度学习模型压缩概述** - [B station](https://www.bilibili.com/video/BV1ht4y1P73i)
+- **无数据模型量化论文分享：ZeroQ** - [B station](https://www.bilibili.com/video/BV1614y1T7FS)
+- **深度学习模型压缩方法（一）：模型蒸馏** - [B station](https://www.bilibili.com/video/BV1eb411971p)
+- **深度学习模型压缩方法（二）：剪枝** - [B station](https://www.bilibili.com/video/BV1pg4y1J73p)
+- **深度学习模型压缩方法（三）：量化** - [B station](https://www.bilibili.com/video/BV1bL411U747)
+- **LLVM编译器入门（一）：LLVM整体设计** - [B station](https://www.bilibili.com/video/BV18j411B7TF)
+- **LLVM编译器入门（二）：Clang前端** - [B station](https://www.bilibili.com/video/BV11j411B7XZ)
+- **LLVM编译器入门（三）：IR优化** - [B station](https://www.bilibili.com/video/BV1fX4y1x79Y)
+- **LLVM编译器入门（四）：代码生成 上** - [B station](https://www.bilibili.com/video/BV1tN411B71r)
+- **LLVM编译器入门（五）：代码生成 下** - [B station](https://www.bilibili.com/video/BV1YG411o7AQ)
+- **基础篇：大语言模型推理发展** - [B station](https://www.bilibili.com/video/BV1v718BpEsV)
+- **核心篇：vLLM整体架构与请求预处理模块** - [B station](https://www.bilibili.com/video/BV1YcywBiEJ1)
+- **核心篇：vLLM 调度器模块** - [B station](https://www.bilibili.com/video/BV18tB8BFE1L)
+- **核心篇：vLLM 键值缓存管理器** - [B station](https://www.bilibili.com/video/BV1NhFjzTEKe)
+- **【AI论文救星】01 规划论文选题与结构** - [B station](https://www.bilibili.com/video/BV1NddtYvEb4)
+- **【AI论文救星】02 高效搜集整理文献** - [B station](https://www.bilibili.com/video/BV1FNdbYbE4b)
+- **【AI论文救星】03 可视化数据图表制作** - [B station](https://www.bilibili.com/video/BV1n3dgYrEcf)
+- **【AI论文救星】04 辅助写作与论文润色** - [B station](https://www.bilibili.com/video/BV1fKdbYoEm4)
+- **【AI论文救星】05 自动排版与文献格式规范** - [B station](https://www.bilibili.com/video/BV1PZdtYPEER)
+- **【AI论文救星】06 答辩PPT与讲稿生成** - [B station](https://www.bilibili.com/video/BV1kcdbYcEb6)
+- **【AI论文救星】07 毕业答辩问答模拟** - [B station](https://www.bilibili.com/video/BV1g6dAYzEiq)
+- **拥抱AI Agent~全网最详细的OpenManus本地部署教程** - [B station](https://www.bilibili.com/video/BV1w4XVY7Eou)
+- **突破常规！Julius 借 “交互式分析”，革新 AI 数据** - [B station](https://www.bilibili.com/video/BV1c7DfYPEgi)
+- **小白1分钟搞定！全网最详细的Deepseek的神仙级用法** - [B station](https://www.bilibili.com/video/BV1jb9iYMEBu)
+- **什么？？？马上开组会了~ PPT 还没做！** - [B station](https://www.bilibili.com/video/BV19aDfYXETT)
+- **Deepseek+word打造会思考的智能文档** - [B station](https://www.bilibili.com/video/BV1ALQvY3E9a)
+- **AI+Excel：如何让工作效率原地飞起** - [B station](https://www.bilibili.com/video/BV1JCQeYAEw8)
+- **TVM简介** - [B station](https://www.bilibili.com/video/BV14N4y1c7zq)
+- **TVM自动调度算法AutoTVM** - [B station](https://www.bilibili.com/video/BV1114y1e7FK)
+- **ANSOR：为深度学习生成高性能张量程序** - [B station](https://www.bilibili.com/video/BV1m14y1Y7LN)
+- **TVM 编译流程与中间表示分析（一）** - [B station](https://www.bilibili.com/video/BV1v3411U7fM)
+- **TVM 编译流程与中间表示分析（二）** - [B station](https://www.bilibili.com/video/BV1624y1v7wx)
+- **ANSOR 优化算子代码解读（一）** - [B station](https://www.bilibili.com/video/BV1ih4y127fX)
+- **ANSOR优化算子代码解读（二）** - [B station](https://www.bilibili.com/video/BV1C44y1c7WL)
+- **ANSOR优化算子代码解读（三）** - [B station](https://www.bilibili.com/video/BV1e94y167Qy)
+- **ANSOR优化算子代码解读（四）** - [B station](https://www.bilibili.com/video/BV1C8411X7BS)
+- **TVM的量化框架（一）** - [B station](https://www.bilibili.com/video/BV1ph4y1U7Dy)
+- **TVM的量化框架（二）** - [B station](https://www.bilibili.com/video/BV1aN4y1R7MY)
+- **TVM的量化框架（三）** - [B station](https://www.bilibili.com/video/BV1ur4y197zj)
+- **TVM的量化框架（四）** - [B station](https://www.bilibili.com/video/BV18w411S7Mh)
+- **自动并行论文分享：FlexFlow** - [B station](https://www.bilibili.com/video/BV1wg411H78v)
+- **自动并行论文分享：CoCoNet** - [B station](https://www.bilibili.com/video/BV1Nv4y1j78t)
+- **论文分享：新型注意力算法FlashAttention** - [B station](https://www.bilibili.com/video/BV1zs4y1J7tb)
+- **自动并行—并行划分** - [B station](https://www.bilibili.com/video/BV1wo4y1L7WJ)
+- **数据并行通信优化论文分享：MG-WFBP** - [B station](https://www.bilibili.com/video/BV1hj411Z7SS)
+- **自动并行论文分享：Merak** - [arxiv.org](https://arxiv.org/pdf/2206.04959.pdf) | [github.com](https://github.com/HPDL-Group/Merak) | [ieeexplore.ieee.org](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10163912) | [B station](https://www.bilibili.com/video/BV1T94y1C7i4)
+- **论文分享：并行程序自动转换** - [B station](https://www.bilibili.com/video/BV1sa4y1C7p7)
+- **论文分享：自动并行AvgPipe** - [B station](https://www.bilibili.com/video/BV1rw41137QG)
+- **论文分享：自动并行AlpaServe** - [B station](https://www.bilibili.com/video/BV1wc411m7ki)
+- **论文分享：自动并行Alpa** - [B station](https://www.bilibili.com/video/BV11j41177TQ)
+- **论文分享：高性能计算领域大语言模型HPC-Coder** - [B station](https://www.bilibili.com/video/BV1e4421c7Gk)
+- **自编教材分享：第一章—程序性能优化的意义（一）** - [B station](https://www.bilibili.com/video/BV1LL411B7uW)
+- **自编教材分享：第一章—程序性能优化的意义（二）** - [B station](https://www.bilibili.com/video/BV15g4y1F7QQ)
+- **自编教材分享：第二章—程序性能的度量指标及优化流程（一）** - [B station](https://www.bilibili.com/video/BV1vu411s7Xw)
+- **自编教材分享：第三章—程序性能的分析和测量（一）** - [B station](https://www.bilibili.com/video/BV1ZV4y1U7wr)
+- **自编教材分享：第三章—程序性能的分析和测量（二）** - [B station](https://www.bilibili.com/video/BV11k4y1p7Bw)
+- **自编教材分享：第三章—程序性能的分析和测量（三）** - [B station](https://www.bilibili.com/video/BV1Wm4y1v7yZ)
+- **自编教材分享：第四章—系统配置优化（一）** - [B station](https://www.bilibili.com/video/BV1go4y1K72Y)
+- **自编教材分享：第四章—系统配置优化（二）** - [B station](https://www.bilibili.com/video/BV12o4y1P7kW)
+- **自编教材分享：第五章—编译与运行优化** - [B station](https://www.bilibili.com/video/BV1KN4y1L7XT)
+- **自编教材分享：第六章—程序编写优化（一）** - [B station](https://www.bilibili.com/video/BV1gX4y1q7Ms)
+- **自编教材分享：第六章—程序编写优化（二）** - [B station](https://www.bilibili.com/video/BV1Aj411S7kJ)
+- **自编教材分享：第六章—程序编写优化（三）** - [B station](https://www.bilibili.com/video/BV1sg4y1N763)
+- **自编教材分享：第六章—程序编写优化（四）** - [B station](https://www.bilibili.com/video/BV1rh411A79q)
+- **自编教材分享：第六章—程序编写优化（五）** - [B station](https://www.bilibili.com/video/BV1mz4y1E7rb)
+- **自编教材分享：第七章—指令级并行（一）** - [B station](https://www.bilibili.com/video/BV1iV4y1h7wm)
+- **自编教材分享：第七章—指令级并行（二）** - [B station](https://www.bilibili.com/video/BV1ym4y1E783)
+- **自编教材分享：第七章—数据级并行（一）** - [B station](https://www.bilibili.com/video/BV1M94y1q7B4)
+- **自编教材分享：第七章—数据级并行（二）** - [B station](https://www.bilibili.com/video/BV1Wj411R74A)
+- **自编教材分享：第七章—数据级并行（三）** - [B station](https://www.bilibili.com/video/BV1Kk4y1G77z)
+- **自编教材分享：第八章—访存优化（一）** - [B station](https://www.bilibili.com/video/BV1yz4y1s7qp)
+- **自编教材分享：第八章—访存优化（二）** - [B station](https://www.bilibili.com/video/BV1fM4y1H7Ba)
+- **自编教材分享：第八章—访存优化（三）** - [B station](https://www.bilibili.com/video/BV18m4y1W7fH)
+- **自编教材分享：第八章—访存优化（四）** - [B station](https://www.bilibili.com/video/BV1Np4y1776Z)
+- **自编教材分享：第八章—访存优化（五）** - [B station](https://www.bilibili.com/video/BV1gw411D7Bw)
+- **自编教材分享：第八章—访存优化（六）** - [B station](https://www.bilibili.com/video/BV1cp4y1j7ga)
+- **自编教材分享：第九章—OpenMP编程简介** - [B station](https://www.bilibili.com/video/BV1Zw411U7a8)
+- **自编教材分享：第九章—并行区重构** - [B station](https://www.bilibili.com/video/BV1eu411A79T)
+- **自编教材分享：第九章—向量化指导命令** - [B station](https://www.bilibili.com/video/BV12h4y1Y7vH)
+- **自编教材分享：第九章—避免伪共享** - [B station](https://www.bilibili.com/video/BV1Gw411i7rS)
+- **自编教材分享：第九章—负载均衡优化** - [B station](https://www.bilibili.com/video/BV1XN4y1o7NQ)
+- **自编教材分享：第九章—避免隐式同步** - [B station](https://www.bilibili.com/video/BV19u4y1x7CS)
+- **自编教材分享：第九章—流水并行优化** - [B station](https://www.bilibili.com/video/BV1LB4y1Z74v)
+- **自编教材分享：第十章—CUDA程序优化（一）** - [B station](https://www.bilibili.com/video/BV1pB4y1f7Md)
+- **自编教材分享：第十章—CUDA程序优化（二）** - [B station](https://www.bilibili.com/video/BV1C94y187iq)
+- **自编教材分享：第十章—CUDA程序优化（三）** - [B station](https://www.bilibili.com/video/BV1Kw411z7Wd)
+- **自编教材分享：第十章—CUDA程序优化（四）** - [B station](https://www.bilibili.com/video/BV1G84y1R7Ak)
+- **自编教材分享：第十一章—MPI程序简介** - [B station](https://www.bilibili.com/video/BV1cj411a7Sb)
+- **自编教材分享：第十一章—MPI程序简介（二）** - [B station](https://www.bilibili.com/video/BV1ra4y1m7JP)
+- **自编教材分享：第十一章—数据划分优化** - [B station](https://www.bilibili.com/video/BV1Lc411b7Fw)
+- **深度学习的产生与发展** - [B station](https://www.bilibili.com/video/BV1AM411P7JG)
+- **深度神经网络的结构** - [B station](https://www.bilibili.com/video/BV1bD4y1G7oV)
+- **神经网络的运行机制** - [B station](https://www.bilibili.com/video/BV1xs4y1b7nt)
+- **CNN-卷积神经网络（一）** - [B station](https://www.bilibili.com/video/BV1iL411o7iz)
+- **CNN-卷积神经网络（二）** - [B station](https://www.bilibili.com/video/BV1bL411o74W)
+- **【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月16日09点场** - [B station](https://www.bilibili.com/video/BV18XYnzVEWa)
+- **【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月16日14点场** - [B station](https://www.bilibili.com/video/BV1bXYnzVEQV)
+- **【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月17日08点场** - [B station](https://www.bilibili.com/video/BV18XYnzVEJv)
+- **【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月17日13点场** - [B station](https://www.bilibili.com/video/BV1wQYWzrEBz)
+- **OpenAI triton分享：Triton概述** - [B station](https://www.bilibili.com/video/BV1Kr421M7rt)
+- **OpenAI triton分享：Triton安装教程** - [B station](https://www.bilibili.com/video/BV1b9W8eQEW3)
+- **OpenAI triton分享：triton程序编写** - [B station](https://www.bilibili.com/video/BV154421S7TE)
+- **OpenAI triton分享：triton源码结构** - [B station](https://www.bilibili.com/video/BV1SHxWeTEMe)
+- **OpenAI triton分享：triton编译流程** - [B station](https://www.bilibili.com/video/BV1Di2CYcEba)
+- **OpenAI triton分享：triton调试方法及工具（上）** - [B station](https://www.bilibili.com/video/BV1aY2CYAEhy)
+- **OpenAI triton分享：triton调试方法及工具（下）** - [B station](https://www.bilibili.com/video/BV1m6C1YsEn1)
+- **OpenAI triton分享：triton IR 剖析（上）** - [B station](https://www.bilibili.com/video/BV1EwzyYZELz)
+- **OpenAI triton分享：triton IR 剖析（下）** - [B station](https://www.bilibili.com/video/BV1AHCJYkESY)
 - **计算机视觉与OpenMMLab 开源算法体系** - [B station](https://www.bilibili.com/video/BV1WG41177DP)
 - **深度学习算法基础** - [B station](https://www.bilibili.com/video/BV1gP411N7yA)
 - **上海交大学生创新中心人工智能实训平台介绍** - [B station](https://www.bilibili.com/video/BV1CV4y1V7SQ)
@@ -2551,191 +2739,3 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 - **XTuner 大模型低成本微调作业讲解——个人小助手认知微调实践** - [github.com](https://github.com/InternLM/tutorial/blob/main/xtuner/self.md) | [B station](https://www.bilibili.com/video/BV13t4y1o75X)
 - **LMDeploy 大模型量化部署实践** - [github.com](https://github.com/InternLM/tutorial/blob/main/lmdeploy/lmdeploy.md) | [github.com](https://github.com/internLM/lmdeploy) | [B station](https://www.bilibili.com/video/BV1iW4y1A77P)
 - **OpenCompass 大模型评测** - [github.com](https://github.com/InternLM/tutorial/blob/main/opencompass/opencompass_tutorial.md) | [github.com](https://github.com/open-compass/opencompass) | [B station](https://www.bilibili.com/video/BV1Gg4y1U7uc)
-- **01 课程介绍** - [B station](https://www.bilibili.com/video/BV16BGbzAEq2)
-- **01 神经网络基础** - [B station](https://www.bilibili.com/video/BV1cBGbzPE3T)
-- **02 深度学习的进化** - [B station](https://www.bilibili.com/video/BV1cBGbzPEKk)
-- **03 大语言模型** - [B station](https://www.bilibili.com/video/BV1cBGbzPEb2)
-- **01 faster-RCNN算法原理** - [B station](https://www.bilibili.com/video/BV1rBGbzAEFS)
-- **02 fasterRCNN实战** - [B station](https://www.bilibili.com/video/BV16BGbzAEtd)
-- **03 YOLOv11实战** - [B station](https://www.bilibili.com/video/BV1cBGbzPEb1)
-- **01 文本情感分类实战_1** - [B station](https://www.bilibili.com/video/BV1rBGbzAE5P)
-- **02 文本情感分类实战_2** - [B station](https://www.bilibili.com/video/BV1FBGbzPEoQ)
-- **01 大模型预训练基础_1** - [B station](https://www.bilibili.com/video/BV16BGbzAEbA)
-- **02 大模型预训练基础_2** - [B station](https://www.bilibili.com/video/BV1aRGbzHEmA)
-- **01 数据准备_1** - [B station](https://www.bilibili.com/video/BV1XRGbzHECt)
-- **02 数据准备_2** - [B station](https://www.bilibili.com/video/BV1YRGbzHEgK)
-- **03 模型结构_1** - [B station](https://www.bilibili.com/video/BV1GRGbzpEyR)
-- **04 模型结构_2** - [B station](https://www.bilibili.com/video/BV1YRGbzHE5h)
-- **01 预训练任务实现** - [B station](https://www.bilibili.com/video/BV1XRGbzHEXj)
-- **02 训练优化_1** - [B station](https://www.bilibili.com/video/BV1YRGbzHEWn)
-- **03 训练优化_2** - [B station](https://www.bilibili.com/video/BV1aRGbzHEBG)
-- **01 性能评估** - [B station](https://www.bilibili.com/video/BV1YRGbzHEcL)
-- **01 课程介绍** - [B station](https://www.bilibili.com/video/BV1gMjBzJE1B)
-- **01 大模型微调概述** - [B station](https://www.bilibili.com/video/BV1gMjBzJEDw)
-- **01 模型数据收集与处理** - [B station](https://www.bilibili.com/video/BV1gMjBzJEP9)
-- **01 数据预处理理论** - [B station](https://www.bilibili.com/video/BV1gMjBzJEap)
-- **02 启发式规则** - [B station](https://www.bilibili.com/video/BV1gMjBzJEEM)
-- **03 评估模型过滤(1)** - [B station](https://www.bilibili.com/video/BV1DMjBzJEm9)
-- **04 评估模型过滤(2)** - [B station](https://www.bilibili.com/video/BV1gMjBzJEPy)
-- **05 完全匹配去重** - [B station](https://www.bilibili.com/video/BV1hMjBzJENe)
-- **06 近似匹配去重(1)** - [B station](https://www.bilibili.com/video/BV18MjBzJEY6)
-- **07 近似匹配去重(2)** - [B station](https://www.bilibili.com/video/BV1gMjBzJESX)
-- **01 大模型微调工具与主流框架介绍** - [B station](https://www.bilibili.com/video/BV1c4jBzTEto)
-- **02 微调框架实战(1)** - [B station](https://www.bilibili.com/video/BV1c4jBzTEpJ)
-- **03 微调框架实战(2)** - [B station](https://www.bilibili.com/video/BV1wsjBzBE9p)
-- **01 微调方法(1)** - [B station](https://www.bilibili.com/video/BV1wsjBzBEGW)
-- **02 微调方法(2)** - [B station](https://www.bilibili.com/video/BV1wsjBzBEKA)
-- **01 人类对齐** - [B station](https://www.bilibili.com/video/BV1x7jBzVEbX)
-- **01 大模型评估与问题解决(1)** - [B station](https://www.bilibili.com/video/BV1K7jBzVEFv)
-- **02 大模型评估与问题解决(2)** - [B station](https://www.bilibili.com/video/BV1mLjBzyEAc)
-- **01 法律大模型强化学习实战** - [B station](https://www.bilibili.com/video/BV1WnjBz3Eip)
-- **02 法律大模型评估实战(1)** - [B station](https://www.bilibili.com/video/BV1NnjBz3ETP)
-- **03 法律大模型评估实战(2)** - [B station](https://www.bilibili.com/video/BV1PnjBz3ELn)
-- **课程介绍** - [B station](https://www.bilibili.com/video/BV1SkLtzHEkT)
-- **01 大模型推理挑战** - [B station](https://www.bilibili.com/video/BV1SkLtzHEdH)
-- **02 主流推理引擎对比** - [B station](https://www.bilibili.com/video/BV1gkLtzpEBa)
-- **03 大模型推理瓶颈分析** - [B station](https://www.bilibili.com/video/BV1DkLtzHEpD)
-- **01 vLLM环境搭建** - [B station](https://www.bilibili.com/video/BV1SkLtzHEDo)
-- **02 vLLM使用入门** - [B station](https://www.bilibili.com/video/BV1SkLtzHE2h)
-- **03 vLLM推理分析** - [B station](https://www.bilibili.com/video/BV1DkLtzHEF1)
-- **01 LoRA模型部署及实操** - [B station](https://www.bilibili.com/video/BV1gkLtzpEL4)
-- **02 多模态模型部署及实操** - [B station](https://www.bilibili.com/video/BV1gkLtzpEkd)
-- **01 vLLM量化模型支持** - [B station](https://www.bilibili.com/video/BV18kLtzpEZq)
-- **02 模型量化** - [B station](https://www.bilibili.com/video/BV1U1LtzJEWP)
-- **03 KV Cache量化** - [B station](https://www.bilibili.com/video/BV1U1LtzJEaX)
-- **01 性能测试指标(1)** - [B station](https://www.bilibili.com/video/BV1U1LtzJEEB)
-- **02 性能测试指标(2)** - [B station](https://www.bilibili.com/video/BV1U1LtzJE5V)
-- **03 性能测试工具** - [B station](https://www.bilibili.com/video/BV1M1LtznEme)
-- **04 性能分析** - [B station](https://www.bilibili.com/video/BV1S1LtznEM8)
-- **01 算子优化** - [B station](https://www.bilibili.com/video/BV1t1LtzEE1f)
-- **01 LLM引擎参数(1)** - [B station](https://www.bilibili.com/video/BV1GjL7z8EZo)
-- **02 LLM引擎参数(2)** - [B station](https://www.bilibili.com/video/BV19jL7zbEV7)
-- **03 推测解码与PD分离** - [B station](https://www.bilibili.com/video/BV1XjL7zbE4o)
-- **01 DeepSeek可视化部署(1)** - [B station](https://www.bilibili.com/video/BV1wmjjzVEFC)
-- **02 DeepSeek可视化部署(2)** - [B station](https://www.bilibili.com/video/BV1wmjjzVEFf)
-- **01 RAG本地部署(1)** - [B station](https://www.bilibili.com/video/BV1A1jjzyELv)
-- **02 RAG本地部署(2)** - [B station](https://www.bilibili.com/video/BV1w1jjzyEsX)
-- **01 vLLM+Dify构建Agent应用(1)** - [B station](https://www.bilibili.com/video/BV1p1jjzyEhT)
-- **02 vLLM+Dify构建Agent应用(2)** - [B station](https://www.bilibili.com/video/BV1C1jjzyEFA)
-- **03 vLLM+Dify构建Agent应用(3)** - [B station](https://www.bilibili.com/video/BV1H1jjzyE9U)
-- **【AI实操 · 优化篇】01 Triton在PyTorch中的角色** - [B station](https://www.bilibili.com/video/BV1ZoRPYQE2K)
-- **【AI实操 · 优化篇】02 内核性能分析工具** - [B station](https://www.bilibili.com/video/BV1ZUQ1YtEwP)
-- **【AI实操 · 优化篇】03 Triton编译器及Pass管理器** - [B station](https://www.bilibili.com/video/BV1VYQdYJEBb)
-- **【AI实操 · 优化篇】04 Triton算子关键参数优化** - [B station](https://www.bilibili.com/video/BV1miotY3E2D)
-- **【AI实操 · 优化篇】05 Triton算子开发** - [B station](https://www.bilibili.com/video/BV193fFYkE7P)
-- **【AI实操 · 优化篇】06 Triton访存合并解析** - [B station](https://www.bilibili.com/video/BV1j6dRY8Erc)
-- **【AI实操 · 优化篇】07 Triton布局介绍** - [B station](https://www.bilibili.com/video/BV1F45HzLEHo)
-- **【AI实操 · 优化篇】08 Triton访存合并优化** - [B station](https://www.bilibili.com/video/BV1gzL2zTEq7)
-- **【AI实操 · 优化篇】09 编译优化实践(一)：代数变换** - [B station](https://www.bilibili.com/video/BV1UQEjz4EzX)
-- **【AI实操 · 优化篇】10 编译优化实践(二)：冗余去除** - [B station](https://www.bilibili.com/video/BV14TEczGE4i)
-- **【AI实操 · 优化篇】11 Triton归约操作解析** - [B station](https://www.bilibili.com/video/BV16fj8zGEjD)
-- **【AI实操 · 优化篇】12 Triton MMA操作解析：Tensor Core & MMA指令** - [B station](https://www.bilibili.com/video/BV1LnTszhEdY)
-- **【AI实操 · 优化篇】13 Triton MMA操作解析：Pipeline & Prefetch** - [B station](https://www.bilibili.com/video/BV1vyN1zmEVG)
-- **深度学习模型压缩概述** - [B station](https://www.bilibili.com/video/BV1ht4y1P73i)
-- **无数据模型量化论文分享：ZeroQ** - [B station](https://www.bilibili.com/video/BV1614y1T7FS)
-- **深度学习模型压缩方法（一）：模型蒸馏** - [B station](https://www.bilibili.com/video/BV1eb411971p)
-- **深度学习模型压缩方法（二）：剪枝** - [B station](https://www.bilibili.com/video/BV1pg4y1J73p)
-- **深度学习模型压缩方法（三）：量化** - [B station](https://www.bilibili.com/video/BV1bL411U747)
-- **LLVM编译器入门（一）：LLVM整体设计** - [B station](https://www.bilibili.com/video/BV18j411B7TF)
-- **LLVM编译器入门（二）：Clang前端** - [B station](https://www.bilibili.com/video/BV11j411B7XZ)
-- **LLVM编译器入门（三）：IR优化** - [B station](https://www.bilibili.com/video/BV1fX4y1x79Y)
-- **LLVM编译器入门（四）：代码生成 上** - [B station](https://www.bilibili.com/video/BV1tN411B71r)
-- **LLVM编译器入门（五）：代码生成 下** - [B station](https://www.bilibili.com/video/BV1YG411o7AQ)
-- **基础篇：大语言模型推理发展** - [B station](https://www.bilibili.com/video/BV1v718BpEsV)
-- **核心篇：vLLM整体架构与请求预处理模块** - [B station](https://www.bilibili.com/video/BV1YcywBiEJ1)
-- **核心篇：vLLM 调度器模块** - [B station](https://www.bilibili.com/video/BV18tB8BFE1L)
-- **核心篇：vLLM 键值缓存管理器** - [B station](https://www.bilibili.com/video/BV1NhFjzTEKe)
-- **【AI论文救星】01 规划论文选题与结构** - [B station](https://www.bilibili.com/video/BV1NddtYvEb4)
-- **【AI论文救星】02 高效搜集整理文献** - [B station](https://www.bilibili.com/video/BV1FNdbYbE4b)
-- **【AI论文救星】03 可视化数据图表制作** - [B station](https://www.bilibili.com/video/BV1n3dgYrEcf)
-- **【AI论文救星】04 辅助写作与论文润色** - [B station](https://www.bilibili.com/video/BV1fKdbYoEm4)
-- **【AI论文救星】05 自动排版与文献格式规范** - [B station](https://www.bilibili.com/video/BV1PZdtYPEER)
-- **【AI论文救星】06 答辩PPT与讲稿生成** - [B station](https://www.bilibili.com/video/BV1kcdbYcEb6)
-- **【AI论文救星】07 毕业答辩问答模拟** - [B station](https://www.bilibili.com/video/BV1g6dAYzEiq)
-- **拥抱AI Agent~全网最详细的OpenManus本地部署教程** - [B station](https://www.bilibili.com/video/BV1w4XVY7Eou)
-- **突破常规！Julius 借 “交互式分析”，革新 AI 数据** - [B station](https://www.bilibili.com/video/BV1c7DfYPEgi)
-- **小白1分钟搞定！全网最详细的Deepseek的神仙级用法** - [B station](https://www.bilibili.com/video/BV1jb9iYMEBu)
-- **什么？？？马上开组会了~ PPT 还没做！** - [B station](https://www.bilibili.com/video/BV19aDfYXETT)
-- **Deepseek+word打造会思考的智能文档** - [B station](https://www.bilibili.com/video/BV1ALQvY3E9a)
-- **AI+Excel：如何让工作效率原地飞起** - [B station](https://www.bilibili.com/video/BV1JCQeYAEw8)
-- **TVM简介** - [B station](https://www.bilibili.com/video/BV14N4y1c7zq)
-- **TVM自动调度算法AutoTVM** - [B station](https://www.bilibili.com/video/BV1114y1e7FK)
-- **ANSOR：为深度学习生成高性能张量程序** - [B station](https://www.bilibili.com/video/BV1m14y1Y7LN)
-- **TVM 编译流程与中间表示分析（一）** - [B station](https://www.bilibili.com/video/BV1v3411U7fM)
-- **TVM 编译流程与中间表示分析（二）** - [B station](https://www.bilibili.com/video/BV1624y1v7wx)
-- **ANSOR 优化算子代码解读（一）** - [B station](https://www.bilibili.com/video/BV1ih4y127fX)
-- **ANSOR优化算子代码解读（二）** - [B station](https://www.bilibili.com/video/BV1C44y1c7WL)
-- **ANSOR优化算子代码解读（三）** - [B station](https://www.bilibili.com/video/BV1e94y167Qy)
-- **ANSOR优化算子代码解读（四）** - [B station](https://www.bilibili.com/video/BV1C8411X7BS)
-- **TVM的量化框架（一）** - [B station](https://www.bilibili.com/video/BV1ph4y1U7Dy)
-- **TVM的量化框架（二）** - [B station](https://www.bilibili.com/video/BV1aN4y1R7MY)
-- **TVM的量化框架（三）** - [B station](https://www.bilibili.com/video/BV1ur4y197zj)
-- **TVM的量化框架（四）** - [B station](https://www.bilibili.com/video/BV18w411S7Mh)
-- **自动并行论文分享：FlexFlow** - [B station](https://www.bilibili.com/video/BV1wg411H78v)
-- **自动并行论文分享：CoCoNet** - [B station](https://www.bilibili.com/video/BV1Nv4y1j78t)
-- **论文分享：新型注意力算法FlashAttention** - [B station](https://www.bilibili.com/video/BV1zs4y1J7tb)
-- **自动并行—并行划分** - [B station](https://www.bilibili.com/video/BV1wo4y1L7WJ)
-- **数据并行通信优化论文分享：MG-WFBP** - [B station](https://www.bilibili.com/video/BV1hj411Z7SS)
-- **自动并行论文分享：Merak** - [B station](https://www.bilibili.com/video/BV1T94y1C7i4)
-- **论文分享：并行程序自动转换** - [B station](https://www.bilibili.com/video/BV1sa4y1C7p7)
-- **论文分享：自动并行AvgPipe** - [B station](https://www.bilibili.com/video/BV1rw41137QG)
-- **论文分享：自动并行AlpaServe** - [B station](https://www.bilibili.com/video/BV1wc411m7ki)
-- **论文分享：自动并行Alpa** - [B station](https://www.bilibili.com/video/BV11j41177TQ)
-- **论文分享：高性能计算领域大语言模型HPC-Coder** - [B station](https://www.bilibili.com/video/BV1e4421c7Gk)
-- **自编教材分享：第一章—程序性能优化的意义（一）** - [B station](https://www.bilibili.com/video/BV1LL411B7uW)
-- **自编教材分享：第一章—程序性能优化的意义（二）** - [B station](https://www.bilibili.com/video/BV15g4y1F7QQ)
-- **自编教材分享：第二章—程序性能的度量指标及优化流程（一）** - [B station](https://www.bilibili.com/video/BV1vu411s7Xw)
-- **自编教材分享：第三章—程序性能的分析和测量（一）** - [B station](https://www.bilibili.com/video/BV1ZV4y1U7wr)
-- **自编教材分享：第三章—程序性能的分析和测量（二）** - [B station](https://www.bilibili.com/video/BV11k4y1p7Bw)
-- **自编教材分享：第三章—程序性能的分析和测量（三）** - [B station](https://www.bilibili.com/video/BV1Wm4y1v7yZ)
-- **自编教材分享：第四章—系统配置优化（一）** - [B station](https://www.bilibili.com/video/BV1go4y1K72Y)
-- **自编教材分享：第四章—系统配置优化（二）** - [B station](https://www.bilibili.com/video/BV12o4y1P7kW)
-- **自编教材分享：第五章—编译与运行优化** - [B station](https://www.bilibili.com/video/BV1KN4y1L7XT)
-- **自编教材分享：第六章—程序编写优化（一）** - [B station](https://www.bilibili.com/video/BV1gX4y1q7Ms)
-- **自编教材分享：第六章—程序编写优化（二）** - [B station](https://www.bilibili.com/video/BV1Aj411S7kJ)
-- **自编教材分享：第六章—程序编写优化（三）** - [B station](https://www.bilibili.com/video/BV1sg4y1N763)
-- **自编教材分享：第六章—程序编写优化（四）** - [B station](https://www.bilibili.com/video/BV1rh411A79q)
-- **自编教材分享：第六章—程序编写优化（五）** - [B station](https://www.bilibili.com/video/BV1mz4y1E7rb)
-- **自编教材分享：第七章—指令级并行（一）** - [B station](https://www.bilibili.com/video/BV1iV4y1h7wm)
-- **自编教材分享：第七章—指令级并行（二）** - [B station](https://www.bilibili.com/video/BV1ym4y1E783)
-- **自编教材分享：第七章—数据级并行（一）** - [B station](https://www.bilibili.com/video/BV1M94y1q7B4)
-- **自编教材分享：第七章—数据级并行（二）** - [B station](https://www.bilibili.com/video/BV1Wj411R74A)
-- **自编教材分享：第七章—数据级并行（三）** - [B station](https://www.bilibili.com/video/BV1Kk4y1G77z)
-- **自编教材分享：第八章—访存优化（一）** - [B station](https://www.bilibili.com/video/BV1yz4y1s7qp)
-- **自编教材分享：第八章—访存优化（二）** - [B station](https://www.bilibili.com/video/BV1fM4y1H7Ba)
-- **自编教材分享：第八章—访存优化（三）** - [B station](https://www.bilibili.com/video/BV18m4y1W7fH)
-- **自编教材分享：第八章—访存优化（四）** - [B station](https://www.bilibili.com/video/BV1Np4y1776Z)
-- **自编教材分享：第八章—访存优化（五）** - [B station](https://www.bilibili.com/video/BV1gw411D7Bw)
-- **自编教材分享：第八章—访存优化（六）** - [B station](https://www.bilibili.com/video/BV1cp4y1j7ga)
-- **自编教材分享：第九章—OpenMP编程简介** - [B station](https://www.bilibili.com/video/BV1Zw411U7a8)
-- **自编教材分享：第九章—并行区重构** - [B station](https://www.bilibili.com/video/BV1eu411A79T)
-- **自编教材分享：第九章—向量化指导命令** - [B station](https://www.bilibili.com/video/BV12h4y1Y7vH)
-- **自编教材分享：第九章—避免伪共享** - [B station](https://www.bilibili.com/video/BV1Gw411i7rS)
-- **自编教材分享：第九章—负载均衡优化** - [B station](https://www.bilibili.com/video/BV1XN4y1o7NQ)
-- **自编教材分享：第九章—避免隐式同步** - [B station](https://www.bilibili.com/video/BV19u4y1x7CS)
-- **自编教材分享：第九章—流水并行优化** - [B station](https://www.bilibili.com/video/BV1LB4y1Z74v)
-- **自编教材分享：第十章—CUDA程序优化（一）** - [B station](https://www.bilibili.com/video/BV1pB4y1f7Md)
-- **自编教材分享：第十章—CUDA程序优化（二）** - [B station](https://www.bilibili.com/video/BV1C94y187iq)
-- **自编教材分享：第十章—CUDA程序优化（三）** - [B station](https://www.bilibili.com/video/BV1Kw411z7Wd)
-- **自编教材分享：第十章—CUDA程序优化（四）** - [B station](https://www.bilibili.com/video/BV1G84y1R7Ak)
-- **自编教材分享：第十一章—MPI程序简介** - [B station](https://www.bilibili.com/video/BV1cj411a7Sb)
-- **自编教材分享：第十一章—MPI程序简介（二）** - [B station](https://www.bilibili.com/video/BV1ra4y1m7JP)
-- **自编教材分享：第十一章—数据划分优化** - [B station](https://www.bilibili.com/video/BV1Lc411b7Fw)
-- **深度学习的产生与发展** - [B station](https://www.bilibili.com/video/BV1AM411P7JG)
-- **深度神经网络的结构** - [B station](https://www.bilibili.com/video/BV1bD4y1G7oV)
-- **神经网络的运行机制** - [B station](https://www.bilibili.com/video/BV1xs4y1b7nt)
-- **CNN-卷积神经网络（一）** - [B station](https://www.bilibili.com/video/BV1iL411o7iz)
-- **CNN-卷积神经网络（二）** - [B station](https://www.bilibili.com/video/BV1bL411o74W)
-- **【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月16日09点场** - [B station](https://www.bilibili.com/video/BV18XYnzVEWa)
-- **【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月16日14点场** - [B station](https://www.bilibili.com/video/BV1bXYnzVEQV)
-- **【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月17日08点场** - [B station](https://www.bilibili.com/video/BV18XYnzVEJv)
-- **【直播回放】FlagOS开源社区“高性能计算实训营” 2025年08月17日13点场** - [B station](https://www.bilibili.com/video/BV1wQYWzrEBz)
-- **OpenAI triton分享：Triton概述** - [B station](https://www.bilibili.com/video/BV1Kr421M7rt)
-- **OpenAI triton分享：Triton安装教程** - [B station](https://www.bilibili.com/video/BV1b9W8eQEW3)
-- **OpenAI triton分享：triton程序编写** - [B station](https://www.bilibili.com/video/BV154421S7TE)
-- **OpenAI triton分享：triton源码结构** - [B station](https://www.bilibili.com/video/BV1SHxWeTEMe)
-- **OpenAI triton分享：triton编译流程** - [B station](https://www.bilibili.com/video/BV1Di2CYcEba)
-- **OpenAI triton分享：triton调试方法及工具（上）** - [B station](https://www.bilibili.com/video/BV1aY2CYAEhy)
-- **OpenAI triton分享：triton调试方法及工具（下）** - [B station](https://www.bilibili.com/video/BV1m6C1YsEn1)
-- **OpenAI triton分享：triton IR 剖析（上）** - [B station](https://www.bilibili.com/video/BV1EwzyYZELz)
-- **OpenAI triton分享：triton IR 剖析（下）** - [B station](https://www.bilibili.com/video/BV1AHCJYkESY)
