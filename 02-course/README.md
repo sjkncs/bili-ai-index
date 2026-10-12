@@ -384,186 +384,270 @@ homepage) -- so links points at entry points rather than at each individual pape
 
 - **RNN模型与NLP应用(1/9)：数据处理基础**
   - [B station](https://www.bilibili.com/video/BV1w54y1L7xK)
+  - links: https://github.com/wangshusen/DeepLearning
 - **RNN模型与NLP应用(2/9)：文本处理与词嵌入**
   - [B station](https://www.bilibili.com/video/BV1fp4y147Lc)
+  - links: https://github.com/wangshusen/DeepLearning
 - **RNN模型与NLP应用(3/9)：Simple RNN模型**
   - [B station](https://www.bilibili.com/video/BV1dq4y1f7ep)
+  - links: https://github.com/wangshusen/DeepLearning
 - **RNN模型与NLP应用(4/9)：LSTM模型**
   - [B station](https://www.bilibili.com/video/BV1UK4y1d7xa)
+  - links: https://github.com/wangshusen/DeepLearning
 - **RNN模型与NLP应用(5/9)：多层RNN、双向RNN、预训练**
   - [B station](https://www.bilibili.com/video/BV1Ab4y1f73K)
+  - links: https://github.com/wangshusen/DeepLearning
 - **RNN模型与NLP应用(6/9)：Text Generation (自动文本生成)**
   - [B station](https://www.bilibili.com/video/BV1Xh411e7ZR)
+  - links: https://github.com/wangshusen/DeepLearning
 - **RNN模型与NLP应用(7/9)：机器翻译与Seq2Seq模型**
   - [B station](https://www.bilibili.com/video/BV1964y127Vz)
+  - links: https://github.com/wangshusen/DeepLearning
 - **RNN模型与NLP应用(8/9)：Attention (注意力机制)**
   - [B station](https://www.bilibili.com/video/BV1YA411G7Ep)
+  - links: https://github.com/wangshusen/DeepLearning
 - **RNN模型与NLP应用(9/9)：Self-Attention (自注意力机制)**
   - [B station](https://www.bilibili.com/video/BV17B4y1F7oy)
+  - links: https://github.com/wangshusen/DeepLearning
 - **Transformer模型(1/2): 剥离RNN，保留Attention**
   - [B station](https://www.bilibili.com/video/BV1SK4y1d7Qh)
+  - links: https://github.com/wangshusen/DeepLearning
 - **Transformer模型(2/2): 从Attention层到Transformer网络**
   - [B station](https://www.bilibili.com/video/BV1N54y1L7N5)
+  - links: https://github.com/wangshusen/DeepLearning
 - **BERT (预训练Transformer模型)**
   - [B station](https://www.bilibili.com/video/BV1y64y127bF)
+  - links: https://github.com/wangshusen/DeepLearning
 - **Vision Transformer (ViT) 用于图片分类**
   - [B station](https://www.bilibili.com/video/BV18Q4y1o7NY)
+  - links: https://github.com/wangshusen/DeepLearning.git
 - **10-1: 图的基本概念和数据结构 Graph Basics and Data Structures**
   - [B station](https://www.bilibili.com/video/BV1k44y1z7g6)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **11-1: 图中的路径和最短路 Shortest Path**
   - [B station](https://www.bilibili.com/video/BV1WB4y1g7tW)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **11-2: 无权图的最短路算法 Finding Shortest Path in Unweighted Graphs**
   - [B station](https://www.bilibili.com/video/BV1CK4y1X7BT)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **11-3: Dijkstra 算法 寻找有权图中最短路 Finding Shortest Path in Weighted Graphs**
   - [B station](https://www.bilibili.com/video/BV19K4y1g75e)
 - **12-3: Kruskal算法 寻找最小生成树 Kruskal's Algorithm for Minimum Spanning Trees**
   - [B station](https://www.bilibili.com/video/BV1Sv411V781)
 - **12-2: Prim算法 寻找最小生成树 Prim's Algorithm for Minimum Spanning Trees**
   - [B station](https://www.bilibili.com/video/BV1A5411M7zc)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **12-1: 最小生成树 Minimum Spanning Trees**
   - [B station](https://www.bilibili.com/video/BV145411M7xL)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **13-1: 网络流问题基础 Network Flow Problems**
   - [B station](https://www.bilibili.com/video/BV1K64y1C7Do)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **13-2: Ford-Fulkerson Algorithm 寻找网络最大流**
   - [B station](https://www.bilibili.com/video/BV1Pv41157xh)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **13-3: Edmonds-Karp Algorithm 寻找网络最大流**
   - [B station](https://www.bilibili.com/video/BV1uQ4y197Le)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **13-4: Dinic's Algorithm 寻找网络最大流**
   - [B station](https://www.bilibili.com/video/BV1j64y1R7yK)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **13-5: 最小割 Min-Cut**
   - [B station](https://www.bilibili.com/video/BV1T64y1R7ZK)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **14-1: 二部图及其判定算法 Bipartite Graphs**
   - [B station](https://www.bilibili.com/video/BV14q4y1j776)
+  - links: https://youtu.be/cndaoZ6XTxA
 - **14-2: 无权二部图中的最大匹配 Maximum-Cardinality Bipartite Matching (MCBM)**
   - [B station](https://www.bilibili.com/video/BV1G54y157HA)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **14-3: 有权二部图中的最大匹配 Maximum-Weight Bipartite Matching**
   - [B station](https://www.bilibili.com/video/BV1MB4y1g7Fx)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **14-4: 匈牙利算法 Hungarian Algorithm**
   - [B station](https://www.bilibili.com/video/BV16K4y1X7Ph)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **14-5: 稳定婚配问题 Stable Marriage Problem**
   - [B station](https://www.bilibili.com/video/BV1V44y167n3)
 - **14-6: Gale-Shapley 算法 寻找稳定婚配**
   - [B station](https://www.bilibili.com/video/BV1uq4y177Hc)
+  - links: https://github.com/wangshusen/AdvancedAlgorithms.git
 - **概要01：推荐系统的基本概念**
   - [B station](https://www.bilibili.com/video/BV1PS4y1A7za)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **概要02：推荐系统的链路**
   - [B station](https://www.bilibili.com/video/BV1hF411M7b5)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **概要03：推荐系统的AB测试**
   - [B station](https://www.bilibili.com/video/BV1J44y1o7gf)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回01：基于物品的协同过滤（ItemCF）**
   - [B station](https://www.bilibili.com/video/BV1mA4y1Q7RN)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回02：Swing 模型**
   - [B station](https://www.bilibili.com/video/BV1DA4y1Q7rB)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回03：基于用户的协同过滤（UserCF）**
   - [B station](https://www.bilibili.com/video/BV1HY4y1Y7P1)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回04：离散特征处理**
   - [B station](https://www.bilibili.com/video/BV1pS4y1a7QT)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回05：矩阵补充、最近邻查找**
   - [B station](https://www.bilibili.com/video/BV1b34y1e7En)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回06：双塔模型——模型结构、训练方法**
   - [B station](https://www.bilibili.com/video/BV1YA4y1D75Q)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回07：双塔模型——正负样本**
   - [B station](https://www.bilibili.com/video/BV133411T7ue)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回08：双塔模型——线上服务、模型更新**
   - [B station](https://www.bilibili.com/video/BV1KY4y1h73Y)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回09：双塔模型+自监督学习**
   - [B station](https://www.bilibili.com/video/BV1v24y1B7JH)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回10：Deep Retrieval 召回**
   - [B station](https://www.bilibili.com/video/BV1Fu4y1b7PL)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回11：地理位置召回、作者召回、缓存召回**
   - [B station](https://www.bilibili.com/video/BV1m5411R7nd)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **召回12：曝光过滤 & Bloom Filter**
   - [B station](https://www.bilibili.com/video/BV1sa4y137LF)
 - **排序01：多目标模型**
   - [B station](https://www.bilibili.com/video/BV19t4y1p7UM)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **排序02：Multi-gate Mixture-of-Experts (MMoE)**
   - [B station](https://www.bilibili.com/video/BV14Y411M74v)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **排序03：预估分数融合**
   - [B station](https://www.bilibili.com/video/BV1YT411578u)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **排序04：视频播放建模**
   - [B station](https://www.bilibili.com/video/BV1394y1277M)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **排序05：排序模型的特征**
   - [B station](https://www.bilibili.com/video/BV1gN4y157TM)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **排序06：粗排模型**
   - [B station](https://www.bilibili.com/video/BV1Dd4y1m7KT)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **特征交叉01：Factorized Machine (FM) 因式分解机**
   - [B station](https://www.bilibili.com/video/BV15V4y1x7Ht)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **特征交叉02：DCN 深度交叉网络**
   - [B station](https://www.bilibili.com/video/BV1LP411L7Z2)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **特征交叉03：LHUC (PPNet)**
   - [B station](https://www.bilibili.com/video/BV1jU4y1z7Tc)
+  - links: https://ai.51cto.com/art/202102/644214.html https://github.com/wangshusen/RecommenderSystem
 - **特征交叉04：SENet 和 Bilinear 交叉**
   - [B station](https://www.bilibili.com/video/BV1SY4y1M7bD)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **行为序列01：用户历史行为序列建模**
   - [B station](https://www.bilibili.com/video/BV1GG4y1B7Yh)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **行为序列02：DIN模型（注意力机制）**
   - [B station](https://www.bilibili.com/video/BV1bT411T7u4)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **行为序列03：SIM模型（长序列建模）**
   - [B station](https://www.bilibili.com/video/BV1Ze4y1B7JL)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **重排01：物品相似性的度量、提升多样性的方法**
   - [B station](https://www.bilibili.com/video/BV1ne4y1v7mC)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **重排02：MMR 多样性算法（Maximal Marginal Relevance）**
   - [B station](https://www.bilibili.com/video/BV1dV4y1V7Kg)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **重排03：业务规则约束下的多样性算法**
   - [B station](https://www.bilibili.com/video/BV1om4y1F7y5)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **重排04：DPP 多样性算法（上）**
   - [B station](https://www.bilibili.com/video/BV1re411F7cp)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **重排05：DPP 多样性算法（下）**
   - [B station](https://www.bilibili.com/video/BV1Md4y1c7uB)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **物品冷启01：优化目标 & 评价指标**
   - [B station](https://www.bilibili.com/video/BV1eZ4y1a7tG)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **物品冷启02：简单的召回通道**
   - [B station](https://www.bilibili.com/video/BV1HY4y157Ri)
 - **物品冷启03：聚类召回**
   - [B station](https://www.bilibili.com/video/BV1YT4y1q7zC)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **物品冷启04：Look-Alike 召回**
   - [B station](https://www.bilibili.com/video/BV1U5411X7ud)
+  - links: https://github.com/wangshusen/RecommenderSystem/tree/main/Slides
 - **物品冷启05：流量调控**
   - [B station](https://www.bilibili.com/video/BV1vS4y1z7sC)
+  - links: https://github.com/wangshusen/RecommenderSystem
 - **物品冷启06：冷启的AB测试**
   - [B station](https://www.bilibili.com/video/BV12341137Cq)
 - **推荐系统涨指标的方法01：概述**
   - [B station](https://www.bilibili.com/video/BV1fc41167jK)
+  - links: https://github.com/wangshusen/RecommenderSystem https://arxiv.org/abs/2308.01204
 - **推荐系统涨指标的方法02：召回**
   - [B station](https://www.bilibili.com/video/BV13H4y127Tt)
+  - links: https://github.com/wangshusen/RecommenderSystem https://arxiv.org/abs/2308.01204
 - **推荐系统涨指标的方法03：排序模型**
   - [B station](https://www.bilibili.com/video/BV1fQ4y1G72F)
+  - links: https://github.com/wangshusen/RecommenderSystem https://arxiv.org/abs/2308.01204
 - **推荐系统涨指标的方法04：多样性**
   - [B station](https://www.bilibili.com/video/BV1eN4y1z7vs)
+  - links: https://github.com/wangshusen/RecommenderSystem https://arxiv.org/abs/2308.01204
 - **推荐系统涨指标的方法05：特殊用户人群**
   - [B station](https://www.bilibili.com/video/BV15g4y1m7P4)
+  - links: https://github.com/wangshusen/RecommenderSystem https://arxiv.org/abs/2308.01204
 - **推荐系统涨指标的方法06：交互行为（关注、转发、评论）**
   - [B station](https://www.bilibili.com/video/BV1tg4y127rS)
+  - links: https://github.com/wangshusen/RecommenderSystem https://arxiv.org/abs/2308.01204
 - **神经网络结构搜索 (1/3): 基本概念和随机搜索   Neural Architecture Search: Basics & Random Search**
   - [B station](https://www.bilibili.com/video/BV14q4y177gQ)
+  - links: https://github.com/wangshusen/DeepLearning.git
 - **神经网络结构搜索 (2/3): RNN + RL   Neural Architecture Search: RNN + RL**
   - [B station](https://www.bilibili.com/video/BV15K4y1A7hq)
+  - links: https://github.com/wangshusen/DeepLearning.git
 - **神经网络结构搜索 (3/3): 可微方法   Differentiable Neural Architecture Search**
   - [B station](https://www.bilibili.com/video/BV1C64y127Fv)
+  - links: https://github.com/wangshusen/DeepLearning.git
 - **概要01：搜索引擎的基本概念**
   - [B station](https://www.bilibili.com/video/BV1Wr421b7uP)
+  - links: https://github.com/wangshusen/SearchEngine
 - **概要02：相关性、内容质量、时效性、个性化（决定搜索满意度的因素）**
   - [B station](https://www.bilibili.com/video/BV1Lm421J7Xz)
+  - links: https://github.com/wangshusen/SearchEngine
 - **概要03：搜索引擎的评价指标**
   - [B station](https://www.bilibili.com/video/BV1BT421m7UQ)
+  - links: https://github.com/wangshusen/SearchEngine
 - **概要04：搜索引擎的链路（查询词处理、召回、排序）**
   - [B station](https://www.bilibili.com/video/BV1UM4m1D7L3)
+  - links: https://github.com/wangshusen/SearchEngine
 - **相关性01：搜索相关性的定义与分档**
   - [B station](https://www.bilibili.com/video/BV1Xp421S7Kb)
+  - links: https://github.com/wangshusen/SearchEngine
 - **相关性02：评价指标（AUC、正逆序比、DCG）**
   - [B station](https://www.bilibili.com/video/BV1VD421N7K7)
+  - links: https://github.com/wangshusen/SearchEngine
 - **相关性03：文本匹配（TF-IDF、BM25、词距）**
   - [B station](https://www.bilibili.com/video/BV1XT421Q7fw)
+  - links: https://github.com/wangshusen/SearchEngine
 - **相关性04：BERT模型 (Part 1) - 模型结构、线上推理**
   - [B station](https://www.bilibili.com/video/BV17T421D72u)
+  - links: https://github.com/wangshusen/SearchEngine
 - **相关性05：BERT模型 (Part 2) - 模型训练**
   - [B station](https://www.bilibili.com/video/BV1pz421e7GS)
+  - links: https://github.com/wangshusen/SearchEngine
 - **Few-Shot Learning (1/3): 基本概念**
   - [B station](https://www.bilibili.com/video/BV1V44y1r7cx)
 - **Few-Shot Learning (2/3): Siamese Network (孪生网络)**
   - [B station](https://www.bilibili.com/video/BV1vQ4y1R7dr)
+  - links: https://github.com/wangshusen/DeepLearning
 - **Few-Shot Learning (3/3)：Pretraining + Fine Tuning**
   - [B station](https://www.bilibili.com/video/BV1B44y1r75K)
+  - links: https://github.com/wangshusen/DeepLearning
 - **语义分割前言**
   - [B station](https://www.bilibili.com/video/BV1ev411P7dR)
 - **转置卷积（transposed convolution）**
@@ -588,6 +672,7 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1Vq4y127fB)
 - **U2Net网络结构讲解**
   - [B station](https://www.bilibili.com/video/BV1yB4y1z7mj)
+  - links: https://arxiv.org/abs/2005.09007 https://github.com/xuebinqin/U-2-Net https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_segmentation/u2net
 - **验证时Batch Size要设置成1？**
   - [B station](https://www.bilibili.com/video/BV1AP4y1m7qt)
 - **网络训练前需要热身？**
@@ -784,60 +869,87 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1a44y1M7qx)
 - **Pytorch 搭建自己的Ghostnet-YoloV4目标检测平台（Bubbliiiing）-Ghostnet网络介绍与构建**
   - [B station](https://www.bilibili.com/video/BV1KS4y1g7yz)
+  - links: https://github.com/bubbliiiing/mobilenet-yolov4-pytorch https://blog.csdn.net/weixin_44791964/article/details/120884617
 - **Pytorch 搭建自己的Ghostnet-YoloV4目标检测平台（Bubbliiiing）-将Ghostnet添加到YoloV4当中**
   - [B station](https://www.bilibili.com/video/BV1q34y1t7rJ)
+  - links: https://github.com/bubbliiiing/mobilenet-yolov4-pytorch https://blog.csdn.net/weixin_44791964/article/details/120884617
 - **Pytorch 搭建自己的Ghostnet-YoloV4目标检测平台（Bubbliiiing）-训练与预测**
   - [B station](https://www.bilibili.com/video/BV1cF411x7aa)
+  - links: https://github.com/bubbliiiing/mobilenet-yolov4-pytorch https://blog.csdn.net/weixin_44791964/article/details/120884617
 - **如何下载与打开一个Github深度学习库**
   - [B station](https://www.bilibili.com/video/BV1GY4y1t7Cc)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/123440488
 - **如何使用一个Github深度学习库**
   - [B station](https://www.bilibili.com/video/BV1nY411w7tr)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/123441983
 - **如何分解与学习一个深度学习库**
   - [B station](https://www.bilibili.com/video/BV1UB4y197pQ)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/123443267
 - **如何修改一个深度学习库**
   - [B station](https://www.bilibili.com/video/BV1FF411j7BP)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/123475899
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-YoloV5整体结构介绍**
   - [B station](https://www.bilibili.com/video/BV1FZ4y1m777)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-主干网络介绍**
   - [B station](https://www.bilibili.com/video/BV1FL4y1L7t1)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-加强特征提取网络介绍**
   - [B station](https://www.bilibili.com/video/BV1cS4y1A7Wi)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-先验框原理介绍**
   - [B station](https://www.bilibili.com/video/BV1AB4y1U7qX)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-Yolo Head介绍**
   - [B station](https://www.bilibili.com/video/BV14Y4y1e7XC)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-预测过程介绍**
   - [B station](https://www.bilibili.com/video/BV1R94y1d7yf)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-数据集格式介绍**
   - [B station](https://www.bilibili.com/video/BV1kT4y1h7Jp)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-YoloV5训练参数解析**
   - [B station](https://www.bilibili.com/video/BV1VY4y1p7yR)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-训练VOC数据集**
   - [B station](https://www.bilibili.com/video/BV1iu411C7qa)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-训练自己的数据集**
   - [B station](https://www.bilibili.com/video/BV1vS4y1w75r)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-模型预测**
   - [B station](https://www.bilibili.com/video/BV1m94y1d7ja)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-模型训练前的数据预处理**
   - [B station](https://www.bilibili.com/video/BV1i541127QC)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **Pytorch 搭建自己的YoloV5目标检测平台（Bubbliiiing 源码详解 训练 预测）-模型的损失构建**
   - [B station](https://www.bilibili.com/video/BV1nB4y1U7zY)
+  - links: https://blog.csdn.net/weixin_44791964/article/details/121626848 https://github.com/bubbliiiing/yolov5-pytorch
 - **AI写真现在这么卷了吗？不仅可以单人SOLO，还可以有闺蜜照和漫画风？**
   - [B station](https://www.bilibili.com/video/BV1c34y1K7by)
+  - links: https://github.com/aigc-apps/sd-webui-EasyPhoto https://blog.csdn.net/weixin_44791964/article/details/132646955
 - **EasyPhoto双人写真实现-闺蜜照？兄弟照？指不定还能团体照！**
   - [B station](https://www.bilibili.com/video/BV1bh4y1v7Vx)
+  - links: https://github.com/aigc-apps/sd-webui-EasyPhoto https://blog.csdn.net/weixin_44791964/article/details/132646955
 - **深入浅出Self-Attention自注意力机制与Transformer模块-自注意力机制详解**
   - [B station](https://www.bilibili.com/video/BV1Rm411S7ML)
+  - links: https://github.com/bubbliiiing/blip-pytorch https://blog.csdn.net/weixin_44791964/article/details/135423390
 - **Keras 搭建自己的Ghostnet-YoloV4目标检测平台（Bubbliiiing）-Ghostnet网络介绍与构建**
   - [B station](https://www.bilibili.com/video/BV19q4y1t7fJ)
+  - links: https://github.com/bubbliiiing/mobilenet-yolov4-keras https://blog.csdn.net/weixin_44791964/article/details/109994880
 - **Keras 搭建自己的Ghostnet-YoloV4目标检测平台（Bubbliiiing）-将Ghostnet添加到YoloV4当中**
   - [B station](https://www.bilibili.com/video/BV1Ku411X7JY)
+  - links: https://github.com/bubbliiiing/mobilenet-yolov4-keras https://blog.csdn.net/weixin_44791964/article/details/109994880
 - **Keras 搭建自己的Ghostnet-YoloV4目标检测平台（Bubbliiiing）-训练与预测**
   - [B station](https://www.bilibili.com/video/BV15S4y1F7aM)
+  - links: https://github.com/bubbliiiing/mobilenet-yolov4-keras https://blog.csdn.net/weixin_44791964/article/details/109994880
 - **整理了几个100%会踩的Python细节坑，提前防止脑血栓**
   - [B station](https://www.bilibili.com/video/BV1Vd4y1g7gX)
 - **整理了十个100%提高效率的Python编程技巧，再上一层楼**
   - [B station](https://www.bilibili.com/video/BV1NT411M7DM)
+  - links: https://blog.csdn.net/zzh516451964zzh/article/details/127038827
 - **这些包括我在内都有的Python编程陋习，趁早改掉**
   - [B station](https://www.bilibili.com/video/BV1nG411w7qw)
 - **列表推导式，Python最好的特性？可读性？**
@@ -870,16 +982,22 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1xo9DBRE91)
 - **3h精通Opencv-Python**
   - [B station](https://www.bilibili.com/video/BV16K411W7x9)
+  - links: https://github.com/murtazahassan/Learn-OpenCV-in-3-hours
 - **4h上手C++版Opencv**
   - [B station](https://www.bilibili.com/video/BV11A411T7rL)
+  - links: https://www.murtazahassan.com/courses/opencv-cpp-course/
 - **做了个一键转换与编辑图像标注文件软件，极大提高效率**
   - [B station](https://www.bilibili.com/video/BV1aP4y1Z7f3)
+  - links: https://github.com/Fafa-DL/LabelConvert
 - **图片数据不够？我做了一个免费的图像增强软件**
   - [B station](https://www.bilibili.com/video/BV1kR4y1T766)
+  - links: https://github.com/Fafa-DL/Image-Augmentation
 - **图像增强软件V2.0，适用于|目标检测|图像分割|图像分类|**
   - [B station](https://www.bilibili.com/video/BV1gZ4y1C7Ex)
+  - links: https://github.com/Fafa-DL/Image-Augmentation
 - **图像增强软件V3.0，我不允许你的数据比别人少**
   - [B station](https://www.bilibili.com/video/BV1Sv4y1S7yb)
+  - links: https://github.com/Fafa-DL/Image-Augmentation
 - **【Pytorch 与神经网络】pytorch 环境安装和基础操作，由浅及深彻底掌握Pytorch**
   - [B station](https://www.bilibili.com/video/BV1Vj421R7HD)
 - **【Pytorch 与神经网络】一节课搞定数据集处理｜模型训练+分布式训练**
@@ -1010,6 +1128,7 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV12S4y1N7nG)
 - **这份实用校招指南，请查收**
   - [B station](https://www.bilibili.com/video/BV17Z4y1e7zk)
+  - links: https://www.wondercv.com/ https://www.nowcoder.com/ https://www.bilibili.com/read/cv15472202
 - **【一个月吃透深度学习】零基础都能看懂，人工智能基础入门必看！**
   - [B station](https://www.bilibili.com/video/BV1u5411i7K7)
 - **【一个月吃透深度学习】长短期记忆网络教程，零基础人工智能入门必备！**
