@@ -16,9 +16,9 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 
 ## All 1 episodes
 
-| # | paper | venue | category | arXiv | length | B station |
-|---:|---|---|---|---|---:|---|
-| 1 | 【本周论文总结】2026.08.24–08.30｜WAM·VLA·世界模型·3DGS | - | 每周论文总结 | - | 22:03 | [link](https://www.bilibili.com/video/BV1pXtp6VEai) |
+| # | paper | venue | category | arXiv | resources | length | B station |
+|---:|---|---|---|---|---|---:|---|
+| 1 | 【本周论文总结】2026.08.24–08.30｜WAM·VLA·世界模型·3DGS | - | 每周论文总结 | - | - | 22:03 | [link](https://www.bilibili.com/video/BV1pXtp6VEai) |
 
 ## Per entry
 
