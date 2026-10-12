@@ -25,6 +25,16 @@
 | [`11-3dv-paper-notes/`](11-3dv-paper-notes/) | 3D 视觉论文解读 | HyperHorizon | 229 | 229 | 209 | 0 |
 | | | **total** | **3075** | | | |
 
+## Appendix
+
+Viewer danmaku for the 106 episodes of the paper-reading series is aggregated into
+[`appendix/`](appendix/): per-episode pages, time-ordered, each line linked to its
+exact second in the video.
+
+**Danmaku is viewer opinion, not verified fact.** The appendix states this on every
+page; do not cite it as a source. The anonymous Bilibili comment API returns only 3
+replies per video, so real comment sections are not included.
+
 ## Data source / method / limits
 
 **Data source**: `seasons_archives_list` for episode lists; `x/web-interface/view`
