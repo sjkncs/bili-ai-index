@@ -1,9 +1,9 @@
 # B 站 AI 学习资源总索引（按内容类型分目录）
 
-> Snapshot: **2026-10-13** - **3075** episodes, one directory per content type.
+> Snapshot: **2026-10-13** - **5374** episodes, one directory per content type.
 
-- VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab
-- ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生
+- VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab, 五道口纳什, ZOMI酱, 海安雨
+- ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生, RethinkFun, 我是傅傅猪, 唐国梁Tommy, 九天Hector
 - 张小珺商业访谈录, 五里墩茶社, 林粒粒呀
 - HyperHorizon
 - 机器之心
@@ -12,8 +12,8 @@
 
 | directory | type | source | episodes | full title | arXiv | speaker |
 |---|---|---|---:|---:|---:|---:|
-| [`01-paper-reading/`](01-paper-reading/) | AI 论文精读 | VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab | 1359 | 0 | 246 | 0 |
-| [`02-course/`](02-course/) | AI 课程与教程 | ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生 | 357 | 0 | 7 | 0 |
+| [`01-paper-reading/`](01-paper-reading/) | AI 论文精读 | VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab, 五道口纳什, ZOMI酱, 海安雨 | 2584 | 0 | 248 | 0 |
+| [`02-course/`](02-course/) | AI 课程与教程 | ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生, RethinkFun, 我是傅傅猪, 唐国梁Tommy, 九天Hector | 1431 | 0 | 9 | 0 |
 | [`03-interview/`](03-interview/) | 访谈与行业观察 | 张小珺商业访谈录, 五里墩茶社, 林粒粒呀 | 760 | 0 | 3 | 0 |
 | [`04-world-model/`](04-world-model/) | 世界模型论文解读 | HyperHorizon | 83 | 83 | 74 | 0 |
 | [`05-wam-vla/`](05-wam-vla/) | WAM 与 VLA 论文解读 | HyperHorizon | 66 | 66 | 57 | 0 |
@@ -23,7 +23,7 @@
 | [`09-mqzx-interviews/`](09-mqzx-interviews/) | 机器之心 · 访谈与论坛 | 机器之心 | 50 | 0 | 0 | 12 |
 | [`10-opensource-hands-on/`](10-opensource-hands-on/) | 开源生态与 AIGC 实战 | 机器之心 | 42 | 0 | 2 | 26 |
 | [`11-3dv-paper-notes/`](11-3dv-paper-notes/) | 3D 视觉论文解读 | HyperHorizon | 229 | 229 | 209 | 0 |
-| | | **total** | **3075** | | | |
+| | | **total** | **5374** | | | |
 
 ## Appendix
 
