@@ -1,6 +1,6 @@
 # 视频生成论文解读
 
-> Source: **HyperHorizon** - Snapshot: **2026-10-13** - **32** episodes.
+> Source: **HyperHorizon** - Snapshot: **2026-10-14** - **32** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
