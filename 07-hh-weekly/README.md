@@ -1,6 +1,6 @@
 # 每周论文总结
 
-> Source: **HyperHorizon** - Snapshot: **2026-10-13** - **1** episodes.
+> Source: **HyperHorizon** - Snapshot: **2026-10-14** - **1** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
