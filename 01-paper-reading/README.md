@@ -1,6 +1,6 @@
 # AI 论文精读
 
-> Source: **VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab, 五道口纳什, ZOMI酱, 海安雨** - Snapshot: **2026-10-13** - **2584** episodes.
+> Source: **VALSE_Webinar, deep_thoughts, 读论文的麦小哲, 秋刀鱼的炼丹工坊, 同济子豪兄, 先进编译实验室, OpenMMLab, 五道口纳什, ZOMI酱, 海安雨, 偷星九月333, AI算法与图像处理, Lau博士的云组会, AVCLab** - Snapshot: **2026-10-14** - **2889** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
@@ -14,7 +14,7 @@ venue parsing is nesting-aware (handles `SE(3)` and nested conference parenthese
 **Limits**: the `paper` column comes from the **description**, because Bilibili
 truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index only.
 
-## All 2584 episodes
+## All 2889 episodes
 
 | # | paper | venue | category | arXiv | resources | length | B station |
 |---:|---|---|---|---|---|---:|---|
@@ -2083,525 +2083,830 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 | 2063 | 图层IR(Graph IR)是什么？AI编译器如何接收图层IR进行优化呢？【AI编译器】系列之前端优化第02篇 | - | AI 论文精读 | - | - | 11:11 | [link](https://www.bilibili.com/video/BV1kV4y1w72W) |
 | 2064 | 算子融合了解下！AI编译器如何实现算子融合的？【AI编译器】系列之前端优化第03篇 | - | AI 论文精读 | - | - | 17:48 | [link](https://www.bilibili.com/video/BV1P24y1D7RV) |
 | 2065 | 编译器为什么要对数据布局转换呢 Layout Transformations？【AI编译器】系列之前端优化第04篇(上) | - | AI 论文精读 | - | - | 16:29 | [link](https://www.bilibili.com/video/BV1xK411z7Uw) |
-| 2066 | [概率 & 统计] KL 散度（KL div）forward vs. reverse | - | AI 论文精读 | - | - | 11:03 | [link](https://www.bilibili.com/video/BV1cT42127wg) |
-| 2067 | 详解AI编译器数据布局转换方法！华为昇腾处理器的数据布局格式！【AI编译器】系列之前端优化第04篇(下) | - | AI 论文精读 | - | - | 13:54 | [link](https://www.bilibili.com/video/BV1gd4y1Y7dc) |
-| 2068 | AI编译器内存优化算法！动态内存和静态内存区别！【AI编译器】前端优化第05篇 | - | AI 论文精读 | - | - | 17:09 | [link](https://www.bilibili.com/video/BV1nM411879s) |
-| 2069 | 常量折叠原理！AI编译器常量折叠跟传统编译器什么关系？计算图也需要常量折叠！【AI编译器】系列之前端优化第06篇 | - | AI 论文精读 | - | - | 11:06 | [link](https://www.bilibili.com/video/BV1P8411W7dY) |
-| 2070 | 编译器公共子表达式消除的方法！AI编译器消除公共子表达式【AI编译器】系列之前端优化第07篇 | - | AI 论文精读 | - | - | 8:30 | [link](https://www.bilibili.com/video/BV1rv4y1Q7tp) |
-| 2071 | 编译器死代码消除的原理！AI编译器死代码消除【AI编译器】系列之前端优化第08篇 | - | AI 论文精读 | - | - | 6:24 | [link](https://www.bilibili.com/video/BV1hD4y1h7nh) |
-| 2072 | 编译器的代数化简原理！AI编译器的代数化简来啦！【AI编译器】系列之前端优化第09篇 | - | AI 论文精读 | - | - | 9:30 | [link](https://www.bilibili.com/video/BV1g24y1Q7qC) |
-| 2073 | AI编译器的前端优化/图优化Pass的顺序怎么排？【AI编译器】系列之前端优化第10篇 | - | AI 论文精读 | - | - | 4:58 | [link](https://www.bilibili.com/video/BV1L14y1P7ku) |
-| 2074 | PyTorch 2.0新特性开撸！图模式打开了潘多拉！【AI编译器之PyTorch】系列01篇 | - | AI 论文精读 | - | - | 13:30 | [link](https://www.bilibili.com/video/BV1p84y1675B) |
-| 2075 | TorchScript 解读！图模式的第一次尝试！静态图+JIT编译器！【AI编译器之PyTorch】系列02篇 | - | AI 论文精读 | - | - | 8:30 | [link](https://www.bilibili.com/video/BV1JV4y1P7gB) |
-| 2076 | PyTorch静态图的TorchFX和Lazy Tensor特性解读！【AI编译器之PyTorch】系列03篇 | - | AI 论文精读 | - | - | 13:41 | [link](https://www.bilibili.com/video/BV1944y1m7fU) |
-| 2077 | TorchDynamo原理来啦！PyTorch2.0编译新特性哦！【AI编译器之PyTorch】系列04篇 | - | AI 论文精读 | - | - | 14:45 | [link](https://www.bilibili.com/video/BV1jD4y1a7hx) |
-| 2078 | AOTAutograd原理解读！如何获取静态反向图？【AI编译器之PyTorch】系列05篇 | - | AI 论文精读 | - | - | 10:42 | [link](https://www.bilibili.com/video/BV1Me4y1V7Ke) |
-| 2079 | PyTorch Dispatcher原理！PyTorch算子注册！【AI编译器之PyTorch】系列06篇 | - | AI 论文精读 | - | - | 15:49 | [link](https://www.bilibili.com/video/BV1L3411d7SM) |
-| 2080 | 什么是推理系统？推理有哪些应用？【推理系统】系列01篇 | - | AI 论文精读 | - | - | 8:23 | [link](https://www.bilibili.com/video/BV1J8411K7pj) |
-| 2081 | 推理系统和推理引擎的不同之处在哪？【推理系统】系列02篇 | - | AI 论文精读 | - | - | 17:03 | [link](https://www.bilibili.com/video/BV1nY4y1f7G5) |
-| 2082 | 云侧和端侧推理方式的特点和区别！【推理系统】系列03篇 | - | AI 论文精读 | - | - | 12:55 | [link](https://www.bilibili.com/video/BV1M24y1v7rK) |
-| 2083 | 推理系统架构和Trition架构介绍！【推理系统】系列04篇 | - | AI 论文精读 | - | - | 14:25 | [link](https://www.bilibili.com/video/BV1Gv4y1i7Tw) |
-| 2084 | 推理引擎架构介绍！MNN、TF Lite、TensorRT介绍！【推理系统】系列05篇(上) | - | AI 论文精读 | - | - | 12:47 | [link](https://www.bilibili.com/video/BV1Mx4y137Er) |
-| 2085 | 推理引擎架构！MNN、TensorRT架构介绍！【推理系统】系列05篇(下) | - | AI 论文精读 | - | - | 14:15 | [link](https://www.bilibili.com/video/BV1FG4y1C7Mn) |
-| 2086 | AI编译器后端优化来啦！AI编译器后端架构！【AI编译器】后端优化01篇 | - | AI 论文精读 | - | - | 13:12 | [link](https://www.bilibili.com/video/BV17D4y177bP) |
-| 2087 | 如何对算子IR表示？算子是如何分开计算和调度两部分？【AI编译器】后端优化02篇 | - | AI 论文精读 | - | - | 10:19 | [link](https://www.bilibili.com/video/BV1K84y1x7Be) |
-| 2088 | AI编译器后端算子优化来啦！算子优化手工方式！【AI编译器】后端优化03篇 | - | AI 论文精读 | - | - | 8:24 | [link](https://www.bilibili.com/video/BV1ZA411X7WZ) |
-| 2089 | 后端算子循环优化！Loop Optimization常见方法！【AI编译器】后端优化04篇 | - | AI 论文精读 | - | - | 12:07 | [link](https://www.bilibili.com/video/BV1r14y1w7hG) |
-| 2090 | 算子优化的指令和存储优化！【AI编译器】后端优化05篇 | - | AI 论文精读 | - | - | 12:59 | [link](https://www.bilibili.com/video/BV11d4y1a7J6) |
-| 2091 | Auto Tuning原理！TVM的AutoTVM实现方式详解！【AI编译器】后端优化06篇 | - | AI 论文精读 | - | - | 11:55 | [link](https://www.bilibili.com/video/BV1uA411D7JF) |
-| 2092 | 分布式并行策略基础介绍！【分布式并行】系列第01篇 | - | AI 论文精读 | - | - | 3:31 | [link](https://www.bilibili.com/video/BV1ve411w7DL) |
-| 2093 | PyTorch数据并行怎么实现？DP、DDP、FSDP数据并行原理？【分布式并行】系列第02篇 | - | AI 论文精读 | - | - | 13:50 | [link](https://www.bilibili.com/video/BV1JK411S7gL) |
-| 2094 | 什么是张量并行？张量并行的数学原理是什么？【分布式并行】系列第03篇 | - | AI 论文精读 | - | - | 16:19 | [link](https://www.bilibili.com/video/BV1vt4y1K7wT) |
-| 2095 | 张量还能自动并行？MindSpore张量自动并行啥原理？【大模型与分布式训练】系列04篇 | - | AI 论文精读 | - | - | 6:12 | [link](https://www.bilibili.com/video/BV1C8411h7Q6) |
-| 2096 | 模型并行的流水线并行来啦！了解下GPipe和PipeDream？【分布式并行】系列第05篇 | - | AI 论文精读 | - | - | 15:28 | [link](https://www.bilibili.com/video/BV1WD4y1t7Ba) |
-| 2097 | 混合并行？多维并行？有多维度混合在一起并行吗？【分布式并行】系列第06篇 | - | AI 论文精读 | - | - | 15:33 | [link](https://www.bilibili.com/video/BV1gD4y1t7Ut) |
-| 2098 | 分布式训练总结！【大模型与分布式训练】系列第07篇 | - | AI 论文精读 | - | - | 13:07 | [link](https://www.bilibili.com/video/BV1av4y1S7DQ) |
-| 2099 | 为什么需要AI编译器？跟传统编译器啥关系吗？【AI编译器】系列第一篇 | - | AI 论文精读 | - | - | 10:44 | [link](https://www.bilibili.com/video/BV1pM41167KP) |
-| 2100 | AI编译器架构发展！三个阶段出现的AI编译器有啥区别？【AI编译器】系列第二篇 | - | AI 论文精读 | - | - | 17:30 | [link](https://www.bilibili.com/video/BV1QK411R7iy) |
-| 2101 | AI编译器啥架构来着？有多少模块？【AI编译器】系列第三篇 | - | AI 论文精读 | - | - | 8:42 | [link](https://www.bilibili.com/video/BV1qD4y1Y73e) |
-| 2102 | AI编译器的挑战与未来？【AI编译器】系列第四篇 | - | AI 论文精读 | - | - | 14:31 | [link](https://www.bilibili.com/video/BV1Hv4y1R7uc) |
-| 2103 | 计算图有哪些内容知识？【计算图】系列第一篇 | - | AI 论文精读 | - | - | 1:55 | [link](https://www.bilibili.com/video/BV1cG411E7gV) |
-| 2104 | 为什么AI框架都用计算图？什么是计算图？到底计算图有什么用？【计算图】系列第二篇 | - | AI 论文精读 | - | - | 10:37 | [link](https://www.bilibili.com/video/BV1rR4y197HM) |
-| 2105 | 计算图跟微分什么关系？怎么用计算图表示自动微分？AI框架自动微分如何通过计算图来实现？【计算图】系列第三篇 | - | AI 论文精读 | - | - | 16:45 | [link](https://www.bilibili.com/video/BV1S24y197FU) |
-| 2106 | 对计算图进行优化与执行调度！计算图优化跟AI编译器啥关系？一起了解下计算图的调度执行吧！【计算图】第四篇 | - | AI 论文精读 | - | - | 10:31 | [link](https://www.bilibili.com/video/BV1hD4y1k7Ty) |
-| 2107 | AI框架都是怎么表示控制流的？PyTorch和TF对计算图中控制语句如何处理？【计算图】第五篇 | - | AI 论文精读 | - | - | 15:22 | [link](https://www.bilibili.com/video/BV17P41177Pk) |
-| 2108 | AI框架如何实现动静统一？PyTorch和MindSpore动静统一做得如何了？【计算图】第六篇 | - | AI 论文精读 | - | - | 7:08 | [link](https://www.bilibili.com/video/BV11M41167yX) |
-| 2109 | 计算图未来将会走向何方？【计算图】第七篇 | - | AI 论文精读 | - | - | 6:50 | [link](https://www.bilibili.com/video/BV1hm4y1A7Nv) |
-| 2110 | 编译器和解释器啥区别？AOT和JIT啥区别？Pass和IR又是什么？【AI编译器】系列01篇 | - | AI 论文精读 | - | - | 15:17 | [link](https://www.bilibili.com/video/BV1D84y1y73v) |
-| 2111 | GCC和LLVM发家历史？两大开源编译器的爱恨情仇【AI编译器】系列第二篇 | - | AI 论文精读 | - | - | 10:41 | [link](https://www.bilibili.com/video/BV1sM411C7Vr) |
-| 2112 | GCC编译过程！优缺点是啥？手把手用GCC编译一个小程序【AI编译器】系列第三篇 | - | AI 论文精读 | - | - | 9:49 | [link](https://www.bilibili.com/video/BV1LR4y1f7et) |
-| 2113 | LLVM架构了解下？为什么LLVM这么火？一起初体验实操LLVM【AI编译器】系列第四篇 | - | AI 论文精读 | - | - | 15:13 | [link](https://www.bilibili.com/video/BV1CG4y1V7Dn) |
-| 2114 | LLVM IR详解！LLVM编译器的核心理念来啦！【AI编译器】系列第五篇(上) | - | AI 论文精读 | - | - | 11:13 | [link](https://www.bilibili.com/video/BV1PP411u7NR) |
-| 2115 | LLVM编译器前端和优化层了解下？词法语法分析、Pass优化都在这！【AI编译器】系列第五篇(中) | - | AI 论文精读 | - | - | 11:48 | [link](https://www.bilibili.com/video/BV1vd4y1t7vS) |
-| 2116 | LLVM后端代码生成！了解下基于LLVM的项目！【AI编译器】系列第五篇(下) | - | AI 论文精读 | - | - | 14:26 | [link](https://www.bilibili.com/video/BV1cd4y1b7ho) |
-| 2117 | 分布式训练、分布式集群的基础介绍！【分布式集群】第01篇 | - | AI 论文精读 | - | - | 7:39 | [link](https://www.bilibili.com/video/BV1ge411L7mi) |
-| 2118 | AI集群用什么服务器架构？Ring All Reduce算法跟物理网络啥关系？【分布式集群】系列第02篇 | - | AI 论文精读 | - | - | 13:14 | [link](https://www.bilibili.com/video/BV1fg41187rc) |
-| 2119 | AI集群的软硬件通信：从硬件PCIE、NVLINK、RDMA原理到通信NCCL、MPI原理！【分布式集群】系列第03篇 | - | AI 论文精读 | - | - | 12:15 | [link](https://www.bilibili.com/video/BV14P4y1S7u4) |
-| 2120 | AI集群机器间是怎么通信？通信原语是个什么玩意？【分布式集群】系列第04篇 | - | AI 论文精读 | - | - | 9:38 | [link](https://www.bilibili.com/video/BV1te4y1e7vz) |
-| 2121 | AI框架如何实现分布式训练？SISD和SIMT又是什么？【分布式集群】系列第05篇 | - | AI 论文精读 | - | - | 16:13 | [link](https://www.bilibili.com/video/BV1Y14y1576A) |
-| 2122 | 大模型是什么？大模型有什么用？训练大模型会遇到哪些挑战？【分布式算法】第01篇 | - | AI 论文精读 | - | - | 13:45 | [link](https://www.bilibili.com/video/BV1n8411s7f3) |
-| 2123 | 大模型算法有哪种结构？怎么样才算大模型呢？从Transformer和MOE结构看大模型发展！【分布式算法】系列第02篇 | - | AI 论文精读 | - | - | 16:06 | [link](https://www.bilibili.com/video/BV1Mt4y1M7SE) |
-| 2124 | 从十亿到万亿规模SOTA大模型有哪些？BERT、GPT3、Switch算法来啦！【分布式算法】系列第03篇 | - | AI 论文精读 | - | - | 15:35 | [link](https://www.bilibili.com/video/BV1em4y1F7ay) |
-| 2125 | AI框架内容介绍：AI框架基础、AI框架之争、AI编程范式！【AI框架基础】系列第一篇 | - | AI 论文精读 | - | - | 4:21 | [link](https://www.bilibili.com/video/BV1he4y1z7oD) |
-| 2126 | AI框架有什么用？没有AI框架写算法又会怎么样？【AI框架基础】系列第二篇 | - | AI 论文精读 | - | - | 13:11 | [link](https://www.bilibili.com/video/BV1fd4y1q7qk) |
-| 2127 | AI框架之争！都2022年，应该怎么选择AI框架？【AI框架基础】系列第三篇 | - | AI 论文精读 | - | - | 16:16 | [link](https://www.bilibili.com/video/BV1C8411x7Kn) |
-| 2128 | 函数式编程和声明式编程啥区别？AI到底应该用什么编程范式？【AI框架基础】系列第四篇 | - | AI 论文精读 | - | - | 13:16 | [link](https://www.bilibili.com/video/BV1gR4y1o7WT) |
-| 2129 | 想了解自动微分吗？自动微分内容介绍！【自动微分】系列第一篇！ | - | AI 论文精读 | - | - | 4:39 | [link](https://www.bilibili.com/video/BV1FV4y1T7zp) |
-| 2130 | 符号微分/数值微分/自动微分区别是什么？【自动微分】系列第二篇 | - | AI 论文精读 | - | - | 10:56 | [link](https://www.bilibili.com/video/BV1Ld4y1M7GJ) |
-| 2131 | 前向微分和正向微分怎么理解？微分方式跟反向传播算法啥关系？【自动微分】系列第三篇 | - | AI 论文精读 | - | - | 13:27 | [link](https://www.bilibili.com/video/BV1zD4y117bL) |
-| 2132 | 自动微分是怎么实现的？Lib Base、操作符重载、源码转换不懂得快来！【自动微分】系列第四篇！ | - | AI 论文精读 | - | - | 11:51 | [link](https://www.bilibili.com/video/BV1BN4y1P76t) |
-| 2133 | 亲自撸一个正向自动微分的AI框架！【自动微分】系列第五篇 | - | AI 论文精读 | - | - | 10:29 | [link](https://www.bilibili.com/video/BV1Ne4y1p7WU) |
-| 2134 | 手把手实现一个PyTorch！实现PyTorch核心自动微分！【自动微分】系列第六篇 | - | AI 论文精读 | - | - | 19:53 | [link](https://www.bilibili.com/video/BV1ae4y1z7E6) |
-| 2135 | 自动微分挑战和未来！自动微分易用性和性能应该如何兼容？可微编程是否未来？【自动微分】系列第七篇 | - | AI 论文精读 | - | - | 13:01 | [link](https://www.bilibili.com/video/BV17e4y1z73W) |
-| 2136 | [2] 读上月新鲜出炉的综述：大模型写算子【每周一个宝藏论文】 | - | AI 论文精读 | - | - | 11:07 | [link](https://www.bilibili.com/video/BV1XcfBBGEUw) |
-| 2137 | [4] 大模型写算子：一篇综述+2个数据集【每周一个宝藏论文】 | - | AI 论文精读 | - | - | 15:52 | [link](https://www.bilibili.com/video/BV1pJA6zkEH4) |
-| 2138 | [6] Agent写算子：读三个Agent写算子的论文【每周一个宝藏论文】 | - | AI 论文精读 | - | - | 14:05 | [link](https://www.bilibili.com/video/BV1HVPkzEEx9) |
-| 2139 | [8] 读三个强化学习写算子的论文【每周一个宝藏论文】 | - | AI 论文精读 | - | - | 16:25 | [link](https://www.bilibili.com/video/BV1fVckzqE1S) |
-| 2140 | ［10］大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】 | - | AI 论文精读 | - | - | 13:43 | [link](https://www.bilibili.com/video/BV1M8QUBUESz) |
-| 2141 | ［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】 | - | AI 论文精读 | - | - | 13:50 | [link](https://www.bilibili.com/video/BV1B997BmEGr) |
-| 2142 | [14] AWQ：大语言模型量化论文解读 【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:29 | [link](https://www.bilibili.com/video/BV1RuoFBvEm8) |
-| 2143 | [16] LLM.int8()：大模型量化论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:58 | [link](https://www.bilibili.com/video/BV1BeoNB9EQP) |
-| 2144 | [18] SmoothQuant：大模型量化论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 14:17 | [link](https://www.bilibili.com/video/BV1CkoPBbEyB) |
-| 2145 | [28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 21:51 | [link](https://www.bilibili.com/video/BV1bJd2BHEeb) |
-| 2146 | [29] GPTQ：大模型量化论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:48 | [link](https://www.bilibili.com/video/BV1Y3d2BoELh) |
-| 2147 | [31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 26:50 | [link](https://www.bilibili.com/video/BV129ReB1EiW) |
-| 2148 | [44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:06 | [link](https://www.bilibili.com/video/BV1t1RrBNEEt) |
-| 2149 | [107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:19 | [link](https://www.bilibili.com/video/BV1rtME6LEfy) |
-| 2150 | [163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:18 | [link](https://www.bilibili.com/video/BV16ath6fEA4) |
-| 2151 | [178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 15:28 | [link](https://www.bilibili.com/video/BV1jvep67Eoa) |
-| 2152 | [180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:53 | [link](https://www.bilibili.com/video/BV1TdhB6MEm7) |
-| 2153 | [15] PagedAttention：vLLM论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:45 | [link](https://www.bilibili.com/video/BV1xJoNBPEqe) |
-| 2154 | [17] FlashAttention-1论文解读 【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 16:32 | [link](https://www.bilibili.com/video/BV1XPoNB5EQy) |
-| 2155 | [24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:06 | [link](https://www.bilibili.com/video/BV18Ud6BME78) |
-| 2156 | [20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:49 | [link](https://www.bilibili.com/video/BV1V6d6BCEzJ) |
-| 2157 | [21] 在线softmax：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:21 | [link](https://www.bilibili.com/video/BV1Qkd6B3EUe) |
-| 2158 | [22] FlashAttention-V2：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:09 | [link](https://www.bilibili.com/video/BV1yfd6B8E37) |
-| 2159 | [23] flash-attention-v3：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:45 | [link](https://www.bilibili.com/video/BV1yZd6BcE3b) |
-| 2160 | [26] GQA：分组查询注意力论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:53 | [link](https://www.bilibili.com/video/BV1Bcd2BeEVv) |
-| 2161 | [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:29 | [link](https://www.bilibili.com/video/BV1hjd2BWEGS) |
-| 2162 | [43]. MQA：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:26 | [link](https://www.bilibili.com/video/BV1m1RrBNEmy) |
-| 2163 | [79]. FlashAttention-4：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:50 | [link](https://www.bilibili.com/video/BV1q6Js6DEwE) |
-| 2164 | [99]. Medusa：投机解码和树形注意力论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:11 | [link](https://www.bilibili.com/video/BV1NsKQ6zENp) |
-| 2165 | [98]. TurboQuant：KV Cache量化论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:50 | [link](https://www.bilibili.com/video/BV11sKQ6zEFj) |
-| 2166 | [101]. H2O：KV缓存压缩论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:05 | [link](https://www.bilibili.com/video/BV1ktTc6tEce) |
-| 2167 | [100]. FlashDecoding的改进：FlashDecoding++论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:53 | [link](https://www.bilibili.com/video/BV1rtTc6tEen) |
-| 2168 | [110]. EAGLE：投机解码论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:37 | [link](https://www.bilibili.com/video/BV1BZMJ6CEa6) |
-| 2169 | [116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:32 | [link](https://www.bilibili.com/video/BV1SCK36PEGX) |
-| 2170 | [179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 15:40 | [link](https://www.bilibili.com/video/BV1GueP6pE7P) |
-| 2171 | [25] QLora：大模型量化微调论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:05 | [link](https://www.bilibili.com/video/BV1CFdrBfE2D) |
-| 2172 | [152]. Distilling the Knowledge：知识蒸馏奠基之作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:46 | [link](https://www.bilibili.com/video/BV1cK8h6vEVW) |
-| 2173 | [19] DeepSeek-V4逐图、逐公式解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 29:02 | [link](https://www.bilibili.com/video/BV1Mgo5BwEST) |
-| 2174 | [30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:01 | [link](https://www.bilibili.com/video/BV1Vgd2BtEKe) |
-| 2175 | [32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:54 | [link](https://www.bilibili.com/video/BV142RrBeEa3) |
-| 2176 | [33]. mHC：流形约束超连接【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:51 | [link](https://www.bilibili.com/video/BV1m2RrBeEFS) |
-| 2177 | [35]. Deepseek-Engram：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 14:18 | [link](https://www.bilibili.com/video/BV122RrBeEfs) |
-| 2178 | [37]. Adam：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:27 | [link](https://www.bilibili.com/video/BV142RrBeEjQ) |
-| 2179 | [40]. Transformer：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:32 | [link](https://www.bilibili.com/video/BV1t1RrBNEwi) |
-| 2180 | [46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:45 | [link](https://www.bilibili.com/video/BV14N5b6YEbf) |
-| 2181 | [51]. BERT：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:30 | [link](https://www.bilibili.com/video/BV1fXLJ6aEZ1) |
-| 2182 | [52]. GPT2：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:58 | [link](https://www.bilibili.com/video/BV1FXLJ6YECS) |
-| 2183 | [53]. GPT3：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:06 | [link](https://www.bilibili.com/video/BV1FXLJ6YEh4) |
-| 2184 | [56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:58 | [link](https://www.bilibili.com/video/BV1cQLJ6PEAs) |
-| 2185 | [59]. MoE：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:49 | [link](https://www.bilibili.com/video/BV17zLC68Emq) |
-| 2186 | [65]. Mamba：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:58 | [link](https://www.bilibili.com/video/BV1uGVK6iEh2) |
-| 2187 | [67]. Dropout：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:08 | [link](https://www.bilibili.com/video/BV1dsG26dETn) |
-| 2188 | [72]. Word2Vec：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:52 | [link](https://www.bilibili.com/video/BV1Ag7m6XERk) |
-| 2189 | [82]. 思维链：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:27 | [link](https://www.bilibili.com/video/BV1q6Js6DEaQ) |
-| 2190 | [83]. 思维树：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:37 | [link](https://www.bilibili.com/video/BV176Js6DEsq) |
-| 2191 | [92]. TVM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:44 | [link](https://www.bilibili.com/video/BV1kv7q6REVg) |
-| 2192 | [93]. PyTorch_2：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:49 | [link](https://www.bilibili.com/video/BV1kv7q6RE7a) |
-| 2193 | [94]. BPE：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:39 | [link](https://www.bilibili.com/video/BV1kv7q6REeS) |
-| 2194 | [96]. Mamba_2：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:14 | [link](https://www.bilibili.com/video/BV1Av7q6dEpF) |
-| 2195 | [104]. kimi的注意力残差：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:31 | [link](https://www.bilibili.com/video/BV1MRME6oEhx) |
-| 2196 | [105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:39 | [link](https://www.bilibili.com/video/BV1MRME6oE3a) |
-| 2197 | [106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:01 | [link](https://www.bilibili.com/video/BV1MRME6oE2V) |
-| 2198 | [108]. deepseek的NSA：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:25 | [link](https://www.bilibili.com/video/BV1HtME6LEWp) |
-| 2199 | [109]. AdamW：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:19 | [link](https://www.bilibili.com/video/BV1eKMn6MEMr) |
-| 2200 | [113]. GRU：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:24 | [link](https://www.bilibili.com/video/BV1LwN36uEbV) |
-| 2201 | [117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:07 | [link](https://www.bilibili.com/video/BV1TUKp6hEi6) |
-| 2202 | [119]. LookAhead：投机解码论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:11 | [link](https://www.bilibili.com/video/BV1hrKp6NEp3) |
-| 2203 | [120]. Performer，线性注意力：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:33 | [link](https://www.bilibili.com/video/BV1hzKp6iE1b) |
-| 2204 | [115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:19 | [link](https://www.bilibili.com/video/BV1uyK36eEcT) |
-| 2205 | [127]. LSTM：经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:55 | [link](https://www.bilibili.com/video/BV1Qr3y6VEt4) |
-| 2206 | [129]. Muon 优化器：原始技术博客，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:43 | [link](https://www.bilibili.com/video/BV1hr3y6VEd6) |
-| 2207 | [139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:23 | [link](https://www.bilibili.com/video/BV1KiuG6zE44) |
-| 2208 | [133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:03 | [link](https://www.bilibili.com/video/BV1xBuG6MEB3) |
-| 2209 | [142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:02 | [link](https://www.bilibili.com/video/BV1zxbY6vE5n) |
-| 2210 | [144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:12 | [link](https://www.bilibili.com/video/BV1BxbY6vE9J) |
-| 2211 | [146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:37 | [link](https://www.bilibili.com/video/BV1CEbY6gEHM) |
-| 2212 | [148]. Diffusion LM：扩散语言模型开山之作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:45 | [link](https://www.bilibili.com/video/BV1AEbY63ETH) |
-| 2213 | [150]. Seq2Seq：序列到序列经典论文，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:46 | [link](https://www.bilibili.com/video/BV1Rf8J6bEDU) |
-| 2214 | [151]. Switch Transformer：稀疏专家模型，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 14:32 | [link](https://www.bilibili.com/video/BV16K8h6eE2v) |
-| 2215 | [153]. Bahdanau Attention：首次将注意力用于Seq2Seq，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:28 | [link](https://www.bilibili.com/video/BV1rK8h6eEGT) |
-| 2216 | [154]. ZeRO：DeepSpeed 大模型显存优化，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:16 | [link](https://www.bilibili.com/video/BV1B38h6cEQP) |
-| 2217 | [158]. Gated Attention：NeurIPS 2025 最佳论文，给注意力加个门，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:32 | [link](https://www.bilibili.com/video/BV1ULth66EHH) |
-| 2218 | [159]. MoBA：Kimi 的稀疏注意力，NSA 姊妹篇，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:04 | [link](https://www.bilibili.com/video/BV1ULth66EJ8) |
-| 2219 | [160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:23 | [link](https://www.bilibili.com/video/BV1xnth6KEFB) |
-| 2220 | [165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 19:12 | [link](https://www.bilibili.com/video/BV1cqYe6QEZW) |
-| 2221 | [166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 17:58 | [link](https://www.bilibili.com/video/BV1cqYe6QEZC) |
-| 2222 | [167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 17:18 | [link](https://www.bilibili.com/video/BV1riYe6HEX2) |
-| 2223 | [168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 16:05 | [link](https://www.bilibili.com/video/BV1kiYe6HEFq) |
-| 2224 | [169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 20:03 | [link](https://www.bilibili.com/video/BV1riYe6HEfk) |
-| 2225 | [170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 17:18 | [link](https://www.bilibili.com/video/BV1piYe6pEcF) |
-| 2226 | [171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 17:14 | [link](https://www.bilibili.com/video/BV1F6Ye6SEAe) |
-| 2227 | [172]. DualKV：GRPO 里被复制 32 遍的 prompt，终于不重复算了，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 18:54 | [link](https://www.bilibili.com/video/BV1F6Ye6SEx6) |
-| 2228 | [173]. Kimi_K2：万亿 MoE 开源 Agent 模型，MuonClip 稳训练，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 15:37 | [link](https://www.bilibili.com/video/BV1fwY165EtL) |
-| 2229 | [174]. DeepSeek_V3_2：DSA 稀疏注意力，长上下文大幅提速，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 14:13 | [link](https://www.bilibili.com/video/BV1fwY165ES8) |
-| 2230 | [175]. Qwen3：快慢思考混合推理，多尺寸模型全家桶，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:35 | [link](https://www.bilibili.com/video/BV1BwY165E6E) |
-| 2231 | [176]. Llama_3：Meta 405B 模型群，训练全细节公开，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:57 | [link](https://www.bilibili.com/video/BV1fwY165EyC) |
-| 2232 | [177]. MiniMax_M1：Lightning Attention 撑起百万上下文推理，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 14:22 | [link](https://www.bilibili.com/video/BV1KFe56uEqn) |
-| 2233 | [181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:52 | [link](https://www.bilibili.com/video/BV15rHv6mEMH) |
-| 2234 | [182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:41 | [link](https://www.bilibili.com/video/BV15rHv6mEjH) |
-| 2235 | [183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 19:41 | [link](https://www.bilibili.com/video/BV15rHv6mEXm) |
-| 2236 | [184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 15:31 | [link](https://www.bilibili.com/video/BV13KHv66EtS) |
-| 2237 | [185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 20:10 | [link](https://www.bilibili.com/video/BV1hKHv6rEme) |
-| 2238 | [186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 15:10 | [link](https://www.bilibili.com/video/BV1QKHv6rEeg) |
-| 2239 | [187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:17 | [link](https://www.bilibili.com/video/BV183Hv6ME7a) |
-| 2240 | [188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 14:40 | [link](https://www.bilibili.com/video/BV1b3Hv6MEod) |
-| 2241 | [189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:26 | [link](https://www.bilibili.com/video/BV1YCpE6KEW1) |
-| 2242 | [190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 15:19 | [link](https://www.bilibili.com/video/BV1ZapE6kEUj) |
-| 2243 | [34]. PPO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:56 | [link](https://www.bilibili.com/video/BV1T2RrBvE25) |
-| 2244 | [36]. DPO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:45 | [link](https://www.bilibili.com/video/BV142RrBeE8E) |
-| 2245 | [38]. AlphaGo：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:20 | [link](https://www.bilibili.com/video/BV1t1RrBNELs) |
-| 2246 | [39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 43:40 | [link](https://www.bilibili.com/video/BV1f9RxBCEyN) |
-| 2247 | [41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:17 | [link](https://www.bilibili.com/video/BV1m1RrBNEhp) |
-| 2248 | [42]. DQN：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:26 | [link](https://www.bilibili.com/video/BV141RrBNEd1) |
-| 2249 | [45]. AlphaZero：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:50 | [link](https://www.bilibili.com/video/BV1nERrB9E7d) |
-| 2250 | [47]. QLearning：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:56 | [link](https://www.bilibili.com/video/BV14N5b6YEbS) |
-| 2251 | [48]. DAPO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 15:10 | [link](https://www.bilibili.com/video/BV1tN5b6YEjF) |
-| 2252 | [131]. A3C：首次用异步 actor-critic 把深度 RL 做稳定，是 PPO的基石，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:11 | [link](https://www.bilibili.com/video/BV1MYuG6rETy) |
-| 2253 | [135]. TRPO：PPO的前身，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:57 | [link](https://www.bilibili.com/video/BV1xBuG6MEYJ) |
-| 2254 | [137]. MuZero：AlphaZero 之后关键的一步：直接学一个世界模型做 MCTS，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:04 | [link](https://www.bilibili.com/video/BV1KBuG6MEwe) |
-| 2255 | [141]. Rainbow：把 DQN 的六大改进一次拼完，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:43 | [link](https://www.bilibili.com/video/BV1BtbY6PEfW) |
-| 2256 | [156]. UCB1：多臂老虎机，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:51 | [link](https://www.bilibili.com/video/BV17MhG65E2o) |
-| 2257 | [157]. GSPO：GRPO 的改进，序列级重要性采样，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:17 | [link](https://www.bilibili.com/video/BV1T7th6gELe) |
-| 2258 | [164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:07 | [link](https://www.bilibili.com/video/BV1j2tG6qE5e) |
-| 2259 | [49]. ResNet：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:56 | [link](https://www.bilibili.com/video/BV1FXLJ6YE4U) |
-| 2260 | [50]. MobileNet：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:19 | [link](https://www.bilibili.com/video/BV1FXLJ6YExi) |
-| 2261 | [54]. ViT：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:46 | [link](https://www.bilibili.com/video/BV1JXLJ6YE1X) |
-| 2262 | [57]. CLIP：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:20 | [link](https://www.bilibili.com/video/BV1cQLJ6PE78) |
-| 2263 | [58]. MAE：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:21 | [link](https://www.bilibili.com/video/BV1zGLM6cEYG) |
-| 2264 | [60]. SAM：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:02 | [link](https://www.bilibili.com/video/BV1ktGe6NE1c) |
-| 2265 | [62]. FlowMatching：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:45 | [link](https://www.bilibili.com/video/BV1hiGx6oExa) |
-| 2266 | [63]. DETR：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:08 | [link](https://www.bilibili.com/video/BV1DiGx6oE4S) |
-| 2267 | [64]. YOLO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:23 | [link](https://www.bilibili.com/video/BV18iGx6oEo1) |
-| 2268 | [66]. DINO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:09 | [link](https://www.bilibili.com/video/BV1bGVK6iEq7) |
-| 2269 | [68]. EfficientNet：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:08 | [link](https://www.bilibili.com/video/BV1zRVE6sEmR) |
-| 2270 | [69]. SwinTransformer：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:23 | [link](https://www.bilibili.com/video/BV1zRVE6sEU2) |
-| 2271 | [70]. UNet：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:53 | [link](https://www.bilibili.com/video/BV1zRVE6sEz1) |
-| 2272 | [73]. FasterRCNN：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:07 | [link](https://www.bilibili.com/video/BV1Wg7m6XEgG) |
-| 2273 | [74]. VGG：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:52 | [link](https://www.bilibili.com/video/BV1Ag7m6XEy4) |
-| 2274 | [75]. GoogLeNet：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 5:13 | [link](https://www.bilibili.com/video/BV1Pg7m6XEnq) |
-| 2275 | [76]. VAE：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:46 | [link](https://www.bilibili.com/video/BV1Ag7m6XEyN) |
-| 2276 | [77]. DDPM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:39 | [link](https://www.bilibili.com/video/BV176Js6DEaM) |
-| 2277 | [78]. CFG：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:03 | [link](https://www.bilibili.com/video/BV176Js6DE5W) |
-| 2278 | [81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:03 | [link](https://www.bilibili.com/video/BV1q6Js6DE2b) |
-| 2279 | [80]. GAN：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:34 | [link](https://www.bilibili.com/video/BV176Js6DEPp) |
-| 2280 | [84]. WGAN：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:08 | [link](https://www.bilibili.com/video/BV176Js6DELe) |
-| 2281 | [85]. NCSN：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:28 | [link](https://www.bilibili.com/video/BV1LXjg6vEhk) |
-| 2282 | [86]. DDIM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:48 | [link](https://www.bilibili.com/video/BV1LXjg6vEPM) |
-| 2283 | [95]. SAM_2：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:34 | [link](https://www.bilibili.com/video/BV1kv7q6RELS) |
-| 2284 | [91]. ConsistencyModels：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 11:50 | [link](https://www.bilibili.com/video/BV1wv7q6dEtL) |
-| 2285 | [90]. EDM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:01 | [link](https://www.bilibili.com/video/BV1kv7q6REvQ) |
-| 2286 | [89]. LDM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 14:52 | [link](https://www.bilibili.com/video/BV1Av7q6dEKW) |
-| 2287 | [88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 13:05 | [link](https://www.bilibili.com/video/BV1kv7q6REEK) |
-| 2288 | [87]. ScoreSDE：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:59 | [link](https://www.bilibili.com/video/BV1kv7q6REtL) |
-| 2289 | [111]. Stable Diffusion：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:34 | [link](https://www.bilibili.com/video/BV19AN36iE8n) |
-| 2290 | [112]. SAM 3：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:34 | [link](https://www.bilibili.com/video/BV15wN36uEXx) |
-| 2291 | [114]. DiT：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:52 | [link](https://www.bilibili.com/video/BV1UyK36YED6) |
-| 2292 | [118]. Rectified Flow：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:25 | [link](https://www.bilibili.com/video/BV1hrKp6NEj5) |
-| 2293 | [121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:42 | [link](https://www.bilibili.com/video/BV1Mdgh6aE5u) |
-| 2294 | [122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:32 | [link](https://www.bilibili.com/video/BV12Fga6fEuk) |
-| 2295 | [124]. DINO v2：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:18 | [link](https://www.bilibili.com/video/BV1H4gh6HEdj) |
-| 2296 | [125]. ControlNet：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:53 | [link](https://www.bilibili.com/video/BV1nB3r6UEPf) |
-| 2297 | [126]. DeepSeek OCR：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:44 | [link](https://www.bilibili.com/video/BV1vY3y6UEaG) |
-| 2298 | [128]. DINOv3：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:19 | [link](https://www.bilibili.com/video/BV1Dr3y6GEDX) |
-| 2299 | [132]. Conditional Flow Matching：条件流匹配，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:51 | [link](https://www.bilibili.com/video/BV1TYuG6rEX1) |
-| 2300 | [143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 12:04 | [link](https://www.bilibili.com/video/BV1zxbY6vEy9) |
-| 2301 | [145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:59 | [link](https://www.bilibili.com/video/BV1zxbY6vEgk) |
-| 2302 | [147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:00 | [link](https://www.bilibili.com/video/BV1kEbY6gEvA) |
-| 2303 | [149]. Batch Norm：批量归一化经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:03 | [link](https://www.bilibili.com/video/BV1ezbv6eEYm) |
-| 2304 | [161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:15 | [link](https://www.bilibili.com/video/BV12nth6MEaj) |
-| 2305 | [162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:07 | [link](https://www.bilibili.com/video/BV12nth6TEAC) |
-| 2306 | [55]. ScaNN：向量检索论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:31 | [link](https://www.bilibili.com/video/BV1FQLJ6PESa) |
-| 2307 | [61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:13 | [link](https://www.bilibili.com/video/BV1AtGe6KEuV) |
-| 2308 | [97]. RaBitQ的改进工作：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:38 | [link](https://www.bilibili.com/video/BV18e7p6FEU6) |
-| 2309 | [123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:31 | [link](https://www.bilibili.com/video/BV1Kfgh68ErF) |
-| 2310 | [71]. Whisper：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:36 | [link](https://www.bilibili.com/video/BV1Ag7m6XErq) |
-| 2311 | [155]. CTC：语音识别的经典损失函数，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:56 | [link](https://www.bilibili.com/video/BV1f38h6cEcs) |
-| 2312 | [102]. ReAct：Agent经典论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 9:17 | [link](https://www.bilibili.com/video/BV1FRTi6oEz2) |
-| 2313 | [103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:53 | [link](https://www.bilibili.com/video/BV1cJTb6BE3S) |
-| 2314 | [130]. App Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 6:00 | [link](https://www.bilibili.com/video/BV1mvuG6gEHj) |
-| 2315 | [134]. SWE-agent：Agent处理GitHub issue的经典论文，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:48 | [link](https://www.bilibili.com/video/BV1xBuG6MEuX) |
-| 2316 | [136]. Toolformer：大模型自发调用工具的开山之作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 8:45 | [link](https://www.bilibili.com/video/BV1NBuG6MEiP) |
-| 2317 | [138]. Voyager：Agent玩我的世界，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 10:12 | [link](https://www.bilibili.com/video/BV1KiuG6zECG) |
-| 2318 | [140]. Mobile Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 7:09 | [link](https://www.bilibili.com/video/BV1pPu26bEB6) |
-| 2319 | 13. 旋转位置编码和复数欧拉公式有什么关系？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:44 | [link](https://www.bilibili.com/video/BV1qzFxzQES2) |
-| 2320 | 14. 旋转位置编码和高中三角函数和差角公式有什么关系？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:07 | [link](https://www.bilibili.com/video/BV1uoFxzgEWz) |
-| 2321 | 16. RoPE如何从2维推广到任意偶数维，奇数维咋办？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:04 | [link](https://www.bilibili.com/video/BV1FgcMzkE5h) |
-| 2322 | 17. 为什么正余弦位置编码的注意力是和绝对位置相关的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:17 | [link](https://www.bilibili.com/video/BV1mZcuztEw2) |
-| 2323 | 19. 为什么RoPE中旋转矩阵R实际上不需要矩阵乘算子？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:26 | [link](https://www.bilibili.com/video/BV1XyFyzcEN6) |
-| 2324 | 20. RoPE注意力的绝对位置无关性和欧拉公式有什么关系？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:16 | [link](https://www.bilibili.com/video/BV1fFFDzsEt6) |
-| 2325 | 21. 为什么增大旋转位置编码中10000可提高模型外推能力【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:26 | [link](https://www.bilibili.com/video/BV1o5FozuEz2) |
-| 2326 | 22. 为什么transformers.Llama的实现和RoPE原论文不一致？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:31 | [link](https://www.bilibili.com/video/BV1nUcbzTEGi) |
-| 2327 | 23. Llama的旋转位置编码实现和RoPE原论文有何不同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:38 | [link](https://www.bilibili.com/video/BV15EcbzoEY7) |
-| 2328 | 120. 任意矩阵满足什么性质就能成为RoPE旋转矩阵？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:36 | [link](https://www.bilibili.com/video/BV1TN5b6YE5q) |
-| 2329 | 134. 为什么RoPE中旋转矩阵R0是单位阵？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:18 | [link](https://www.bilibili.com/video/BV1UGVK6vEzn) |
-| 2330 | 138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:55 | [link](https://www.bilibili.com/video/BV1FRVE6xEap) |
-| 2331 | 147. 如何直观理解RoPE的平移不变性【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:54 | [link](https://www.bilibili.com/video/BV18Aj36ZEZP) |
-| 2332 | 25. 举例说明FlashAttention的分块矩阵乘法的正确性？【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 2:32 | [link](https://www.bilibili.com/video/BV18pcLz2E3P) |
-| 2333 | 28. 为什么在线Softmax比安全Softmax可以少一次循环？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:44 | [link](https://www.bilibili.com/video/BV1i6cnzzE2x) |
-| 2334 | 30. 举例说明SlimAttention的分块矩阵乘法的正确性？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:31 | [link](https://www.bilibili.com/video/BV11KcWz8EZm) |
-| 2335 | 31. FlashAttention v2版本如何省略掩码上三角矩阵计算？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:25 | [link](https://www.bilibili.com/video/BV16qZLBxEZt) |
-| 2336 | 33. 用户改提示词为什么不会影响前面的KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:38 | [link](https://www.bilibili.com/video/BV1dgZ7BQEHL) |
-| 2337 | 34. BERT为什么没有KV Cache/KV Cache何以存在？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:43 | [link](https://www.bilibili.com/video/BV1qKZ7BsEs5) |
-| 2338 | 36. 为什么推理时prefill是GEMM，而decode是（Batched）GEMV？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:38 | [link](https://www.bilibili.com/video/BV1UtZkBjEZP) |
-| 2339 | 37. GQA中讲的共享指的是Token还是Head？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:30 | [link](https://www.bilibili.com/video/BV1cTZyBzEjv) |
-| 2340 | 39. FlashAttention V2中为何要先循环Q后循环K？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:55 | [link](https://www.bilibili.com/video/BV1yiArzSEs1) |
-| 2341 | 41 Flash Attention之前的那种N^2注意力不好在哪里？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:32 | [link](https://www.bilibili.com/video/BV1WzArzUEdr) |
-| 2342 | 55. 为什么KV Cache也有LRU等缓存替换策略?【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:33 | [link](https://www.bilibili.com/video/BV1YdANzcESN) |
-| 2343 | 56. 为什么多个Sub-Agent也可以共享前缀KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:51 | [link](https://www.bilibili.com/video/BV1cPAuzpE6e) |
-| 2344 | 68. prefill和decode时KV Cache是如何"堆积"的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:58 | [link](https://www.bilibili.com/video/BV1AYQdBfEDS) |
-| 2345 | 82. 在线Softmax和Flash Attention分别维护了多少个“动态规划量”？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:07 | [link](https://www.bilibili.com/video/BV1oA93BtETZ) |
-| 2346 | 83. Flash Attention的线性显存比平方显存增长慢了多少？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:47 | [link](https://www.bilibili.com/video/BV1baNGzmEzn) |
-| 2347 | 85. 为什么prefill和decode都可以跳过掩码上三角计算？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:45 | [link](https://www.bilibili.com/video/BV1ZEDvB9E6Y) |
-| 2348 | 101. 如何用矩阵乘法链式法则速推Flash Attention梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:23 | [link](https://www.bilibili.com/video/BV12CoMB5EDJ) |
-| 2349 | 102. PagedAttention是如何减少内存浪费的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:23 | [link](https://www.bilibili.com/video/BV1EwoRBfExe) |
-| 2350 | 106. Flash Attention反向传播也做到线性显存了吗？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:20 | [link](https://www.bilibili.com/video/BV1a89kB3EVu) |
-| 2351 | 111. 如何直观理解KV Cache的显存计算公式？以Llama2-7B为例。【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:38 | [link](https://www.bilibili.com/video/BV1Tf9XBwEzM) |
-| 2352 | 117. 如何用动态规划理解在线softmax的循环与归约？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:48 | [link](https://www.bilibili.com/video/BV1SHR9BuEBH) |
-| 2353 | 141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:05 | [link](https://www.bilibili.com/video/BV1zCjg6rE9F) |
-| 2354 | 143. 如何可视化SGLang中的KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:10 | [link](https://www.bilibili.com/video/BV13Aj36ZEcC) |
-| 2355 | 29. 以逐元素乘加为例，算子融合为什么能提高计算效率？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:51 | [link](https://www.bilibili.com/video/BV19PcnzPEQp) |
-| 2356 | 45. SIMD是如何加速张量计算的(简单理解)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:10 | [link](https://www.bilibili.com/video/BV1doArzKExB) |
-| 2357 | 49. 双缓冲是如何加速张量计算的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:30 | [link](https://www.bilibili.com/video/BV1bUP5zDER5) |
-| 2358 | 53. 如何加速两个张量之和？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:17 | [link](https://www.bilibili.com/video/BV1SqPhzAErH) |
-| 2359 | 57. 网格步进是如何加速张量计算的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:08 | [link](https://www.bilibili.com/video/BV1SSNFz2EDK) |
-| 2360 | 97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:47 | [link](https://www.bilibili.com/video/BV1KyoMByEdR) |
-| 2361 | 103. 多个线程执行同一段算子代码时发生了什么？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:53 | [link](https://www.bilibili.com/video/BV1JcoRB8EGb) |
-| 2362 | 108. 如何用前缀和理解稀疏矩阵的CSR格式？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:46 | [link](https://www.bilibili.com/video/BV1k7RuBPEsV) |
-| 2363 | 140. 稀疏矩阵乘稠密向量SpMV是如何跳过0值计算的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:58 | [link](https://www.bilibili.com/video/BV1AG7m6HEEW) |
-| 2364 | 162. 如何可视化GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:51 | [link](https://www.bilibili.com/video/BV1tWTj6jEGU) |
-| 2365 | 163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:33 | [link](https://www.bilibili.com/video/BV1rJTb6qEYr) |
-| 2366 | 164. 为什么环形All-Reduce 时，4卡和128卡单卡通信量差不多？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:38 | [link](https://www.bilibili.com/video/BV1AzMP6rE61) |
-| 2367 | 166. 如何用双缓冲优化GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:52 | [link](https://www.bilibili.com/video/BV1WzMP6rEN6) |
-| 2368 | 168. Megatron张量并行如何用列切分加行切分降低FFN层的通信？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:33 | [link](https://www.bilibili.com/video/BV1zTMP6YEqg) |
-| 2369 | 172. 如何用外积优化GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:48 | [link](https://www.bilibili.com/video/BV1E9Mb6MEeq) |
-| 2370 | 178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:49 | [link](https://www.bilibili.com/video/BV1XEKG6gERb) |
-| 2371 | 195. 如何用Tensor Core加速GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:04 | [link](https://www.bilibili.com/video/BV1xT3k6ZEP8) |
-| 2372 | 42. 聚类量化和线性量化有何不同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:42 | [link](https://www.bilibili.com/video/BV1yBArzEEeE) |
-| 2373 | 44. 为什么把权重置0就是在剪枝？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:21 | [link](https://www.bilibili.com/video/BV1B9ArzuEP3) |
-| 2374 | 62．LLM.int8是如何利用向量外积进行量化的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:08 | [link](https://www.bilibili.com/video/BV17pwEzMETL) |
-| 2375 | 63. 举例说明SmoothQuant量化对角矩阵乘法的正确性？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:51 | [link](https://www.bilibili.com/video/BV1VTw7zbEzq) |
-| 2376 | 64. SmoothQuant量化中有没有用到外积思想？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:31 | [link](https://www.bilibili.com/video/BV1DMwmzgEyV) |
-| 2377 | 65. 从校准集说明为何SmoothQuant中的S无需矩阵乘算子【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:09 | [link](https://www.bilibili.com/video/BV12DwRz9E4j) |
-| 2378 | 66. LLM.int8与SmoothQuant解决离群值的思路有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:04 | [link](https://www.bilibili.com/video/BV13rwCzwEKX) |
-| 2379 | 67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:28 | [link](https://www.bilibili.com/video/BV1qAA5ztELy) |
-| 2380 | 71. OBD剪枝假设山谷是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:37 | [link](https://www.bilibili.com/video/BV11RQfB3Eot) |
-| 2381 | 73. OBS剪枝保留与修改了OBD剪枝的哪些假设？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:57 | [link](https://www.bilibili.com/video/BV1njXKBnEBg) |
-| 2382 | 74. 为什么OBD剪枝是特殊的OBS剪枝？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:29 | [link](https://www.bilibili.com/video/BV1xTXKB4Ecn) |
-| 2383 | 75. OBS剪枝是如何选择被剪枝的权重的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:36 | [link](https://www.bilibili.com/video/BV1AwX1BPE1g) |
-| 2384 | 76. 为什么OBS剪枝可看作特殊的OBQ量化？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:31 | [link](https://www.bilibili.com/video/BV1cKX1BhED8) |
-| 2385 | 78. GPTQ量化的最小化目标如何写成类似OBS形式的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:21 | [link](https://www.bilibili.com/video/BV1679cBME93) |
-| 2386 | 79. 为什么基于权重大小剪枝是特殊的OBD、OBS、OBQ？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:45 | [link](https://www.bilibili.com/video/BV1fn9cBKEbt) |
-| 2387 | 80. 剪枝后微调让被置零的权重不再为零怎么办？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:16 | [link](https://www.bilibili.com/video/BV16E9cBqEK8) |
-| 2388 | 81. 量化后微调让聚在一起的权重分家了怎么办？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:58 | [link](https://www.bilibili.com/video/BV1zf9gBwEqd) |
-| 2389 | 88. 量化后微调为什么要对聚类中心求和？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:48 | [link](https://www.bilibili.com/video/BV1fcD4BPEo7) |
-| 2390 | 89. 量化感知训练是如何感知到量化的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:59 | [link](https://www.bilibili.com/video/BV1d9QABeEdC) |
-| 2391 | 90. OBQ如何将最小化剪枝损失推广到量化？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:54 | [link](https://www.bilibili.com/video/BV1kkDQBVE4y) |
-| 2392 | 92. 为什么量化会让损失“山谷”变成“台阶”？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:55 | [link](https://www.bilibili.com/video/BV1eoQvBQEMF) |
-| 2393 | 94. 量化感知训练中为什么要STE来处理round梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:29 | [link](https://www.bilibili.com/video/BV12qdaBkERq) |
-| 2394 | 110. 为什么激活值per channel量化比per token量化难加速得多？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:46 | [link](https://www.bilibili.com/video/BV1k7RuBPEqt) |
-| 2395 | 123. 如何用CPU内存的残差修正量化误差？以DecDEC为例【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:15 | [link](https://www.bilibili.com/video/BV1FXLJ6YEEv) |
-| 2396 | 160. 如何对注意力头剪枝？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:39 | [link](https://www.bilibili.com/video/BV1YCTY6qEMZ) |
-| 2397 | 219. 为什么把权重置0就是在剪枝？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:12 | [link](https://www.bilibili.com/video/BV1rG4U6kE2E) |
-| 2398 | 47 CLIP比较人性化的可视化可能长什么样？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:19 | [link](https://www.bilibili.com/video/BV1k4PDzrE9X) |
-| 2399 | 59. DeepSeek OCR比较人性化的可视化可能是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:54 | [link](https://www.bilibili.com/video/BV13gcCzbE7y) |
-| 2400 | 174. 为什么DDPM加噪相当于90°旋转插值？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:52 | [link](https://www.bilibili.com/video/BV1vAN36BEit) |
-| 2401 | 181. 为什么 DDPM 加噪旋转角是不均匀的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:30 | [link](https://www.bilibili.com/video/BV1YjKG6rEhy) |
-| 2402 | 190. 为什么扩散模型采样高斯噪声相当于在球壳上选点？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:40 | [link](https://www.bilibili.com/video/BV16V3762ECA) |
-| 2403 | 193. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:26 | [link](https://www.bilibili.com/video/BV1vo3w6wE6J) |
-| 2404 | 198. 为什么逐点卷积可以用 GEMM 实现？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:40 | [link](https://www.bilibili.com/video/BV1BB3t6gEtZ) |
-| 2405 | 205. 如何可视化VIT？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:33 | [link](https://www.bilibili.com/video/BV1t3up6iE8b) |
-| 2406 | 206. 为什么DDPM加噪图在椭圆上，而Flow Matching在直线上？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:41 | [link](https://www.bilibili.com/video/BV1x2uN6SEAt) |
-| 2407 | 210. 为什么ViT展平像素这一步是用卷积实现的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:04 | [link](https://www.bilibili.com/video/BV16M8h6AEY6) |
-| 2408 | 212. 如何可视化UNet？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:15 | [link](https://www.bilibili.com/video/BV1quhG6CEtf) |
-| 2409 | 32. 一种人性化的Transformer可视化可能是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:53 | [link](https://www.bilibili.com/video/BV13FZEBEE6y) |
-| 2410 | 35. Transformer暗含多少种分块矩阵乘法的理解方式？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:58 | [link](https://www.bilibili.com/video/BV1pRZtBaEYv) |
-| 2411 | 40. Temperature、TopK/P退化为贪婪解码的三种条件是？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:27 | [link](https://www.bilibili.com/video/BV1AzArzUEh1) |
-| 2412 | 77. 为什么训练时教师强制是只“感觉”不“生成”的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:58 | [link](https://www.bilibili.com/video/BV14BXoBMEsk) |
-| 2413 | 93. 为什么Transformer的核心公式是在做加权平均？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:53 | [link](https://www.bilibili.com/video/BV1CkQjBJE8K) |
-| 2414 | 98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:04 | [link](https://www.bilibili.com/video/BV1CSoMBgEUA) |
-| 2415 | 99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:54 | [link](https://www.bilibili.com/video/BV1U6oMBjE1D) |
-| 2416 | 104. 为什么训练时是同时预测token的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:43 | [link](https://www.bilibili.com/video/BV1jNoRBoE9b) |
-| 2417 | 107. DeepSeek V4如何使用Attention Sink忽略上下文？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:06 | [link](https://www.bilibili.com/video/BV1389kB3Ek4) |
-| 2418 | 109. 最简单的Transformer可视化能有多简单？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:07 | [link](https://www.bilibili.com/video/BV1A7RuBNETS) |
-| 2419 | 112. 如何可视化MOE？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:16 | [link](https://www.bilibili.com/video/BV1uGdgBnE65) |
-| 2420 | 114. 为什么除以√dk是在给注意力升温？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:16 | [link](https://www.bilibili.com/video/BV1m5RmBSEkF) |
-| 2421 | 118. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:43 | [link](https://www.bilibili.com/video/BV1MyRXBvEG1) |
-| 2422 | 119. 如何可视化多头注意力？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 0:53 | [link](https://www.bilibili.com/video/BV1235J6qENx) |
-| 2423 | 121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:01 | [link](https://www.bilibili.com/video/BV16XLJ6YEVP) |
-| 2424 | 122. 为什么只有单个词嵌入就能构成二元语言模型？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:11 | [link](https://www.bilibili.com/video/BV1FXLJ6YEwC) |
-| 2425 | 124. 训练时是如何恰好错开一个token的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:39 | [link](https://www.bilibili.com/video/BV1FXLJ6YE1L) |
-| 2426 | 125. 为什么Token数相同的批次未必是负载均衡的？以WLB LLM为例【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:48 | [link](https://www.bilibili.com/video/BV1FXLJ6YEiX) |
-| 2427 | 126. 举例说明投机解码如何拒绝采样？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:52 | [link](https://www.bilibili.com/video/BV1EVLM6bEuU) |
-| 2428 | 127. 为什么Adam优化器相当于在求19日EMA均线？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:30 | [link](https://www.bilibili.com/video/BV1FGLM6wEbm) |
-| 2429 | 128. 为什么4D并行的四个任务划分维度是正交的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 0:59 | [link](https://www.bilibili.com/video/BV1ZzLC6bEbU) |
-| 2430 | 130. 如何从概率树理解投机解码是无损的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:51 | [link](https://www.bilibili.com/video/BV1ktGe6NEtg) |
-| 2431 | 132. 为什么只用柱状图就能证明投机解码是无损的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:20 | [link](https://www.bilibili.com/video/BV1UHGB6REeL) |
-| 2432 | 133. 如何可视化超连接？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:30 | [link](https://www.bilibili.com/video/BV1h1GE6BEMm) |
-| 2433 | 135. 如何直观理解超连接中的残差流？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:27 | [link](https://www.bilibili.com/video/BV1bGVK6iE2B) |
-| 2434 | 136. BERT和GPT的可视化有多像？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:18 | [link](https://www.bilibili.com/video/BV1LsG26dEuq) |
-| 2435 | 137. HC=？会让超连接退化为preNorm传统残差连接？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:16 | [link](https://www.bilibili.com/video/BV1zRVE6sE2x) |
-| 2436 | 139. 为什么传统残差连接是mhc残差流扩展率=1 的特例？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:53 | [link](https://www.bilibili.com/video/BV1zRVE6sExg) |
-| 2437 | 142. 如何可视化前馈网络｜线性层的反向传播？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:49 | [link](https://www.bilibili.com/video/BV1gAj36ZELC) |
-| 2438 | 144. 如何可视化Transformer的残差连接？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 0:42 | [link](https://www.bilibili.com/video/BV1DAj36ZE2E) |
-| 2439 | 145. 从prefill和decode角度理解投机解码何以加速？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:18 | [link](https://www.bilibili.com/video/BV1hAj36ZE7E) |
-| 2440 | 146. 能否有一种方法同时可视化注意力的前向和反向传播？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:14 | [link](https://www.bilibili.com/video/BV1gAj36ZEUA) |
-| 2441 | 148. 超连接中的连边和感知机的连边有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:11 | [link](https://www.bilibili.com/video/BV1DAj36ZEZD) |
-| 2442 | 149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:41 | [link](https://www.bilibili.com/video/BV1gAj36ZEY3) |
-| 2443 | 150. 对比注意力池和注意力温度对注意力汇聚有什么影响？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:19 | [link](https://www.bilibili.com/video/BV1hAj36ZE8a) |
-| 2444 | 151. 如何可视化MQA？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:28 | [link](https://www.bilibili.com/video/BV1gAj36ZEmj) |
-| 2445 | 152. 为什么前向残差连接对应反向残差连接【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:02 | [link](https://www.bilibili.com/video/BV1bv7p6bEeG) |
-| 2446 | 153. 从等比数列求和理解Adam优化器训练初期动量修正【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:35 | [link](https://www.bilibili.com/video/BV1he7p6FEp1) |
-| 2447 | 154. 为什么投机解码确保每轮至少产出一个 token？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:32 | [link](https://www.bilibili.com/video/BV1De7p6FEL3) |
-| 2448 | 156. 最简单的transformer反向传播可视化能有多简单？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:40 | [link](https://www.bilibili.com/video/BV18e7p6FE1J) |
-| 2449 | 157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:37 | [link](https://www.bilibili.com/video/BV13e7p6cEF4) |
-| 2450 | 158. 最简单的含RoPE的Transformer可视化有多简单？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:18 | [link](https://www.bilibili.com/video/BV18e7p6FEeD) |
-| 2451 | 159. 如何可视化MTP？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:57 | [link](https://www.bilibili.com/video/BV1rtTc6tEqd) |
-| 2452 | 161. MoE每个token都要选专家，那prefill要如何并行？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:45 | [link](https://www.bilibili.com/video/BV1foTi6sEyH) |
-| 2453 | 165. 残差连接在Transformer反向传播中可视化出来是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:06 | [link](https://www.bilibili.com/video/BV1AzMP6kE62) |
-| 2454 | 169. MTP为什么能一次预测多个未来 token？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:18 | [link](https://www.bilibili.com/video/BV1aDMu6BEDb) |
-| 2455 | 170. vLLM 投机解码首token合并 prefill 这个小技巧是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:01 | [link](https://www.bilibili.com/video/BV1hETD6mERB) |
-| 2456 | 171. 如何可视化 DeepSeek MLA（简化版）？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:36 | [link](https://www.bilibili.com/video/BV1MRTd6bEbH) |
-| 2457 | 173. 如何证明任意两句话的公共前缀都有相同的KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:43 | [link](https://www.bilibili.com/video/BV1HNM76GEo8) |
-| 2458 | 176. 如何可视化交叉注意力【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:42 | [link](https://www.bilibili.com/video/BV1RVKG6CEhW) |
-| 2459 | 177. Megatron张量并行如何用列切分加行切分降低注意力层的通信？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:38 | [link](https://www.bilibili.com/video/BV1GEKG63EUT) |
-| 2460 | 183. 为什么注意力要除以√dk而不是√d model【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:45 | [link](https://www.bilibili.com/video/BV1byK36eEUT) |
-| 2461 | 185. 如何可视化kimi的注意力残差？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:51 | [link](https://www.bilibili.com/video/BV1qBKb6hEkq) |
-| 2462 | 187. 为什么MLA无需显式解压Q和K？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:37 | [link](https://www.bilibili.com/video/BV19s3K6zEXQ) |
-| 2463 | 188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:24 | [link](https://www.bilibili.com/video/BV1Qz3g61EAe) |
-| 2464 | 192. 如何证明注意力右上角加-∞就看不到后面了？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:14 | [link](https://www.bilibili.com/video/BV1N8gZ6NEzg) |
-| 2465 | 194. 为什么滑动窗口注意力在 decode 时要使用环形缓存？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:25 | [link](https://www.bilibili.com/video/BV1WP3B65Eh5) |
-| 2466 | 196. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:50 | [link](https://www.bilibili.com/video/BV17S316dExh) |
-| 2467 | 199. FlashAttention如何加速滑动窗口注意力prefill？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:29 | [link](https://www.bilibili.com/video/BV1VKMX6bEo1) |
-| 2468 | 201. 如何把RoPE算子融合到FlashAttention里？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:53 | [link](https://www.bilibili.com/video/BV1pmuA6gEN7) |
-| 2469 | 202. 如何像之前可视化Transformer那样可视化RNN？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:33 | [link](https://www.bilibili.com/video/BV1njMy6UEzQ) |
-| 2470 | 203. 推理时Q没有Cache，那训练时呢？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:29 | [link](https://www.bilibili.com/video/BV1njMy6UEmC) |
-| 2471 | 204. 如何可视化 RWKV？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:20 | [link](https://www.bilibili.com/video/BV1s5un6dEKR) |
-| 2472 | 207. 为什么MLA连V也不需要显式解压？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:27 | [link](https://www.bilibili.com/video/BV1pPu26bELp) |
-| 2473 | 208. 如何证明Transformer本身不含位置信息？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:28 | [link](https://www.bilibili.com/video/BV1ezbv6eEC6) |
-| 2474 | 209. 为什么同样是依赖上一隐藏状态，RWKV可以并行训练，而RNN不行？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:22 | [link](https://www.bilibili.com/video/BV1T8876rEaA) |
-| 2475 | 214. 为什么MLA无需显式解压K和Q？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:38 | [link](https://www.bilibili.com/video/BV1FE8Z63E5v) |
-| 2476 | 215. 连续批处理如何把Prefill和Decode请求的FFN拼成一次矩阵乘？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:27 | [link](https://www.bilibili.com/video/BV1DrhF6PEtj) |
-| 2477 | 216. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:58 | [link](https://www.bilibili.com/video/BV1vYhF6zEud) |
-| 2478 | 217. Chunked Prefill为什么要给长Prefill分块？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:40 | [link](https://www.bilibili.com/video/BV12Xhw6YE5X) |
-| 2479 | 218. 大模型的训练、推理、SFT、强化学习究竟有什么区别？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:37 | [link](https://www.bilibili.com/video/BV1wk4k6fEsY) |
-| 2480 | 222. 为什么传统位置编码只作用于词嵌入，而RoPE每层都作用？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:16 | [link](https://www.bilibili.com/video/BV16ath6fEMr) |
-| 2481 | 223. 如何可视化MOE？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:03 | [link](https://www.bilibili.com/video/BV1LUtG6KEkJ) |
-| 2482 | 224. 如何证明因果掩码其实就已经内禀位置信息了？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:47 | [link](https://www.bilibili.com/video/BV1i2tG6qEZ8) |
-| 2483 | 225. Deepseek的MLA是如何处理RoPE的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:35 | [link](https://www.bilibili.com/video/BV1BWto6cEsD) |
-| 2484 | 226. 最简单的transformer反向传播可视化能有多简单？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:39 | [link](https://www.bilibili.com/video/BV1BHto6aE7P) |
-| 2485 | 231. 从prefill和decode角度理解投机解码何以加速？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:23 | [link](https://www.bilibili.com/video/BV1fwY165Eeq) |
-| 2486 | 232. 为什么滑动窗口注意力在decode时要使用环形缓存？（新版）【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:26 | [link](https://www.bilibili.com/video/BV1sce56BEk1) |
-| 2487 | 234. 为什么MLA连V也不需要显式解压？（新版）【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:28 | [link](https://www.bilibili.com/video/BV1YEeH6uECe) |
-| 2488 | 236. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:49 | [link](https://www.bilibili.com/video/BV1cXeA6PEJR) |
-| 2489 | 237. ViT如何使用RoPE？(1D简单版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:43 | [link](https://www.bilibili.com/video/BV1hheA6EEW2) |
-| 2490 | 238. 扩散语言模型和自回归语言模型有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:31 | [link](https://www.bilibili.com/video/BV1mdhB6TEmr) |
-| 2491 | 239. 如何可视化MTP？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:48 | [link](https://www.bilibili.com/video/BV1mdhB6TEQE) |
-| 2492 | 240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:38 | [link](https://www.bilibili.com/video/BV1MnhJ6JEKb) |
-| 2493 | 241. 如何可视化GQA？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:36 | [link](https://www.bilibili.com/video/BV1e1ac6VEJF) |
-| 2494 | 242. 交叉注意力输出的第i个向量代表什么？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:11 | [link](https://www.bilibili.com/video/BV1cFaT6uEky) |
-| 2495 | 243. 为什么投机解码最多可以比K个Token多生成一个Token？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:13 | [link](https://www.bilibili.com/video/BV11Vhm6oEZ4) |
-| 2496 | 244. 为什么KV Cache相当于Agent的短期记忆？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:43 | [link](https://www.bilibili.com/video/BV1CEhm6WEX3) |
-| 2497 | 245. 为什么投机解码确保每轮至少产出一个 token？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:37 | [link](https://www.bilibili.com/video/BV1CEhm6WER6) |
-| 2498 | 247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:59 | [link](https://www.bilibili.com/video/BV1Ksh96yEyN) |
-| 2499 | 249. 最近大火的Jev和传统的LLM有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:48 | [link](https://www.bilibili.com/video/BV1MKa66VEJ4) |
-| 2500 | 250. prefill和decode相当于RNN中的什么操作？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:38 | [link](https://www.bilibili.com/video/BV1s6He68EcV) |
-| 2501 | 251. Pyramid KV为什么用金字塔形KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:44 | [link](https://www.bilibili.com/video/BV1zcHr6uE2N) |
-| 2502 | 252. KV Cache相当于RNN中的什么东西？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:45 | [link](https://www.bilibili.com/video/BV1FcHr6gEDq) |
-| 2503 | 253. 什么是树形掩码？它和因果掩码有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:32 | [link](https://www.bilibili.com/video/BV14UHJ6oE9E) |
-| 2504 | 255. 树形注意力如何一次前向并行验证整棵草稿树？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:07 | [link](https://www.bilibili.com/video/BV1MRH26BE6z) |
-| 2505 | 257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:49 | [link](https://www.bilibili.com/video/BV1mVHd64EGJ) |
-| 2506 | 259. 如何证明任意两句话的公共前缀都有相同的KV Cache？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:35 | [link](https://www.bilibili.com/video/BV1SGpn6NEfF) |
-| 2507 | 58. 如何根据答案倒推合成思维链做SFT？以AscendKernelGen为例【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:55 | [link](https://www.bilibili.com/video/BV1DvcyzcEa4) |
-| 2508 | 60. LoRA微调和向量外积为何长得很像？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:46 | [link](https://www.bilibili.com/video/BV1pKwjz3E1P) |
-| 2509 | 84. LoRA要增加旁路，微调前后模型结构却可以不变，为什么？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:16 | [link](https://www.bilibili.com/video/BV1cQSSBvE8N) |
-| 2510 | 96. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:19 | [link](https://www.bilibili.com/video/BV15GdjByEpy) |
-| 2511 | 182. 如何可视化知识蒸馏？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:38 | [link](https://www.bilibili.com/video/BV1UyK36YE3Z) |
-| 2512 | 191. 如何可视化LoRA？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 0:36 | [link](https://www.bilibili.com/video/BV1Zq3j63Eeu) |
-| 2513 | 46. 矩阵乘法对激活的梯度是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:35 | [link](https://www.bilibili.com/video/BV1ioArzKEMB) |
-| 2514 | 51 矩阵乘法对权重的梯度是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:24 | [link](https://www.bilibili.com/video/BV1TUPWzkE6U) |
-| 2515 | 52 简单的梯度算子是如何定义的【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:13 | [link](https://www.bilibili.com/video/BV1TUPWzkEgW) |
-| 2516 | 61. 含广播的偏置b的梯度如何计算？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:01 | [link](https://www.bilibili.com/video/BV1WWXWBzELJ) |
-| 2517 | 87. 为什么前向广播对应着反向归约？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:23 | [link](https://www.bilibili.com/video/BV177DWBdEoV) |
-| 2518 | 69. 深度学习中两种常用的矩阵微积分是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:34 | [link](https://www.bilibili.com/video/BV1a9XNBTERT) |
-| 2519 | 70. 如何理解泰勒展开的多元函数扩展？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:53 | [link](https://www.bilibili.com/video/BV1HVXKBpE9p) |
-| 2520 | 100. 为什么神经网络连接可以用矩阵乘法实现？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:54 | [link](https://www.bilibili.com/video/BV1SBoMBmEVB) |
-| 2521 | 86. 为什么矩阵乘法可以看作标量乘法的拓展？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:35 | [link](https://www.bilibili.com/video/BV1WxDeBcExC) |
-| 2522 | 72. 如何从几何视角理解拉格朗日乘子法？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:17 | [link](https://www.bilibili.com/video/BV1C3XKB9EHm) |
-| 2523 | 95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:26 | [link](https://www.bilibili.com/video/BV1D8daB7En5) |
-| 2524 | 105. K-Means聚类和中垂线有什么关系？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:17 | [link](https://www.bilibili.com/video/BV1Kk9kBAEnC) |
-| 2525 | 113. 如何理解梯度下降的多元函数扩展？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:06 | [link](https://www.bilibili.com/video/BV1m5RmBSENE) |
-| 2526 | 184. 一口气看完：正态分布，梯度下降、泰勒展开一元推广到多元【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 11:14 | [link](https://www.bilibili.com/video/BV1LvKw6UEuM) |
-| 2527 | 115. 为什么梯度下降、泰勒展开、正态分布都有多元扩展？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:01 | [link](https://www.bilibili.com/video/BV1M5RmBDENg) |
-| 2528 | 155. 为什么信息熵=最优码长，交叉熵=实际码长，KL散度=浪费码长【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:17 | [link](https://www.bilibili.com/video/BV18e7p6FEZ1) |
-| 2529 | 167. 为什么KL散度非负和信息熵是最优码长这两件事是等价的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:06 | [link](https://www.bilibili.com/video/BV1fTMP6YEtZ) |
-| 2530 | 175. 如何理解正态分布的多元扩展？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:47 | [link](https://www.bilibili.com/video/BV1eVKG6CEZH) |
-| 2531 | 179. 如何用高中导数证明 KL 散度非负？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:39 | [link](https://www.bilibili.com/video/BV1GEKG6uEgV) |
-| 2532 | 180. 向量如何对向量求导？推广到矩阵、张量呢？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:19 | [link](https://www.bilibili.com/video/BV1VjKG6kEpR) |
-| 2533 | 189. 为什么反向传播的本质是乘雅可比矩阵？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:28 | [link](https://www.bilibili.com/video/BV17Y356TEZu) |
-| 2534 | 197. 为什么自动微分系统倾向于反向微分而非前向微分？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:18 | [link](https://www.bilibili.com/video/BV1ct3x6gEkq) |
-| 2535 | 200. 为什么线性层反向传播也可以用GEMM实现？——为什么前向全连接对应反向全连接？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:06 | [link](https://www.bilibili.com/video/BV1t3uF6MEbd) |
-| 2536 | 91. 游戏AI和LLM的πθ(a∣s)有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:22 | [link](https://www.bilibili.com/video/BV1TeD9B4EbF) |
-| 2537 | 116. 如何从动态规划和记忆化搜索理解DQN？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:39 | [link](https://www.bilibili.com/video/BV1ygRXBZEQf) |
-| 2538 | 129. 举例说明DPO论文里三行核心代码是啥意思？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:31 | [link](https://www.bilibili.com/video/BV1AtGe6KEbW) |
-| 2539 | 131. 折扣因子γ是如何改变未来的奖励重要程度的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:16 | [link](https://www.bilibili.com/video/BV1AtGe6KEuk) |
-| 2540 | 186. 为什么交叉熵梯度相当于特殊的策略梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:37 | [link](https://www.bilibili.com/video/BV1G2gh6BEg6) |
-| 2541 | 211. 如何求PPO中每个token的梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:56 | [link](https://www.bilibili.com/video/BV1juhG6CEmD) |
-| 2542 | 213. 为什么GRPO可以扔掉价值网络？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:32 | [link](https://www.bilibili.com/video/BV1WC896BEPW) |
-| 2543 | 220. PPO的损失计算和SFT有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:09 | [link](https://www.bilibili.com/video/BV14Ctp6JEp6) |
-| 2544 | 221. 为什么很多强化学习框架要内置vLLM这样的推理引擎加速采样？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:03 | [link](https://www.bilibili.com/video/BV16ath6fEbM) |
-| 2545 | 227. PPO中的优势A是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:03 | [link](https://www.bilibili.com/video/BV1mTtf6SEhx) |
-| 2546 | 228. PPO的价值网络是如何根据写到一半的答案猜平均分的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:22 | [link](https://www.bilibili.com/video/BV163b46DE6F) |
-| 2547 | 229. 为什么PPO的优势A是每个token一个，而GRPO是整段回答一个？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:10 | [link](https://www.bilibili.com/video/BV151Yu6uERg) |
-| 2548 | 230. PPO的GAE是如何计算的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:28 | [link](https://www.bilibili.com/video/BV1weYR65EjZ) |
-| 2549 | 233. 大模型强化学习的价值网络和围棋的价值网络有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:32 | [link](https://www.bilibili.com/video/BV1eEeH6uEiN) |
-| 2550 | 235. 如何从PPO每个token的目标函数推导出梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:36 | [link](https://www.bilibili.com/video/BV1cXeA6PEVh) |
-| 2551 | 246. 为什么大模型RL里每一步的奖励几乎都是0？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:31 | [link](https://www.bilibili.com/video/BV1Tsh96yEAY) |
-| 2552 | 254. PPO里面的KL约束到底在防什么？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:48 | [link](https://www.bilibili.com/video/BV1L5HC6uE4H) |
-| 2553 | 256. 为什么PPO里的KL约束用的是反向KL而非前向KL？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:44 | [link](https://www.bilibili.com/video/BV163Hm6dECv) |
-| 2554 | 258. 什么是OPD（On-Policy Distillation）？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:12 | [link](https://www.bilibili.com/video/BV1oQHR6rEvQ) |
-| 2555 | 248. 新加坡-2026-会议留影【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 0:15 | [link](https://www.bilibili.com/video/BV1bsaz63EV5) |
-| 2556 | [1]. 跑通TritonBench测试LLM的算子生成能力(ACL2025)【每周一个宝藏实验】 | - | AI 论文精读 | - | - | 13:03 | [link](https://www.bilibili.com/video/BV12xZBBwEKf) |
-| 2557 | [3] 从采摘200片三叶草开始训练一个简易无条件DDPM 【每周一个宝藏实验】 | - | AI 论文精读 | - | - | 14:52 | [link](https://www.bilibili.com/video/BV1PcfEBrEBs) |
-| 2558 | [5] 快速上手FuctionCall和React：极简易百词斩Agent【每周一个宝藏实验】 | - | AI 论文精读 | - | - | 15:39 | [link](https://www.bilibili.com/video/BV1nUAazDEma) |
-| 2559 | [7] 跑KernelBench测试LLM将PyTorch转译为CUDA代码的能力（ICML2025）【每周一个宝藏实验】 | - | AI 论文精读 | - | - | 10:40 | [link](https://www.bilibili.com/video/BV1gzPyzuERu) |
-| 2560 | [9] 跑CUDA-L2测试和cuBLAS相比效果如何？【每周一个宝藏实验】 | - | AI 论文精读 | - | - | 7:53 | [link](https://www.bilibili.com/video/BV1QPwszCE39) |
-| 2561 | [11] 跑robust-kbench测试LLM写算子，附Agent提示词【每周一个宝藏实验】 | - | AI 论文精读 | - | - | 2:30 | [link](https://www.bilibili.com/video/BV1vxAszpE3P) |
-| 2562 | [13] AutoDL上部署龙虾，它能帮忙测试算子性能吗？【每周一个宝藏实验】 | - | AI 论文精读 | - | - | 3:10 | [link](https://www.bilibili.com/video/BV1XMX5BZEGF) |
-| 2563 | 1. BitNet 1.58b：微软开源的3值量化模型【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:27 | [link](https://www.bilibili.com/video/BV1kG6jBSE3u) |
-| 2564 | 2. AWQ：一种保护关键权重的LLM量化算法【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:27 | [link](https://www.bilibili.com/video/BV16H6EBHEP5) |
-| 2565 | 3. GPTQ：一种纯数学的LLM量化方法【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:32 | [link](https://www.bilibili.com/video/BV1aXzXBNE4A) |
-| 2566 | 4. SmoothQuant：一种转嫁压力的LLM量化方法【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:25 | [link](https://www.bilibili.com/video/BV1RyzXB6Eyz) |
-| 2567 | 7. SlimAttention：一种比FlashAttention更适合CPU的推理方案【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:30 | [link](https://www.bilibili.com/video/BV1MUzZBVEtV) |
-| 2568 | 8. PagedAttention：借鉴操作系统分页机制，内置于vLLM【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:28 | [link](https://www.bilibili.com/video/BV1Ht6wBVEUX) |
-| 2569 | 9. FlashAttention：将Attention的显存占用从平方级降到了线性级【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:29 | [link](https://www.bilibili.com/video/BV1C66YBvECv) |
-| 2570 | 10. NF4：QLoRA中的非均匀量化数据类型【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:32 | [link](https://www.bilibili.com/video/BV1qA6BBKEck) |
-| 2571 | 11. GQA：介于MHA和MQA之间，键值共享查询分组【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:28 | [link](https://www.bilibili.com/video/BV19u6BBwEQ8) |
-| 2572 | 12. RoPE：通过旋转矩阵让注意力只取决于相对位置【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:28 | [link](https://www.bilibili.com/video/BV1gQ6iBREZw) |
-| 2573 | 15. 投机解码：小模型草拟，大模型验证【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:32 | [link](https://www.bilibili.com/video/BV1yS6zBXEVu) |
-| 2574 | 27. 在线Softmax：通过修正比安全Softmax减少了一次循环【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:32 | [link](https://www.bilibili.com/video/BV1c1c7zzEb4) |
-| 2575 | 54. bf16：与FP32有相同的8位指数位，所以更适合模型训练【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:47 | [link](https://www.bilibili.com/video/BV1DvPhzeE3R) |
-| 2576 | 24. 思维树：大模型+DFS玩24点游戏成功率大增【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:26 | [link](https://www.bilibili.com/video/BV1gtcbzDENr) |
-| 2577 | 26. TinyML：MIT推出的大模型轻量化课，亲手量化一个本地llama模型【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:30 | [link](https://www.bilibili.com/video/BV1CPcJzLELq) |
-| 2578 | 5. CS336：斯坦福LLM神课，甚至包含洗数据和SFT【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:30 | [link](https://www.bilibili.com/video/BV12pzXBREPY) |
-| 2579 | 18. CCF-DDL：一个统计CCF分类和倒计时的宝藏网站【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:32 | [link](https://www.bilibili.com/video/BV1Jif9BeEYE) |
-| 2580 | 6. nano-vLLM：纯python实现的堪比vLLM的推理框架【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:29 | [link](https://www.bilibili.com/video/BV1FTzfBcE3h) |
-| 2581 | 38. miniSGLang：一个简化版SGLang，仅5000行python【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:18 | [link](https://www.bilibili.com/video/BV1obA6zeEtE) |
-| 2582 | 43. everything：比Windows默认文件搜索工具快很多，2MB的免费小工具【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:26 | [link](https://www.bilibili.com/video/BV1iRArzqEvU) |
-| 2583 | 48. NoteBookLM：Google的PPT制作神器，还有思维导图等一系列功能【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:17 | [link](https://www.bilibili.com/video/BV1MUP5zDEmj) |
-| 2584 | 50. 环境变量的工作原理：控制台启动时自动执行命令，让简写命令找到在哪执行【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 1:06 | [link](https://www.bilibili.com/video/BV1zXP7zyEbD) |
+| 2066 | 详解AI编译器数据布局转换方法！华为昇腾处理器的数据布局格式！【AI编译器】系列之前端优化第04篇(下) | - | AI 论文精读 | - | - | 13:54 | [link](https://www.bilibili.com/video/BV1gd4y1Y7dc) |
+| 2067 | AI编译器内存优化算法！动态内存和静态内存区别！【AI编译器】前端优化第05篇 | - | AI 论文精读 | - | - | 17:09 | [link](https://www.bilibili.com/video/BV1nM411879s) |
+| 2068 | 常量折叠原理！AI编译器常量折叠跟传统编译器什么关系？计算图也需要常量折叠！【AI编译器】系列之前端优化第06篇 | - | AI 论文精读 | - | - | 11:06 | [link](https://www.bilibili.com/video/BV1P8411W7dY) |
+| 2069 | 编译器公共子表达式消除的方法！AI编译器消除公共子表达式【AI编译器】系列之前端优化第07篇 | - | AI 论文精读 | - | - | 8:30 | [link](https://www.bilibili.com/video/BV1rv4y1Q7tp) |
+| 2070 | 编译器死代码消除的原理！AI编译器死代码消除【AI编译器】系列之前端优化第08篇 | - | AI 论文精读 | - | - | 6:24 | [link](https://www.bilibili.com/video/BV1hD4y1h7nh) |
+| 2071 | 编译器的代数化简原理！AI编译器的代数化简来啦！【AI编译器】系列之前端优化第09篇 | - | AI 论文精读 | - | - | 9:30 | [link](https://www.bilibili.com/video/BV1g24y1Q7qC) |
+| 2072 | AI编译器的前端优化/图优化Pass的顺序怎么排？【AI编译器】系列之前端优化第10篇 | - | AI 论文精读 | - | - | 4:58 | [link](https://www.bilibili.com/video/BV1L14y1P7ku) |
+| 2073 | PyTorch 2.0新特性开撸！图模式打开了潘多拉！【AI编译器之PyTorch】系列01篇 | - | AI 论文精读 | - | - | 13:30 | [link](https://www.bilibili.com/video/BV1p84y1675B) |
+| 2074 | TorchScript 解读！图模式的第一次尝试！静态图+JIT编译器！【AI编译器之PyTorch】系列02篇 | - | AI 论文精读 | - | - | 8:30 | [link](https://www.bilibili.com/video/BV1JV4y1P7gB) |
+| 2075 | PyTorch静态图的TorchFX和Lazy Tensor特性解读！【AI编译器之PyTorch】系列03篇 | - | AI 论文精读 | - | - | 13:41 | [link](https://www.bilibili.com/video/BV1944y1m7fU) |
+| 2076 | TorchDynamo原理来啦！PyTorch2.0编译新特性哦！【AI编译器之PyTorch】系列04篇 | - | AI 论文精读 | - | - | 14:45 | [link](https://www.bilibili.com/video/BV1jD4y1a7hx) |
+| 2077 | AOTAutograd原理解读！如何获取静态反向图？【AI编译器之PyTorch】系列05篇 | - | AI 论文精读 | - | - | 10:42 | [link](https://www.bilibili.com/video/BV1Me4y1V7Ke) |
+| 2078 | PyTorch Dispatcher原理！PyTorch算子注册！【AI编译器之PyTorch】系列06篇 | - | AI 论文精读 | - | - | 15:49 | [link](https://www.bilibili.com/video/BV1L3411d7SM) |
+| 2079 | 什么是推理系统？推理有哪些应用？【推理系统】系列01篇 | - | AI 论文精读 | - | - | 8:23 | [link](https://www.bilibili.com/video/BV1J8411K7pj) |
+| 2080 | 推理系统和推理引擎的不同之处在哪？【推理系统】系列02篇 | - | AI 论文精读 | - | - | 17:03 | [link](https://www.bilibili.com/video/BV1nY4y1f7G5) |
+| 2081 | 云侧和端侧推理方式的特点和区别！【推理系统】系列03篇 | - | AI 论文精读 | - | - | 12:55 | [link](https://www.bilibili.com/video/BV1M24y1v7rK) |
+| 2082 | 推理系统架构和Trition架构介绍！【推理系统】系列04篇 | - | AI 论文精读 | - | - | 14:25 | [link](https://www.bilibili.com/video/BV1Gv4y1i7Tw) |
+| 2083 | 推理引擎架构介绍！MNN、TF Lite、TensorRT介绍！【推理系统】系列05篇(上) | - | AI 论文精读 | - | - | 12:47 | [link](https://www.bilibili.com/video/BV1Mx4y137Er) |
+| 2084 | 推理引擎架构！MNN、TensorRT架构介绍！【推理系统】系列05篇(下) | - | AI 论文精读 | - | - | 14:15 | [link](https://www.bilibili.com/video/BV1FG4y1C7Mn) |
+| 2085 | AI编译器后端优化来啦！AI编译器后端架构！【AI编译器】后端优化01篇 | - | AI 论文精读 | - | - | 13:12 | [link](https://www.bilibili.com/video/BV17D4y177bP) |
+| 2086 | 如何对算子IR表示？算子是如何分开计算和调度两部分？【AI编译器】后端优化02篇 | - | AI 论文精读 | - | - | 10:19 | [link](https://www.bilibili.com/video/BV1K84y1x7Be) |
+| 2087 | AI编译器后端算子优化来啦！算子优化手工方式！【AI编译器】后端优化03篇 | - | AI 论文精读 | - | - | 8:24 | [link](https://www.bilibili.com/video/BV1ZA411X7WZ) |
+| 2088 | 后端算子循环优化！Loop Optimization常见方法！【AI编译器】后端优化04篇 | - | AI 论文精读 | - | - | 12:07 | [link](https://www.bilibili.com/video/BV1r14y1w7hG) |
+| 2089 | 算子优化的指令和存储优化！【AI编译器】后端优化05篇 | - | AI 论文精读 | - | - | 12:59 | [link](https://www.bilibili.com/video/BV11d4y1a7J6) |
+| 2090 | Auto Tuning原理！TVM的AutoTVM实现方式详解！【AI编译器】后端优化06篇 | - | AI 论文精读 | - | - | 11:55 | [link](https://www.bilibili.com/video/BV1uA411D7JF) |
+| 2091 | 分布式并行策略基础介绍！【分布式并行】系列第01篇 | - | AI 论文精读 | - | - | 3:31 | [link](https://www.bilibili.com/video/BV1ve411w7DL) |
+| 2092 | PyTorch数据并行怎么实现？DP、DDP、FSDP数据并行原理？【分布式并行】系列第02篇 | - | AI 论文精读 | - | - | 13:50 | [link](https://www.bilibili.com/video/BV1JK411S7gL) |
+| 2093 | 什么是张量并行？张量并行的数学原理是什么？【分布式并行】系列第03篇 | - | AI 论文精读 | - | - | 16:19 | [link](https://www.bilibili.com/video/BV1vt4y1K7wT) |
+| 2094 | 张量还能自动并行？MindSpore张量自动并行啥原理？【大模型与分布式训练】系列04篇 | - | AI 论文精读 | - | - | 6:12 | [link](https://www.bilibili.com/video/BV1C8411h7Q6) |
+| 2095 | 模型并行的流水线并行来啦！了解下GPipe和PipeDream？【分布式并行】系列第05篇 | - | AI 论文精读 | - | - | 15:28 | [link](https://www.bilibili.com/video/BV1WD4y1t7Ba) |
+| 2096 | 混合并行？多维并行？有多维度混合在一起并行吗？【分布式并行】系列第06篇 | - | AI 论文精读 | - | - | 15:33 | [link](https://www.bilibili.com/video/BV1gD4y1t7Ut) |
+| 2097 | 分布式训练总结！【大模型与分布式训练】系列第07篇 | - | AI 论文精读 | - | - | 13:07 | [link](https://www.bilibili.com/video/BV1av4y1S7DQ) |
+| 2098 | 为什么需要AI编译器？跟传统编译器啥关系吗？【AI编译器】系列第一篇 | - | AI 论文精读 | - | - | 10:44 | [link](https://www.bilibili.com/video/BV1pM41167KP) |
+| 2099 | AI编译器架构发展！三个阶段出现的AI编译器有啥区别？【AI编译器】系列第二篇 | - | AI 论文精读 | - | - | 17:30 | [link](https://www.bilibili.com/video/BV1QK411R7iy) |
+| 2100 | AI编译器啥架构来着？有多少模块？【AI编译器】系列第三篇 | - | AI 论文精读 | - | - | 8:42 | [link](https://www.bilibili.com/video/BV1qD4y1Y73e) |
+| 2101 | AI编译器的挑战与未来？【AI编译器】系列第四篇 | - | AI 论文精读 | - | - | 14:31 | [link](https://www.bilibili.com/video/BV1Hv4y1R7uc) |
+| 2102 | 计算图有哪些内容知识？【计算图】系列第一篇 | - | AI 论文精读 | - | - | 1:55 | [link](https://www.bilibili.com/video/BV1cG411E7gV) |
+| 2103 | 为什么AI框架都用计算图？什么是计算图？到底计算图有什么用？【计算图】系列第二篇 | - | AI 论文精读 | - | - | 10:37 | [link](https://www.bilibili.com/video/BV1rR4y197HM) |
+| 2104 | 计算图跟微分什么关系？怎么用计算图表示自动微分？AI框架自动微分如何通过计算图来实现？【计算图】系列第三篇 | - | AI 论文精读 | - | - | 16:45 | [link](https://www.bilibili.com/video/BV1S24y197FU) |
+| 2105 | 对计算图进行优化与执行调度！计算图优化跟AI编译器啥关系？一起了解下计算图的调度执行吧！【计算图】第四篇 | - | AI 论文精读 | - | - | 10:31 | [link](https://www.bilibili.com/video/BV1hD4y1k7Ty) |
+| 2106 | AI框架都是怎么表示控制流的？PyTorch和TF对计算图中控制语句如何处理？【计算图】第五篇 | - | AI 论文精读 | - | - | 15:22 | [link](https://www.bilibili.com/video/BV17P41177Pk) |
+| 2107 | AI框架如何实现动静统一？PyTorch和MindSpore动静统一做得如何了？【计算图】第六篇 | - | AI 论文精读 | - | - | 7:08 | [link](https://www.bilibili.com/video/BV11M41167yX) |
+| 2108 | 计算图未来将会走向何方？【计算图】第七篇 | - | AI 论文精读 | - | - | 6:50 | [link](https://www.bilibili.com/video/BV1hm4y1A7Nv) |
+| 2109 | 编译器和解释器啥区别？AOT和JIT啥区别？Pass和IR又是什么？【AI编译器】系列01篇 | - | AI 论文精读 | - | - | 15:17 | [link](https://www.bilibili.com/video/BV1D84y1y73v) |
+| 2110 | GCC和LLVM发家历史？两大开源编译器的爱恨情仇【AI编译器】系列第二篇 | - | AI 论文精读 | - | - | 10:41 | [link](https://www.bilibili.com/video/BV1sM411C7Vr) |
+| 2111 | GCC编译过程！优缺点是啥？手把手用GCC编译一个小程序【AI编译器】系列第三篇 | - | AI 论文精读 | - | - | 9:49 | [link](https://www.bilibili.com/video/BV1LR4y1f7et) |
+| 2112 | LLVM架构了解下？为什么LLVM这么火？一起初体验实操LLVM【AI编译器】系列第四篇 | - | AI 论文精读 | - | - | 15:13 | [link](https://www.bilibili.com/video/BV1CG4y1V7Dn) |
+| 2113 | LLVM IR详解！LLVM编译器的核心理念来啦！【AI编译器】系列第五篇(上) | - | AI 论文精读 | - | - | 11:13 | [link](https://www.bilibili.com/video/BV1PP411u7NR) |
+| 2114 | LLVM编译器前端和优化层了解下？词法语法分析、Pass优化都在这！【AI编译器】系列第五篇(中) | - | AI 论文精读 | - | - | 11:48 | [link](https://www.bilibili.com/video/BV1vd4y1t7vS) |
+| 2115 | LLVM后端代码生成！了解下基于LLVM的项目！【AI编译器】系列第五篇(下) | - | AI 论文精读 | - | - | 14:26 | [link](https://www.bilibili.com/video/BV1cd4y1b7ho) |
+| 2116 | 分布式训练、分布式集群的基础介绍！【分布式集群】第01篇 | - | AI 论文精读 | - | - | 7:39 | [link](https://www.bilibili.com/video/BV1ge411L7mi) |
+| 2117 | AI集群用什么服务器架构？Ring All Reduce算法跟物理网络啥关系？【分布式集群】系列第02篇 | - | AI 论文精读 | - | - | 13:14 | [link](https://www.bilibili.com/video/BV1fg41187rc) |
+| 2118 | AI集群的软硬件通信：从硬件PCIE、NVLINK、RDMA原理到通信NCCL、MPI原理！【分布式集群】系列第03篇 | - | AI 论文精读 | - | - | 12:15 | [link](https://www.bilibili.com/video/BV14P4y1S7u4) |
+| 2119 | AI集群机器间是怎么通信？通信原语是个什么玩意？【分布式集群】系列第04篇 | - | AI 论文精读 | - | - | 9:38 | [link](https://www.bilibili.com/video/BV1te4y1e7vz) |
+| 2120 | AI框架如何实现分布式训练？SISD和SIMT又是什么？【分布式集群】系列第05篇 | - | AI 论文精读 | - | - | 16:13 | [link](https://www.bilibili.com/video/BV1Y14y1576A) |
+| 2121 | 大模型是什么？大模型有什么用？训练大模型会遇到哪些挑战？【分布式算法】第01篇 | - | AI 论文精读 | - | - | 13:45 | [link](https://www.bilibili.com/video/BV1n8411s7f3) |
+| 2122 | 大模型算法有哪种结构？怎么样才算大模型呢？从Transformer和MOE结构看大模型发展！【分布式算法】系列第02篇 | - | AI 论文精读 | - | - | 16:06 | [link](https://www.bilibili.com/video/BV1Mt4y1M7SE) |
+| 2123 | 从十亿到万亿规模SOTA大模型有哪些？BERT、GPT3、Switch算法来啦！【分布式算法】系列第03篇 | - | AI 论文精读 | - | - | 15:35 | [link](https://www.bilibili.com/video/BV1em4y1F7ay) |
+| 2124 | AI框架内容介绍：AI框架基础、AI框架之争、AI编程范式！【AI框架基础】系列第一篇 | - | AI 论文精读 | - | - | 4:21 | [link](https://www.bilibili.com/video/BV1he4y1z7oD) |
+| 2125 | AI框架有什么用？没有AI框架写算法又会怎么样？【AI框架基础】系列第二篇 | - | AI 论文精读 | - | - | 13:11 | [link](https://www.bilibili.com/video/BV1fd4y1q7qk) |
+| 2126 | AI框架之争！都2022年，应该怎么选择AI框架？【AI框架基础】系列第三篇 | - | AI 论文精读 | - | - | 16:16 | [link](https://www.bilibili.com/video/BV1C8411x7Kn) |
+| 2127 | 函数式编程和声明式编程啥区别？AI到底应该用什么编程范式？【AI框架基础】系列第四篇 | - | AI 论文精读 | - | - | 13:16 | [link](https://www.bilibili.com/video/BV1gR4y1o7WT) |
+| 2128 | 想了解自动微分吗？自动微分内容介绍！【自动微分】系列第一篇！ | - | AI 论文精读 | - | - | 4:39 | [link](https://www.bilibili.com/video/BV1FV4y1T7zp) |
+| 2129 | 符号微分/数值微分/自动微分区别是什么？【自动微分】系列第二篇 | - | AI 论文精读 | - | - | 10:56 | [link](https://www.bilibili.com/video/BV1Ld4y1M7GJ) |
+| 2130 | 前向微分和正向微分怎么理解？微分方式跟反向传播算法啥关系？【自动微分】系列第三篇 | - | AI 论文精读 | - | - | 13:27 | [link](https://www.bilibili.com/video/BV1zD4y117bL) |
+| 2131 | 自动微分是怎么实现的？Lib Base、操作符重载、源码转换不懂得快来！【自动微分】系列第四篇！ | - | AI 论文精读 | - | - | 11:51 | [link](https://www.bilibili.com/video/BV1BN4y1P76t) |
+| 2132 | 亲自撸一个正向自动微分的AI框架！【自动微分】系列第五篇 | - | AI 论文精读 | - | - | 10:29 | [link](https://www.bilibili.com/video/BV1Ne4y1p7WU) |
+| 2133 | 手把手实现一个PyTorch！实现PyTorch核心自动微分！【自动微分】系列第六篇 | - | AI 论文精读 | - | - | 19:53 | [link](https://www.bilibili.com/video/BV1ae4y1z7E6) |
+| 2134 | 自动微分挑战和未来！自动微分易用性和性能应该如何兼容？可微编程是否未来？【自动微分】系列第七篇 | - | AI 论文精读 | - | - | 13:01 | [link](https://www.bilibili.com/video/BV17e4y1z73W) |
+| 2135 | [2] 读上月新鲜出炉的综述：大模型写算子【每周一个宝藏论文】 | - | AI 论文精读 | [2601.15727](https://arxiv.org/abs/2601.15727) | - | 11:07 | [link](https://www.bilibili.com/video/BV1XcfBBGEUw) |
+| 2136 | [4] 大模型写算子：一篇综述+2个数据集【每周一个宝藏论文】 | - | AI 论文精读 | [2601.15727](https://arxiv.org/abs/2601.15727) | - | 15:52 | [link](https://www.bilibili.com/video/BV1pJA6zkEH4) |
+| 2137 | [6] Agent写算子：读三个Agent写算子的论文【每周一个宝藏论文】 | - | AI 论文精读 | - | - | 14:05 | [link](https://www.bilibili.com/video/BV1HVPkzEEx9) |
+| 2138 | [8] 读三个强化学习写算子的论文【每周一个宝藏论文】 | - | AI 论文精读 | - | - | 16:25 | [link](https://www.bilibili.com/video/BV1fVckzqE1S) |
+| 2139 | ［10］大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】 | - | AI 论文精读 | [2601.00227](https://arxiv.org/abs/2601.00227) | - | 13:43 | [link](https://www.bilibili.com/video/BV1M8QUBUESz) |
+| 2140 | ［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】 | - | AI 论文精读 | [2510.12872](https://arxiv.org/abs/2510.12872) | - | 13:50 | [link](https://www.bilibili.com/video/BV1B997BmEGr) |
+| 2141 | [14] AWQ：大语言模型量化论文解读 【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:29 | [link](https://www.bilibili.com/video/BV1RuoFBvEm8) |
+| 2142 | [16] LLM.int8()：大模型量化论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:58 | [link](https://www.bilibili.com/video/BV1BeoNB9EQP) |
+| 2143 | [18] SmoothQuant：大模型量化论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 14:17 | [link](https://www.bilibili.com/video/BV1CkoPBbEyB) |
+| 2144 | [28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 21:51 | [link](https://www.bilibili.com/video/BV1bJd2BHEeb) |
+| 2145 | [29] GPTQ：大模型量化论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:48 | [link](https://www.bilibili.com/video/BV1Y3d2BoELh) |
+| 2146 | [31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 26:50 | [link](https://www.bilibili.com/video/BV129ReB1EiW) |
+| 2147 | [44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:06 | [link](https://www.bilibili.com/video/BV1t1RrBNEEt) |
+| 2148 | [107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:19 | [link](https://www.bilibili.com/video/BV1rtME6LEfy) |
+| 2149 | [163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:18 | [link](https://www.bilibili.com/video/BV16ath6fEA4) |
+| 2150 | [178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 15:28 | [link](https://www.bilibili.com/video/BV1jvep67Eoa) |
+| 2151 | [180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:53 | [link](https://www.bilibili.com/video/BV1TdhB6MEm7) |
+| 2152 | [15] PagedAttention：vLLM论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:45 | [link](https://www.bilibili.com/video/BV1xJoNBPEqe) |
+| 2153 | [17] FlashAttention-1论文解读 【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 16:32 | [link](https://www.bilibili.com/video/BV1XPoNB5EQy) |
+| 2154 | [24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:06 | [link](https://www.bilibili.com/video/BV18Ud6BME78) |
+| 2155 | [20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:49 | [link](https://www.bilibili.com/video/BV1V6d6BCEzJ) |
+| 2156 | [21] 在线softmax：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:21 | [link](https://www.bilibili.com/video/BV1Qkd6B3EUe) |
+| 2157 | [22] FlashAttention-V2：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:09 | [link](https://www.bilibili.com/video/BV1yfd6B8E37) |
+| 2158 | [23] flash-attention-v3：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:45 | [link](https://www.bilibili.com/video/BV1yZd6BcE3b) |
+| 2159 | [26] GQA：分组查询注意力论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:53 | [link](https://www.bilibili.com/video/BV1Bcd2BeEVv) |
+| 2160 | [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:29 | [link](https://www.bilibili.com/video/BV1hjd2BWEGS) |
+| 2161 | [43]. MQA：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:26 | [link](https://www.bilibili.com/video/BV1m1RrBNEmy) |
+| 2162 | [79]. FlashAttention-4：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:50 | [link](https://www.bilibili.com/video/BV1q6Js6DEwE) |
+| 2163 | [99]. Medusa：投机解码和树形注意力论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:11 | [link](https://www.bilibili.com/video/BV1NsKQ6zENp) |
+| 2164 | [98]. TurboQuant：KV Cache量化论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:50 | [link](https://www.bilibili.com/video/BV11sKQ6zEFj) |
+| 2165 | [101]. H2O：KV缓存压缩论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:05 | [link](https://www.bilibili.com/video/BV1ktTc6tEce) |
+| 2166 | [100]. FlashDecoding的改进：FlashDecoding++论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:53 | [link](https://www.bilibili.com/video/BV1rtTc6tEen) |
+| 2167 | [110]. EAGLE：投机解码论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:37 | [link](https://www.bilibili.com/video/BV1BZMJ6CEa6) |
+| 2168 | [116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:32 | [link](https://www.bilibili.com/video/BV1SCK36PEGX) |
+| 2169 | [179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 15:40 | [link](https://www.bilibili.com/video/BV1GueP6pE7P) |
+| 2170 | [25] QLora：大模型量化微调论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:05 | [link](https://www.bilibili.com/video/BV1CFdrBfE2D) |
+| 2171 | [152]. Distilling the Knowledge：知识蒸馏奠基之作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:46 | [link](https://www.bilibili.com/video/BV1cK8h6vEVW) |
+| 2172 | [19] DeepSeek-V4逐图、逐公式解读【每天一个宝藏论文】 | - | AI 论文精读 | - | - | 29:02 | [link](https://www.bilibili.com/video/BV1Mgo5BwEST) |
+| 2173 | [30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:01 | [link](https://www.bilibili.com/video/BV1Vgd2BtEKe) |
+| 2174 | [32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:54 | [link](https://www.bilibili.com/video/BV142RrBeEa3) |
+| 2175 | [33]. mHC：流形约束超连接【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:51 | [link](https://www.bilibili.com/video/BV1m2RrBeEFS) |
+| 2176 | [35]. Deepseek-Engram：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 14:18 | [link](https://www.bilibili.com/video/BV122RrBeEfs) |
+| 2177 | [37]. Adam：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:27 | [link](https://www.bilibili.com/video/BV142RrBeEjQ) |
+| 2178 | [40]. Transformer：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:32 | [link](https://www.bilibili.com/video/BV1t1RrBNEwi) |
+| 2179 | [46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:45 | [link](https://www.bilibili.com/video/BV14N5b6YEbf) |
+| 2180 | [51]. BERT：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:30 | [link](https://www.bilibili.com/video/BV1fXLJ6aEZ1) |
+| 2181 | [52]. GPT2：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:58 | [link](https://www.bilibili.com/video/BV1FXLJ6YECS) |
+| 2182 | [53]. GPT3：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:06 | [link](https://www.bilibili.com/video/BV1FXLJ6YEh4) |
+| 2183 | [56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:58 | [link](https://www.bilibili.com/video/BV1cQLJ6PEAs) |
+| 2184 | [59]. MoE：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:49 | [link](https://www.bilibili.com/video/BV17zLC68Emq) |
+| 2185 | [65]. Mamba：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:58 | [link](https://www.bilibili.com/video/BV1uGVK6iEh2) |
+| 2186 | [67]. Dropout：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:08 | [link](https://www.bilibili.com/video/BV1dsG26dETn) |
+| 2187 | [72]. Word2Vec：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:52 | [link](https://www.bilibili.com/video/BV1Ag7m6XERk) |
+| 2188 | [82]. 思维链：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:27 | [link](https://www.bilibili.com/video/BV1q6Js6DEaQ) |
+| 2189 | [83]. 思维树：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:37 | [link](https://www.bilibili.com/video/BV176Js6DEsq) |
+| 2190 | [92]. TVM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:44 | [link](https://www.bilibili.com/video/BV1kv7q6REVg) |
+| 2191 | [93]. PyTorch_2：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:49 | [link](https://www.bilibili.com/video/BV1kv7q6RE7a) |
+| 2192 | [94]. BPE：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:39 | [link](https://www.bilibili.com/video/BV1kv7q6REeS) |
+| 2193 | [96]. Mamba_2：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:14 | [link](https://www.bilibili.com/video/BV1Av7q6dEpF) |
+| 2194 | [104]. kimi的注意力残差：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:31 | [link](https://www.bilibili.com/video/BV1MRME6oEhx) |
+| 2195 | [105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:39 | [link](https://www.bilibili.com/video/BV1MRME6oE3a) |
+| 2196 | [106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:01 | [link](https://www.bilibili.com/video/BV1MRME6oE2V) |
+| 2197 | [108]. deepseek的NSA：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:25 | [link](https://www.bilibili.com/video/BV1HtME6LEWp) |
+| 2198 | [109]. AdamW：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:19 | [link](https://www.bilibili.com/video/BV1eKMn6MEMr) |
+| 2199 | [113]. GRU：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:24 | [link](https://www.bilibili.com/video/BV1LwN36uEbV) |
+| 2200 | [117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:07 | [link](https://www.bilibili.com/video/BV1TUKp6hEi6) |
+| 2201 | [119]. LookAhead：投机解码论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:11 | [link](https://www.bilibili.com/video/BV1hrKp6NEp3) |
+| 2202 | [120]. Performer，线性注意力：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:33 | [link](https://www.bilibili.com/video/BV1hzKp6iE1b) |
+| 2203 | [115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:19 | [link](https://www.bilibili.com/video/BV1uyK36eEcT) |
+| 2204 | [127]. LSTM：经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:55 | [link](https://www.bilibili.com/video/BV1Qr3y6VEt4) |
+| 2205 | [129]. Muon 优化器：原始技术博客，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:43 | [link](https://www.bilibili.com/video/BV1hr3y6VEd6) |
+| 2206 | [139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:23 | [link](https://www.bilibili.com/video/BV1KiuG6zE44) |
+| 2207 | [133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:03 | [link](https://www.bilibili.com/video/BV1xBuG6MEB3) |
+| 2208 | [142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:02 | [link](https://www.bilibili.com/video/BV1zxbY6vE5n) |
+| 2209 | [144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:12 | [link](https://www.bilibili.com/video/BV1BxbY6vE9J) |
+| 2210 | [146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:37 | [link](https://www.bilibili.com/video/BV1CEbY6gEHM) |
+| 2211 | [148]. Diffusion LM：扩散语言模型开山之作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:45 | [link](https://www.bilibili.com/video/BV1AEbY63ETH) |
+| 2212 | [150]. Seq2Seq：序列到序列经典论文，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:46 | [link](https://www.bilibili.com/video/BV1Rf8J6bEDU) |
+| 2213 | [151]. Switch Transformer：稀疏专家模型，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 14:32 | [link](https://www.bilibili.com/video/BV16K8h6eE2v) |
+| 2214 | [153]. Bahdanau Attention：首次将注意力用于Seq2Seq，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:28 | [link](https://www.bilibili.com/video/BV1rK8h6eEGT) |
+| 2215 | [154]. ZeRO：DeepSpeed 大模型显存优化，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:16 | [link](https://www.bilibili.com/video/BV1B38h6cEQP) |
+| 2216 | [158]. Gated Attention：NeurIPS 2025 最佳论文，给注意力加个门，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:32 | [link](https://www.bilibili.com/video/BV1ULth66EHH) |
+| 2217 | [159]. MoBA：Kimi 的稀疏注意力，NSA 姊妹篇，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:04 | [link](https://www.bilibili.com/video/BV1ULth66EJ8) |
+| 2218 | [160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:23 | [link](https://www.bilibili.com/video/BV1xnth6KEFB) |
+| 2219 | [165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 19:12 | [link](https://www.bilibili.com/video/BV1cqYe6QEZW) |
+| 2220 | [166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 17:58 | [link](https://www.bilibili.com/video/BV1cqYe6QEZC) |
+| 2221 | [167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 17:18 | [link](https://www.bilibili.com/video/BV1riYe6HEX2) |
+| 2222 | [168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 16:05 | [link](https://www.bilibili.com/video/BV1kiYe6HEFq) |
+| 2223 | [169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 20:03 | [link](https://www.bilibili.com/video/BV1riYe6HEfk) |
+| 2224 | [170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 17:18 | [link](https://www.bilibili.com/video/BV1piYe6pEcF) |
+| 2225 | [171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 17:14 | [link](https://www.bilibili.com/video/BV1F6Ye6SEAe) |
+| 2226 | [172]. DualKV：GRPO 里被复制 32 遍的 prompt，终于不重复算了，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 18:54 | [link](https://www.bilibili.com/video/BV1F6Ye6SEx6) |
+| 2227 | [173]. Kimi_K2：万亿 MoE 开源 Agent 模型，MuonClip 稳训练，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 15:37 | [link](https://www.bilibili.com/video/BV1fwY165EtL) |
+| 2228 | [174]. DeepSeek_V3_2：DSA 稀疏注意力，长上下文大幅提速，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 14:13 | [link](https://www.bilibili.com/video/BV1fwY165ES8) |
+| 2229 | [175]. Qwen3：快慢思考混合推理，多尺寸模型全家桶，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:35 | [link](https://www.bilibili.com/video/BV1BwY165E6E) |
+| 2230 | [176]. Llama_3：Meta 405B 模型群，训练全细节公开，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:57 | [link](https://www.bilibili.com/video/BV1fwY165EyC) |
+| 2231 | [177]. MiniMax_M1：Lightning Attention 撑起百万上下文推理，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 14:22 | [link](https://www.bilibili.com/video/BV1KFe56uEqn) |
+| 2232 | [181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:52 | [link](https://www.bilibili.com/video/BV15rHv6mEMH) |
+| 2233 | [182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:41 | [link](https://www.bilibili.com/video/BV15rHv6mEjH) |
+| 2234 | [183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 19:41 | [link](https://www.bilibili.com/video/BV15rHv6mEXm) |
+| 2235 | [184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 15:31 | [link](https://www.bilibili.com/video/BV13KHv66EtS) |
+| 2236 | [185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 20:10 | [link](https://www.bilibili.com/video/BV1hKHv6rEme) |
+| 2237 | [186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 15:10 | [link](https://www.bilibili.com/video/BV1QKHv6rEeg) |
+| 2238 | [187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:17 | [link](https://www.bilibili.com/video/BV183Hv6ME7a) |
+| 2239 | [188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 14:40 | [link](https://www.bilibili.com/video/BV1b3Hv6MEod) |
+| 2240 | [189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:26 | [link](https://www.bilibili.com/video/BV1YCpE6KEW1) |
+| 2241 | [190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 15:19 | [link](https://www.bilibili.com/video/BV1ZapE6kEUj) |
+| 2242 | [34]. PPO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:56 | [link](https://www.bilibili.com/video/BV1T2RrBvE25) |
+| 2243 | [36]. DPO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:45 | [link](https://www.bilibili.com/video/BV142RrBeE8E) |
+| 2244 | [38]. AlphaGo：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:20 | [link](https://www.bilibili.com/video/BV1t1RrBNELs) |
+| 2245 | [39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 43:40 | [link](https://www.bilibili.com/video/BV1f9RxBCEyN) |
+| 2246 | [41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:17 | [link](https://www.bilibili.com/video/BV1m1RrBNEhp) |
+| 2247 | [42]. DQN：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:26 | [link](https://www.bilibili.com/video/BV141RrBNEd1) |
+| 2248 | [45]. AlphaZero：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:50 | [link](https://www.bilibili.com/video/BV1nERrB9E7d) |
+| 2249 | [47]. QLearning：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:56 | [link](https://www.bilibili.com/video/BV14N5b6YEbS) |
+| 2250 | [48]. DAPO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 15:10 | [link](https://www.bilibili.com/video/BV1tN5b6YEjF) |
+| 2251 | [131]. A3C：首次用异步 actor-critic 把深度 RL 做稳定，是 PPO的基石，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:11 | [link](https://www.bilibili.com/video/BV1MYuG6rETy) |
+| 2252 | [135]. TRPO：PPO的前身，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:57 | [link](https://www.bilibili.com/video/BV1xBuG6MEYJ) |
+| 2253 | [137]. MuZero：AlphaZero 之后关键的一步：直接学一个世界模型做 MCTS，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:04 | [link](https://www.bilibili.com/video/BV1KBuG6MEwe) |
+| 2254 | [141]. Rainbow：把 DQN 的六大改进一次拼完，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:43 | [link](https://www.bilibili.com/video/BV1BtbY6PEfW) |
+| 2255 | [156]. UCB1：多臂老虎机，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:51 | [link](https://www.bilibili.com/video/BV17MhG65E2o) |
+| 2256 | [157]. GSPO：GRPO 的改进，序列级重要性采样，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:17 | [link](https://www.bilibili.com/video/BV1T7th6gELe) |
+| 2257 | [164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:07 | [link](https://www.bilibili.com/video/BV1j2tG6qE5e) |
+| 2258 | [49]. ResNet：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:56 | [link](https://www.bilibili.com/video/BV1FXLJ6YE4U) |
+| 2259 | [50]. MobileNet：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:19 | [link](https://www.bilibili.com/video/BV1FXLJ6YExi) |
+| 2260 | [54]. ViT：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:46 | [link](https://www.bilibili.com/video/BV1JXLJ6YE1X) |
+| 2261 | [57]. CLIP：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:20 | [link](https://www.bilibili.com/video/BV1cQLJ6PE78) |
+| 2262 | [58]. MAE：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:21 | [link](https://www.bilibili.com/video/BV1zGLM6cEYG) |
+| 2263 | [60]. SAM：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:02 | [link](https://www.bilibili.com/video/BV1ktGe6NE1c) |
+| 2264 | [62]. FlowMatching：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:45 | [link](https://www.bilibili.com/video/BV1hiGx6oExa) |
+| 2265 | [63]. DETR：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:08 | [link](https://www.bilibili.com/video/BV1DiGx6oE4S) |
+| 2266 | [64]. YOLO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:23 | [link](https://www.bilibili.com/video/BV18iGx6oEo1) |
+| 2267 | [66]. DINO：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:09 | [link](https://www.bilibili.com/video/BV1bGVK6iEq7) |
+| 2268 | [68]. EfficientNet：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:08 | [link](https://www.bilibili.com/video/BV1zRVE6sEmR) |
+| 2269 | [69]. SwinTransformer：论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:23 | [link](https://www.bilibili.com/video/BV1zRVE6sEU2) |
+| 2270 | [70]. UNet：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:53 | [link](https://www.bilibili.com/video/BV1zRVE6sEz1) |
+| 2271 | [73]. FasterRCNN：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:07 | [link](https://www.bilibili.com/video/BV1Wg7m6XEgG) |
+| 2272 | [74]. VGG：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:52 | [link](https://www.bilibili.com/video/BV1Ag7m6XEy4) |
+| 2273 | [75]. GoogLeNet：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 5:13 | [link](https://www.bilibili.com/video/BV1Pg7m6XEnq) |
+| 2274 | [76]. VAE：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:46 | [link](https://www.bilibili.com/video/BV1Ag7m6XEyN) |
+| 2275 | [77]. DDPM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:39 | [link](https://www.bilibili.com/video/BV176Js6DEaM) |
+| 2276 | [78]. CFG：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:03 | [link](https://www.bilibili.com/video/BV176Js6DE5W) |
+| 2277 | [81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:03 | [link](https://www.bilibili.com/video/BV1q6Js6DE2b) |
+| 2278 | [80]. GAN：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:34 | [link](https://www.bilibili.com/video/BV176Js6DEPp) |
+| 2279 | [84]. WGAN：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:08 | [link](https://www.bilibili.com/video/BV176Js6DELe) |
+| 2280 | [85]. NCSN：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:28 | [link](https://www.bilibili.com/video/BV1LXjg6vEhk) |
+| 2281 | [86]. DDIM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:48 | [link](https://www.bilibili.com/video/BV1LXjg6vEPM) |
+| 2282 | [95]. SAM_2：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:34 | [link](https://www.bilibili.com/video/BV1kv7q6RELS) |
+| 2283 | [91]. ConsistencyModels：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:50 | [link](https://www.bilibili.com/video/BV1wv7q6dEtL) |
+| 2284 | [90]. EDM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:01 | [link](https://www.bilibili.com/video/BV1kv7q6REvQ) |
+| 2285 | [89]. LDM：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 14:52 | [link](https://www.bilibili.com/video/BV1Av7q6dEKW) |
+| 2286 | [88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 13:05 | [link](https://www.bilibili.com/video/BV1kv7q6REEK) |
+| 2287 | [87]. ScoreSDE：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:59 | [link](https://www.bilibili.com/video/BV1kv7q6REtL) |
+| 2288 | [111]. Stable Diffusion：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:34 | [link](https://www.bilibili.com/video/BV19AN36iE8n) |
+| 2289 | [112]. SAM 3：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:34 | [link](https://www.bilibili.com/video/BV15wN36uEXx) |
+| 2290 | [114]. DiT：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:52 | [link](https://www.bilibili.com/video/BV1UyK36YED6) |
+| 2291 | [118]. Rectified Flow：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:25 | [link](https://www.bilibili.com/video/BV1hrKp6NEj5) |
+| 2292 | [121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:42 | [link](https://www.bilibili.com/video/BV1Mdgh6aE5u) |
+| 2293 | [122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:32 | [link](https://www.bilibili.com/video/BV12Fga6fEuk) |
+| 2294 | [124]. DINO v2：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:18 | [link](https://www.bilibili.com/video/BV1H4gh6HEdj) |
+| 2295 | [125]. ControlNet：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:53 | [link](https://www.bilibili.com/video/BV1nB3r6UEPf) |
+| 2296 | [126]. DeepSeek OCR：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:44 | [link](https://www.bilibili.com/video/BV1vY3y6UEaG) |
+| 2297 | [128]. DINOv3：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:19 | [link](https://www.bilibili.com/video/BV1Dr3y6GEDX) |
+| 2298 | [132]. Conditional Flow Matching：条件流匹配，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:51 | [link](https://www.bilibili.com/video/BV1TYuG6rEX1) |
+| 2299 | [143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 12:04 | [link](https://www.bilibili.com/video/BV1zxbY6vEy9) |
+| 2300 | [145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:59 | [link](https://www.bilibili.com/video/BV1zxbY6vEgk) |
+| 2301 | [147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:00 | [link](https://www.bilibili.com/video/BV1kEbY6gEvA) |
+| 2302 | [149]. Batch Norm：批量归一化经典重温，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:03 | [link](https://www.bilibili.com/video/BV1ezbv6eEYm) |
+| 2303 | [161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:15 | [link](https://www.bilibili.com/video/BV12nth6MEaj) |
+| 2304 | [162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:07 | [link](https://www.bilibili.com/video/BV12nth6TEAC) |
+| 2305 | [55]. ScaNN：向量检索论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:31 | [link](https://www.bilibili.com/video/BV1FQLJ6PESa) |
+| 2306 | [61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:13 | [link](https://www.bilibili.com/video/BV1AtGe6KEuV) |
+| 2307 | [97]. RaBitQ的改进工作：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:38 | [link](https://www.bilibili.com/video/BV18e7p6FEU6) |
+| 2308 | [123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:31 | [link](https://www.bilibili.com/video/BV1Kfgh68ErF) |
+| 2309 | [71]. Whisper：论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:36 | [link](https://www.bilibili.com/video/BV1Ag7m6XErq) |
+| 2310 | [155]. CTC：语音识别的经典损失函数，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:56 | [link](https://www.bilibili.com/video/BV1f38h6cEcs) |
+| 2311 | [102]. ReAct：Agent经典论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 9:17 | [link](https://www.bilibili.com/video/BV1FRTi6oEz2) |
+| 2312 | [103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:53 | [link](https://www.bilibili.com/video/BV1cJTb6BE3S) |
+| 2313 | [130]. App Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 6:00 | [link](https://www.bilibili.com/video/BV1mvuG6gEHj) |
+| 2314 | [134]. SWE-agent：Agent处理GitHub issue的经典论文，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:48 | [link](https://www.bilibili.com/video/BV1xBuG6MEuX) |
+| 2315 | [136]. Toolformer：大模型自发调用工具的开山之作，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 8:45 | [link](https://www.bilibili.com/video/BV1NBuG6MEiP) |
+| 2316 | [138]. Voyager：Agent玩我的世界，论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 10:12 | [link](https://www.bilibili.com/video/BV1KiuG6zECG) |
+| 2317 | [140]. Mobile Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 7:09 | [link](https://www.bilibili.com/video/BV1pPu26bEB6) |
+| 2318 | 13. 旋转位置编码和复数欧拉公式有什么关系？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:44 | [link](https://www.bilibili.com/video/BV1qzFxzQES2) |
+| 2319 | 14. 旋转位置编码和高中三角函数和差角公式有什么关系？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:07 | [link](https://www.bilibili.com/video/BV1uoFxzgEWz) |
+| 2320 | 16. RoPE如何从2维推广到任意偶数维，奇数维咋办？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:04 | [link](https://www.bilibili.com/video/BV1FgcMzkE5h) |
+| 2321 | 17. 为什么正余弦位置编码的注意力是和绝对位置相关的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:17 | [link](https://www.bilibili.com/video/BV1mZcuztEw2) |
+| 2322 | 19. 为什么RoPE中旋转矩阵R实际上不需要矩阵乘算子？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:26 | [link](https://www.bilibili.com/video/BV1XyFyzcEN6) |
+| 2323 | 20. RoPE注意力的绝对位置无关性和欧拉公式有什么关系？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:16 | [link](https://www.bilibili.com/video/BV1fFFDzsEt6) |
+| 2324 | 21. 为什么增大旋转位置编码中10000可提高模型外推能力【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:26 | [link](https://www.bilibili.com/video/BV1o5FozuEz2) |
+| 2325 | 22. 为什么transformers.Llama的实现和RoPE原论文不一致？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:31 | [link](https://www.bilibili.com/video/BV1nUcbzTEGi) |
+| 2326 | 23. Llama的旋转位置编码实现和RoPE原论文有何不同？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:38 | [link](https://www.bilibili.com/video/BV15EcbzoEY7) |
+| 2327 | 120. 任意矩阵满足什么性质就能成为RoPE旋转矩阵？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:36 | [link](https://www.bilibili.com/video/BV1TN5b6YE5q) |
+| 2328 | 134. 为什么RoPE中旋转矩阵R0是单位阵？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:18 | [link](https://www.bilibili.com/video/BV1UGVK6vEzn) |
+| 2329 | 138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:55 | [link](https://www.bilibili.com/video/BV1FRVE6xEap) |
+| 2330 | 147. 如何直观理解RoPE的平移不变性【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:54 | [link](https://www.bilibili.com/video/BV18Aj36ZEZP) |
+| 2331 | 25. 举例说明FlashAttention的分块矩阵乘法的正确性？【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:32 | [link](https://www.bilibili.com/video/BV18pcLz2E3P) |
+| 2332 | 28. 为什么在线Softmax比安全Softmax可以少一次循环？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:44 | [link](https://www.bilibili.com/video/BV1i6cnzzE2x) |
+| 2333 | 30. 举例说明SlimAttention的分块矩阵乘法的正确性？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:31 | [link](https://www.bilibili.com/video/BV11KcWz8EZm) |
+| 2334 | 31. FlashAttention v2版本如何省略掩码上三角矩阵计算？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:25 | [link](https://www.bilibili.com/video/BV16qZLBxEZt) |
+| 2335 | 33. 用户改提示词为什么不会影响前面的KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:38 | [link](https://www.bilibili.com/video/BV1dgZ7BQEHL) |
+| 2336 | 34. BERT为什么没有KV Cache/KV Cache何以存在？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:43 | [link](https://www.bilibili.com/video/BV1qKZ7BsEs5) |
+| 2337 | 36. 为什么推理时prefill是GEMM，而decode是（Batched）GEMV？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:38 | [link](https://www.bilibili.com/video/BV1UtZkBjEZP) |
+| 2338 | 37. GQA中讲的共享指的是Token还是Head？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:30 | [link](https://www.bilibili.com/video/BV1cTZyBzEjv) |
+| 2339 | 39. FlashAttention V2中为何要先循环Q后循环K？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:55 | [link](https://www.bilibili.com/video/BV1yiArzSEs1) |
+| 2340 | 41 Flash Attention之前的那种N^2注意力不好在哪里？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:32 | [link](https://www.bilibili.com/video/BV1WzArzUEdr) |
+| 2341 | 55. 为什么KV Cache也有LRU等缓存替换策略?【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:33 | [link](https://www.bilibili.com/video/BV1YdANzcESN) |
+| 2342 | 56. 为什么多个Sub-Agent也可以共享前缀KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:51 | [link](https://www.bilibili.com/video/BV1cPAuzpE6e) |
+| 2343 | 68. prefill和decode时KV Cache是如何"堆积"的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:58 | [link](https://www.bilibili.com/video/BV1AYQdBfEDS) |
+| 2344 | 82. 在线Softmax和Flash Attention分别维护了多少个“动态规划量”？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:07 | [link](https://www.bilibili.com/video/BV1oA93BtETZ) |
+| 2345 | 83. Flash Attention的线性显存比平方显存增长慢了多少？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:47 | [link](https://www.bilibili.com/video/BV1baNGzmEzn) |
+| 2346 | 85. 为什么prefill和decode都可以跳过掩码上三角计算？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:45 | [link](https://www.bilibili.com/video/BV1ZEDvB9E6Y) |
+| 2347 | 101. 如何用矩阵乘法链式法则速推Flash Attention梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:23 | [link](https://www.bilibili.com/video/BV12CoMB5EDJ) |
+| 2348 | 102. PagedAttention是如何减少内存浪费的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:23 | [link](https://www.bilibili.com/video/BV1EwoRBfExe) |
+| 2349 | 106. Flash Attention反向传播也做到线性显存了吗？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:20 | [link](https://www.bilibili.com/video/BV1a89kB3EVu) |
+| 2350 | 111. 如何直观理解KV Cache的显存计算公式？以Llama2-7B为例。【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:38 | [link](https://www.bilibili.com/video/BV1Tf9XBwEzM) |
+| 2351 | 117. 如何用动态规划理解在线softmax的循环与归约？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:48 | [link](https://www.bilibili.com/video/BV1SHR9BuEBH) |
+| 2352 | 141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:05 | [link](https://www.bilibili.com/video/BV1zCjg6rE9F) |
+| 2353 | 143. 如何可视化SGLang中的KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:10 | [link](https://www.bilibili.com/video/BV13Aj36ZEcC) |
+| 2354 | 29. 以逐元素乘加为例，算子融合为什么能提高计算效率？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:51 | [link](https://www.bilibili.com/video/BV19PcnzPEQp) |
+| 2355 | 45. SIMD是如何加速张量计算的(简单理解)【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:10 | [link](https://www.bilibili.com/video/BV1doArzKExB) |
+| 2356 | 49. 双缓冲是如何加速张量计算的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:30 | [link](https://www.bilibili.com/video/BV1bUP5zDER5) |
+| 2357 | 53. 如何加速两个张量之和？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:17 | [link](https://www.bilibili.com/video/BV1SqPhzAErH) |
+| 2358 | 57. 网格步进是如何加速张量计算的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:08 | [link](https://www.bilibili.com/video/BV1SSNFz2EDK) |
+| 2359 | 97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:47 | [link](https://www.bilibili.com/video/BV1KyoMByEdR) |
+| 2360 | 103. 多个线程执行同一段算子代码时发生了什么？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:53 | [link](https://www.bilibili.com/video/BV1JcoRB8EGb) |
+| 2361 | 108. 如何用前缀和理解稀疏矩阵的CSR格式？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:46 | [link](https://www.bilibili.com/video/BV1k7RuBPEsV) |
+| 2362 | 140. 稀疏矩阵乘稠密向量SpMV是如何跳过0值计算的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:58 | [link](https://www.bilibili.com/video/BV1AG7m6HEEW) |
+| 2363 | 162. 如何可视化GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:51 | [link](https://www.bilibili.com/video/BV1tWTj6jEGU) |
+| 2364 | 163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:33 | [link](https://www.bilibili.com/video/BV1rJTb6qEYr) |
+| 2365 | 164. 为什么环形All-Reduce 时，4卡和128卡单卡通信量差不多？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:38 | [link](https://www.bilibili.com/video/BV1AzMP6rE61) |
+| 2366 | 166. 如何用双缓冲优化GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:52 | [link](https://www.bilibili.com/video/BV1WzMP6rEN6) |
+| 2367 | 168. Megatron张量并行如何用列切分加行切分降低FFN层的通信？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:33 | [link](https://www.bilibili.com/video/BV1zTMP6YEqg) |
+| 2368 | 172. 如何用外积优化GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:48 | [link](https://www.bilibili.com/video/BV1E9Mb6MEeq) |
+| 2369 | 178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:49 | [link](https://www.bilibili.com/video/BV1XEKG6gERb) |
+| 2370 | 195. 如何用Tensor Core加速GEMM？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:04 | [link](https://www.bilibili.com/video/BV1xT3k6ZEP8) |
+| 2371 | 42. 聚类量化和线性量化有何不同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:42 | [link](https://www.bilibili.com/video/BV1yBArzEEeE) |
+| 2372 | 44. 为什么把权重置0就是在剪枝？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:21 | [link](https://www.bilibili.com/video/BV1B9ArzuEP3) |
+| 2373 | 62．LLM.int8是如何利用向量外积进行量化的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:08 | [link](https://www.bilibili.com/video/BV17pwEzMETL) |
+| 2374 | 63. 举例说明SmoothQuant量化对角矩阵乘法的正确性？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:51 | [link](https://www.bilibili.com/video/BV1VTw7zbEzq) |
+| 2375 | 64. SmoothQuant量化中有没有用到外积思想？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:31 | [link](https://www.bilibili.com/video/BV1DMwmzgEyV) |
+| 2376 | 65. 从校准集说明为何SmoothQuant中的S无需矩阵乘算子【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:09 | [link](https://www.bilibili.com/video/BV12DwRz9E4j) |
+| 2377 | 66. LLM.int8与SmoothQuant解决离群值的思路有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:04 | [link](https://www.bilibili.com/video/BV13rwCzwEKX) |
+| 2378 | 67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:28 | [link](https://www.bilibili.com/video/BV1qAA5ztELy) |
+| 2379 | 71. OBD剪枝假设山谷是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:37 | [link](https://www.bilibili.com/video/BV11RQfB3Eot) |
+| 2380 | 73. OBS剪枝保留与修改了OBD剪枝的哪些假设？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:57 | [link](https://www.bilibili.com/video/BV1njXKBnEBg) |
+| 2381 | 74. 为什么OBD剪枝是特殊的OBS剪枝？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:29 | [link](https://www.bilibili.com/video/BV1xTXKB4Ecn) |
+| 2382 | 75. OBS剪枝是如何选择被剪枝的权重的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:36 | [link](https://www.bilibili.com/video/BV1AwX1BPE1g) |
+| 2383 | 76. 为什么OBS剪枝可看作特殊的OBQ量化？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:31 | [link](https://www.bilibili.com/video/BV1cKX1BhED8) |
+| 2384 | 78. GPTQ量化的最小化目标如何写成类似OBS形式的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:21 | [link](https://www.bilibili.com/video/BV1679cBME93) |
+| 2385 | 79. 为什么基于权重大小剪枝是特殊的OBD、OBS、OBQ？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:45 | [link](https://www.bilibili.com/video/BV1fn9cBKEbt) |
+| 2386 | 80. 剪枝后微调让被置零的权重不再为零怎么办？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:16 | [link](https://www.bilibili.com/video/BV16E9cBqEK8) |
+| 2387 | 81. 量化后微调让聚在一起的权重分家了怎么办？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:58 | [link](https://www.bilibili.com/video/BV1zf9gBwEqd) |
+| 2388 | 88. 量化后微调为什么要对聚类中心求和？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:48 | [link](https://www.bilibili.com/video/BV1fcD4BPEo7) |
+| 2389 | 89. 量化感知训练是如何感知到量化的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:59 | [link](https://www.bilibili.com/video/BV1d9QABeEdC) |
+| 2390 | 90. OBQ如何将最小化剪枝损失推广到量化？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:54 | [link](https://www.bilibili.com/video/BV1kkDQBVE4y) |
+| 2391 | 92. 为什么量化会让损失“山谷”变成“台阶”？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:55 | [link](https://www.bilibili.com/video/BV1eoQvBQEMF) |
+| 2392 | 94. 量化感知训练中为什么要STE来处理round梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:29 | [link](https://www.bilibili.com/video/BV12qdaBkERq) |
+| 2393 | 110. 为什么激活值per channel量化比per token量化难加速得多？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:46 | [link](https://www.bilibili.com/video/BV1k7RuBPEqt) |
+| 2394 | 123. 如何用CPU内存的残差修正量化误差？以DecDEC为例【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:15 | [link](https://www.bilibili.com/video/BV1FXLJ6YEEv) |
+| 2395 | 160. 如何对注意力头剪枝？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:39 | [link](https://www.bilibili.com/video/BV1YCTY6qEMZ) |
+| 2396 | 219. 为什么把权重置0就是在剪枝？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:12 | [link](https://www.bilibili.com/video/BV1rG4U6kE2E) |
+| 2397 | 47 CLIP比较人性化的可视化可能长什么样？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:19 | [link](https://www.bilibili.com/video/BV1k4PDzrE9X) |
+| 2398 | 59. DeepSeek OCR比较人性化的可视化可能是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:54 | [link](https://www.bilibili.com/video/BV13gcCzbE7y) |
+| 2399 | 174. 为什么DDPM加噪相当于90°旋转插值？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:52 | [link](https://www.bilibili.com/video/BV1vAN36BEit) |
+| 2400 | 181. 为什么 DDPM 加噪旋转角是不均匀的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:30 | [link](https://www.bilibili.com/video/BV1YjKG6rEhy) |
+| 2401 | 190. 为什么扩散模型采样高斯噪声相当于在球壳上选点？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:40 | [link](https://www.bilibili.com/video/BV16V3762ECA) |
+| 2402 | 193. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:26 | [link](https://www.bilibili.com/video/BV1vo3w6wE6J) |
+| 2403 | 198. 为什么逐点卷积可以用 GEMM 实现？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:40 | [link](https://www.bilibili.com/video/BV1BB3t6gEtZ) |
+| 2404 | 205. 如何可视化VIT？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:33 | [link](https://www.bilibili.com/video/BV1t3up6iE8b) |
+| 2405 | 206. 为什么DDPM加噪图在椭圆上，而Flow Matching在直线上？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:41 | [link](https://www.bilibili.com/video/BV1x2uN6SEAt) |
+| 2406 | 210. 为什么ViT展平像素这一步是用卷积实现的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:04 | [link](https://www.bilibili.com/video/BV16M8h6AEY6) |
+| 2407 | 212. 如何可视化UNet？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:15 | [link](https://www.bilibili.com/video/BV1quhG6CEtf) |
+| 2408 | 32. 一种人性化的Transformer可视化可能是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:53 | [link](https://www.bilibili.com/video/BV13FZEBEE6y) |
+| 2409 | 35. Transformer暗含多少种分块矩阵乘法的理解方式？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:58 | [link](https://www.bilibili.com/video/BV1pRZtBaEYv) |
+| 2410 | 40. Temperature、TopK/P退化为贪婪解码的三种条件是？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:27 | [link](https://www.bilibili.com/video/BV1AzArzUEh1) |
+| 2411 | 77. 为什么训练时教师强制是只“感觉”不“生成”的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:58 | [link](https://www.bilibili.com/video/BV14BXoBMEsk) |
+| 2412 | 93. 为什么Transformer的核心公式是在做加权平均？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:53 | [link](https://www.bilibili.com/video/BV1CkQjBJE8K) |
+| 2413 | 98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:04 | [link](https://www.bilibili.com/video/BV1CSoMBgEUA) |
+| 2414 | 99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:54 | [link](https://www.bilibili.com/video/BV1U6oMBjE1D) |
+| 2415 | 104. 为什么训练时是同时预测token的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:43 | [link](https://www.bilibili.com/video/BV1jNoRBoE9b) |
+| 2416 | 107. DeepSeek V4如何使用Attention Sink忽略上下文？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:06 | [link](https://www.bilibili.com/video/BV1389kB3Ek4) |
+| 2417 | 109. 最简单的Transformer可视化能有多简单？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:07 | [link](https://www.bilibili.com/video/BV1A7RuBNETS) |
+| 2418 | 112. 如何可视化MOE？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:16 | [link](https://www.bilibili.com/video/BV1uGdgBnE65) |
+| 2419 | 114. 为什么除以√dk是在给注意力升温？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:16 | [link](https://www.bilibili.com/video/BV1m5RmBSEkF) |
+| 2420 | 118. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:43 | [link](https://www.bilibili.com/video/BV1MyRXBvEG1) |
+| 2421 | 119. 如何可视化多头注意力？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 0:53 | [link](https://www.bilibili.com/video/BV1235J6qENx) |
+| 2422 | 121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:01 | [link](https://www.bilibili.com/video/BV16XLJ6YEVP) |
+| 2423 | 122. 为什么只有单个词嵌入就能构成二元语言模型？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:11 | [link](https://www.bilibili.com/video/BV1FXLJ6YEwC) |
+| 2424 | 124. 训练时是如何恰好错开一个token的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:39 | [link](https://www.bilibili.com/video/BV1FXLJ6YE1L) |
+| 2425 | 125. 为什么Token数相同的批次未必是负载均衡的？以WLB LLM为例【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:48 | [link](https://www.bilibili.com/video/BV1FXLJ6YEiX) |
+| 2426 | 126. 举例说明投机解码如何拒绝采样？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:52 | [link](https://www.bilibili.com/video/BV1EVLM6bEuU) |
+| 2427 | 127. 为什么Adam优化器相当于在求19日EMA均线？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:30 | [link](https://www.bilibili.com/video/BV1FGLM6wEbm) |
+| 2428 | 128. 为什么4D并行的四个任务划分维度是正交的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 0:59 | [link](https://www.bilibili.com/video/BV1ZzLC6bEbU) |
+| 2429 | 130. 如何从概率树理解投机解码是无损的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:51 | [link](https://www.bilibili.com/video/BV1ktGe6NEtg) |
+| 2430 | 132. 为什么只用柱状图就能证明投机解码是无损的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:20 | [link](https://www.bilibili.com/video/BV1UHGB6REeL) |
+| 2431 | 133. 如何可视化超连接？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:30 | [link](https://www.bilibili.com/video/BV1h1GE6BEMm) |
+| 2432 | 135. 如何直观理解超连接中的残差流？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:27 | [link](https://www.bilibili.com/video/BV1bGVK6iE2B) |
+| 2433 | 136. BERT和GPT的可视化有多像？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:18 | [link](https://www.bilibili.com/video/BV1LsG26dEuq) |
+| 2434 | 137. HC=？会让超连接退化为preNorm传统残差连接？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:16 | [link](https://www.bilibili.com/video/BV1zRVE6sE2x) |
+| 2435 | 139. 为什么传统残差连接是mhc残差流扩展率=1 的特例？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:53 | [link](https://www.bilibili.com/video/BV1zRVE6sExg) |
+| 2436 | 142. 如何可视化前馈网络｜线性层的反向传播？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:49 | [link](https://www.bilibili.com/video/BV1gAj36ZELC) |
+| 2437 | 144. 如何可视化Transformer的残差连接？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 0:42 | [link](https://www.bilibili.com/video/BV1DAj36ZE2E) |
+| 2438 | 145. 从prefill和decode角度理解投机解码何以加速？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:18 | [link](https://www.bilibili.com/video/BV1hAj36ZE7E) |
+| 2439 | 146. 能否有一种方法同时可视化注意力的前向和反向传播？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:14 | [link](https://www.bilibili.com/video/BV1gAj36ZEUA) |
+| 2440 | 148. 超连接中的连边和感知机的连边有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:11 | [link](https://www.bilibili.com/video/BV1DAj36ZEZD) |
+| 2441 | 149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:41 | [link](https://www.bilibili.com/video/BV1gAj36ZEY3) |
+| 2442 | 150. 对比注意力池和注意力温度对注意力汇聚有什么影响？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:19 | [link](https://www.bilibili.com/video/BV1hAj36ZE8a) |
+| 2443 | 151. 如何可视化MQA？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:28 | [link](https://www.bilibili.com/video/BV1gAj36ZEmj) |
+| 2444 | 152. 为什么前向残差连接对应反向残差连接【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:02 | [link](https://www.bilibili.com/video/BV1bv7p6bEeG) |
+| 2445 | 153. 从等比数列求和理解Adam优化器训练初期动量修正【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:35 | [link](https://www.bilibili.com/video/BV1he7p6FEp1) |
+| 2446 | 154. 为什么投机解码确保每轮至少产出一个 token？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:32 | [link](https://www.bilibili.com/video/BV1De7p6FEL3) |
+| 2447 | 156. 最简单的transformer反向传播可视化能有多简单？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:40 | [link](https://www.bilibili.com/video/BV18e7p6FE1J) |
+| 2448 | 157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:37 | [link](https://www.bilibili.com/video/BV13e7p6cEF4) |
+| 2449 | 158. 最简单的含RoPE的Transformer可视化有多简单？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:18 | [link](https://www.bilibili.com/video/BV18e7p6FEeD) |
+| 2450 | 159. 如何可视化MTP？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:57 | [link](https://www.bilibili.com/video/BV1rtTc6tEqd) |
+| 2451 | 161. MoE每个token都要选专家，那prefill要如何并行？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:45 | [link](https://www.bilibili.com/video/BV1foTi6sEyH) |
+| 2452 | 165. 残差连接在Transformer反向传播中可视化出来是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:06 | [link](https://www.bilibili.com/video/BV1AzMP6kE62) |
+| 2453 | 169. MTP为什么能一次预测多个未来 token？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:18 | [link](https://www.bilibili.com/video/BV1aDMu6BEDb) |
+| 2454 | 170. vLLM 投机解码首token合并 prefill 这个小技巧是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:01 | [link](https://www.bilibili.com/video/BV1hETD6mERB) |
+| 2455 | 171. 如何可视化 DeepSeek MLA（简化版）？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:36 | [link](https://www.bilibili.com/video/BV1MRTd6bEbH) |
+| 2456 | 173. 如何证明任意两句话的公共前缀都有相同的KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:43 | [link](https://www.bilibili.com/video/BV1HNM76GEo8) |
+| 2457 | 176. 如何可视化交叉注意力【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:42 | [link](https://www.bilibili.com/video/BV1RVKG6CEhW) |
+| 2458 | 177. Megatron张量并行如何用列切分加行切分降低注意力层的通信？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:38 | [link](https://www.bilibili.com/video/BV1GEKG63EUT) |
+| 2459 | 183. 为什么注意力要除以√dk而不是√d model【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:45 | [link](https://www.bilibili.com/video/BV1byK36eEUT) |
+| 2460 | 185. 如何可视化kimi的注意力残差？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:51 | [link](https://www.bilibili.com/video/BV1qBKb6hEkq) |
+| 2461 | 187. 为什么MLA无需显式解压Q和K？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:37 | [link](https://www.bilibili.com/video/BV19s3K6zEXQ) |
+| 2462 | 188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:24 | [link](https://www.bilibili.com/video/BV1Qz3g61EAe) |
+| 2463 | 192. 如何证明注意力右上角加-∞就看不到后面了？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:14 | [link](https://www.bilibili.com/video/BV1N8gZ6NEzg) |
+| 2464 | 194. 为什么滑动窗口注意力在 decode 时要使用环形缓存？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:25 | [link](https://www.bilibili.com/video/BV1WP3B65Eh5) |
+| 2465 | 196. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:50 | [link](https://www.bilibili.com/video/BV17S316dExh) |
+| 2466 | 199. FlashAttention如何加速滑动窗口注意力prefill？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:29 | [link](https://www.bilibili.com/video/BV1VKMX6bEo1) |
+| 2467 | 201. 如何把RoPE算子融合到FlashAttention里？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:53 | [link](https://www.bilibili.com/video/BV1pmuA6gEN7) |
+| 2468 | 202. 如何像之前可视化Transformer那样可视化RNN？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:33 | [link](https://www.bilibili.com/video/BV1njMy6UEzQ) |
+| 2469 | 203. 推理时Q没有Cache，那训练时呢？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:29 | [link](https://www.bilibili.com/video/BV1njMy6UEmC) |
+| 2470 | 204. 如何可视化 RWKV？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:20 | [link](https://www.bilibili.com/video/BV1s5un6dEKR) |
+| 2471 | 207. 为什么MLA连V也不需要显式解压？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:27 | [link](https://www.bilibili.com/video/BV1pPu26bELp) |
+| 2472 | 208. 如何证明Transformer本身不含位置信息？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:28 | [link](https://www.bilibili.com/video/BV1ezbv6eEC6) |
+| 2473 | 209. 为什么同样是依赖上一隐藏状态，RWKV可以并行训练，而RNN不行？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:22 | [link](https://www.bilibili.com/video/BV1T8876rEaA) |
+| 2474 | 214. 为什么MLA无需显式解压K和Q？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:38 | [link](https://www.bilibili.com/video/BV1FE8Z63E5v) |
+| 2475 | 215. 连续批处理如何把Prefill和Decode请求的FFN拼成一次矩阵乘？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:27 | [link](https://www.bilibili.com/video/BV1DrhF6PEtj) |
+| 2476 | 216. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:58 | [link](https://www.bilibili.com/video/BV1vYhF6zEud) |
+| 2477 | 217. Chunked Prefill为什么要给长Prefill分块？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:40 | [link](https://www.bilibili.com/video/BV12Xhw6YE5X) |
+| 2478 | 218. 大模型的训练、推理、SFT、强化学习究竟有什么区别？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:37 | [link](https://www.bilibili.com/video/BV1wk4k6fEsY) |
+| 2479 | 222. 为什么传统位置编码只作用于词嵌入，而RoPE每层都作用？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:16 | [link](https://www.bilibili.com/video/BV16ath6fEMr) |
+| 2480 | 223. 如何可视化MOE？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:03 | [link](https://www.bilibili.com/video/BV1LUtG6KEkJ) |
+| 2481 | 224. 如何证明因果掩码其实就已经内禀位置信息了？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:47 | [link](https://www.bilibili.com/video/BV1i2tG6qEZ8) |
+| 2482 | 225. Deepseek的MLA是如何处理RoPE的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:35 | [link](https://www.bilibili.com/video/BV1BWto6cEsD) |
+| 2483 | 226. 最简单的transformer反向传播可视化能有多简单？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:39 | [link](https://www.bilibili.com/video/BV1BHto6aE7P) |
+| 2484 | 231. 从prefill和decode角度理解投机解码何以加速？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:23 | [link](https://www.bilibili.com/video/BV1fwY165Eeq) |
+| 2485 | 232. 为什么滑动窗口注意力在decode时要使用环形缓存？（新版）【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:26 | [link](https://www.bilibili.com/video/BV1sce56BEk1) |
+| 2486 | 234. 为什么MLA连V也不需要显式解压？（新版）【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:28 | [link](https://www.bilibili.com/video/BV1YEeH6uECe) |
+| 2487 | 236. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:49 | [link](https://www.bilibili.com/video/BV1cXeA6PEJR) |
+| 2488 | 237. ViT如何使用RoPE？(1D简单版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:43 | [link](https://www.bilibili.com/video/BV1hheA6EEW2) |
+| 2489 | 238. 扩散语言模型和自回归语言模型有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:31 | [link](https://www.bilibili.com/video/BV1mdhB6TEmr) |
+| 2490 | 239. 如何可视化MTP？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:48 | [link](https://www.bilibili.com/video/BV1mdhB6TEQE) |
+| 2491 | 240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:38 | [link](https://www.bilibili.com/video/BV1MnhJ6JEKb) |
+| 2492 | 241. 如何可视化GQA？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:36 | [link](https://www.bilibili.com/video/BV1e1ac6VEJF) |
+| 2493 | 242. 交叉注意力输出的第i个向量代表什么？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:11 | [link](https://www.bilibili.com/video/BV1cFaT6uEky) |
+| 2494 | 243. 为什么投机解码最多可以比K个Token多生成一个Token？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:13 | [link](https://www.bilibili.com/video/BV11Vhm6oEZ4) |
+| 2495 | 244. 为什么KV Cache相当于Agent的短期记忆？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 1:43 | [link](https://www.bilibili.com/video/BV1CEhm6WEX3) |
+| 2496 | 245. 为什么投机解码确保每轮至少产出一个 token？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:37 | [link](https://www.bilibili.com/video/BV1CEhm6WER6) |
+| 2497 | 247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:59 | [link](https://www.bilibili.com/video/BV1Ksh96yEyN) |
+| 2498 | 249. 最近大火的Jev和传统的LLM有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:48 | [link](https://www.bilibili.com/video/BV1MKa66VEJ4) |
+| 2499 | 250. prefill和decode相当于RNN中的什么操作？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:38 | [link](https://www.bilibili.com/video/BV1s6He68EcV) |
+| 2500 | 251. Pyramid KV为什么用金字塔形KV Cache？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:44 | [link](https://www.bilibili.com/video/BV1zcHr6uE2N) |
+| 2501 | 252. KV Cache相当于RNN中的什么东西？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:45 | [link](https://www.bilibili.com/video/BV1FcHr6gEDq) |
+| 2502 | 253. 什么是树形掩码？它和因果掩码有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:32 | [link](https://www.bilibili.com/video/BV14UHJ6oE9E) |
+| 2503 | 255. 树形注意力如何一次前向并行验证整棵草稿树？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:07 | [link](https://www.bilibili.com/video/BV1MRH26BE6z) |
+| 2504 | 257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:49 | [link](https://www.bilibili.com/video/BV1mVHd64EGJ) |
+| 2505 | 259. 如何证明任意两句话的公共前缀都有相同的KV Cache？(新版)【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:35 | [link](https://www.bilibili.com/video/BV1SGpn6NEfF) |
+| 2506 | 58. 如何根据答案倒推合成思维链做SFT？以AscendKernelGen为例【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:55 | [link](https://www.bilibili.com/video/BV1DvcyzcEa4) |
+| 2507 | 60. LoRA微调和向量外积为何长得很像？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:46 | [link](https://www.bilibili.com/video/BV1pKwjz3E1P) |
+| 2508 | 84. LoRA要增加旁路，微调前后模型结构却可以不变，为什么？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:16 | [link](https://www.bilibili.com/video/BV1cQSSBvE8N) |
+| 2509 | 96. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:19 | [link](https://www.bilibili.com/video/BV15GdjByEpy) |
+| 2510 | 182. 如何可视化知识蒸馏？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:38 | [link](https://www.bilibili.com/video/BV1UyK36YE3Z) |
+| 2511 | 191. 如何可视化LoRA？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 0:36 | [link](https://www.bilibili.com/video/BV1Zq3j63Eeu) |
+| 2512 | 46. 矩阵乘法对激活的梯度是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:35 | [link](https://www.bilibili.com/video/BV1ioArzKEMB) |
+| 2513 | 51 矩阵乘法对权重的梯度是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:24 | [link](https://www.bilibili.com/video/BV1TUPWzkE6U) |
+| 2514 | 52 简单的梯度算子是如何定义的【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 2:13 | [link](https://www.bilibili.com/video/BV1TUPWzkEgW) |
+| 2515 | 61. 含广播的偏置b的梯度如何计算？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:01 | [link](https://www.bilibili.com/video/BV1WWXWBzELJ) |
+| 2516 | 87. 为什么前向广播对应着反向归约？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:23 | [link](https://www.bilibili.com/video/BV177DWBdEoV) |
+| 2517 | 69. 深度学习中两种常用的矩阵微积分是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:34 | [link](https://www.bilibili.com/video/BV1a9XNBTERT) |
+| 2518 | 70. 如何理解泰勒展开的多元函数扩展？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 1:53 | [link](https://www.bilibili.com/video/BV1HVXKBpE9p) |
+| 2519 | 100. 为什么神经网络连接可以用矩阵乘法实现？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:54 | [link](https://www.bilibili.com/video/BV1SBoMBmEVB) |
+| 2520 | 86. 为什么矩阵乘法可以看作标量乘法的拓展？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:35 | [link](https://www.bilibili.com/video/BV1WxDeBcExC) |
+| 2521 | 72. 如何从几何视角理解拉格朗日乘子法？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:17 | [link](https://www.bilibili.com/video/BV1C3XKB9EHm) |
+| 2522 | 95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:26 | [link](https://www.bilibili.com/video/BV1D8daB7En5) |
+| 2523 | 105. K-Means聚类和中垂线有什么关系？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:17 | [link](https://www.bilibili.com/video/BV1Kk9kBAEnC) |
+| 2524 | 113. 如何理解梯度下降的多元函数扩展？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:06 | [link](https://www.bilibili.com/video/BV1m5RmBSENE) |
+| 2525 | 184. 一口气看完：正态分布，梯度下降、泰勒展开一元推广到多元【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 11:14 | [link](https://www.bilibili.com/video/BV1LvKw6UEuM) |
+| 2526 | 115. 为什么梯度下降、泰勒展开、正态分布都有多元扩展？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:01 | [link](https://www.bilibili.com/video/BV1M5RmBDENg) |
+| 2527 | 155. 为什么信息熵=最优码长，交叉熵=实际码长，KL散度=浪费码长【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:17 | [link](https://www.bilibili.com/video/BV18e7p6FEZ1) |
+| 2528 | 167. 为什么KL散度非负和信息熵是最优码长这两件事是等价的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:06 | [link](https://www.bilibili.com/video/BV1fTMP6YEtZ) |
+| 2529 | 175. 如何理解正态分布的多元扩展？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:47 | [link](https://www.bilibili.com/video/BV1eVKG6CEZH) |
+| 2530 | 180. 向量如何对向量求导？推广到矩阵、张量呢？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:19 | [link](https://www.bilibili.com/video/BV1VjKG6kEpR) |
+| 2531 | 189. 为什么反向传播的本质是乘雅可比矩阵？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:28 | [link](https://www.bilibili.com/video/BV17Y356TEZu) |
+| 2532 | 197. 为什么自动微分系统倾向于反向微分而非前向微分？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:18 | [link](https://www.bilibili.com/video/BV1ct3x6gEkq) |
+| 2533 | 200. 为什么线性层反向传播也可以用GEMM实现？——为什么前向全连接对应反向全连接？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:06 | [link](https://www.bilibili.com/video/BV1t3uF6MEbd) |
+| 2534 | 91. 游戏AI和LLM的πθ(a∣s)有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:22 | [link](https://www.bilibili.com/video/BV1TeD9B4EbF) |
+| 2535 | 129. 举例说明DPO论文里三行核心代码是啥意思？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:31 | [link](https://www.bilibili.com/video/BV1AtGe6KEbW) |
+| 2536 | 131. 折扣因子γ是如何改变未来的奖励重要程度的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:16 | [link](https://www.bilibili.com/video/BV1AtGe6KEuk) |
+| 2537 | 186. 为什么交叉熵梯度相当于特殊的策略梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:37 | [link](https://www.bilibili.com/video/BV1G2gh6BEg6) |
+| 2538 | 211. 如何求PPO中每个token的梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:56 | [link](https://www.bilibili.com/video/BV1juhG6CEmD) |
+| 2539 | 213. 为什么GRPO可以扔掉价值网络？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:32 | [link](https://www.bilibili.com/video/BV1WC896BEPW) |
+| 2540 | 220. PPO的损失计算和SFT有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:09 | [link](https://www.bilibili.com/video/BV14Ctp6JEp6) |
+| 2541 | 221. 为什么很多强化学习框架要内置vLLM这样的推理引擎加速采样？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:03 | [link](https://www.bilibili.com/video/BV16ath6fEbM) |
+| 2542 | 227. PPO中的优势A是怎么来的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:03 | [link](https://www.bilibili.com/video/BV1mTtf6SEhx) |
+| 2543 | 228. PPO的价值网络是如何根据写到一半的答案猜平均分的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:22 | [link](https://www.bilibili.com/video/BV163b46DE6F) |
+| 2544 | 229. 为什么PPO的优势A是每个token一个，而GRPO是整段回答一个？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:10 | [link](https://www.bilibili.com/video/BV151Yu6uERg) |
+| 2545 | 230. PPO的GAE是如何计算的？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:28 | [link](https://www.bilibili.com/video/BV1weYR65EjZ) |
+| 2546 | 233. 大模型强化学习的价值网络和围棋的价值网络有何异同？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:32 | [link](https://www.bilibili.com/video/BV1eEeH6uEiN) |
+| 2547 | 235. 如何从PPO每个token的目标函数推导出梯度？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:36 | [link](https://www.bilibili.com/video/BV1cXeA6PEVh) |
+| 2548 | 246. 为什么大模型RL里每一步的奖励几乎都是0？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 2:31 | [link](https://www.bilibili.com/video/BV1Tsh96yEAY) |
+| 2549 | 254. PPO里面的KL约束到底在防什么？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:48 | [link](https://www.bilibili.com/video/BV1L5HC6uE4H) |
+| 2550 | 256. 为什么PPO里的KL约束用的是反向KL而非前向KL？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:44 | [link](https://www.bilibili.com/video/BV163Hm6dECv) |
+| 2551 | 258. 什么是OPD（On-Policy Distillation）？【每天一个宝藏问题】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/Treasure-Questions) | 3:12 | [link](https://www.bilibili.com/video/BV1oQHR6rEvQ) |
+| 2552 | 248. 新加坡-2026-会议留影【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 0:15 | [link](https://www.bilibili.com/video/BV1bsaz63EV5) |
+| 2553 | [1]. 跑通TritonBench测试LLM的算子生成能力(ACL2025)【每周一个宝藏实验】 | - | AI 论文精读 | - | [github.com](https://github.com/HaiPenglai/TritonBench-GuideBook) | 13:03 | [link](https://www.bilibili.com/video/BV12xZBBwEKf) |
+| 2554 | [3] 从采摘200片三叶草开始训练一个简易无条件DDPM 【每周一个宝藏实验】 | - | AI 论文精读 | [2006.11239](https://arxiv.org/abs/2006.11239) | [github.com](https://github.com/HaiPenglai/Lucky-DDPM) [huggingface.co](https://huggingface.co/datasets/HaiPenglai/Lucky-Clover-Dataset) [huggingface.co](https://huggingface.co/HaiPenglai/Lucky-Clover-DDPM) | 14:52 | [link](https://www.bilibili.com/video/BV1PcfEBrEBs) |
+| 2555 | [5] 快速上手FuctionCall和React：极简易百词斩Agent【每周一个宝藏实验】 | - | AI 论文精读 | [2312.13771](https://arxiv.org/abs/2312.13771) | [github.com](https://github.com/HaiPenglai/Nano-APP-Agent) | 15:39 | [link](https://www.bilibili.com/video/BV1nUAazDEma) |
+| 2556 | [7] 跑KernelBench测试LLM将PyTorch转译为CUDA代码的能力（ICML2025）【每周一个宝藏实验】 | - | AI 论文精读 | [2502.10517](https://arxiv.org/abs/2502.10517) | [github.com](https://github.com/HaiPenglai/KernelBench-GuideBook) | 10:40 | [link](https://www.bilibili.com/video/BV1gzPyzuERu) |
+| 2557 | [9] 跑CUDA-L2测试和cuBLAS相比效果如何？【每周一个宝藏实验】 | - | AI 论文精读 | [2512.02551](https://arxiv.org/abs/2512.02551) | [github.com](https://github.com/deepreinforce-ai/CUDA-L2) [github.com](https://github.com/HaiPenglai/CUDA-L2-GuideBook) | 7:53 | [link](https://www.bilibili.com/video/BV1QPwszCE39) |
+| 2558 | [11] 跑robust-kbench测试LLM写算子，附Agent提示词【每周一个宝藏实验】 | - | AI 论文精读 | - | - | 2:30 | [link](https://www.bilibili.com/video/BV1vxAszpE3P) |
+| 2559 | [13] AutoDL上部署龙虾，它能帮忙测试算子性能吗？【每周一个宝藏实验】 | - | AI 论文精读 | [2601.00227](https://arxiv.org/abs/2601.00227) | - | 3:10 | [link](https://www.bilibili.com/video/BV1XMX5BZEGF) |
+| 2560 | 1. BitNet 1.58b：微软开源的3值量化模型【每天一个宝藏名词】 | - | AI 论文精读 | - | [huggingface.co](https://huggingface.co/microsoft/bitnet-b1.58-2B-4T) [github.com](https://github.com/microsoft/BitNet) | 0:27 | [link](https://www.bilibili.com/video/BV1kG6jBSE3u) |
+| 2561 | 2. AWQ：一种保护关键权重的LLM量化算法【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/mit-han-lab/llm-awq) [github.com](https://github.com/casper-hansen/AutoAWQ) | 0:27 | [link](https://www.bilibili.com/video/BV16H6EBHEP5) |
+| 2562 | 3. GPTQ：一种纯数学的LLM量化方法【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/AutoGPTQ/AutoGPTQ) | 0:32 | [link](https://www.bilibili.com/video/BV1aXzXBNE4A) |
+| 2563 | 4. SmoothQuant：一种转嫁压力的LLM量化方法【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/mit-han-lab/smoothquant) | 0:25 | [link](https://www.bilibili.com/video/BV1RyzXB6Eyz) |
+| 2564 | 7. SlimAttention：一种比FlashAttention更适合CPU的推理方案【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/intel/xFasterTransformer) | 0:30 | [link](https://www.bilibili.com/video/BV1MUzZBVEtV) |
+| 2565 | 8. PagedAttention：借鉴操作系统分页机制，内置于vLLM【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/vllm-project/vllm) | 0:28 | [link](https://www.bilibili.com/video/BV1Ht6wBVEUX) |
+| 2566 | 9. FlashAttention：将Attention的显存占用从平方级降到了线性级【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/Dao-AILab/flash-attention) | 0:29 | [link](https://www.bilibili.com/video/BV1C66YBvECv) |
+| 2567 | 10. NF4：QLoRA中的非均匀量化数据类型【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/artidoro/qlora) [github.com](https://github.com/TimDettmers/bitsandbytes) | 0:32 | [link](https://www.bilibili.com/video/BV1qA6BBKEck) |
+| 2568 | 11. GQA：介于MHA和MQA之间，键值共享查询分组【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/meta-llama/llama3) | 0:28 | [link](https://www.bilibili.com/video/BV19u6BBwEQ8) |
+| 2569 | 12. RoPE：通过旋转矩阵让注意力只取决于相对位置【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/ZhuiyiTechnology/roformer) | 0:28 | [link](https://www.bilibili.com/video/BV1gQ6iBREZw) |
+| 2570 | 15. 投机解码：小模型草拟，大模型验证【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/vllm-project/vllm) | 0:32 | [link](https://www.bilibili.com/video/BV1yS6zBXEVu) |
+| 2571 | 27. 在线Softmax：通过修正比安全Softmax减少了一次循环【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:32 | [link](https://www.bilibili.com/video/BV1c1c7zzEb4) |
+| 2572 | 54. bf16：与FP32有相同的8位指数位，所以更适合模型训练【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:47 | [link](https://www.bilibili.com/video/BV1DvPhzeE3R) |
+| 2573 | 24. 思维树：大模型+DFS玩24点游戏成功率大增【每天一个宝藏名词】 | - | AI 论文精读 | [2305.10601](https://arxiv.org/abs/2305.10601) | [github.com](https://github.com/princeton-nlp/tree-of-thought-llm) | 0:26 | [link](https://www.bilibili.com/video/BV1gtcbzDENr) |
+| 2574 | 26. TinyML：MIT推出的大模型轻量化课，亲手量化一个本地llama模型【每天一个宝藏名词】 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=rCFvPEQTxKI&list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) [github.com](https://github.com/mit-han-lab/tinyml) [github.com](https://github.com/PKUFlyingPig/MIT6.5940_TinyML) | 0:30 | [link](https://www.bilibili.com/video/BV1CPcJzLELq) |
+| 2575 | 5. CS336：斯坦福LLM神课，甚至包含洗数据和SFT【每天一个宝藏名词】 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) [github.com](https://github.com/stanford-cs336/) | 0:30 | [link](https://www.bilibili.com/video/BV12pzXBREPY) |
+| 2576 | 18. CCF-DDL：一个统计CCF分类和倒计时的宝藏网站【每天一个宝藏名词】 | - | AI 论文精读 | - | [ccfddl.cn](https://ccfddl.cn/) [github.com](https://github.com/ccfddl/ccf-deadlines) | 0:32 | [link](https://www.bilibili.com/video/BV1Jif9BeEYE) |
+| 2577 | 6. nano-vLLM：纯python实现的堪比vLLM的推理框架【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/GeeeekExplorer/nano-vllm) | 0:29 | [link](https://www.bilibili.com/video/BV1FTzfBcE3h) |
+| 2578 | 38. miniSGLang：一个简化版SGLang，仅5000行python【每天一个宝藏名词】 | - | AI 论文精读 | - | [github.com](https://github.com/sgl-project/mini-sglang) | 0:18 | [link](https://www.bilibili.com/video/BV1obA6zeEtE) |
+| 2579 | 43. everything：比Windows默认文件搜索工具快很多，2MB的免费小工具【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:26 | [link](https://www.bilibili.com/video/BV1iRArzqEvU) |
+| 2580 | 48. NoteBookLM：Google的PPT制作神器，还有思维导图等一系列功能【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 0:17 | [link](https://www.bilibili.com/video/BV1MUP5zDEmj) |
+| 2581 | 50. 环境变量的工作原理：控制台启动时自动执行命令，让简写命令找到在哪执行【每天一个宝藏名词】 | - | AI 论文精读 | - | - | 1:06 | [link](https://www.bilibili.com/video/BV1zXP7zyEbD) |
+| 2582 | [Self-Evolving][01] 自进化/提升 Agent（上下文/记忆进化，参数进化，结构进化） | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | 24:33 | [link](https://www.bilibili.com/video/BV1RZuy6CEA1) |
+| 2583 | [Self-Evolving][02] DarwinX：Harness自进化（遗传算法） | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | 26:06 | [link](https://www.bilibili.com/video/BV1my8x6AEYL) |
+| 2584 | [Self-Evolving][03] SkillEvo：自进化 Skill | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | 22:44 | [link](https://www.bilibili.com/video/BV1EKeh6uEby) |
+| 2585 | [Self-Evolving][04] RSI：AI的最终目标，自己迭代优化自己 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | 24:04 | [link](https://www.bilibili.com/video/BV16xah6BEhK) |
+| 2586 | [Self-Evolving][05] MASS：多智能体系统自动设计与优化，从局部模块优化、拓扑结构搜索到全局联合优化 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | 22:43 | [link](https://www.bilibili.com/video/BV1oLpM6CEeP) |
+| 2587 | [Agentic RL][01] 练习两天半，完全从零开始实现PPO算法（基于Qwen2.5-0.5B），不依赖第三方强化学习框架，从原理讲解到代码实现 | - | AI 论文精读 | - | - | 58:26 | [link](https://www.bilibili.com/video/BV1CHQDYHEsU) |
+| 2588 | [Agentic RL][02] 练习两周半，完全从零开始实现GRPO算法(不依赖第三方RL框架，并在Qwen2.5-1.5B上训练测试)，从原理到代码讲解 | - | AI 论文精读 | - | - | 49:21 | [link](https://www.bilibili.com/video/BV1XQLiz7EvY) |
+| 2589 | [Agentic RL][03] 练习两天半，完全从零开始实现DAPO算法（使用Qwen2.5-1.5B模型测试），从原理讲解、代码实现到训练展示全流程 | - | AI 论文精读 | - | - | 24:26 | [link](https://www.bilibili.com/video/BV1GRJ7zMEMz) |
+| 2590 | [Agentic RL][04] 练习两天半，完全搞懂什么是无监督强化学习（复现TTRL），清晰易懂，你值得拥有 | - | AI 论文精读 | - | - | 14:20 | [link](https://www.bilibili.com/video/BV12P3HzJE3s) |
+| 2591 | [Agentic RL][05] 练习两天半，教你如何使用verl框架进行强化学习（环境安装、数据集处理、奖励函数构建、重要参数解析、debug） | - | AI 论文精读 | - | - | 17:24 | [link](https://www.bilibili.com/video/BV14PuRzrEoE) |
+| 2592 | [Agentic RL][06] 练习两天半，使用verl实现code-r1（agent-rl，verl二次开发），原理到代码实现全流程解读 | - | AI 论文精读 | - | - | 53:05 | [link](https://www.bilibili.com/video/BV1Pk8vziEdY) |
+| 2593 | [Agentic RL][07] 超级详细的GSPO（GRPO又一变体，Qwen出品，必属精品）原理解读，你值得拥有！ | - | AI 论文精读 | - | - | 15:16 | [link](https://www.bilibili.com/video/BV1MEtZzeEif) |
+| 2594 | [Agentic RL][08] 专为优化Agent而生的强化学习方法，基于熵自适应策略的采样，让你的Agent更会探索 | - | AI 论文精读 | - | - | 13:54 | [link](https://www.bilibili.com/video/BV1zvebzDE6p) |
+| 2595 | [Agentic RL][09] 练习两天半，实现基于规则奖励的RLOO强化学习算法（Qwen2.5-7B测试，对比GRPO），从原理讲解到代码解读全流程 | - | AI 论文精读 | - | - | 27:24 | [link](https://www.bilibili.com/video/BV1p9hezAEsE) |
+| 2596 | [Agentic RL][10] 练习两天半，从零实现ReMax强化学习算法（基于Qwen2.5-7B测试），从原理到代码实现，你绝对学得会 | - | AI 论文精读 | - | - | 14:39 | [link](https://www.bilibili.com/video/BV1hLazztEMv) |
+| 2597 | [Agentic RL][11] 练习两天半，从零复现reinforce++和reinforce++-baseline算法，从原理到代码实现，清晰易懂，一眼就会 | - | AI 论文精读 | - | - | 18:27 | [link](https://www.bilibili.com/video/BV1ttYKzPEy6) |
+| 2598 | [Agentic RL][12] 练习两天半，教你如何使用verl的multi-turn tool agent，从数据处理、配置文件修改到源码debug | - | AI 论文精读 | - | - | 29:40 | [link](https://www.bilibili.com/video/BV1cHpEzhEwP) |
+| 2599 | [Agentic RL][13] VeRL强化学习实用教程：自定义奖励计算的若干方法，从简单到复杂，覆盖所有应用需求 | - | AI 论文精读 | - | - | 16:18 | [link](https://www.bilibili.com/video/BV1seqHBFEGx) |
+| 2600 | [Agentic RL][14] Agent is all you need，verl自定义Agent Loop（python code交互） | - | AI 论文精读 | - | - | 13:47 | [link](https://www.bilibili.com/video/BV18UBMBKEAV) |
+| 2601 | [Agentic RL][15] verl参数怎么看，今天就给你们来个保姆级的教程 | - | AI 论文精读 | - | - | 15:51 | [link](https://www.bilibili.com/video/BV11WiFBYEV9) |
+| 2602 | [Agentic RL][16] 强化学习（verl）训练日志怎么看，今天就给你们来个保姆级的教程~ | - | AI 论文精读 | - | - | 9:24 | [link](https://www.bilibili.com/video/BV1PwrrBtENk) |
+| 2603 | [Agentic RL][17] 闭关一坤天，从零复现GDPO算法（英伟达出品，简单但有效），从原理到代码实现，喂饭级讲解 | - | AI 论文精读 | - | - | 24:43 | [link](https://www.bilibili.com/video/BV1oyzCBUEXm) |
+| 2604 | [Agentic RL][18] MiniMax M2.5背后的RL算法：CISPO 完全解读 | - | AI 论文精读 | - | - | 12:41 | [link](https://www.bilibili.com/video/BV1aAZCBpEpa) |
+| 2605 | [Agentic RL][19] 给PPO加上双重保险（双裁剪机制），让PPO稳中加稳 | - | AI 论文精读 | - | - | 8:29 | [link](https://www.bilibili.com/video/BV1NnfbBBEEZ) |
+| 2606 | [Agentic RL][20] SAPO机制详解，大概率是Qwen3.5所用后训练算法（公式有点多，但很容易看懂） | - | AI 论文精读 | - | - | 21:21 | [link](https://www.bilibili.com/video/BV1zyAzziEXD) |
+| 2607 | [Agentic RL][21] GiGPO算法详解 & VeRL-Agent-Loop VS VeRL-Agent | - | AI 论文精读 | - | - | 33:01 | [link](https://www.bilibili.com/video/BV1zfwEzkEZZ) |
+| 2608 | [Agentic RL][22] MAPO：Mixed Advantage Policy Optimization | - | AI 论文精读 | - | - | 10:13 | [link](https://www.bilibili.com/video/BV1dpQrBuELL) |
+| 2609 | [Agentic RL][23] RL is all you need！verl core algos最全讲解！ | - | AI 论文精读 | - | - | 44:54 | [link](https://www.bilibili.com/video/BV1sy9gBrEr6) |
+| 2610 | [Agentic RL][24] slime：自定义程度最高的RL框架，从环境搭建（docker or conda）到开始训练 | - | AI 论文精读 | - | - | 22:50 | [link](https://www.bilibili.com/video/BV1uidpBpEvF) |
+| 2611 | [Agentic RL][25] slime自定义Agentic RL流程，带你实现一个Code Agent训练 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/tree/main/post_training/code-r1-slime) | 23:59 | [link](https://www.bilibili.com/video/BV1Xvo9B7ETK) |
+| 2612 | [Agentic RL][26] slime coding agent rl，使用claude code框架做强化学习，代码搭配示例讲解，通俗易懂 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | 43:17 | [link](https://www.bilibili.com/video/BV1DoTq65EMM) |
+| 2613 | [Agentic RL][27] slime multi-agent rl，solver/rewriter/selector agent | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | 25:51 | [link](https://www.bilibili.com/video/BV1iyMn6GEku) |
+| 2614 | [Agentic RL][28] ECHO：改善Agentic RL长程任务上下文过长、奖励分配问题 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | 26:03 | [link](https://www.bilibili.com/video/BV1PV3g6eExL) |
+| 2615 | [Agentic RL][29] MaxRL：从三个视角用最大似然重新理解强化学习 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | 18:37 | [link](https://www.bilibili.com/video/BV1nvbD6pEyU) |
+| 2616 | [Agentic RL][30] CompactionRL：让模型学会压缩上下文 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | 17:03 | [link](https://www.bilibili.com/video/BV1va4X6jEf7) |
+| 2617 | [Agentic RL][31] SAO：GLM 5.2/5.3 的选择，让 Agentic RL 更高效 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | 24:22 | [link](https://www.bilibili.com/video/BV1vibH6FEMe) |
+| 2618 | 从SFT、通用能力强化、Agent能力强化到RLHF，一个开源完整的LLM训练方案 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | 40:59 | [link](https://www.bilibili.com/video/BV1YSHx6nETN) |
+| 2619 | 练习两周半，使用Qwen2.5-0.5B和SigLIP从零开始训练多模态大模型，从预训练到SFT完整流程，让你真正搞懂多模态大模型 | - | AI 论文精读 | - | - | 27:12 | [link](https://www.bilibili.com/video/BV1HTzEYbEv3) |
+| 2620 | 练习不到两天半，完全从零开始训练大模型，从训练tokenizer到预训练再到SFT全流程，让你完全搞懂大语言模型 | - | AI 论文精读 | - | - | 31:06 | [link](https://www.bilibili.com/video/BV13Ci6YYEUY) |
+| 2621 | 多模态大模型都在用的SigLIP，完全从零开始实现，原理、模型结构到训练代码，你肯定学得会 | - | AI 论文精读 | - | - | 17:26 | [link](https://www.bilibili.com/video/BV1i6kBYEELj) |
+| 2622 | 练习两天半，完全从零开始训练混合专家模型（MoE），从预训练到SFT全流程代码实现，搭配实例讲解MoE前向传播，绝对让你搞懂混合专家模型 | - | AI 论文精读 | - | - | 48:50 | [link](https://www.bilibili.com/video/BV1garHYdEoN) |
+| 2623 | 续上集（完全从零开始训练混合专家模型），效果展示与对比 | - | AI 论文精读 | - | - | 14:48 | [link](https://www.bilibili.com/video/BV1trcwe2EW1) |
+| 2624 | 研究两天半，让你完全搞懂DeepSeek多头潜在注意力机制（MLA）的原理与实现，搭配详细注释的代码，你完全学得会 | - | AI 论文精读 | - | - | 36:07 | [link](https://www.bilibili.com/video/BV1wVfGYfEq9) |
+| 2625 | 练习两天半，完全从零开始实现DeepSeek-V3的MTP(魔改Qwen2.5-0.5B)，从原理到代码实现，让你明白为什么DeepSeek快的飞起 | - | AI 论文精读 | - | - | 31:16 | [link](https://www.bilibili.com/video/BV1kePceVEap) |
+| 2626 | 练习两天半，从零实现多模态大模型（多图场景，多轮对话），从原理讲解到代码实现，搭配流程图，清晰易懂 | - | AI 论文精读 | - | - | 17:28 | [link](https://www.bilibili.com/video/BV1ZeT2zcEee) |
+| 2627 | 闭关两周半，完全从零开始实现Qwen3-Next模型（参数60M，线性注意力GatedDeltaNet），从架构原理到代码实现，绝对是你能找到的最详细的讲解 | - | AI 论文精读 | - | - | 53:23 | [link](https://www.bilibili.com/video/BV1f8sdziERA) |
+| 2628 | Qwen3-Next到Kimi-Linear，混合线性注意力架构超越Softmax注意力，带你深度了解Kimi-Linear架构原理 | - | AI 论文精读 | - | - | 12:59 | [link](https://www.bilibili.com/video/BV1ZBUHB2Emx) |
+| 2629 | 练习两天半，完全从零开始实现DeepSeek Sparse Attention（DSA，DS-V3.2-Exp），从原理讲解到代码训练全流程，你一定要看 | - | AI 论文精读 | - | - | 27:45 | [link](https://www.bilibili.com/video/BV1MQSvBuEbb) |
+| 2630 | 研究两天半，让你完全搞懂DeepSeek的Engram模块原理与实现，清晰流程搭配详细代码注释，一看就懂 | - | AI 论文精读 | - | - | 33:03 | [link](https://www.bilibili.com/video/BV1vt6tBuEjz) |
+| 2631 | 蒸蚌！从零开始实现DeepSeek的mHC，从原理到完整代码实现，一学一个笑嘻嘻 | - | AI 论文精读 | - | - | 13:57 | [link](https://www.bilibili.com/video/BV1diFHzMEsj) |
+| 2632 | 练习两天半，从零实现kimi注意力残差，让马斯克点赞的kimi最新架构 | - | AI 论文精读 | - | - | 15:55 | [link](https://www.bilibili.com/video/BV1MzAwzLEqN) |
+| 2633 | 练习两天半，从零实现DeepSeek V4 CSA&HCA模块，原理讲解搭配最简代码实现，一看就懂 | - | AI 论文精读 | - | - | 21:59 | [link](https://www.bilibili.com/video/BV1svo1BjEB4) |
+| 2634 | GLM5.2 IndexShare/KVShare讲解，更长的上下文，更低的成本，更快的速度 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/LLM%E6%9E%B6%E6%9E%84.md) | 10:01 | [link](https://www.bilibili.com/video/BV1BXTC63Eqx) |
+| 2635 | KIMI K3的三个核心架构：KDA、Attention Residuals和Stable LatentMoE | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/LLM%E6%9E%B6%E6%9E%84.md) | 12:31 | [link](https://www.bilibili.com/video/BV1PrgX6HEdg) |
+| 2636 | recurrent depth，gpt-6-astra的新架构？让模型无声的思考 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/LLM%E6%9E%B6%E6%9E%84.md) | 14:13 | [link](https://www.bilibili.com/video/BV1UqYJ6sErE) |
+| 2637 | 开源决策模型 Laya（Jev开源版）架构与训练详解 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/LLM%E6%9E%B6%E6%9E%84.md) | 18:42 | [link](https://www.bilibili.com/video/BV1LshX6dE1x) |
+| 2638 | [知识蒸馏][01] 耗时两天半，完全从零开始实现大模型知识蒸馏（Qwen2.5系列模型），从原理讲解、代码实现到效果测试，绝对让你搞懂模型蒸馏 | - | AI 论文精读 | - | - | 28:14 | [link](https://www.bilibili.com/video/BV1kQcoetEFM) |
+| 2639 | [知识蒸馏][02] 练习两分半，使用DeepSeek-R1蒸馏训练自己的本地小模型（Qwen2.5-0.5B），原理流程全讲解，模型数据全给你 | - | AI 论文精读 | - | - | 13:44 | [link](https://www.bilibili.com/video/BV1ekN2ebE68) |
+| 2640 | [知识蒸馏][03] 闭关两天半，完全从零开始实现Embedding模型知识蒸馏（学生模型Qwen3-Embedding-0.6B，教师模型4B/8B） | - | AI 论文精读 | - | - | 21:44 | [link](https://www.bilibili.com/video/BV1rtpRzwEsE) |
+| 2641 | [知识蒸馏][04] 闭关2.5天，Embedding模型微调VS蒸馏（Qwen3-0.6B），谁更胜一筹，数据会告诉你答案，从原理流程、代码实现到结果分析 | - | AI 论文精读 | - | - | 19:07 | [link](https://www.bilibili.com/video/BV12BnnzzEgq) |
+| 2642 | [知识蒸馏][05] 闭关两天半，从零实现大模型Logits知识蒸馏（Cross-Tokenizer，GLM4-9B-->Qwen2.5-0.5B） | - | AI 论文精读 | - | - | 35:42 | [link](https://www.bilibili.com/video/BV1LnCyBfEo7) |
+| 2643 | [知识蒸馏][06] 闭关两天半，完全从零实现大模型RL知识蒸馏（On Policy Distillation，Qwen2.5），你值得拥有 | - | AI 论文精读 | - | - | 19:41 | [link](https://www.bilibili.com/video/BV1yN29BrEjk) |
+| 2644 | [知识蒸馏][07] 练习两天半，从零实现SDFT(Self-Distillation Enables Continual Learning) | - | AI 论文精读 | - | - | 20:36 | [link](https://www.bilibili.com/video/BV1ETNMzEEKa) |
+| 2645 | [知识蒸馏][08] 练习两周半，从零实现SDPO（Reinforcement Learning via Self-Distillation) | - | AI 论文精读 | - | - | 29:57 | [link](https://www.bilibili.com/video/BV16hSUBFEej) |
+| 2646 | [知识蒸馏][09] on policy distillation(OPD)中的kl散度详解 | - | AI 论文精读 | - | - | 13:57 | [link](https://www.bilibili.com/video/BV1iPRbByE5Z) |
+| 2647 | [知识蒸馏][10] TCOD:将课程学习加入On-Policy Distillation，改善Agent蒸馏场景下的不稳定性 | - | AI 论文精读 | [2604.24005](https://arxiv.org/abs/2604.24005) | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | 15:17 | [link](https://www.bilibili.com/video/BV1MZLu6JETz) |
+| 2648 | [知识蒸馏][11] Uni-OPD：从教师学生双视角优化OPD，提升教师模型监督可靠性、学生模型探索多样性 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) [github.com](https://github.com/wyf3/all-in-ai/blob/main/post_training/Uni-OPD/uni_opd_minimal_demo.py) | 19:37 | [link](https://www.bilibili.com/video/BV1aYG26nEGc) |
+| 2649 | [知识蒸馏][12] 一个很容易被忽略但是很重要的问题：为什么OPD中一般不直接使用reverse kl backward？ | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | 8:58 | [link](https://www.bilibili.com/video/BV1sAVE6cEYE) |
+| 2650 | [知识蒸馏][13] slime里面的on-policy distillation的实现逻辑 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | 17:33 | [link](https://www.bilibili.com/video/BV1Kq7X66Eqs) |
+| 2651 | [知识蒸馏][14] ROPD：闭源大模型作为教师模型如何OPD | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/post_training/ROPD/minimal_ropd_demo.py) [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | 16:09 | [link](https://www.bilibili.com/video/BV1cHJE66EKi) |
+| 2652 | [知识蒸馏][15] 改善OPD中教师监督不可靠问题（轨迹级、prefix级、token级等） | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | 24:05 | [link](https://www.bilibili.com/video/BV18mjo6sEty) |
+| 2653 | [知识蒸馏][16] Multi-teacher On-policy Distillation，将多个模型能力整合进一个模型 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | 18:36 | [link](https://www.bilibili.com/video/BV1ifKN6fExX) |
+| 2654 | [知识蒸馏][17] ExOPD：On-policy Distillation中学生模型如何超过教师模型 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | 20:40 | [link](https://www.bilibili.com/video/BV1ai396qEGo) |
+| 2655 | [知识蒸馏][18] OmniOPD：不限教师模型来源，Logit-Free OPD | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | 20:12 | [link](https://www.bilibili.com/video/BV1YRYe6uEbY) |
+| 2656 | [Agent][01] 练习两天半，从零开始实现Deep Research（DeepSeek自动生成带插图的markdown报告），原理讲解到代码实现 | - | AI 论文精读 | - | - | 34:54 | [link](https://www.bilibili.com/video/BV1RyZZY3E7n) |
+| 2657 | [Agent][02] 练习两周半，完全从零开始实现Manus（LangGraph，智能数据分析报告生成），原理、流程到代码，让Agent不再神秘 | - | AI 论文精读 | - | - | 32:19 | [link](https://www.bilibili.com/video/BV1SBM2zHEAQ) |
+| 2658 | [Agent][03] 练习两天半，让Gemini DeepResearch同时具备网络搜索和知识库检索能力，适配本地大模型，快来试试吧！ | - | AI 论文精读 | - | - | 21:51 | [link](https://www.bilibili.com/video/BV1w939zKEPD) |
+| 2659 | [Agent][04] Clawdbot/Moltbot使用本地大模型服务和自定义Skills，不用担心自己的token耗光光了 | - | AI 论文精读 | - | - | 7:52 | [link](https://www.bilibili.com/video/BV1kGz9BHEhn) |
+| 2660 | [Agent][05] 解读KIMI K2.5 Agent Swarm，下一代Agent主流架构 | - | AI 论文精读 | - | - | 12:41 | [link](https://www.bilibili.com/video/BV1idcbzhEX6) |
+| 2661 | [Agent][06] Openclaw(nanobot) Agent架构剖析，最容易看懂的喂饭级解读 | - | AI 论文精读 | - | - | 29:27 | [link](https://www.bilibili.com/video/BV1aJwyzNEQE) |
+| 2662 | [Agent][07] MCP-->CLI，双层渐进式披露，Agent时代的上下文工程 | - | AI 论文精读 | - | - | 17:23 | [link](https://www.bilibili.com/video/BV1HxXGBBESv) |
+| 2663 | [Agent][08] Loop Engineering原理解读（以Codex Goal为例），简单易懂，清晰明了 | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Agent.md) | 16:15 | [link](https://www.bilibili.com/video/BV1fWjC6YEvj) |
+| 2664 | [数据合成][01] Search Agent数据合成（图谱多跳推理、实体模糊、去噪轨迹生成） | - | AI 论文精读 | - | - | 21:46 | [link](https://www.bilibili.com/video/BV1EoDyBSENx) |
+| 2665 | [数据合成][02] magpie: 不依赖任何种子数据集或人工指令构建的指令数据合成(SFT数据) | - | AI 论文精读 | - | [github.com](https://github.com/wyf3/all-in-ai/tree/main/data_synthesis/magpie/magpie) | 19:59 | [link](https://www.bilibili.com/video/BV1KWR7BAEsb) |
+| 2666 | 将图片或PDF中复杂的表格数据转成纯文本输入大模型，如何保持表格文字的排版布局不变？ | - | AI 论文精读 | - | - | 22:23 | [link](https://www.bilibili.com/video/BV1hJvQeyEZS) |
+| 2667 | Qwen2-VL-7B实现精准pdf转markdown，从原理、代码实现、存在问题以及优化方向全流程讲解 | - | AI 论文精读 | - | - | 23:05 | [link](https://www.bilibili.com/video/BV1hHHZe8E4s) |
+| 2668 | 版面分析模型结合Qwen2-VL-7B，大幅提升gptpdf解析效果，代码实现更简洁、更高效 | - | AI 论文精读 | - | - | 15:55 | [link](https://www.bilibili.com/video/BV1n7pbeeEUD) |
+| 2669 | PDF转HTML格式，专精于OCR识别的多模态大模型，适配多场景多功能。从原理到效果实测，带你一步一步解析。 | - | AI 论文精读 | - | - | 21:38 | [link](https://www.bilibili.com/video/BV1sitMebEiN) |
+| 2670 | 0.5B小模型将原始HTML完美转换为干净的Markdown，或许专用场景的小模型才是未来主流 | - | AI 论文精读 | - | - | 11:00 | [link](https://www.bilibili.com/video/BV1tztve3En3) |
+| 2671 | 不需要提取PDF，多模态大模型直接交互？通过MiniCPM-V-2.6进行测试，从模型本地部署到多图推理全流程 | - | AI 论文精读 | - | - | 20:56 | [link](https://www.bilibili.com/video/BV1XisXexE9D) |
+| 2672 | 1B多模态小模型只用于图片中表格的结构化提取，支持latex，markdown，html三种格式，效果似乎有点难说 | - | AI 论文精读 | - | - | 17:11 | [link](https://www.bilibili.com/video/BV1grD7YiEVi) |
+| 2673 | 一张图带你搞懂GraphRAG | - | AI 论文精读 | - | - | 3:52 | [link](https://www.bilibili.com/video/BV1K6bXetER6) |
+| 2674 | GraphRAG太烧钱？Qwen2-7b本地部署GraphRAG，无需Ollama，从环境搭建到报错解决全流程 | - | AI 论文精读 | - | - | 24:33 | [link](https://www.bilibili.com/video/BV1Bg8pe8Ekb) |
+| 2675 | 本地大模型启动openai服务的N种方式，vllm，fastchat，llama factory，llama.cpp，ollama | - | AI 论文精读 | - | - | 19:36 | [link](https://www.bilibili.com/video/BV1GF8ye2E1E) |
+| 2676 | 不知道GraphRAG怎么存储文档？知识图谱可视化，带你最直观的感受GraphRAG | - | AI 论文精读 | - | - | 13:32 | [link](https://www.bilibili.com/video/BV1eW8meoE4Y) |
+| 2677 | 还通过命令行和GraphRAG互动？Local UI界面来啦，支持本地txt，pdf，docx和markdown格式文档 | - | AI 论文精读 | - | - | 19:51 | [link](https://www.bilibili.com/video/BV1AS42197AP) |
+| 2678 | ollama启动向量模型服务本地部署GraphRAG，从报错到更改，带你定位源码，更改源码 | - | AI 论文精读 | - | - | 16:17 | [link](https://www.bilibili.com/video/BV1mH4y1c7r1) |
+| 2679 | 如何用GraphRAG加载csv数据？通过源码告诉你怎么更改配置文件，成功加载你的csv数据 | - | AI 论文精读 | - | - | 14:58 | [link](https://www.bilibili.com/video/BV1gDv1eFEBr) |
+| 2680 | CVPR 2024 / 重新思考用于表面法线估计的归纳偏差 | - | AI 论文精读 | - | [baegwangbin.github.io](https://baegwangbin.github.io/DSINE/) | 2:18 | [link](https://www.bilibili.com/video/BV1wj421U7Hb) |
+| 2681 | CVPR2024 / AI设计再升级，视觉元素轻松迁移 | - | AI 论文精读 | - | [youtu.be](https://youtu.be/8g--nx3RyEQ) | 4:40 | [link](https://www.bilibili.com/video/BV1qE421M7p5) |
+| 2682 | CUHK+腾讯AI视频生成DynamiCrafter升级了！！！ 更好的动态、更高的分辨率、更强的连贯性！ | - | AI 论文精读 | - | [doubiiu.github.io](https://doubiiu.github.io/projects/DynamiCrafter/) [huggingface.co](https://huggingface.co/spaces/Doubiiu/DynamiCrafter) [github.com](https://github.com/Doubiiu/DynamiCrafter) | 1:37 | [link](https://www.bilibili.com/video/BV1dZ421U7wL) |
+| 2683 | 谷歌最新AI视频生成算法 Lumiere！支持文转视频、图转视频、视频风格化等 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=wxLr02Dz2Sc) [lumiere-video.github.io](https://lumiere-video.github.io/) | 1:56 | [link](https://www.bilibili.com/video/BV1CU421o7dS) |
+| 2684 | 【AI视频生成】PIA：文本到图像模型中的即插即用模块实现个性化图像动画师 | - | AI 论文精读 | [2312.13964](https://arxiv.org/abs/2312.13964) | [pi-animator.github.io](https://pi-animator.github.io) [github.com](https://github.com/open-mmlab/pia) | 1:12 | [link](https://www.bilibili.com/video/BV1Ma4y167mx) |
+| 2685 | AI生成视频！港中大提出DynamiCrafter：使用视频扩散先验使开放域图像变成动画 | - | AI 论文精读 | [2310.12190](https://arxiv.org/abs/2310.12190) | [doubiiu.github.io](https://doubiiu.github.io/projects/DynamiCrafter/) | 1:47 | [link](https://www.bilibili.com/video/BV1M94y1775T) |
+| 2686 | 南洋理工大学提出VideoBooth：基于扩散的图像提示视频生成 | - | AI 论文精读 | [2312.00777](https://arxiv.org/abs/2312.00777) | [vchitect.github.io](https://vchitect.github.io/VideoBooth-project/) [github.com](https://github.com/Vchitect/VideoBooth) | 1:06 | [link](https://www.bilibili.com/video/BV1994y1j7x7) |
+| 2687 | 字节跳动最新视频生成工作！像素跳动? Make Pixels Dance | - | AI 论文精读 | - | [makepixelsdance.github.io](https://makepixelsdance.github.io/) | 3:10 | [link](https://www.bilibili.com/video/BV13N4y1U7E9) |
+| 2688 | 【AI视频生成】丝滑！视频版ControlNet来了! ControlVideo！ | - | AI 论文精读 | [2305.17098](https://arxiv.org/abs/2305.17098) | [ml.cs.tsinghua.edu.cn](https://ml.cs.tsinghua.edu.cn/controlvideo/) | 1:07 | [link](https://www.bilibili.com/video/BV1w8411Z75p) |
+| 2689 | 视频内容生成！Text2Performer：文本驱动的真人视频生成 | - | AI 论文精读 | - | [github.com](https://github.com/yumingj/Text2Performer) | 2:57 | [link](https://www.bilibili.com/video/BV19L411e7ud) |
+| 2690 | AI语音初创公司 ElevenLab 用AI给Sora生成的视频配音！AI电影更进一步 | - | AI 论文精读 | - | [twitter.com](https://twitter.com/elevenlabsio/status/1759240084342059260) | 0:59 | [link](https://www.bilibili.com/video/BV1qS421N7FP) |
+| 2691 | 哈工大&清华提出VideoElevator！一种无需训练且即插即用的方法提升视频生成质量 | - | AI 论文精读 | - | [videoelevator.github.io](https://videoelevator.github.io/) | 0:25 | [link](https://www.bilibili.com/video/BV1pr421H7A9) |
+| 2692 | AAAI2024 / UCMCTrack：具有均匀相机运动补偿的多目标跟踪 | - | AI 论文精读 | [2312.08952](https://arxiv.org/abs/2312.08952) | [github.com](https://github.com/corfyi/UCMCTrack) | 0:12 | [link](https://www.bilibili.com/video/BV1Kt4y1Z718) |
+| 2693 | CVPR2023 / SeaThru-NeRF：散射介质中的神经辐射场 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=oRMvTBBARKE) [github.com](https://github.com/DWCTOD/CVPR2023-Papers-with-Code-Demo) | 1:29 | [link](https://www.bilibili.com/video/BV11Y411r7tY) |
+| 2694 | CVPR 2023 / Im2Hands :交互双手形状表征 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=3yNGSRz564A) [github.com](https://github.com/DWCTOD/CVPR2023-Papers-with-Code-Demo) [jyunlee.github.io](https://jyunlee.github.io/) | 1:40 | [link](https://www.bilibili.com/video/BV1a24y1V7c7) |
+| 2695 | CVPR2023 / dToF一致的视频深度超分辨率 | - | AI 论文精读 | [2211.08658](https://arxiv.org/abs/2211.08658) | [zhsun0357.github.io](https://zhsun0357.github.io/consistent_dtof_video/) | 5:49 | [link](https://www.bilibili.com/video/BV1Ph41137qG) |
+| 2696 | CVPR 2023｜又一个工作将人脸玩出新高度，代码开源 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=Z-cmKVeXHvY) [github.com](https://github.com/e4s2022/e4s) | 7:26 | [link](https://www.bilibili.com/video/BV1wo4y1t7sF) |
+| 2697 | CVPR2023 / MetaAI最新工作ImageBind，全能AI可学习6种不同模态！ | - | AI 论文精读 | [2305.05665](https://arxiv.org/abs/2305.05665) | [imagebind.metademolab.com](https://imagebind.metademolab.com/) [github.com](https://github.com/facebookresearch/ImageBind) | 3:52 | [link](https://www.bilibili.com/video/BV1va4y1g7ck) |
+| 2698 | CVPR2023！使用文本到图像扩散模型的开放词汇全景分割 | - | AI 论文精读 | - | [jerryxu.net](https://jerryxu.net/ODISE/) | 2:21 | [link](https://www.bilibili.com/video/BV1xm4y1a7ig) |
+| 2699 | ECCV2022/AdaNeRF：自适应采样用于神经辐射场实时渲染！代码开源 | - | AI 论文精读 | - | [github.com](https://github.com/thomasneff/AdaNeRF) [bkunyun.com](https://www.bkunyun.com/wap/console?source=aistudy) | 0:33 | [link](https://www.bilibili.com/video/BV1Xv4y1m762) |
+| 2700 | ECCV2022/AdaNeRF：自适应采样用于神经辐射场实时渲染！讲解 | - | AI 论文精读 | [2207.10312](https://arxiv.org/abs/2207.10312) | - | 5:10 | [link](https://www.bilibili.com/video/BV1RW4y1s7Jp) |
+| 2701 | IJCAI2022 / 最近很火哭脸特效，这个算法可以做到 | - | AI 论文精读 | [2205.01155](https://arxiv.org/abs/2205.01155) | [youtube.com](https://www.youtube.com/watch?v=qqqRx-z5l9k) | 3:32 | [link](https://www.bilibili.com/video/BV1bZ4y187de) |
+| 2702 | 外网超火哭脸特效，笑拉了 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=GaK9dh8OvTc) | 9:45 | [link](https://www.bilibili.com/video/BV1j34y1E7M4) |
+| 2703 | SIGGRAPH 2022 / 给定小示例合成更大输出结果 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=vwN7oy3z4CU) [phtu-cs.github.io](https://phtu-cs.github.io/cvt-sig22/) | 0:31 | [link](https://www.bilibili.com/video/BV1x54y1f7vy) |
+| 2704 | SIGGRAPH 2022 / 给定小示例合成更大输出结果（讲解） | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=vwN7oy3z4CU) [phtu-cs.github.io](https://phtu-cs.github.io/cvt-sig22/) | 2:52 | [link](https://www.bilibili.com/video/BV13S4y1h7yu) |
+| 2705 | NVIDIA 的新 AI：即时神经图形！（英） | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=j8tMk-GE8hY) [nvlabs.github.io](https://nvlabs.github.io/instant-ngp/) [nvlabs.github.io](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf) | 5:26 | [link](https://www.bilibili.com/video/BV1jZ4y1k7tw) |
+| 2706 | NVIDIA 的新 AI：即时神经图形！（中英） | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=j8tMk-GE8hY) [nvlabs.github.io](https://nvlabs.github.io/instant-ngp/) [nvlabs.github.io](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf) | 5:26 | [link](https://www.bilibili.com/video/BV1RF411E7w7) |
+| 2707 | 英伟达又一个GAN！PoE-GAN，AI绘图细节拉满，支持多模态输入 | - | AI 论文精读 | [2112.05130](https://arxiv.org/abs/2112.05130) | [youtube.com](https://www.youtube.com/watch?v=eaSTGOgO-ss) [deepimagination.cc](https://deepimagination.cc/PoE-GAN/) | 6:21 | [link](https://www.bilibili.com/video/BV1sm4y1d7bm) |
+| 2708 | 英伟达又一个GAN！PoE-GAN，AI绘图细节拉满，速度更快（无字幕） | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=eaSTGOgO-ss) | 6:21 | [link](https://www.bilibili.com/video/BV1bS4y1r7ou) |
+| 2709 | 英伟达又一个GAN！PoE-GAN，AI绘图细节拉满，速度更快（英） | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=eaSTGOgO-ss) | 6:21 | [link](https://www.bilibili.com/video/BV1k341177DJ) |
+| 2710 | AI击败近一半参赛者！编程版“阿法狗”AlphaCode惊世登场！ | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=vmfwx2DSDUc) [mp.weixin.qq.com](https://mp.weixin.qq.com/s/AdXWadazw1Muo3kvj8BIBQ) [deepmind.com](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) | 7:00 | [link](https://www.bilibili.com/video/BV1GS4y117ak) |
+| 2711 | （中英字幕）AI击败近一半程序员！编程版“阿法狗”AlphaCode惊世登场！ | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=vmfwx2DSDUc) [mp.weixin.qq.com](https://mp.weixin.qq.com/s/AdXWadazw1Muo3kvj8BIBQ) [deepmind.com](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) | 7:00 | [link](https://www.bilibili.com/video/BV18u411d78B) |
+| 2712 | （英文字幕）AI击败近一半程序员！编程版“阿法狗”AlphaCode惊世登场！ | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=vmfwx2DSDUc) [mp.weixin.qq.com](https://mp.weixin.qq.com/s/AdXWadazw1Muo3kvj8BIBQ) [deepmind.com](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) | 7:00 | [link](https://www.bilibili.com/video/BV14R4y1j7wi) |
+| 2713 | 【CV】下一代数字绘画即将到来！用于数字绘画的实用颜料混合 | - | AI 论文精读 | - | [github.com](https://github.com/scrtwpns/pigment-mixing) [scrtwpns.com](https://scrtwpns.com/mixbox.pdf) | 5:01 | [link](https://www.bilibili.com/video/BV1Ka411y74u) |
+| 2714 | 【CV-】下一代数字绘画即将到来！用于数字绘画的实用颜料混合 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=b2D_5G_npVI) [github.com](https://github.com/scrtwpns/pigment-mixing) [scrtwpns.com](https://scrtwpns.com/mixbox.pdf) | 5:01 | [link](https://www.bilibili.com/video/BV1nq4y1b7ME) |
+| 2715 | 【CV】下一代数字绘画即将到来！用于数字绘画的实用颜料混合 two minute papers | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=b2D_5G_npVI) [github.com](https://github.com/scrtwpns/pigment-mixing) [scrtwpns.com](https://scrtwpns.com/mixbox.pdf) | 5:01 | [link](https://www.bilibili.com/video/BV1834y1y7XE) |
+| 2716 | （中英）语言模型学习知识（开冰箱、拖鞋等行为），并用于交互环境中！ | - | AI 论文精读 | [2201.07207](https://arxiv.org/abs/2201.07207) | [youtu.be](https://youtu.be/CkyugWI3_fc) [wenlong.page](https://wenlong.page/language-planner/) [github.com](https://github.com/huangwl18/language-planner) | 2:21 | [link](https://www.bilibili.com/video/BV1xF411p7FS) |
+| 2717 | 语言模型学习知识（开冰箱、拖鞋等行为），并用于交互环境中！ | - | AI 论文精读 | [2201.07207](https://arxiv.org/abs/2201.07207) | [youtu.be](https://youtu.be/CkyugWI3_fc) [wenlong.page](https://wenlong.page/language-planner/) [github.com](https://github.com/huangwl18/language-planner) | 2:21 | [link](https://www.bilibili.com/video/BV17F411p7xq) |
+| 2718 | 港科大新作IICNet：可逆图像转换的通用框架，可用于分辨率、FPS、压缩等任务 / ICCV2021 | - | AI 论文精读 | [2109.04242](https://arxiv.org/abs/2109.04242) | [github.com](https://github.com/felixcheng97/IICNet) [reurl.cc](https://reurl.cc/3aQARV) | 1:48 | [link](https://www.bilibili.com/video/BV1dQ4y1Q7bs) |
+| 2719 | PIRenderer：通过语义神经渲染的可控肖像图像生成 / ICCV2021 | - | AI 论文精读 | - | [github.com](https://github.com/RenYurui/PIRender) | 5:00 | [link](https://www.bilibili.com/video/BV1Dh411p7gQ) |
+| 2720 | 华科&腾讯提出：基于Query的实例分割！代码已开源 / ICCV2021 | - | AI 论文精读 | [2105.01928](https://arxiv.org/abs/2105.01928) | [github.com](https://github.com/hustvl/QueryInst) [reurl.cc](https://reurl.cc/3aQARV) | 1:32 | [link](https://www.bilibili.com/video/BV1ih411p7je) |
+| 2721 | CodeNeRF：学习目标的形状和纹理的隐式3D神经表征，可合成新视角 / ICCV2021 | - | AI 论文精读 | [2109.01750](https://arxiv.org/abs/2109.01750) | [github.com](https://github.com/wayne1123/code-nerf) | 3:25 | [link](https://www.bilibili.com/video/BV1ub4y127i4) |
+| 2722 | 上科大：MVSNeRF -快速通用的辐射场重建！三个输入视图即可快速推理！ICCV2021 | - | AI 论文精读 | - | [github.com](https://github.com/apchenstu/mvsnerf) [apchenstu.github.io](https://apchenstu.github.io/mvsnerf/) [reurl.cc](https://reurl.cc/3aQARV) | 2:23 | [link](https://www.bilibili.com/video/BV1Bg411V7r8) |
+| 2723 | 复杂三维场景下的4D人体捕捉，解决遮挡以及抖动问题 ICCV2021 Oral | - | AI 论文精读 | - | [github.com](https://github.com/sanweiliti/LEMO) | 5:46 | [link](https://www.bilibili.com/video/BV1Ky4y1G7YV) |
+| 2724 | 人人都可以跳宅舞的算法！利用神经辐射场进行人体建模！ICCV2021 | - | AI 论文精读 | [2105.02872](https://arxiv.org/abs/2105.02872) | [github.com](https://github.com/zju3dv/animatable_nerf) [reurl.cc](https://reurl.cc/3aQARV) | 2:31 | [link](https://www.bilibili.com/video/BV1jL4y1Y7PR) |
+| 2725 | 悉尼大学&京东提出：最新视频防抖算法 OVS：边界外视图合成稳定的视频帧 / ICCV2021 | - | AI 论文精读 | [2108.09041](https://arxiv.org/abs/2108.09041) | [github.com](https://github.com/Annbless/OVS_Stabilization) [reurl.cc](https://reurl.cc/3aQARV) | 3:59 | [link](https://www.bilibili.com/video/BV1gA411c7aj) |
+| 2726 | AI视频修复！基于Event引导的视频帧重建和超分辨率 ICCV2021 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=3Uc1MMiYiO4) [reurl.cc](https://reurl.cc/3aQARV) | 1:22 | [link](https://www.bilibili.com/video/BV1ko4y1U7QZ) |
+| 2727 | PyMAF：更准确的三维人体姿态估计！基于金字塔网格对齐反馈循环 / ICCV2021 Oral | - | AI 论文精读 | - | [github.com](https://github.com/HongwenZhang/PyMAF) [reurl.cc](https://reurl.cc/3aQARV（) | 0:52 | [link](https://www.bilibili.com/video/BV1LP4y1x7cA) |
+| 2728 | 看图说话！端到端多模态理解！ICCV2021 | - | AI 论文精读 | - | [ashkamath.github.io](https://ashkamath.github.io/mdetr_page/) [github.com](https://github.com/DWCTOD/ICCV202) | 9:37 | [link](https://www.bilibili.com/video/BV1gq4y1p7zw) |
+| 2729 | Neural Holography 3D - 计算机生成高质量3D全息 / SIGGRAPH Asia 2021 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=EsxGnUd8Efs) [reurl.cc](https://reurl.cc/3aQARV) | 5:33 | [link](https://www.bilibili.com/video/BV1Lq4y1K7YN) |
+| 2730 | 浙大 00 后本科生提出全新美颜算法！双下巴去除 / SIGGRAPH 2021 | - | AI 论文精读 | - | [cad.zju.edu.cn](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm) | 5:49 | [link](https://www.bilibili.com/video/BV1fM4y1N7Q5) |
+| 2731 | 年龄转换算法，合成不同年龄的人脸，代码已开源！SIGGRAPH 2021 | - | AI 论文精读 | - | [youtu.be](https://youtu.be/X_pYC_LtBFw) [github.com](https://github.com/yuval-alaluf/SAM) [reurl.cc](https://reurl.cc/3aQARV（) | 4:29 | [link](https://www.bilibili.com/video/BV1YL411E7p7) |
+| 2732 | AI舞蹈动画合成系统，根据音乐自动生成高质量舞蹈！ / SIGGRAPH 2021 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=V8MlYa_yhF0) [netease-gameai.github.io](https://netease-gameai.github.io/ChoreoMaster/Paper.pdf) | 5:27 | [link](https://www.bilibili.com/video/BV1wb4y1z7bs) |
+| 2733 | AI魔法-无限循环！检测静止图像中的周期图案并变成动画，已有14万用户体验！SIGGRAPH 2021 | - | AI 论文精读 | - | [youtu.be](https://youtu.be/BpApq2EPDXE) [pub.res.lightricks.com](https://pub.res.lightricks.com/endless-loops/) | 6:00 | [link](https://www.bilibili.com/video/BV1TX4y1A7kd) |
+| 2734 | 基于物理感知的单目三维人体运动捕捉 / SIGGRAPH 2021 | - | AI 论文精读 | - | [gvv.mpi-inf.mpg.de](http://gvv.mpi-inf.mpg.de/projects/PhysAware/) [gvv.mpi-inf.mpg.de](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf) [github.com](https://github.com/DWCTOD/CVPR2021-Papers-w) | 6:59 | [link](https://www.bilibili.com/video/BV1R64y1r7Zo) |
+| 2735 | DeepFaceEditing -人脸编辑玩出花 / SIGGRAPH 2021 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=I0H7w06SxwA) [github.com](https://github.com/IGLICT/DeepFaceEditing-Jittor) [geometrylearning.com](http://www.geometrylearning.com/DeepFaceEditing/) | 2:43 | [link](https://www.bilibili.com/video/BV1JB4y1u72o) |
+| 2736 | 虚拟角色合成优美逼真的动作 / SIGGRAPH 2021 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=wySUxZN_KbM) [github.com](https://github.com/xbpeng/DeepMimic) [xbpeng.github.io](https://xbpeng.github.io/projects/AMP/index.html) | 10:25 | [link](https://www.bilibili.com/video/BV1rU4y1L7Nf) |
+| 2737 | AgileGAN - Inversion-Consistent高质量肖像风格化迁移框架（字节+南洋理工） / Siggraph 2021 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=o0HHIvOT_n0) [github.com](https://github.com/GuoxianSong/AgileGAN) [guoxiansong.github.io](https://guoxiansong.github.io/homepage/paper/AgileGAN.pdf) | 2:44 | [link](https://www.bilibili.com/video/BV1sw411Z7F4) |
+| 2738 | 给背景替换加“亿”点真实感，变换背景依然保留真实感的光照效果  / siggraph 2021 | - | AI 论文精读 | - | [youtube.com](https://www.youtube.com/watch?v=rVP2tcF_yRI) [louisbouchard.ai](https://www.louisbouchard.ai/backgrounds-with-lighting/) | 8:17 | [link](https://www.bilibili.com/video/BV1DK4y1d7kM) |
+| 2739 | 南京大学提出LSP系统，实现实时照片级真实感 talking-head动画 / SIGGRAPH Asia 2021 代码已开源 | - | AI 论文精读 | [2109.10595](https://arxiv.org/abs/2109.10595) | [yuanxunlu.github.io](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/) [github.com](https://github.com/YuanxunLu/LiveSpeechPortraits) [reurl.cc](https://reurl.cc/3aQARV) | 7:09 | [link](https://www.bilibili.com/video/BV1qM4y137BN) |
+| 2740 | 分形生成模型 论文逐段精读【论文精读】 | - | AI 论文精读 | - | - | 32:54 | [link](https://www.bilibili.com/video/BV1jgRFYBEjh) |
+| 2741 | 具身智能奠基之作：Do as I Can, Not as I Say【论文精读】 | - | AI 论文精读 | - | - | 59:52 | [link](https://www.bilibili.com/video/BV1vzfTYiEvs) |
+| 2742 | 李飞飞团队最新图像编码器SOTA：Flow to the Mode【论文精读】 | - | AI 论文精读 | - | [kylesargent.github.io](https://kylesargent.github.io/flowmo) | 21:20 | [link](https://www.bilibili.com/video/BV1fcdLYXEMx) |
+| 2743 | 反向传播被判死刑！？“去噪学习”杀疯了：NoProp【论文精读】 | - | AI 论文精读 | - | - | 21:34 | [link](https://www.bilibili.com/video/BV1zY5qzxEPf) |
+| 2744 | 交大出品“数字打工人”终结996！PC Agent【论文精读】 | - | AI 论文精读 | - | [updf.cn](https://www.updf.cn/pdf-edu) [github.com](https://github.com/GAIR-NLP/PC-Agent) | 22:34 | [link](https://www.bilibili.com/video/BV1AbLezxEKB) |
+| 2745 | 即插即用，5%>100%！清华高分论文Mona 【论文精读】 | - | AI 论文精读 | - | [github.com](https://github.com/Leiyi-Hu/mona) | 18:26 | [link](https://www.bilibili.com/video/BV18aG2zcEwk) |
+| 2746 | “LoRA已死，新王当立”参数再砍95%！LoRI【论文精读】 | - | AI 论文精读 | - | [github.com](https://github.com/juzhengz/LoRI) | 18:14 | [link](https://www.bilibili.com/video/BV1up5uz8EHY) |
+| 2747 | Attention被爆杀？VMamba原班人马颠覆Transformer！【vHeat论文精读】 | - | AI 论文精读 | - | [github.com](https://github.com/MzeroMiko/vHeat) | 19:42 | [link](https://www.bilibili.com/video/BV1b8JWzUEL9) |
+| 2748 | 单步秒生图！性能暴增50%！MeanFlow【论文精读】 | - | AI 论文精读 | - | - | 12:48 | [link](https://www.bilibili.com/video/BV1DYT4zcEXF) |
+| 2749 | 颠覆传统！李飞飞团队用"AI杂交"暴砍98%算力成本！【论文精读】 | - | AI 论文精读 | - | [grafting.stanford.edu](https://grafting.stanford.edu/) | 7:25 | [link](https://www.bilibili.com/video/BV1VHNdz5Eqa) |
+| 2750 | 我对市面上多款AI模型进行了人格测试： Lying in llama | - | AI 论文精读 | - | [chatboxai.app](https://chatboxai.app/en) | 10:40 | [link](https://www.bilibili.com/video/BV1L8gSzGEFS) |
+| 2751 | “残差已死，新王当立”效能提升240%！MUDDFormer【论文精读】 | - | AI 论文精读 | [2502.12170](https://arxiv.org/abs/2502.12170) | [github.com](https://github.com/Caiyun-AI/MUDDFormer) [huggingface.co](https://huggingface.co/Caiyun-AI/MUDDPythia-1.4B) [huggingface.co](https://huggingface.co/Caiyun-AI/MUDDPythia-2.8B) | 9:41 | [link](https://www.bilibili.com/video/BV1zt3jztE1Z) |
+| 2752 | Bengio亲手戳穿CoT神话！25％顶会论文遭打脸：CoT Is Not Explainability【论文精读】 | - | AI 论文精读 | - | [alphaxiv.org](https://www.alphaxiv.org/abs/2025.02) | 20:40 | [link](https://www.bilibili.com/video/BV1cmGWzQEP1) |
+| 2753 | 大模型告别逐字生成！并行推理提速200%！英伟达震撼发布：Multiverse【论文精读】 | - | AI 论文精读 | - | [github.com](https://github.com/Multiverse4FM/Multiverse) | 25:00 | [link](https://www.bilibili.com/video/BV1zquMzaEDd) |
+| 2754 | DiT被CNN爆杀！提速500%碾压Transformer：DiC【论文精读】 | - | AI 论文精读 | - | [github.com](https://github.com/YuchuanTian/DiC) | 12:39 | [link](https://www.bilibili.com/video/BV1K8gTzGEZY) |
+| 2755 | ICML'25神作！分隔符优化狂减50%KV缓存：SepLLM【论文精读】 | - | AI 论文精读 | [2412.12094](https://arxiv.org/abs/2412.12094) | [huggingface.co](https://huggingface.co/transformers-community/sep_cache) [sepllm.github.io](https://sepllm.github.io/) [github.com](https://github.com/HKUDS/SepLLM) | 18:22 | [link](https://www.bilibili.com/video/BV1CDbkzJEnD) |
+| 2756 | 谷歌DeepMind再放大招！推理提速100%，KV缓存减半：MoR【论文精读】 | - | AI 论文精读 | - | [alphaxiv.org](http://alphaxiv.org/abs/2507.10524) | 13:46 | [link](https://www.bilibili.com/video/BV1as8dzBEJh) |
+| 2757 | DeepSeek下一代技术曝光！梁文锋获ACL'25最佳论文奖: NSA【论文精读】 | - | AI 论文精读 | [2502.11089](https://arxiv.org/abs/2502.11089) | - | 10:27 | [link](https://www.bilibili.com/video/BV1JrhWzhELd) |
+| 2758 | 3秒复刻灵笼！CosyVoice三部曲深度解析【论文精读】 | - | AI 论文精读 | - | - | 10:50 | [link](https://www.bilibili.com/video/BV1FotszbEYt) |
+| 2759 | Transformer颤抖吧！我CNN又回来了！OverLoCK【论文精读】 | - | AI 论文精读 | - | - | 7:32 | [link](https://www.bilibili.com/video/BV1KmbYzhEL9) |
+| 2760 | 为啥AI很难处理数量问题？ | - | AI 论文精读 | [2505.23941](https://arxiv.org/abs/2505.23941) | [github.com](https://github.com/anvo25/vlms-are-biased) | 7:27 | [link](https://www.bilibili.com/video/BV1i9bszsE4b) |
+| 2761 | 突破Transformer！交大首发「类人脑」大模型BriLLM【论文精读】 | - | AI 论文精读 | [2503.11299](https://arxiv.org/abs/2503.11299) | [github.com](https://github.com/brillm05/BriLLM0.5) [huggingface.co](https://huggingface.co/BriLLM/BriLLM0.5) | 11:10 | [link](https://www.bilibili.com/video/BV1nNYQz2Et5) |
+| 2762 | 从DiT到MMDiT：一个视频看懂AI作图背后的技术革命！ | - | AI 论文精读 | - | - | 10:43 | [link](https://www.bilibili.com/video/BV1EjaSzqEic) |
+| 2763 | 云组会 ｜ 5分钟速通4大视频生成顶会论文！ | - | AI 论文精读 | - | - | 4:33 | [link](https://www.bilibili.com/video/BV14EWMz1EhN) |
+| 2764 | 梁文锋带DeepSeek登上Nature封面！隐藏亮点大揭秘！【论文精读】 | - | AI 论文精读 | - | [nature.com](https://www.nature.com/articles/s41586-025-09422-z) | 8:05 | [link](https://www.bilibili.com/video/BV1ZSpQzJEu2) |
+| 2765 | OpenAl最新研究揭开AI幻觉真相！元凶竟是人类自己！【论文精读】 | - | AI 论文精读 | - | - | 10:30 | [link](https://www.bilibili.com/video/BV14AnVznEMp) |
+| 2766 | 华人团队再登《Nature》！光学AI生成模型【论文精读】 | - | AI 论文精读 | - | - | 8:29 | [link](https://www.bilibili.com/video/BV1gh4Uz6Exo) |
+| 2767 | 砍掉90% Token！源神要颠覆大模型训练范式？ | - | AI 论文精读 | - | - | 10:58 | [link](https://www.bilibili.com/video/BV1BCszzXEFa) |
+| 2768 | “LoRA已死，果蝇称王”——FlyLoRA【论文精读】 | - | AI 论文精读 | - | - | 12:46 | [link](https://www.bilibili.com/video/BV1qaCTBdETG) |
+| 2769 | 打脸主流！大道至简！何恺明新作：JiT【论文精读】 | - | AI 论文精读 | - | - | 11:17 | [link](https://www.bilibili.com/video/BV1MJyMBmEcu) |
+| 2770 | 何恺明进军《行测》领域！/ AI已超人类平均水平！？VARC【论文精读】 | - | AI 论文精读 | - | - | 13:16 | [link](https://www.bilibili.com/video/BV1T5zzB9ERZ) |
+| 2771 | Kimi K2.5: Visual Agentic Intelligence【论文精读】 | - | AI 论文精读 | - | - | 7:56 | [link](https://www.bilibili.com/video/BV1NoZCBjEZY) |
+| 2772 | 颠覆10年共识！马斯克叹服！Kimi：AttnRes【论文精读】 | - | AI 论文精读 | - | - | 8:30 | [link](https://www.bilibili.com/video/BV1tuwezwEi7) |
+| 2773 | 【硬核科普】什么是AI大模型的“可解释性”？ | - | AI 论文精读 | - | - | 7:33 | [link](https://www.bilibili.com/video/BV1cbXWBKEMd) |
+| 2774 | ICLR "神作"！文言文「硬控」全网大模型，100%越狱！ | - | AI 论文精读 | - | - | 6:18 | [link](https://www.bilibili.com/video/BV1Jb9EB9Evj) |
+| 2775 | 你的ViT一直在用背景做分类！/ LaSt-ViT【CVPR'26】 | - | AI 论文精读 | - | - | 7:40 | [link](https://www.bilibili.com/video/BV1onQEBGE4r) |
+| 2776 | 【论文精读】国运之争！深度剖析《2026斯坦福AI报告》 | - | AI 论文精读 | - | - | 9:42 | [link](https://www.bilibili.com/video/BV1xgoHBLEjd) |
+| 2777 | 真王回归！！！DeepSeek系列最全回顾！无缝衔接V4！ | - | AI 论文精读 | - | - | 22:11 | [link](https://www.bilibili.com/video/BV1FWoGByEyU) |
+| 2778 | 我受够了Transformer！连续思维机器: CTM【论文精读】 | - | AI 论文精读 | - | - | 7:25 | [link](https://www.bilibili.com/video/BV19F5d6DEpq) |
+| 2779 | 彻底取代VAE！训练速度提升1000%！RAEv2【论文精读】 | - | AI 论文精读 | - | - | 15:09 | [link](https://www.bilibili.com/video/BV1VSV961Eq5) |
+| 2780 | 何恺明&谢赛宁署名！谷歌：Vision Banana【论文精读】 | - | AI 论文精读 | - | - | 12:17 | [link](https://www.bilibili.com/video/BV1ChEu6mEgU) |
+| 2781 | CVPR'26 最佳学生论文提名！ChordEdit【论文精读】 | - | AI 论文精读 | - | - | 9:22 | [link](https://www.bilibili.com/video/BV1h8Jc6gEe7) |
+| 2782 | 比肩Claude！国产第一回归！GLM-5.2【论文精读】 | - | AI 论文精读 | [2603.12201](https://arxiv.org/abs/2603.12201) | [z.ai](https://z.ai/blog/glm-5.2) [zhipuai.cn](https://www.zhipuai.cn/zh/research/159) [lmsys.org](https://www.lmsys.org/blog/2026-04-10-sglang-hisparse/) | 7:38 | [link](https://www.bilibili.com/video/BV1awjw6qEog) |
+| 2783 | CVPR 2026最佳论文提名/ Mapping Networks【论文精读】 | - | AI 论文精读 | [2602.19134](https://arxiv.org/abs/2602.19134) | - | 10:51 | [link](https://www.bilibili.com/video/BV13s786JEaz) |
+| 2784 | 梁圣亲自挂帅！V4超级Buff全解析！DSpark【论文精读】 | - | AI 论文精读 | - | [github.com](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | 10:40 | [link](https://www.bilibili.com/video/BV1UhTu6tEKs) |
+| 2785 | AI意识诞生前夜！证实Claude存在意识层：J-Space | - | AI 论文精读 | - | - | 8:22 | [link](https://www.bilibili.com/video/BV1JnMG6dEbi) |
+| 2786 | 你真的懂Scaling Law吗？一口气搞懂AI的“缩放定律”！ | - | AI 论文精读 | - | - | 15:10 | [link](https://www.bilibili.com/video/BV1aa3b6PE7h) |
+| 2787 | 仅720美元，破解顶级大模型的加密机制！ | - | AI 论文精读 | - | - | 7:05 | [link](https://www.bilibili.com/video/BV1VAgJ6uEs2) |
+| 2788 | 大佬集体押注物理AI！深度解析《物理AI与世界模型》！ | - | AI 论文精读 | - | - | 9:59 | [link](https://www.bilibili.com/video/BV1hX836hEpP) |
+| 2789 | 开源第一！把后训练做到极致！GLM-5.3【论文精读】 | - | AI 论文精读 | - | [z.ai](https://z.ai/blog/glm-5.3) | 9:11 | [link](https://www.bilibili.com/video/BV1Qa8c6NE7A) |
+| 2790 | 1步反超250步！扔掉扩散模型！Drifting【论文精读】 | - | AI 论文精读 | [2602.04770](https://arxiv.org/abs/2602.04770) | - | 11:38 | [link](https://www.bilibili.com/video/BV1PW4o6MEtn) |
+| 2791 | 提速32倍！何恺明语言模型处女作！ELF【论文精读】 | - | AI 论文精读 | - | [github.com](https://github.com/lillian039/ELF) | 11:39 | [link](https://www.bilibili.com/video/BV1sGbH61EBf) |
+| 2792 | 不训一个参数！准实时强化学习：JitRL【论文精读】 | - | AI 论文精读 | [2601.18510](https://arxiv.org/abs/2601.18510) | - | 10:05 | [link](https://www.bilibili.com/video/BV1rtHW6oEGw) |
+| 2793 | 22位巨头重磅联名！当AI开始自我进化，我们的时间还剩多少？ | - | AI 论文精读 | [2609.36054](https://arxiv.org/abs/2609.36054) | - | 11:34 | [link](https://www.bilibili.com/video/BV1uLpR6wES4) |
+| 2794 | 中国AI基建全球领跑！这回真的遥遥领先了...【业界前沿】 | - | AI 论文精读 | - | - | 5:34 | [link](https://www.bilibili.com/video/BV1LPhYzmE4z) |
+| 2795 | 参数超10000亿！国产最强大模型Qwen3-max发布！【业界前沿】 | - | AI 论文精读 | - | - | 3:46 | [link](https://www.bilibili.com/video/BV1BBJSzuEs2) |
+| 2796 | 李飞飞万字长文爆了！定义AI下一个十年！ | - | AI 论文精读 | - | [drfeifei.substack.com](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) | 6:37 | [link](https://www.bilibili.com/video/BV14gkyBkEm6) |
+| 2797 | 华人团队重铸AI硬件新范式！光帆 Lightwear【业界前沿】 | - | AI 论文精读 | - | - | 5:15 | [link](https://www.bilibili.com/video/BV1giBVBSEMj) |
+| 2798 | 上线即破3000万月活！中美健康大模型哪家强？ | - | AI 论文精读 | - | - | 2:17 | [link](https://www.bilibili.com/video/BV1bYr8BqEsz) |
+| 2799 | 用过去十年25万篇论文！看懂AI下一个十年！ | - | AI 论文精读 | - | - | 7:36 | [link](https://www.bilibili.com/video/BV1ZwkTBpEsx) |
+| 2800 | 爆火Moltbook一夜塌房！狂刷50万假Clawdbot【业界前沿】 | - | AI 论文精读 | - | - | 6:18 | [link](https://www.bilibili.com/video/BV1ZzFNzcEkF) |
+| 2801 | 影视飓风夸爆的Seedance是如何实现的?【技术拆解】 | - | AI 论文精读 | - | - | 5:35 | [link](https://www.bilibili.com/video/BV1ywcgzREmx) |
+| 2802 | Seedance 2.0已成过去式？实时世界模型来了！ | - | AI 论文精读 | - | - | 6:05 | [link](https://www.bilibili.com/video/BV15VcLzXE6m) |
+| 2803 | 千问3.5重磅开源！性能比肩Gemini3，成本仅为1/18 | - | AI 论文精读 | - | - | 4:30 | [link](https://www.bilibili.com/video/BV1aoZKBDEa2) |
+| 2804 | 史上最疯狂的科研直播！学术终结者“FARS”杀疯了！ | - | AI 论文精读 | - | - | 8:33 | [link](https://www.bilibili.com/video/BV1VnftBSE8V) |
+| 2805 | 【龙虾测评】一口气拆解OpenClaw/QClaw/CoPaw/AutoClaw... | - | AI 论文精读 | - | - | 10:59 | [link](https://www.bilibili.com/video/BV1a8wtzWEtQ) |
+| 2806 | 断档第一！对标Claude Opus 4.6，GLM 5.1杀疯了！ | - | AI 论文精读 | - | - | 5:13 | [link](https://www.bilibili.com/video/BV1D1DrB8Eya) |
+| 2807 | Hermes爆火背后“中国模型”！MiniMax M2.7能力全解析！ | - | AI 论文精读 | - | - | 5:25 | [link](https://www.bilibili.com/video/BV1K5o5BbEQp) |
+| 2808 | 【云组会】为什么说浏览器一定不会被AI取代？ | - | AI 论文精读 | - | - | 4:04 | [link](https://www.bilibili.com/video/BV18V9aBGEdU) |
+| 2809 | 算力无限时代！我用Mavis，控制Agent军团！ | - | AI 论文精读 | - | - | 5:13 | [link](https://www.bilibili.com/video/BV1g7L16pEZg) |
+| 2810 | 大语言模型已成过去式？今年智源大会释放3大关键信号！ | - | AI 论文精读 | - | - | 4:51 | [link](https://www.bilibili.com/video/BV1HPjc67E5p) |
+| 2811 | 匿名杀进全球前三！LongCat-2.0：纯国产卡训出万亿模型 | - | AI 论文精读 | - | [longcat.ai](https://longcat.ai/blog/longcat-2.0/) [huggingface.co](https://huggingface.co/meituan-longcat/LongCat-2.0) [github.com](https://github.com/meituan-longcat/LongCat-2.0) | 5:31 | [link](https://www.bilibili.com/video/BV1kcNQ6wEzc) |
+| 2812 | 国产荣光！全球最大的开源模型！KimiK3【深度解析】 | - | AI 论文精读 | - | [kimi.com](https://www.kimi.com/blog/kimi-k3) [kimi.com](https://www.kimi.com/blog/perception-bench) | 6:39 | [link](https://www.bilibili.com/video/BV1pTNd6CEqa) |
+| 2813 | 还记得稚晖君和智元吗？这次他们整了个“大活”！ | - | AI 论文精读 | - | - | 6:26 | [link](https://www.bilibili.com/video/BV1RAuP6FEZc) |
+| 2814 | 视频界的Codex来了！AI短片生成迎来革命！ | - | AI 论文精读 | - | - | 6:18 | [link](https://www.bilibili.com/video/BV1fYui6ZE21) |
+| 2815 | 再见Claude Code！你好DeepSeek Harness！ | - | AI 论文精读 | - | - | 4:45 | [link](https://www.bilibili.com/video/BV1wugF6YEL3) |
+| 2816 | 奥特曼改口、黄仁勋泼冷水：大佬们最近在暗示同一件事！ | - | AI 论文精读 | - | - | 5:06 | [link](https://www.bilibili.com/video/BV1nAbe6gE6A) |
+| 2817 | 快GPT 200倍的Jev到底抄没抄？我扒开了Laya背后的论文 | - | AI 论文精读 | - | [github.com](https://github.com/NandhaKishorM/laya) [huggingface.co](https://huggingface.co/convaiinnovations/laya) | 8:26 | [link](https://www.bilibili.com/video/BV1Vsaw62ERa) |
+| 2818 | 【AI大学习】什么是计算机视觉？ | - | AI 论文精读 | - | - | 12:03 | [link](https://www.bilibili.com/video/BV1X3Kh6oE5U) |
+| 2819 | DeepSeek开源周：其团队已具备驱动定制能力 | - | AI 论文精读 | - | - | 5:26 | [link](https://www.bilibili.com/video/BV12bPveyEAW) |
+| 2820 | NotebookLM使用经验分享｜手把手教学｜AI如何制作PPT｜拒绝模版化PPT | - | AI 论文精读 | - | [ncnsy3q858ov.feishu.cn](https://ncnsy3q858ov.feishu.cn/wiki/LC0swijPJiNK3tktVYUc4uYTnzb?from=from_copylink) | 9:03 | [link](https://www.bilibili.com/video/BV1etXsBREMj) |
+| 2821 | 🔥2026年5月最新！Codex从零安装到实战：手搓PPT+高颜值网页【保姆级】 | - | AI 论文精读 | - | - | 10:40 | [link](https://www.bilibili.com/video/BV1175y6zE1Z) |
+| 2822 | Openclaw的部署与常见应用｜20260311 | - | AI 论文精读 | - | - | 22:26 | [link](https://www.bilibili.com/video/BV1vB5k67E7D) |
+| 2823 | Codex桌面版科研应用｜文档办公｜学术写作｜设计绘图｜基础/Skill/工作流全解析 | - | AI 论文精读 | - | - | 15:51 | [link](https://www.bilibili.com/video/BV1kHLU6jEoi) |
+| 2824 | 【前沿技术体验】Jev实测：System One低延迟决策模型 | - | AI 论文精读 | - | [typesafe.ai](https://typesafe.ai/blog/introducing-system-one-models-and-jev) [typesafe.ai](https://typesafe.ai/) [docs.typesafe.ai](https://docs.typesafe.ai/introduction) | 7:19 | [link](https://www.bilibili.com/video/BV1nLH46YE5f) |
+| 2825 | 具身智能入门科普01：机器人学习 vs. 常规机器学习｜状态空间与观测空间：从全知到受限｜动作空间与控制模式｜行为克隆的核心问题｜Action Chunking | - | AI 论文精读 | - | - | 61:23 | [link](https://www.bilibili.com/video/BV1TAbS6xELE) |
+| 2826 | 具身智能入门科普02：从VLM到VLA--OpenVLA、Octo与π₀具身智能架构解析 | - | AI 论文精读 | - | - | 44:33 | [link](https://www.bilibili.com/video/BV15q8t62EzR) |
+| 2827 | 具身智能入门科普3: 世界模型与世界动作模型；世界模型如何驱动机器人？UniPi、V-JEPA 2 与 DreamZero | - | AI 论文精读 | [2302.00111](https://arxiv.org/abs/2302.00111) | [haoyi-duan.github.io](https://haoyi-duan.github.io/WorldScore/) [proceedings.mlr.press](https://proceedings.mlr.press/v267/qin25f.html) | 89:59 | [link](https://www.bilibili.com/video/BV1Kitt68EyE) |
+| 2828 | 具身智能入门科普4: 具身推理｜具身智能为什么需要记忆？长程任务规划 × Agent Memory | - | AI 论文精读 | - | - | 32:50 | [link](https://www.bilibili.com/video/BV1ZJbL61Ept) |
+| 2829 | 具身智能（Embodied AI）入门级别介绍 ｜具身智能与VLA: 构建可交互的未来 | - | AI 论文精读 | - | - | 22:31 | [link](https://www.bilibili.com/video/BV1Ba6RBnECT) |
+| 2830 | CVPR'26 MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agent | - | AI 论文精读 | [2511.23055](https://arxiv.org/abs/2511.23055) | - | 15:23 | [link](https://www.bilibili.com/video/BV1XpRdBjEhp) |
+| 2831 | 具身智能系列论文报告 ｜π₀: A Vision-Language-Action Flow Model for General Robot Control | - | AI 论文精读 | [2410.24164](https://arxiv.org/abs/2410.24164) | - | 35:06 | [link](https://www.bilibili.com/video/BV11E6RBFEZM) |
+| 2832 | Act2Goal: From World Model To GeneralGoal-conditioned Policy论文报告 | - | AI 论文精读 | [2512.23541](https://arxiv.org/abs/2512.23541) | - | 8:47 | [link](https://www.bilibili.com/video/BV13BRXBzES3) |
+| 2833 | ICML 2026 / World-R1: Reinforcing 3D Constraints for Text-to-Video Generation | - | AI 论文精读 | [2604.24764](https://arxiv.org/abs/2604.24764) | - | 19:41 | [link](https://www.bilibili.com/video/BV1j9GQ63Efm) |
+| 2834 | 大模型能帮你找到钥匙吗？PinpointQA：挑战室内小物体精准定位｜ECCV 2026 Workshop | - | AI 论文精读 | [2604.08991](https://arxiv.org/abs/2604.08991) | [rainchowz.github.io](https://rainchowz.github.io/PinpointQA/) [mp.weixin.qq.com](https://mp.weixin.qq.com/s/siHZpy3AkU8LNDsESd1o6g) | 36:21 | [link](https://www.bilibili.com/video/BV1WVRXBdE2F) |
+| 2835 | OrbiSim:World Models as Differentiable Physics Engines for  Embodied Intelligenc | - | AI 论文精读 | - | - | 19:23 | [link](https://www.bilibili.com/video/BV14YGQ6REQR) |
+| 2836 | 【具身智能】让机器人自己发现并修复不可执行任务｜FATE 闭环任务生成 | - | AI 论文精读 | - | - | 20:10 | [link](https://www.bilibili.com/video/BV15c4R6LEqh) |
+| 2837 | 【论文精读】机器人如何跟上人的节奏？基于视线与认知负荷的自适应调速 | - | AI 论文精读 | - | - | 22:56 | [link](https://www.bilibili.com/video/BV1g1ti6xELC) |
+| 2838 | 手把手带你读论文&报告论文&完整CVPR论文示范｜科研常识科普系列 | - | AI 论文精读 | - | - | 83:27 | [link](https://www.bilibili.com/video/BV1gAiUBGEow) |
+| 2839 | 面向科研小白的多模态大模型简介｜暑期科研训练录制视频 | - | AI 论文精读 | - | - | 55:42 | [link](https://www.bilibili.com/video/BV1trk4BtE5p) |
+| 2840 | 面向科研小白的生成式AI简介｜扩散模型科研｜暑期科研训练录制视频 | - | AI 论文精读 | - | - | 38:51 | [link](https://www.bilibili.com/video/BV11Pk4BXEeJ) |
+| 2841 | Vibe Coding手把手教学｜科研常识科普系列 | - | AI 论文精读 | - | - | 72:28 | [link](https://www.bilibili.com/video/BV1fn6UBeExx) |
+| 2842 | AutoDL科研实战：GPU云端环境配置与AI自动编程调试全流程 | - | AI 论文精读 | - | - | 12:57 | [link](https://www.bilibili.com/video/BV1an846BEP5) |
+| 2843 | 从论文到可运行 Baseline：Olaf-World 代码复现全流程｜AutoDL 实战 | - | AI 论文精读 | - | - | 15:36 | [link](https://www.bilibili.com/video/BV1ZJbL61EhM) |
+| 2844 | 【1/4】计算机视觉基础知识点讲解：图像张量表示与分类任务、传统分类算法原理、KNN、Softmax、梯度下降、正则化 | - | AI 论文精读 | - | - | 37:44 | [link](https://www.bilibili.com/video/BV1rwgN6kE19) |
+| 2845 | 【2/4】计算机视觉基础-从反向传播到ResNet：神经网络与CNN核心原理系统讲解 | - | AI 论文精读 | - | - | 46:35 | [link](https://www.bilibili.com/video/BV1WE8t6fEgg) |
+| 2846 | 【3/4】计算机视觉基础：目标检测与图像分割 | - | AI 论文精读 | [1311.2524](https://arxiv.org/abs/1311.2524) | - | 58:56 | [link](https://www.bilibili.com/video/BV14itt68EdN) |
+| 2847 | 【科研入门】自监督与对比学习：串起 MAE、SimCLR、MoCo、DINO 和 CLIP | - | AI 论文精读 | - | - | 68:26 | [link](https://www.bilibili.com/video/BV136ti6fEed) |
+| 2848 | 【1/4】生成模型基础知识点讲解 | - | AI 论文精读 | - | - | 17:21 | [link](https://www.bilibili.com/video/BV1kwgN6kEM5) |
+| 2849 | 【2/4】从Next Token Prediction到LoRA：自回归模型与Transformer原理详解 | - | AI 论文精读 | - | - | 19:54 | [link](https://www.bilibili.com/video/BV1an846BEPE) |
+| 2850 | 多模态情感计算：从情绪识别到情感推理综述报告 | - | AI 论文精读 | - | - | 37:01 | [link](https://www.bilibili.com/video/BV17HRDBkEmL) |
+| 2851 | 【CVPR 2026】2.2B 小模型也能理解情绪并产生共情？｜Nano-EmoX 论文精读 | - | AI 论文精读 | - | - | 27:08 | [link](https://www.bilibili.com/video/BV1gM4R66Et3) |
+| 2852 | AI也有“读心术”？ICLR 2026新作：用ToM教模型真正理解情感 | - | AI 论文精读 | - | - | 13:04 | [link](https://www.bilibili.com/video/BV1g1Lx6aEzp) |
+| 2853 | CVPR 2026 / EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning | - | AI 论文精读 | [2602.23802](https://arxiv.org/abs/2602.23802) | - | 14:04 | [link](https://www.bilibili.com/video/BV17SXEBjEiX) |
+| 2854 | CVPR 2026 / EmoStyle: Emotion-Driven Image Stylization | - | AI 论文精读 | [2512.05478](https://arxiv.org/abs/2512.05478) | - | 22:28 | [link](https://www.bilibili.com/video/BV1HxXHB8EUA) |
+| 2855 | 【论文精读】大模型能当“共情裁判”吗？可靠性、专家一致性与评价偏差 | - | AI 论文精读 | - | - | 27:49 | [link](https://www.bilibili.com/video/BV1u1ti6xEzq) |
+| 2856 | ✨ 告别OLAT！CVPR 2026最佳候选：稀疏视角下的动态人物重光照技术 | - | AI 论文精读 | - | [openaccess.thecvf.com](https://openaccess.thecvf.com/content/CVPR2026/html/Singh_Relightable_Holoported_Characters_Capturing_and_Relighting_Dynamic_Human_Performance_from_CVPR_2026_paper.html) [vcai.mpi-inf.mpg.de](https://vcai.mpi-inf.mpg.de/projects/RHC/) | 18:42 | [link](https://www.bilibili.com/video/BV1cwgN6CEDg) |
+| 2857 | 【CVPR 2025】SynthLight：用126万张合成人脸训练人像重打光模型 | - | AI 论文精读 | - | - | 17:23 | [link](https://www.bilibili.com/video/BV1PE8t6fEMR) |
+| 2858 | Learning-based Human Relighting: A Survey (1/3) ｜ACM Computing Survey | - | AI 论文精读 | - | - | 14:41 | [link](https://www.bilibili.com/video/BV1KjzqByE1Q) |
+| 2859 | 人脸重打光论文介绍｜DiFaReli: Diffusion Face Relighting / ICCV 2023 | - | AI 论文精读 | - | - | 13:49 | [link](https://www.bilibili.com/video/BV1nKk3BTEf7) |
+| 2860 | POLAR: A Portrait OLAT Dataset and Generative Framework for  Illumination-Aware | - | AI 论文精读 | - | - | 16:05 | [link](https://www.bilibili.com/video/BV1KJ5y6uEsh) |
+| 2861 | 【CVPR 2025】一张 HDR 环境图，重塑整段人像视频光影｜Lux Post Facto | - | AI 论文精读 | - | - | 13:33 | [link](https://www.bilibili.com/video/BV1SM4R6zEvZ) |
+| 2862 | 【论文精读】GeoRelight：一张人像，如何联合重建三维几何与重光照？ | - | AI 论文精读 | - | - | 16:14 | [link](https://www.bilibili.com/video/BV1u1ti6xEsT) |
+| 2863 | 【科研入门】扩散模型基础｜ LDM、Score Matching、Classifier Guidance、Classifier-Free Guidance | - | AI 论文精读 | [2006.11239](https://arxiv.org/abs/2006.11239) | - | 25:06 | [link](https://www.bilibili.com/video/BV1Titt68EsZ) |
+| 2864 | 【科研入门】Flow Matching 在学什么？从 ODE、条件流匹配到 Rectified Flow | - | AI 论文精读 | - | - | 23:11 | [link](https://www.bilibili.com/video/BV1G6ti6fExr) |
+| 2865 | 扩散模型（Diffusion Model）入门级别介绍 | - | AI 论文精读 | - | - | 65:12 | [link](https://www.bilibili.com/video/BV1zurDBCEoS) |
+| 2866 | 图像生成系列论文｜Can We Generate Images with COT? | - | AI 论文精读 | - | - | 14:25 | [link](https://www.bilibili.com/video/BV1XD6fB9EQj) |
+| 2867 | 生成理解一体模型 ｜Unified Multimodal Understanding and Generation Models: Advances, C | - | AI 论文精读 | [2505.02567](https://arxiv.org/abs/2505.02567) | - | 26:12 | [link](https://www.bilibili.com/video/BV1SXXWBUEdL) |
+| 2868 | Color Alignment in Diffusion ｜CVPR 2025 | - | AI 论文精读 | - | [openaccess.thecvf.com](https://www.openaccess.thecvf.com/content/CVPR2025/html/Shum_Color_Alignment_in_Diffusion_CVPR_2025_paper.html) | 15:57 | [link](https://www.bilibili.com/video/BV1kwgN6kETK) |
+| 2869 | 【CVPR 2025】WeGen：让多模态模型同时实现理解、生成与身份保持 | - | AI 论文精读 | - | - | 15:56 | [link](https://www.bilibili.com/video/BV1XJ846uE51) |
+| 2870 | 【CVPR 2026】AI 图像为什么“太鲜艳反而不真实”？｜生成图像颜色真实性评测 | - | AI 论文精读 | - | - | 16:58 | [link](https://www.bilibili.com/video/BV1gM4R66EEa) |
+| 2871 | 【论文精读】CDG：弱化文本条件，为什么反而能让扩散模型更听话？ | - | AI 论文精读 | - | - | 21:20 | [link](https://www.bilibili.com/video/BV136ti6fEef) |
+| 2872 | 科普｜GRPO的前世今生简介 | - | AI 论文精读 | - | - | 14:48 | [link](https://www.bilibili.com/video/BV1VT6oBjEsj) |
+| 2873 | 大模型推理论文报告｜GRPO的原论文DeepSeekMath详细介绍 | - | AI 论文精读 | - | - | 19:51 | [link](https://www.bilibili.com/video/BV1Dg6oBVEU5) |
+| 2874 | 大模型推理论文报告｜GRPO改进工作介绍｜2-GRPO｜DaGRPO | - | AI 论文精读 | [2510.00977](https://arxiv.org/abs/2510.00977) | - | 27:16 | [link](https://www.bilibili.com/video/BV1AAzPBLELY) |
+| 2875 | 大模型推理论文报告｜Video-R1: Reinforcing Video Reasoning in MLLMs | - | AI 论文精读 | [2503.21776](https://arxiv.org/abs/2503.21776) | - | 12:23 | [link](https://www.bilibili.com/video/BV1pargBiEXw) |
+| 2876 | 大模型推理论文报告｜Does Reinforcement Learning Really Incentivize Reasoning Capacity? | - | AI 论文精读 | [2504.13837](https://arxiv.org/abs/2504.13837) | - | 26:11 | [link](https://www.bilibili.com/video/BV1dbr3B4EJF) |
+| 2877 | 大模型推理论文报告｜GRPO的原论文DeepSeekMath详细介绍 | - | AI 论文精读 | - | - | 37:31 | [link](https://www.bilibili.com/video/BV1RQZ4ByEzm) |
+| 2878 | 大模型高效推理系列论文报告 ｜Efficient Reasoning Models: A Survey（1/3） | - | AI 论文精读 | [2504.10903](https://arxiv.org/abs/2504.10903) | - | 17:37 | [link](https://www.bilibili.com/video/BV1cC6QBjE76) |
+| 2879 | CVPR 2026 / VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twic | - | AI 论文精读 | [2601.05175](https://arxiv.org/abs/2601.05175) | - | 12:17 | [link](https://www.bilibili.com/video/BV1KwXsBCEmt) |
+| 2880 | 🤯GRPO实战中遇到的坑｜实验经验分享｜避开Reward Hacking的5个关键Round~ | - | AI 论文精读 | - | [dcngcpwqe5y8.feishu.cn](https://dcngcpwqe5y8.feishu.cn/wiki/Ta1qwpaf1iB0eRkUg0RcgVKonWe) | 28:45 | [link](https://www.bilibili.com/video/BV1hFRXBvEj6) |
+| 2881 | CVPR’26 APP: Attention Guided Perception Policy Optimization for Video Reasoning | - | AI 论文精读 | - | - | 24:54 | [link](https://www.bilibili.com/video/BV1UW5D6fEH4) |
+| 2882 | Memory in the Age of AI Agents: A Survey | - | AI 论文精读 | [2512.13564](https://arxiv.org/abs/2512.13564) | - | 66:00 | [link](https://www.bilibili.com/video/BV1WLRXBsEgo) |
+| 2883 | 大模型推理系列论文报告 ｜The Landscape of Agentic RL for LLMs: A Survey（4/4）｜当前挑战和未来发展方向 | - | AI 论文精读 | - | - | 19:54 | [link](https://www.bilibili.com/video/BV1cv6mBKEpH) |
+| 2884 | 大模型推理系列论文报告 ｜The Landscape of Agentic RL for LLMs: A Survey（3/4）｜不同Agent类型介绍 | - | AI 论文精读 | - | - | 23:30 | [link](https://www.bilibili.com/video/BV1DgqPBQEEj) |
+| 2885 | 大模型推理系列论文报告 ｜The Landscape of Agentic RL for LLMs: A Survey（2/4）/ Agentic RL的六大模 | - | AI 论文精读 | - | - | 32:10 | [link](https://www.bilibili.com/video/BV1ULqPBEEvm) |
+| 2886 | 大模型推理系列论文报告 ｜The Landscape of Agentic RL for LLMs: A Survey（1/4）｜什么是Agentic RL？ | - | AI 论文精读 | - | - | 23:21 | [link](https://www.bilibili.com/video/BV1BqqPBPEbb) |
+| 2887 | [概率 & 统计] KL 散度（KL div）forward vs. reverse | - | AI 论文精读 | - | - | 11:03 | [link](https://www.bilibili.com/video/BV1cT42127wg) |
+| 2888 | 179. 如何用高中导数证明 KL 散度非负？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:39 | [link](https://www.bilibili.com/video/BV1GEKG6uEgV) |
+| 2889 | 116. 如何从动态规划和记忆化搜索理解DQN？【每天一个宝藏问题】 | - | AI 论文精读 | - | - | 3:39 | [link](https://www.bilibili.com/video/BV1ygRXBZEQf) |
 
 ## Per entry
 
@@ -4670,7 +4975,6 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 - **图层IR(Graph IR)是什么？AI编译器如何接收图层IR进行优化呢？【AI编译器】系列之前端优化第02篇** - [B station](https://www.bilibili.com/video/BV1kV4y1w72W)
 - **算子融合了解下！AI编译器如何实现算子融合的？【AI编译器】系列之前端优化第03篇** - [B station](https://www.bilibili.com/video/BV1P24y1D7RV)
 - **编译器为什么要对数据布局转换呢 Layout Transformations？【AI编译器】系列之前端优化第04篇(上)** - [B station](https://www.bilibili.com/video/BV1xK411z7Uw)
-- **[概率 & 统计] KL 散度（KL div）forward vs. reverse** - [B station](https://www.bilibili.com/video/BV1cT42127wg)
 - **详解AI编译器数据布局转换方法！华为昇腾处理器的数据布局格式！【AI编译器】系列之前端优化第04篇(下)** - [B station](https://www.bilibili.com/video/BV1gd4y1Y7dc)
 - **AI编译器内存优化算法！动态内存和静态内存区别！【AI编译器】前端优化第05篇** - [B station](https://www.bilibili.com/video/BV1nM411879s)
 - **常量折叠原理！AI编译器常量折叠跟传统编译器什么关系？计算图也需要常量折叠！【AI编译器】系列之前端优化第06篇** - [B station](https://www.bilibili.com/video/BV1P8411W7dY)
@@ -4740,210 +5044,210 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 - **亲自撸一个正向自动微分的AI框架！【自动微分】系列第五篇** - [B station](https://www.bilibili.com/video/BV1Ne4y1p7WU)
 - **手把手实现一个PyTorch！实现PyTorch核心自动微分！【自动微分】系列第六篇** - [B station](https://www.bilibili.com/video/BV1ae4y1z7E6)
 - **自动微分挑战和未来！自动微分易用性和性能应该如何兼容？可微编程是否未来？【自动微分】系列第七篇** - [B station](https://www.bilibili.com/video/BV17e4y1z73W)
-- **[2] 读上月新鲜出炉的综述：大模型写算子【每周一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1XcfBBGEUw)
-- **[4] 大模型写算子：一篇综述+2个数据集【每周一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1pJA6zkEH4)
+- **[2] 读上月新鲜出炉的综述：大模型写算子【每周一个宝藏论文】** - [arXiv:2601.15727](https://arxiv.org/abs/2601.15727) | [arxiv.org](https://arxiv.org/abs/2601.15727) | [arxiv.org](https://arxiv.org/abs/2502.14752) | [B station](https://www.bilibili.com/video/BV1XcfBBGEUw)
+- **[4] 大模型写算子：一篇综述+2个数据集【每周一个宝藏论文】** - [arXiv:2601.15727](https://arxiv.org/abs/2601.15727) | [arxiv.org](https://arxiv.org/abs/2601.15727) | [arxiv.org](https://arxiv.org/abs/2502.10517) | [arxiv.org](https://arxiv.org/abs/2506.20938) | [B station](https://www.bilibili.com/video/BV1pJA6zkEH4)
 - **[6] Agent写算子：读三个Agent写算子的论文【每周一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1HVPkzEEx9)
 - **[8] 读三个强化学习写算子的论文【每周一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1fVckzqE1S)
-- **［10］大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1M8QUBUESz)
-- **［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1B997BmEGr)
-- **[14] AWQ：大语言模型量化论文解读 【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1RuoFBvEm8)
-- **[16] LLM.int8()：大模型量化论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1BeoNB9EQP)
-- **[18] SmoothQuant：大模型量化论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1CkoPBbEyB)
-- **[28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1bJd2BHEeb)
-- **[29] GPTQ：大模型量化论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Y3d2BoELh)
-- **[31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV129ReB1EiW)
-- **[44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1t1RrBNEEt)
-- **[107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1rtME6LEfy)
-- **[163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV16ath6fEA4)
-- **[178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1jvep67Eoa)
-- **[180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1TdhB6MEm7)
-- **[15] PagedAttention：vLLM论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1xJoNBPEqe)
-- **[17] FlashAttention-1论文解读 【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1XPoNB5EQy)
-- **[24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV18Ud6BME78)
-- **[20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1V6d6BCEzJ)
-- **[21] 在线softmax：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Qkd6B3EUe)
-- **[22] FlashAttention-V2：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1yfd6B8E37)
-- **[23] flash-attention-v3：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1yZd6BcE3b)
-- **[26] GQA：分组查询注意力论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Bcd2BeEVv)
-- **[27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1hjd2BWEGS)
-- **[43]. MQA：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1m1RrBNEmy)
-- **[79]. FlashAttention-4：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1q6Js6DEwE)
-- **[99]. Medusa：投机解码和树形注意力论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1NsKQ6zENp)
-- **[98]. TurboQuant：KV Cache量化论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV11sKQ6zEFj)
-- **[101]. H2O：KV缓存压缩论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1ktTc6tEce)
-- **[100]. FlashDecoding的改进：FlashDecoding++论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1rtTc6tEen)
-- **[110]. EAGLE：投机解码论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1BZMJ6CEa6)
-- **[116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1SCK36PEGX)
-- **[179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1GueP6pE7P)
-- **[25] QLora：大模型量化微调论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1CFdrBfE2D)
-- **[152]. Distilling the Knowledge：知识蒸馏奠基之作，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1cK8h6vEVW)
+- **［10］大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】** - [arXiv:2601.00227](https://arxiv.org/abs/2601.00227) | [arxiv.org](https://arxiv.org/abs/2601.00227v1) | [arxiv.org](https://arxiv.org/pdf/2509.14279) | [B station](https://www.bilibili.com/video/BV1M8QUBUESz)
+- **［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】** - [arXiv:2510.12872](https://arxiv.org/abs/2510.12872) | [arxiv.org](https://arxiv.org/abs/2510.12872) | [arxiv.org](https://arxiv.org/abs/2510.03215) | [B station](https://www.bilibili.com/video/BV1B997BmEGr)
+- **[14] AWQ：大语言模型量化论文解读 【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1RuoFBvEm8)
+- **[16] LLM.int8()：大模型量化论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1BeoNB9EQP)
+- **[18] SmoothQuant：大模型量化论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1CkoPBbEyB)
+- **[28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1bJd2BHEeb)
+- **[29] GPTQ：大模型量化论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Y3d2BoELh)
+- **[31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV129ReB1EiW)
+- **[44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1t1RrBNEEt)
+- **[107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1rtME6LEfy)
+- **[163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV16ath6fEA4)
+- **[178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1jvep67Eoa)
+- **[180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1TdhB6MEm7)
+- **[15] PagedAttention：vLLM论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1xJoNBPEqe)
+- **[17] FlashAttention-1论文解读 【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1XPoNB5EQy)
+- **[24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV18Ud6BME78)
+- **[20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1V6d6BCEzJ)
+- **[21] 在线softmax：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Qkd6B3EUe)
+- **[22] FlashAttention-V2：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1yfd6B8E37)
+- **[23] flash-attention-v3：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1yZd6BcE3b)
+- **[26] GQA：分组查询注意力论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Bcd2BeEVv)
+- **[27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hjd2BWEGS)
+- **[43]. MQA：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1m1RrBNEmy)
+- **[79]. FlashAttention-4：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1q6Js6DEwE)
+- **[99]. Medusa：投机解码和树形注意力论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1NsKQ6zENp)
+- **[98]. TurboQuant：KV Cache量化论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV11sKQ6zEFj)
+- **[101]. H2O：KV缓存压缩论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ktTc6tEce)
+- **[100]. FlashDecoding的改进：FlashDecoding++论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1rtTc6tEen)
+- **[110]. EAGLE：投机解码论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1BZMJ6CEa6)
+- **[116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1SCK36PEGX)
+- **[179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1GueP6pE7P)
+- **[25] QLora：大模型量化微调论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1CFdrBfE2D)
+- **[152]. Distilling the Knowledge：知识蒸馏奠基之作，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cK8h6vEVW)
 - **[19] DeepSeek-V4逐图、逐公式解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Mgo5BwEST)
-- **[30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Vgd2BtEKe)
-- **[32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV142RrBeEa3)
-- **[33]. mHC：流形约束超连接【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1m2RrBeEFS)
-- **[35]. Deepseek-Engram：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV122RrBeEfs)
-- **[37]. Adam：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV142RrBeEjQ)
-- **[40]. Transformer：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1t1RrBNEwi)
-- **[46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV14N5b6YEbf)
-- **[51]. BERT：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1fXLJ6aEZ1)
-- **[52]. GPT2：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1FXLJ6YECS)
-- **[53]. GPT3：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1FXLJ6YEh4)
-- **[56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1cQLJ6PEAs)
-- **[59]. MoE：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV17zLC68Emq)
-- **[65]. Mamba：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1uGVK6iEh2)
-- **[67]. Dropout：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1dsG26dETn)
-- **[72]. Word2Vec：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Ag7m6XERk)
-- **[82]. 思维链：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1q6Js6DEaQ)
-- **[83]. 思维树：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV176Js6DEsq)
-- **[92]. TVM：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kv7q6REVg)
-- **[93]. PyTorch_2：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kv7q6RE7a)
-- **[94]. BPE：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kv7q6REeS)
-- **[96]. Mamba_2：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Av7q6dEpF)
-- **[104]. kimi的注意力残差：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1MRME6oEhx)
-- **[105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1MRME6oE3a)
-- **[106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1MRME6oE2V)
-- **[108]. deepseek的NSA：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1HtME6LEWp)
-- **[109]. AdamW：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1eKMn6MEMr)
-- **[113]. GRU：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1LwN36uEbV)
-- **[117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1TUKp6hEi6)
-- **[119]. LookAhead：投机解码论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1hrKp6NEp3)
-- **[120]. Performer，线性注意力：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1hzKp6iE1b)
-- **[115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1uyK36eEcT)
-- **[127]. LSTM：经典重温，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Qr3y6VEt4)
-- **[129]. Muon 优化器：原始技术博客，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1hr3y6VEd6)
-- **[139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1KiuG6zE44)
-- **[133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1xBuG6MEB3)
-- **[142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1zxbY6vE5n)
-- **[144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1BxbY6vE9J)
-- **[146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1CEbY6gEHM)
-- **[148]. Diffusion LM：扩散语言模型开山之作，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1AEbY63ETH)
-- **[150]. Seq2Seq：序列到序列经典论文，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Rf8J6bEDU)
-- **[151]. Switch Transformer：稀疏专家模型，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV16K8h6eE2v)
-- **[153]. Bahdanau Attention：首次将注意力用于Seq2Seq，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1rK8h6eEGT)
-- **[154]. ZeRO：DeepSpeed 大模型显存优化，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1B38h6cEQP)
-- **[158]. Gated Attention：NeurIPS 2025 最佳论文，给注意力加个门，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1ULth66EHH)
-- **[159]. MoBA：Kimi 的稀疏注意力，NSA 姊妹篇，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1ULth66EJ8)
-- **[160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1xnth6KEFB)
-- **[165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1cqYe6QEZW)
-- **[166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1cqYe6QEZC)
-- **[167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1riYe6HEX2)
-- **[168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kiYe6HEFq)
-- **[169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1riYe6HEfk)
-- **[170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1piYe6pEcF)
-- **[171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1F6Ye6SEAe)
-- **[172]. DualKV：GRPO 里被复制 32 遍的 prompt，终于不重复算了，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1F6Ye6SEx6)
-- **[173]. Kimi_K2：万亿 MoE 开源 Agent 模型，MuonClip 稳训练，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1fwY165EtL)
-- **[174]. DeepSeek_V3_2：DSA 稀疏注意力，长上下文大幅提速，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1fwY165ES8)
-- **[175]. Qwen3：快慢思考混合推理，多尺寸模型全家桶，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1BwY165E6E)
-- **[176]. Llama_3：Meta 405B 模型群，训练全细节公开，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1fwY165EyC)
-- **[177]. MiniMax_M1：Lightning Attention 撑起百万上下文推理，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1KFe56uEqn)
-- **[181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV15rHv6mEMH)
-- **[182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV15rHv6mEjH)
-- **[183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV15rHv6mEXm)
-- **[184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV13KHv66EtS)
-- **[185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1hKHv6rEme)
-- **[186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1QKHv6rEeg)
-- **[187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV183Hv6ME7a)
-- **[188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1b3Hv6MEod)
-- **[189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1YCpE6KEW1)
-- **[190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1ZapE6kEUj)
-- **[34]. PPO：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1T2RrBvE25)
-- **[36]. DPO：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV142RrBeE8E)
-- **[38]. AlphaGo：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1t1RrBNELs)
-- **[39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1f9RxBCEyN)
-- **[41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1m1RrBNEhp)
-- **[42]. DQN：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV141RrBNEd1)
-- **[45]. AlphaZero：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1nERrB9E7d)
-- **[47]. QLearning：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV14N5b6YEbS)
-- **[48]. DAPO：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1tN5b6YEjF)
-- **[131]. A3C：首次用异步 actor-critic 把深度 RL 做稳定，是 PPO的基石，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1MYuG6rETy)
-- **[135]. TRPO：PPO的前身，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1xBuG6MEYJ)
-- **[137]. MuZero：AlphaZero 之后关键的一步：直接学一个世界模型做 MCTS，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1KBuG6MEwe)
-- **[141]. Rainbow：把 DQN 的六大改进一次拼完，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1BtbY6PEfW)
-- **[156]. UCB1：多臂老虎机，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV17MhG65E2o)
-- **[157]. GSPO：GRPO 的改进，序列级重要性采样，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1T7th6gELe)
-- **[164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1j2tG6qE5e)
-- **[49]. ResNet：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1FXLJ6YE4U)
-- **[50]. MobileNet：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1FXLJ6YExi)
-- **[54]. ViT：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1JXLJ6YE1X)
-- **[57]. CLIP：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1cQLJ6PE78)
-- **[58]. MAE：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1zGLM6cEYG)
-- **[60]. SAM：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1ktGe6NE1c)
-- **[62]. FlowMatching：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1hiGx6oExa)
-- **[63]. DETR：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1DiGx6oE4S)
-- **[64]. YOLO：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV18iGx6oEo1)
-- **[66]. DINO：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1bGVK6iEq7)
-- **[68]. EfficientNet：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1zRVE6sEmR)
-- **[69]. SwinTransformer：论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1zRVE6sEU2)
-- **[70]. UNet：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1zRVE6sEz1)
-- **[73]. FasterRCNN：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Wg7m6XEgG)
-- **[74]. VGG：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Ag7m6XEy4)
-- **[75]. GoogLeNet：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Pg7m6XEnq)
-- **[76]. VAE：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Ag7m6XEyN)
-- **[77]. DDPM：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV176Js6DEaM)
-- **[78]. CFG：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV176Js6DE5W)
-- **[81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1q6Js6DE2b)
-- **[80]. GAN：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV176Js6DEPp)
-- **[84]. WGAN：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV176Js6DELe)
-- **[85]. NCSN：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1LXjg6vEhk)
-- **[86]. DDIM：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1LXjg6vEPM)
-- **[95]. SAM_2：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kv7q6RELS)
-- **[91]. ConsistencyModels：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1wv7q6dEtL)
-- **[90]. EDM：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kv7q6REvQ)
-- **[89]. LDM：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Av7q6dEKW)
-- **[88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kv7q6REEK)
-- **[87]. ScoreSDE：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kv7q6REtL)
-- **[111]. Stable Diffusion：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV19AN36iE8n)
-- **[112]. SAM 3：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV15wN36uEXx)
-- **[114]. DiT：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1UyK36YED6)
-- **[118]. Rectified Flow：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1hrKp6NEj5)
-- **[121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Mdgh6aE5u)
-- **[122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV12Fga6fEuk)
-- **[124]. DINO v2：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1H4gh6HEdj)
-- **[125]. ControlNet：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1nB3r6UEPf)
-- **[126]. DeepSeek OCR：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1vY3y6UEaG)
-- **[128]. DINOv3：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Dr3y6GEDX)
-- **[132]. Conditional Flow Matching：条件流匹配，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1TYuG6rEX1)
-- **[143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1zxbY6vEy9)
-- **[145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1zxbY6vEgk)
-- **[147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1kEbY6gEvA)
-- **[149]. Batch Norm：批量归一化经典重温，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1ezbv6eEYm)
-- **[161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV12nth6MEaj)
-- **[162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV12nth6TEAC)
-- **[55]. ScaNN：向量检索论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1FQLJ6PESa)
-- **[61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1AtGe6KEuV)
-- **[97]. RaBitQ的改进工作：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV18e7p6FEU6)
-- **[123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Kfgh68ErF)
-- **[71]. Whisper：论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1Ag7m6XErq)
-- **[155]. CTC：语音识别的经典损失函数，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1f38h6cEcs)
-- **[102]. ReAct：Agent经典论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1FRTi6oEz2)
-- **[103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1cJTb6BE3S)
-- **[130]. App Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1mvuG6gEHj)
-- **[134]. SWE-agent：Agent处理GitHub issue的经典论文，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1xBuG6MEuX)
-- **[136]. Toolformer：大模型自发调用工具的开山之作，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1NBuG6MEiP)
-- **[138]. Voyager：Agent玩我的世界，论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1KiuG6zECG)
-- **[140]. Mobile Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】** - [B station](https://www.bilibili.com/video/BV1pPu26bEB6)
+- **[30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Vgd2BtEKe)
+- **[32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV142RrBeEa3)
+- **[33]. mHC：流形约束超连接【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1m2RrBeEFS)
+- **[35]. Deepseek-Engram：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV122RrBeEfs)
+- **[37]. Adam：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV142RrBeEjQ)
+- **[40]. Transformer：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1t1RrBNEwi)
+- **[46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV14N5b6YEbf)
+- **[51]. BERT：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1fXLJ6aEZ1)
+- **[52]. GPT2：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FXLJ6YECS)
+- **[53]. GPT3：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FXLJ6YEh4)
+- **[56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cQLJ6PEAs)
+- **[59]. MoE：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV17zLC68Emq)
+- **[65]. Mamba：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1uGVK6iEh2)
+- **[67]. Dropout：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1dsG26dETn)
+- **[72]. Word2Vec：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Ag7m6XERk)
+- **[82]. 思维链：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1q6Js6DEaQ)
+- **[83]. 思维树：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV176Js6DEsq)
+- **[92]. TVM：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kv7q6REVg)
+- **[93]. PyTorch_2：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kv7q6RE7a)
+- **[94]. BPE：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kv7q6REeS)
+- **[96]. Mamba_2：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Av7q6dEpF)
+- **[104]. kimi的注意力残差：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1MRME6oEhx)
+- **[105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1MRME6oE3a)
+- **[106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1MRME6oE2V)
+- **[108]. deepseek的NSA：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1HtME6LEWp)
+- **[109]. AdamW：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1eKMn6MEMr)
+- **[113]. GRU：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1LwN36uEbV)
+- **[117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1TUKp6hEi6)
+- **[119]. LookAhead：投机解码论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hrKp6NEp3)
+- **[120]. Performer，线性注意力：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hzKp6iE1b)
+- **[115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1uyK36eEcT)
+- **[127]. LSTM：经典重温，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Qr3y6VEt4)
+- **[129]. Muon 优化器：原始技术博客，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hr3y6VEd6)
+- **[139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1KiuG6zE44)
+- **[133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1xBuG6MEB3)
+- **[142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zxbY6vE5n)
+- **[144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1BxbY6vE9J)
+- **[146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1CEbY6gEHM)
+- **[148]. Diffusion LM：扩散语言模型开山之作，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1AEbY63ETH)
+- **[150]. Seq2Seq：序列到序列经典论文，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Rf8J6bEDU)
+- **[151]. Switch Transformer：稀疏专家模型，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV16K8h6eE2v)
+- **[153]. Bahdanau Attention：首次将注意力用于Seq2Seq，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1rK8h6eEGT)
+- **[154]. ZeRO：DeepSpeed 大模型显存优化，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1B38h6cEQP)
+- **[158]. Gated Attention：NeurIPS 2025 最佳论文，给注意力加个门，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ULth66EHH)
+- **[159]. MoBA：Kimi 的稀疏注意力，NSA 姊妹篇，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ULth66EJ8)
+- **[160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1xnth6KEFB)
+- **[165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cqYe6QEZW)
+- **[166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cqYe6QEZC)
+- **[167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1riYe6HEX2)
+- **[168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kiYe6HEFq)
+- **[169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1riYe6HEfk)
+- **[170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1piYe6pEcF)
+- **[171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1F6Ye6SEAe)
+- **[172]. DualKV：GRPO 里被复制 32 遍的 prompt，终于不重复算了，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1F6Ye6SEx6)
+- **[173]. Kimi_K2：万亿 MoE 开源 Agent 模型，MuonClip 稳训练，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1fwY165EtL)
+- **[174]. DeepSeek_V3_2：DSA 稀疏注意力，长上下文大幅提速，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1fwY165ES8)
+- **[175]. Qwen3：快慢思考混合推理，多尺寸模型全家桶，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1BwY165E6E)
+- **[176]. Llama_3：Meta 405B 模型群，训练全细节公开，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1fwY165EyC)
+- **[177]. MiniMax_M1：Lightning Attention 撑起百万上下文推理，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1KFe56uEqn)
+- **[181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV15rHv6mEMH)
+- **[182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV15rHv6mEjH)
+- **[183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV15rHv6mEXm)
+- **[184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV13KHv66EtS)
+- **[185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hKHv6rEme)
+- **[186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1QKHv6rEeg)
+- **[187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV183Hv6ME7a)
+- **[188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1b3Hv6MEod)
+- **[189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1YCpE6KEW1)
+- **[190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ZapE6kEUj)
+- **[34]. PPO：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1T2RrBvE25)
+- **[36]. DPO：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV142RrBeE8E)
+- **[38]. AlphaGo：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1t1RrBNELs)
+- **[39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1f9RxBCEyN)
+- **[41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1m1RrBNEhp)
+- **[42]. DQN：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV141RrBNEd1)
+- **[45]. AlphaZero：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1nERrB9E7d)
+- **[47]. QLearning：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV14N5b6YEbS)
+- **[48]. DAPO：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1tN5b6YEjF)
+- **[131]. A3C：首次用异步 actor-critic 把深度 RL 做稳定，是 PPO的基石，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1MYuG6rETy)
+- **[135]. TRPO：PPO的前身，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1xBuG6MEYJ)
+- **[137]. MuZero：AlphaZero 之后关键的一步：直接学一个世界模型做 MCTS，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1KBuG6MEwe)
+- **[141]. Rainbow：把 DQN 的六大改进一次拼完，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1BtbY6PEfW)
+- **[156]. UCB1：多臂老虎机，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV17MhG65E2o)
+- **[157]. GSPO：GRPO 的改进，序列级重要性采样，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1T7th6gELe)
+- **[164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1j2tG6qE5e)
+- **[49]. ResNet：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FXLJ6YE4U)
+- **[50]. MobileNet：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FXLJ6YExi)
+- **[54]. ViT：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1JXLJ6YE1X)
+- **[57]. CLIP：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cQLJ6PE78)
+- **[58]. MAE：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zGLM6cEYG)
+- **[60]. SAM：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ktGe6NE1c)
+- **[62]. FlowMatching：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hiGx6oExa)
+- **[63]. DETR：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1DiGx6oE4S)
+- **[64]. YOLO：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV18iGx6oEo1)
+- **[66]. DINO：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1bGVK6iEq7)
+- **[68]. EfficientNet：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zRVE6sEmR)
+- **[69]. SwinTransformer：论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zRVE6sEU2)
+- **[70]. UNet：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zRVE6sEz1)
+- **[73]. FasterRCNN：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Wg7m6XEgG)
+- **[74]. VGG：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Ag7m6XEy4)
+- **[75]. GoogLeNet：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Pg7m6XEnq)
+- **[76]. VAE：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Ag7m6XEyN)
+- **[77]. DDPM：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV176Js6DEaM)
+- **[78]. CFG：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV176Js6DE5W)
+- **[81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1q6Js6DE2b)
+- **[80]. GAN：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV176Js6DEPp)
+- **[84]. WGAN：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV176Js6DELe)
+- **[85]. NCSN：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1LXjg6vEhk)
+- **[86]. DDIM：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1LXjg6vEPM)
+- **[95]. SAM_2：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kv7q6RELS)
+- **[91]. ConsistencyModels：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1wv7q6dEtL)
+- **[90]. EDM：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kv7q6REvQ)
+- **[89]. LDM：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Av7q6dEKW)
+- **[88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kv7q6REEK)
+- **[87]. ScoreSDE：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kv7q6REtL)
+- **[111]. Stable Diffusion：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV19AN36iE8n)
+- **[112]. SAM 3：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV15wN36uEXx)
+- **[114]. DiT：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1UyK36YED6)
+- **[118]. Rectified Flow：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hrKp6NEj5)
+- **[121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Mdgh6aE5u)
+- **[122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV12Fga6fEuk)
+- **[124]. DINO v2：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1H4gh6HEdj)
+- **[125]. ControlNet：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1nB3r6UEPf)
+- **[126]. DeepSeek OCR：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1vY3y6UEaG)
+- **[128]. DINOv3：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Dr3y6GEDX)
+- **[132]. Conditional Flow Matching：条件流匹配，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1TYuG6rEX1)
+- **[143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zxbY6vEy9)
+- **[145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zxbY6vEgk)
+- **[147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kEbY6gEvA)
+- **[149]. Batch Norm：批量归一化经典重温，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ezbv6eEYm)
+- **[161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV12nth6MEaj)
+- **[162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV12nth6TEAC)
+- **[55]. ScaNN：向量检索论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FQLJ6PESa)
+- **[61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1AtGe6KEuV)
+- **[97]. RaBitQ的改进工作：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV18e7p6FEU6)
+- **[123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Kfgh68ErF)
+- **[71]. Whisper：论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Ag7m6XErq)
+- **[155]. CTC：语音识别的经典损失函数，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1f38h6cEcs)
+- **[102]. ReAct：Agent经典论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FRTi6oEz2)
+- **[103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cJTb6BE3S)
+- **[130]. App Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1mvuG6gEHj)
+- **[134]. SWE-agent：Agent处理GitHub issue的经典论文，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1xBuG6MEuX)
+- **[136]. Toolformer：大模型自发调用工具的开山之作，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1NBuG6MEiP)
+- **[138]. Voyager：Agent玩我的世界，论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1KiuG6zECG)
+- **[140]. Mobile Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1pPu26bEB6)
 - **13. 旋转位置编码和复数欧拉公式有什么关系？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1qzFxzQES2)
-- **14. 旋转位置编码和高中三角函数和差角公式有什么关系？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1uoFxzgEWz)
-- **16. RoPE如何从2维推广到任意偶数维，奇数维咋办？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FgcMzkE5h)
-- **17. 为什么正余弦位置编码的注意力是和绝对位置相关的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1mZcuztEw2)
-- **19. 为什么RoPE中旋转矩阵R实际上不需要矩阵乘算子？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1XyFyzcEN6)
-- **20. RoPE注意力的绝对位置无关性和欧拉公式有什么关系？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1fFFDzsEt6)
-- **21. 为什么增大旋转位置编码中10000可提高模型外推能力【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1o5FozuEz2)
-- **22. 为什么transformers.Llama的实现和RoPE原论文不一致？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1nUcbzTEGi)
-- **23. Llama的旋转位置编码实现和RoPE原论文有何不同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV15EcbzoEY7)
-- **120. 任意矩阵满足什么性质就能成为RoPE旋转矩阵？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1TN5b6YE5q)
-- **134. 为什么RoPE中旋转矩阵R0是单位阵？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1UGVK6vEzn)
-- **138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FRVE6xEap)
-- **147. 如何直观理解RoPE的平移不变性【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV18Aj36ZEZP)
-- **25. 举例说明FlashAttention的分块矩阵乘法的正确性？【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV18pcLz2E3P)
+- **14. 旋转位置编码和高中三角函数和差角公式有什么关系？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1uoFxzgEWz)
+- **16. RoPE如何从2维推广到任意偶数维，奇数维咋办？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FgcMzkE5h)
+- **17. 为什么正余弦位置编码的注意力是和绝对位置相关的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1mZcuztEw2)
+- **19. 为什么RoPE中旋转矩阵R实际上不需要矩阵乘算子？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1XyFyzcEN6)
+- **20. RoPE注意力的绝对位置无关性和欧拉公式有什么关系？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1fFFDzsEt6)
+- **21. 为什么增大旋转位置编码中10000可提高模型外推能力【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1o5FozuEz2)
+- **22. 为什么transformers.Llama的实现和RoPE原论文不一致？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1nUcbzTEGi)
+- **23. Llama的旋转位置编码实现和RoPE原论文有何不同？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV15EcbzoEY7)
+- **120. 任意矩阵满足什么性质就能成为RoPE旋转矩阵？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1TN5b6YE5q)
+- **134. 为什么RoPE中旋转矩阵R0是单位阵？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1UGVK6vEzn)
+- **138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FRVE6xEap)
+- **147. 如何直观理解RoPE的平移不变性【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV18Aj36ZEZP)
+- **25. 举例说明FlashAttention的分块矩阵乘法的正确性？【每天一个宝藏名词】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV18pcLz2E3P)
 - **28. 为什么在线Softmax比安全Softmax可以少一次循环？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1i6cnzzE2x)
-- **30. 举例说明SlimAttention的分块矩阵乘法的正确性？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV11KcWz8EZm)
-- **31. FlashAttention v2版本如何省略掩码上三角矩阵计算？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV16qZLBxEZt)
-- **33. 用户改提示词为什么不会影响前面的KV Cache？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1dgZ7BQEHL)
-- **34. BERT为什么没有KV Cache/KV Cache何以存在？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1qKZ7BsEs5)
-- **36. 为什么推理时prefill是GEMM，而decode是（Batched）GEMV？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1UtZkBjEZP)
-- **37. GQA中讲的共享指的是Token还是Head？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1cTZyBzEjv)
+- **30. 举例说明SlimAttention的分块矩阵乘法的正确性？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV11KcWz8EZm)
+- **31. FlashAttention v2版本如何省略掩码上三角矩阵计算？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV16qZLBxEZt)
+- **33. 用户改提示词为什么不会影响前面的KV Cache？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1dgZ7BQEHL)
+- **34. BERT为什么没有KV Cache/KV Cache何以存在？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1qKZ7BsEs5)
+- **36. 为什么推理时prefill是GEMM，而decode是（Batched）GEMV？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1UtZkBjEZP)
+- **37. GQA中讲的共享指的是Token还是Head？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cTZyBzEjv)
 - **39. FlashAttention V2中为何要先循环Q后循环K？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1yiArzSEs1)
 - **41 Flash Attention之前的那种N^2注意力不好在哪里？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1WzArzUEdr)
 - **55. 为什么KV Cache也有LRU等缓存替换策略?【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1YdANzcESN)
@@ -4951,31 +5255,31 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 - **68. prefill和decode时KV Cache是如何"堆积"的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1AYQdBfEDS)
 - **82. 在线Softmax和Flash Attention分别维护了多少个“动态规划量”？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1oA93BtETZ)
 - **83. Flash Attention的线性显存比平方显存增长慢了多少？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1baNGzmEzn)
-- **85. 为什么prefill和decode都可以跳过掩码上三角计算？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1ZEDvB9E6Y)
-- **101. 如何用矩阵乘法链式法则速推Flash Attention梯度？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV12CoMB5EDJ)
-- **102. PagedAttention是如何减少内存浪费的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1EwoRBfExe)
-- **106. Flash Attention反向传播也做到线性显存了吗？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1a89kB3EVu)
-- **111. 如何直观理解KV Cache的显存计算公式？以Llama2-7B为例。【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1Tf9XBwEzM)
-- **117. 如何用动态规划理解在线softmax的循环与归约？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1SHR9BuEBH)
-- **141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1zCjg6rE9F)
-- **143. 如何可视化SGLang中的KV Cache？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV13Aj36ZEcC)
+- **85. 为什么prefill和decode都可以跳过掩码上三角计算？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ZEDvB9E6Y)
+- **101. 如何用矩阵乘法链式法则速推Flash Attention梯度？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV12CoMB5EDJ)
+- **102. PagedAttention是如何减少内存浪费的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1EwoRBfExe)
+- **106. Flash Attention反向传播也做到线性显存了吗？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1a89kB3EVu)
+- **111. 如何直观理解KV Cache的显存计算公式？以Llama2-7B为例。【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Tf9XBwEzM)
+- **117. 如何用动态规划理解在线softmax的循环与归约？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1SHR9BuEBH)
+- **141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zCjg6rE9F)
+- **143. 如何可视化SGLang中的KV Cache？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV13Aj36ZEcC)
 - **29. 以逐元素乘加为例，算子融合为什么能提高计算效率？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV19PcnzPEQp)
 - **45. SIMD是如何加速张量计算的(简单理解)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1doArzKExB)
 - **49. 双缓冲是如何加速张量计算的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1bUP5zDER5)
 - **53. 如何加速两个张量之和？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1SqPhzAErH)
 - **57. 网格步进是如何加速张量计算的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1SSNFz2EDK)
-- **97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1KyoMByEdR)
-- **103. 多个线程执行同一段算子代码时发生了什么？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1JcoRB8EGb)
-- **108. 如何用前缀和理解稀疏矩阵的CSR格式？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1k7RuBPEsV)
-- **140. 稀疏矩阵乘稠密向量SpMV是如何跳过0值计算的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1AG7m6HEEW)
-- **162. 如何可视化GEMM？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1tWTj6jEGU)
-- **163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1rJTb6qEYr)
-- **164. 为什么环形All-Reduce 时，4卡和128卡单卡通信量差不多？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1AzMP6rE61)
-- **166. 如何用双缓冲优化GEMM？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1WzMP6rEN6)
-- **168. Megatron张量并行如何用列切分加行切分降低FFN层的通信？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1zTMP6YEqg)
-- **172. 如何用外积优化GEMM？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1E9Mb6MEeq)
-- **178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1XEKG6gERb)
-- **195. 如何用Tensor Core加速GEMM？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1xT3k6ZEP8)
+- **97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1KyoMByEdR)
+- **103. 多个线程执行同一段算子代码时发生了什么？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1JcoRB8EGb)
+- **108. 如何用前缀和理解稀疏矩阵的CSR格式？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1k7RuBPEsV)
+- **140. 稀疏矩阵乘稠密向量SpMV是如何跳过0值计算的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1AG7m6HEEW)
+- **162. 如何可视化GEMM？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1tWTj6jEGU)
+- **163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1rJTb6qEYr)
+- **164. 为什么环形All-Reduce 时，4卡和128卡单卡通信量差不多？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1AzMP6rE61)
+- **166. 如何用双缓冲优化GEMM？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1WzMP6rEN6)
+- **168. Megatron张量并行如何用列切分加行切分降低FFN层的通信？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zTMP6YEqg)
+- **172. 如何用外积优化GEMM？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1E9Mb6MEeq)
+- **178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1XEKG6gERb)
+- **195. 如何用Tensor Core加速GEMM？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1xT3k6ZEP8)
 - **42. 聚类量化和线性量化有何不同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1yBArzEEeE)
 - **44. 为什么把权重置0就是在剪枝？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1B9ArzuEP3)
 - **62．LLM.int8是如何利用向量外积进行量化的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV17pwEzMETL)
@@ -4993,199 +5297,505 @@ truncates video **titles** at 80 chars; missing venue/arXiv stays empty; index o
 - **79. 为什么基于权重大小剪枝是特殊的OBD、OBS、OBQ？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1fn9cBKEbt)
 - **80. 剪枝后微调让被置零的权重不再为零怎么办？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV16E9cBqEK8)
 - **81. 量化后微调让聚在一起的权重分家了怎么办？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1zf9gBwEqd)
-- **88. 量化后微调为什么要对聚类中心求和？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1fcD4BPEo7)
-- **89. 量化感知训练是如何感知到量化的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1d9QABeEdC)
-- **90. OBQ如何将最小化剪枝损失推广到量化？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1kkDQBVE4y)
-- **92. 为什么量化会让损失“山谷”变成“台阶”？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1eoQvBQEMF)
-- **94. 量化感知训练中为什么要STE来处理round梯度？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV12qdaBkERq)
-- **110. 为什么激活值per channel量化比per token量化难加速得多？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1k7RuBPEqt)
-- **123. 如何用CPU内存的残差修正量化误差？以DecDEC为例【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FXLJ6YEEv)
-- **160. 如何对注意力头剪枝？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1YCTY6qEMZ)
-- **219. 为什么把权重置0就是在剪枝？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1rG4U6kE2E)
+- **88. 量化后微调为什么要对聚类中心求和？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1fcD4BPEo7)
+- **89. 量化感知训练是如何感知到量化的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1d9QABeEdC)
+- **90. OBQ如何将最小化剪枝损失推广到量化？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1kkDQBVE4y)
+- **92. 为什么量化会让损失“山谷”变成“台阶”？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1eoQvBQEMF)
+- **94. 量化感知训练中为什么要STE来处理round梯度？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV12qdaBkERq)
+- **110. 为什么激活值per channel量化比per token量化难加速得多？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1k7RuBPEqt)
+- **123. 如何用CPU内存的残差修正量化误差？以DecDEC为例【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FXLJ6YEEv)
+- **160. 如何对注意力头剪枝？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1YCTY6qEMZ)
+- **219. 为什么把权重置0就是在剪枝？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1rG4U6kE2E)
 - **47 CLIP比较人性化的可视化可能长什么样？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1k4PDzrE9X)
 - **59. DeepSeek OCR比较人性化的可视化可能是什么样的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV13gcCzbE7y)
-- **174. 为什么DDPM加噪相当于90°旋转插值？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1vAN36BEit)
-- **181. 为什么 DDPM 加噪旋转角是不均匀的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1YjKG6rEhy)
-- **190. 为什么扩散模型采样高斯噪声相当于在球壳上选点？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV16V3762ECA)
-- **193. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1vo3w6wE6J)
-- **198. 为什么逐点卷积可以用 GEMM 实现？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1BB3t6gEtZ)
-- **205. 如何可视化VIT？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1t3up6iE8b)
-- **206. 为什么DDPM加噪图在椭圆上，而Flow Matching在直线上？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1x2uN6SEAt)
-- **210. 为什么ViT展平像素这一步是用卷积实现的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV16M8h6AEY6)
-- **212. 如何可视化UNet？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1quhG6CEtf)
-- **32. 一种人性化的Transformer可视化可能是什么样的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV13FZEBEE6y)
-- **35. Transformer暗含多少种分块矩阵乘法的理解方式？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1pRZtBaEYv)
+- **174. 为什么DDPM加噪相当于90°旋转插值？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1vAN36BEit)
+- **181. 为什么 DDPM 加噪旋转角是不均匀的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1YjKG6rEhy)
+- **190. 为什么扩散模型采样高斯噪声相当于在球壳上选点？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV16V3762ECA)
+- **193. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1vo3w6wE6J)
+- **198. 为什么逐点卷积可以用 GEMM 实现？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1BB3t6gEtZ)
+- **205. 如何可视化VIT？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1t3up6iE8b)
+- **206. 为什么DDPM加噪图在椭圆上，而Flow Matching在直线上？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1x2uN6SEAt)
+- **210. 为什么ViT展平像素这一步是用卷积实现的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV16M8h6AEY6)
+- **212. 如何可视化UNet？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1quhG6CEtf)
+- **32. 一种人性化的Transformer可视化可能是什么样的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV13FZEBEE6y)
+- **35. Transformer暗含多少种分块矩阵乘法的理解方式？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1pRZtBaEYv)
 - **40. Temperature、TopK/P退化为贪婪解码的三种条件是？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1AzArzUEh1)
 - **77. 为什么训练时教师强制是只“感觉”不“生成”的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV14BXoBMEsk)
-- **93. 为什么Transformer的核心公式是在做加权平均？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1CkQjBJE8K)
-- **98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1CSoMBgEUA)
-- **99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1U6oMBjE1D)
-- **104. 为什么训练时是同时预测token的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1jNoRBoE9b)
-- **107. DeepSeek V4如何使用Attention Sink忽略上下文？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1389kB3Ek4)
-- **109. 最简单的Transformer可视化能有多简单？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1A7RuBNETS)
-- **112. 如何可视化MOE？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1uGdgBnE65)
-- **114. 为什么除以√dk是在给注意力升温？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1m5RmBSEkF)
-- **118. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1MyRXBvEG1)
-- **119. 如何可视化多头注意力？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1235J6qENx)
-- **121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV16XLJ6YEVP)
-- **122. 为什么只有单个词嵌入就能构成二元语言模型？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FXLJ6YEwC)
-- **124. 训练时是如何恰好错开一个token的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FXLJ6YE1L)
-- **125. 为什么Token数相同的批次未必是负载均衡的？以WLB LLM为例【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FXLJ6YEiX)
-- **126. 举例说明投机解码如何拒绝采样？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1EVLM6bEuU)
-- **127. 为什么Adam优化器相当于在求19日EMA均线？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FGLM6wEbm)
-- **128. 为什么4D并行的四个任务划分维度是正交的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1ZzLC6bEbU)
-- **130. 如何从概率树理解投机解码是无损的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1ktGe6NEtg)
-- **132. 为什么只用柱状图就能证明投机解码是无损的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1UHGB6REeL)
-- **133. 如何可视化超连接？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1h1GE6BEMm)
-- **135. 如何直观理解超连接中的残差流？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1bGVK6iE2B)
-- **136. BERT和GPT的可视化有多像？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1LsG26dEuq)
-- **137. HC=？会让超连接退化为preNorm传统残差连接？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1zRVE6sE2x)
-- **139. 为什么传统残差连接是mhc残差流扩展率=1 的特例？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1zRVE6sExg)
-- **142. 如何可视化前馈网络｜线性层的反向传播？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1gAj36ZELC)
-- **144. 如何可视化Transformer的残差连接？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1DAj36ZE2E)
-- **145. 从prefill和decode角度理解投机解码何以加速？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1hAj36ZE7E)
-- **146. 能否有一种方法同时可视化注意力的前向和反向传播？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1gAj36ZEUA)
-- **148. 超连接中的连边和感知机的连边有何异同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1DAj36ZEZD)
-- **149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1gAj36ZEY3)
-- **150. 对比注意力池和注意力温度对注意力汇聚有什么影响？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1hAj36ZE8a)
-- **151. 如何可视化MQA？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1gAj36ZEmj)
-- **152. 为什么前向残差连接对应反向残差连接【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1bv7p6bEeG)
-- **153. 从等比数列求和理解Adam优化器训练初期动量修正【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1he7p6FEp1)
-- **154. 为什么投机解码确保每轮至少产出一个 token？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1De7p6FEL3)
-- **156. 最简单的transformer反向传播可视化能有多简单？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV18e7p6FE1J)
-- **157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV13e7p6cEF4)
-- **158. 最简单的含RoPE的Transformer可视化有多简单？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV18e7p6FEeD)
-- **159. 如何可视化MTP？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1rtTc6tEqd)
-- **161. MoE每个token都要选专家，那prefill要如何并行？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1foTi6sEyH)
-- **165. 残差连接在Transformer反向传播中可视化出来是什么样的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1AzMP6kE62)
-- **169. MTP为什么能一次预测多个未来 token？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1aDMu6BEDb)
-- **170. vLLM 投机解码首token合并 prefill 这个小技巧是怎么来的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1hETD6mERB)
-- **171. 如何可视化 DeepSeek MLA（简化版）？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1MRTd6bEbH)
-- **173. 如何证明任意两句话的公共前缀都有相同的KV Cache？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1HNM76GEo8)
-- **176. 如何可视化交叉注意力【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1RVKG6CEhW)
-- **177. Megatron张量并行如何用列切分加行切分降低注意力层的通信？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1GEKG63EUT)
-- **183. 为什么注意力要除以√dk而不是√d model【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1byK36eEUT)
-- **185. 如何可视化kimi的注意力残差？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1qBKb6hEkq)
-- **187. 为什么MLA无需显式解压Q和K？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV19s3K6zEXQ)
-- **188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1Qz3g61EAe)
-- **192. 如何证明注意力右上角加-∞就看不到后面了？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1N8gZ6NEzg)
-- **194. 为什么滑动窗口注意力在 decode 时要使用环形缓存？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1WP3B65Eh5)
-- **196. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV17S316dExh)
-- **199. FlashAttention如何加速滑动窗口注意力prefill？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1VKMX6bEo1)
-- **201. 如何把RoPE算子融合到FlashAttention里？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1pmuA6gEN7)
-- **202. 如何像之前可视化Transformer那样可视化RNN？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1njMy6UEzQ)
-- **203. 推理时Q没有Cache，那训练时呢？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1njMy6UEmC)
-- **204. 如何可视化 RWKV？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1s5un6dEKR)
-- **207. 为什么MLA连V也不需要显式解压？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1pPu26bELp)
-- **208. 如何证明Transformer本身不含位置信息？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1ezbv6eEC6)
-- **209. 为什么同样是依赖上一隐藏状态，RWKV可以并行训练，而RNN不行？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1T8876rEaA)
-- **214. 为什么MLA无需显式解压K和Q？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FE8Z63E5v)
-- **215. 连续批处理如何把Prefill和Decode请求的FFN拼成一次矩阵乘？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1DrhF6PEtj)
-- **216. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1vYhF6zEud)
-- **217. Chunked Prefill为什么要给长Prefill分块？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV12Xhw6YE5X)
-- **218. 大模型的训练、推理、SFT、强化学习究竟有什么区别？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1wk4k6fEsY)
-- **222. 为什么传统位置编码只作用于词嵌入，而RoPE每层都作用？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV16ath6fEMr)
-- **223. 如何可视化MOE？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1LUtG6KEkJ)
-- **224. 如何证明因果掩码其实就已经内禀位置信息了？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1i2tG6qEZ8)
-- **225. Deepseek的MLA是如何处理RoPE的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1BWto6cEsD)
-- **226. 最简单的transformer反向传播可视化能有多简单？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1BHto6aE7P)
-- **231. 从prefill和decode角度理解投机解码何以加速？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1fwY165Eeq)
-- **232. 为什么滑动窗口注意力在decode时要使用环形缓存？（新版）【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1sce56BEk1)
-- **234. 为什么MLA连V也不需要显式解压？（新版）【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1YEeH6uECe)
-- **236. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1cXeA6PEJR)
-- **237. ViT如何使用RoPE？(1D简单版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1hheA6EEW2)
-- **238. 扩散语言模型和自回归语言模型有何异同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1mdhB6TEmr)
-- **239. 如何可视化MTP？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1mdhB6TEQE)
-- **240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1MnhJ6JEKb)
-- **241. 如何可视化GQA？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1e1ac6VEJF)
-- **242. 交叉注意力输出的第i个向量代表什么？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1cFaT6uEky)
-- **243. 为什么投机解码最多可以比K个Token多生成一个Token？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV11Vhm6oEZ4)
-- **244. 为什么KV Cache相当于Agent的短期记忆？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1CEhm6WEX3)
-- **245. 为什么投机解码确保每轮至少产出一个 token？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1CEhm6WER6)
-- **247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1Ksh96yEyN)
+- **93. 为什么Transformer的核心公式是在做加权平均？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1CkQjBJE8K)
+- **98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1CSoMBgEUA)
+- **99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1U6oMBjE1D)
+- **104. 为什么训练时是同时预测token的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1jNoRBoE9b)
+- **107. DeepSeek V4如何使用Attention Sink忽略上下文？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1389kB3Ek4)
+- **109. 最简单的Transformer可视化能有多简单？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1A7RuBNETS)
+- **112. 如何可视化MOE？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1uGdgBnE65)
+- **114. 为什么除以√dk是在给注意力升温？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1m5RmBSEkF)
+- **118. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1MyRXBvEG1)
+- **119. 如何可视化多头注意力？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1235J6qENx)
+- **121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV16XLJ6YEVP)
+- **122. 为什么只有单个词嵌入就能构成二元语言模型？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FXLJ6YEwC)
+- **124. 训练时是如何恰好错开一个token的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FXLJ6YE1L)
+- **125. 为什么Token数相同的批次未必是负载均衡的？以WLB LLM为例【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FXLJ6YEiX)
+- **126. 举例说明投机解码如何拒绝采样？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1EVLM6bEuU)
+- **127. 为什么Adam优化器相当于在求19日EMA均线？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FGLM6wEbm)
+- **128. 为什么4D并行的四个任务划分维度是正交的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ZzLC6bEbU)
+- **130. 如何从概率树理解投机解码是无损的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ktGe6NEtg)
+- **132. 为什么只用柱状图就能证明投机解码是无损的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1UHGB6REeL)
+- **133. 如何可视化超连接？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1h1GE6BEMm)
+- **135. 如何直观理解超连接中的残差流？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1bGVK6iE2B)
+- **136. BERT和GPT的可视化有多像？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1LsG26dEuq)
+- **137. HC=？会让超连接退化为preNorm传统残差连接？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zRVE6sE2x)
+- **139. 为什么传统残差连接是mhc残差流扩展率=1 的特例？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zRVE6sExg)
+- **142. 如何可视化前馈网络｜线性层的反向传播？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1gAj36ZELC)
+- **144. 如何可视化Transformer的残差连接？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1DAj36ZE2E)
+- **145. 从prefill和decode角度理解投机解码何以加速？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hAj36ZE7E)
+- **146. 能否有一种方法同时可视化注意力的前向和反向传播？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1gAj36ZEUA)
+- **148. 超连接中的连边和感知机的连边有何异同？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1DAj36ZEZD)
+- **149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1gAj36ZEY3)
+- **150. 对比注意力池和注意力温度对注意力汇聚有什么影响？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hAj36ZE8a)
+- **151. 如何可视化MQA？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1gAj36ZEmj)
+- **152. 为什么前向残差连接对应反向残差连接【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1bv7p6bEeG)
+- **153. 从等比数列求和理解Adam优化器训练初期动量修正【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1he7p6FEp1)
+- **154. 为什么投机解码确保每轮至少产出一个 token？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1De7p6FEL3)
+- **156. 最简单的transformer反向传播可视化能有多简单？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV18e7p6FE1J)
+- **157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV13e7p6cEF4)
+- **158. 最简单的含RoPE的Transformer可视化有多简单？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV18e7p6FEeD)
+- **159. 如何可视化MTP？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1rtTc6tEqd)
+- **161. MoE每个token都要选专家，那prefill要如何并行？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1foTi6sEyH)
+- **165. 残差连接在Transformer反向传播中可视化出来是什么样的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1AzMP6kE62)
+- **169. MTP为什么能一次预测多个未来 token？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1aDMu6BEDb)
+- **170. vLLM 投机解码首token合并 prefill 这个小技巧是怎么来的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hETD6mERB)
+- **171. 如何可视化 DeepSeek MLA（简化版）？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1MRTd6bEbH)
+- **173. 如何证明任意两句话的公共前缀都有相同的KV Cache？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1HNM76GEo8)
+- **176. 如何可视化交叉注意力【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1RVKG6CEhW)
+- **177. Megatron张量并行如何用列切分加行切分降低注意力层的通信？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1GEKG63EUT)
+- **183. 为什么注意力要除以√dk而不是√d model【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1byK36eEUT)
+- **185. 如何可视化kimi的注意力残差？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1qBKb6hEkq)
+- **187. 为什么MLA无需显式解压Q和K？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV19s3K6zEXQ)
+- **188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Qz3g61EAe)
+- **192. 如何证明注意力右上角加-∞就看不到后面了？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1N8gZ6NEzg)
+- **194. 为什么滑动窗口注意力在 decode 时要使用环形缓存？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1WP3B65Eh5)
+- **196. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV17S316dExh)
+- **199. FlashAttention如何加速滑动窗口注意力prefill？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1VKMX6bEo1)
+- **201. 如何把RoPE算子融合到FlashAttention里？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1pmuA6gEN7)
+- **202. 如何像之前可视化Transformer那样可视化RNN？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1njMy6UEzQ)
+- **203. 推理时Q没有Cache，那训练时呢？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1njMy6UEmC)
+- **204. 如何可视化 RWKV？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1s5un6dEKR)
+- **207. 为什么MLA连V也不需要显式解压？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1pPu26bELp)
+- **208. 如何证明Transformer本身不含位置信息？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ezbv6eEC6)
+- **209. 为什么同样是依赖上一隐藏状态，RWKV可以并行训练，而RNN不行？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1T8876rEaA)
+- **214. 为什么MLA无需显式解压K和Q？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FE8Z63E5v)
+- **215. 连续批处理如何把Prefill和Decode请求的FFN拼成一次矩阵乘？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1DrhF6PEtj)
+- **216. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1vYhF6zEud)
+- **217. Chunked Prefill为什么要给长Prefill分块？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV12Xhw6YE5X)
+- **218. 大模型的训练、推理、SFT、强化学习究竟有什么区别？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1wk4k6fEsY)
+- **222. 为什么传统位置编码只作用于词嵌入，而RoPE每层都作用？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV16ath6fEMr)
+- **223. 如何可视化MOE？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1LUtG6KEkJ)
+- **224. 如何证明因果掩码其实就已经内禀位置信息了？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1i2tG6qEZ8)
+- **225. Deepseek的MLA是如何处理RoPE的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1BWto6cEsD)
+- **226. 最简单的transformer反向传播可视化能有多简单？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1BHto6aE7P)
+- **231. 从prefill和decode角度理解投机解码何以加速？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1fwY165Eeq)
+- **232. 为什么滑动窗口注意力在decode时要使用环形缓存？（新版）【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1sce56BEk1)
+- **234. 为什么MLA连V也不需要显式解压？（新版）【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1YEeH6uECe)
+- **236. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cXeA6PEJR)
+- **237. ViT如何使用RoPE？(1D简单版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1hheA6EEW2)
+- **238. 扩散语言模型和自回归语言模型有何异同？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1mdhB6TEmr)
+- **239. 如何可视化MTP？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1mdhB6TEQE)
+- **240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1MnhJ6JEKb)
+- **241. 如何可视化GQA？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1e1ac6VEJF)
+- **242. 交叉注意力输出的第i个向量代表什么？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cFaT6uEky)
+- **243. 为什么投机解码最多可以比K个Token多生成一个Token？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV11Vhm6oEZ4)
+- **244. 为什么KV Cache相当于Agent的短期记忆？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1CEhm6WEX3)
+- **245. 为什么投机解码确保每轮至少产出一个 token？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1CEhm6WER6)
+- **247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Ksh96yEyN)
 - **249. 最近大火的Jev和传统的LLM有何异同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1MKa66VEJ4)
-- **250. prefill和decode相当于RNN中的什么操作？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1s6He68EcV)
-- **251. Pyramid KV为什么用金字塔形KV Cache？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1zcHr6uE2N)
-- **252. KV Cache相当于RNN中的什么东西？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1FcHr6gEDq)
-- **253. 什么是树形掩码？它和因果掩码有何异同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV14UHJ6oE9E)
-- **255. 树形注意力如何一次前向并行验证整棵草稿树？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1MRH26BE6z)
-- **257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1mVHd64EGJ)
-- **259. 如何证明任意两句话的公共前缀都有相同的KV Cache？(新版)【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1SGpn6NEfF)
+- **250. prefill和decode相当于RNN中的什么操作？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1s6He68EcV)
+- **251. Pyramid KV为什么用金字塔形KV Cache？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1zcHr6uE2N)
+- **252. KV Cache相当于RNN中的什么东西？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1FcHr6gEDq)
+- **253. 什么是树形掩码？它和因果掩码有何异同？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV14UHJ6oE9E)
+- **255. 树形注意力如何一次前向并行验证整棵草稿树？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1MRH26BE6z)
+- **257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1mVHd64EGJ)
+- **259. 如何证明任意两句话的公共前缀都有相同的KV Cache？(新版)【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1SGpn6NEfF)
 - **58. 如何根据答案倒推合成思维链做SFT？以AscendKernelGen为例【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1DvcyzcEa4)
 - **60. LoRA微调和向量外积为何长得很像？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1pKwjz3E1P)
-- **84. LoRA要增加旁路，微调前后模型结构却可以不变，为什么？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1cQSSBvE8N)
-- **96. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV15GdjByEpy)
-- **182. 如何可视化知识蒸馏？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1UyK36YE3Z)
-- **191. 如何可视化LoRA？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1Zq3j63Eeu)
+- **84. LoRA要增加旁路，微调前后模型结构却可以不变，为什么？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cQSSBvE8N)
+- **96. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV15GdjByEpy)
+- **182. 如何可视化知识蒸馏？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1UyK36YE3Z)
+- **191. 如何可视化LoRA？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Zq3j63Eeu)
 - **46. 矩阵乘法对激活的梯度是怎么来的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1ioArzKEMB)
 - **51 矩阵乘法对权重的梯度是怎么来的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1TUPWzkE6U)
 - **52 简单的梯度算子是如何定义的【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1TUPWzkEgW)
 - **61. 含广播的偏置b的梯度如何计算？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1WWXWBzELJ)
-- **87. 为什么前向广播对应着反向归约？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV177DWBdEoV)
+- **87. 为什么前向广播对应着反向归约？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV177DWBdEoV)
 - **69. 深度学习中两种常用的矩阵微积分是怎么来的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1a9XNBTERT)
 - **70. 如何理解泰勒展开的多元函数扩展？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1HVXKBpE9p)
-- **100. 为什么神经网络连接可以用矩阵乘法实现？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1SBoMBmEVB)
-- **86. 为什么矩阵乘法可以看作标量乘法的拓展？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1WxDeBcExC)
+- **100. 为什么神经网络连接可以用矩阵乘法实现？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1SBoMBmEVB)
+- **86. 为什么矩阵乘法可以看作标量乘法的拓展？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1WxDeBcExC)
 - **72. 如何从几何视角理解拉格朗日乘子法？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1C3XKB9EHm)
-- **95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1D8daB7En5)
-- **105. K-Means聚类和中垂线有什么关系？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1Kk9kBAEnC)
-- **113. 如何理解梯度下降的多元函数扩展？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1m5RmBSENE)
-- **184. 一口气看完：正态分布，梯度下降、泰勒展开一元推广到多元【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1LvKw6UEuM)
-- **115. 为什么梯度下降、泰勒展开、正态分布都有多元扩展？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1M5RmBDENg)
-- **155. 为什么信息熵=最优码长，交叉熵=实际码长，KL散度=浪费码长【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV18e7p6FEZ1)
-- **167. 为什么KL散度非负和信息熵是最优码长这两件事是等价的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1fTMP6YEtZ)
-- **175. 如何理解正态分布的多元扩展？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1eVKG6CEZH)
-- **179. 如何用高中导数证明 KL 散度非负？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1GEKG6uEgV)
-- **180. 向量如何对向量求导？推广到矩阵、张量呢？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1VjKG6kEpR)
-- **189. 为什么反向传播的本质是乘雅可比矩阵？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV17Y356TEZu)
-- **197. 为什么自动微分系统倾向于反向微分而非前向微分？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1ct3x6gEkq)
-- **200. 为什么线性层反向传播也可以用GEMM实现？——为什么前向全连接对应反向全连接？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1t3uF6MEbd)
-- **91. 游戏AI和LLM的πθ(a∣s)有何异同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1TeD9B4EbF)
-- **116. 如何从动态规划和记忆化搜索理解DQN？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1ygRXBZEQf)
-- **129. 举例说明DPO论文里三行核心代码是啥意思？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1AtGe6KEbW)
-- **131. 折扣因子γ是如何改变未来的奖励重要程度的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1AtGe6KEuk)
-- **186. 为什么交叉熵梯度相当于特殊的策略梯度？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1G2gh6BEg6)
-- **211. 如何求PPO中每个token的梯度？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1juhG6CEmD)
-- **213. 为什么GRPO可以扔掉价值网络？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1WC896BEPW)
-- **220. PPO的损失计算和SFT有何异同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV14Ctp6JEp6)
-- **221. 为什么很多强化学习框架要内置vLLM这样的推理引擎加速采样？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV16ath6fEbM)
-- **227. PPO中的优势A是怎么来的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1mTtf6SEhx)
-- **228. PPO的价值网络是如何根据写到一半的答案猜平均分的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV163b46DE6F)
-- **229. 为什么PPO的优势A是每个token一个，而GRPO是整段回答一个？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV151Yu6uERg)
-- **230. PPO的GAE是如何计算的？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1weYR65EjZ)
-- **233. 大模型强化学习的价值网络和围棋的价值网络有何异同？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1eEeH6uEiN)
-- **235. 如何从PPO每个token的目标函数推导出梯度？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1cXeA6PEVh)
-- **246. 为什么大模型RL里每一步的奖励几乎都是0？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1Tsh96yEAY)
-- **254. PPO里面的KL约束到底在防什么？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1L5HC6uE4H)
-- **256. 为什么PPO里的KL约束用的是反向KL而非前向KL？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV163Hm6dECv)
-- **258. 什么是OPD（On-Policy Distillation）？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1oQHR6rEvQ)
+- **95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1D8daB7En5)
+- **105. K-Means聚类和中垂线有什么关系？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Kk9kBAEnC)
+- **113. 如何理解梯度下降的多元函数扩展？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1m5RmBSENE)
+- **184. 一口气看完：正态分布，梯度下降、泰勒展开一元推广到多元【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1LvKw6UEuM)
+- **115. 为什么梯度下降、泰勒展开、正态分布都有多元扩展？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1M5RmBDENg)
+- **155. 为什么信息熵=最优码长，交叉熵=实际码长，KL散度=浪费码长【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV18e7p6FEZ1)
+- **167. 为什么KL散度非负和信息熵是最优码长这两件事是等价的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1fTMP6YEtZ)
+- **175. 如何理解正态分布的多元扩展？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1eVKG6CEZH)
+- **180. 向量如何对向量求导？推广到矩阵、张量呢？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1VjKG6kEpR)
+- **189. 为什么反向传播的本质是乘雅可比矩阵？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV17Y356TEZu)
+- **197. 为什么自动微分系统倾向于反向微分而非前向微分？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1ct3x6gEkq)
+- **200. 为什么线性层反向传播也可以用GEMM实现？——为什么前向全连接对应反向全连接？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1t3uF6MEbd)
+- **91. 游戏AI和LLM的πθ(a∣s)有何异同？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1TeD9B4EbF)
+- **129. 举例说明DPO论文里三行核心代码是啥意思？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1AtGe6KEbW)
+- **131. 折扣因子γ是如何改变未来的奖励重要程度的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1AtGe6KEuk)
+- **186. 为什么交叉熵梯度相当于特殊的策略梯度？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1G2gh6BEg6)
+- **211. 如何求PPO中每个token的梯度？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1juhG6CEmD)
+- **213. 为什么GRPO可以扔掉价值网络？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1WC896BEPW)
+- **220. PPO的损失计算和SFT有何异同？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV14Ctp6JEp6)
+- **221. 为什么很多强化学习框架要内置vLLM这样的推理引擎加速采样？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV16ath6fEbM)
+- **227. PPO中的优势A是怎么来的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1mTtf6SEhx)
+- **228. PPO的价值网络是如何根据写到一半的答案猜平均分的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV163b46DE6F)
+- **229. 为什么PPO的优势A是每个token一个，而GRPO是整段回答一个？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV151Yu6uERg)
+- **230. PPO的GAE是如何计算的？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1weYR65EjZ)
+- **233. 大模型强化学习的价值网络和围棋的价值网络有何异同？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1eEeH6uEiN)
+- **235. 如何从PPO每个token的目标函数推导出梯度？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1cXeA6PEVh)
+- **246. 为什么大模型RL里每一步的奖励几乎都是0？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1Tsh96yEAY)
+- **254. PPO里面的KL约束到底在防什么？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1L5HC6uE4H)
+- **256. 为什么PPO里的KL约束用的是反向KL而非前向KL？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV163Hm6dECv)
+- **258. 什么是OPD（On-Policy Distillation）？【每天一个宝藏问题】** - [github.com](https://github.com/HaiPenglai/Treasure-Questions) | [B station](https://www.bilibili.com/video/BV1oQHR6rEvQ)
 - **248. 新加坡-2026-会议留影【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1bsaz63EV5)
-- **[1]. 跑通TritonBench测试LLM的算子生成能力(ACL2025)【每周一个宝藏实验】** - [B station](https://www.bilibili.com/video/BV12xZBBwEKf)
-- **[3] 从采摘200片三叶草开始训练一个简易无条件DDPM 【每周一个宝藏实验】** - [B station](https://www.bilibili.com/video/BV1PcfEBrEBs)
-- **[5] 快速上手FuctionCall和React：极简易百词斩Agent【每周一个宝藏实验】** - [B station](https://www.bilibili.com/video/BV1nUAazDEma)
-- **[7] 跑KernelBench测试LLM将PyTorch转译为CUDA代码的能力（ICML2025）【每周一个宝藏实验】** - [B station](https://www.bilibili.com/video/BV1gzPyzuERu)
-- **[9] 跑CUDA-L2测试和cuBLAS相比效果如何？【每周一个宝藏实验】** - [B station](https://www.bilibili.com/video/BV1QPwszCE39)
+- **[1]. 跑通TritonBench测试LLM的算子生成能力(ACL2025)【每周一个宝藏实验】** - [arxiv.org](https://arxiv.org/pdf/2502.14752) | [github.com](https://github.com/HaiPenglai/TritonBench-GuideBook) | [B station](https://www.bilibili.com/video/BV12xZBBwEKf)
+- **[3] 从采摘200片三叶草开始训练一个简易无条件DDPM 【每周一个宝藏实验】** - [arXiv:2006.11239](https://arxiv.org/abs/2006.11239) | [arxiv.org](https://arxiv.org/abs/2006.11239) | [github.com](https://github.com/HaiPenglai/Lucky-DDPM) | [huggingface.co](https://huggingface.co/datasets/HaiPenglai/Lucky-Clover-Dataset) | [huggingface.co](https://huggingface.co/HaiPenglai/Lucky-Clover-DDPM) | [B station](https://www.bilibili.com/video/BV1PcfEBrEBs)
+- **[5] 快速上手FuctionCall和React：极简易百词斩Agent【每周一个宝藏实验】** - [arXiv:2312.13771](https://arxiv.org/abs/2312.13771) | [arxiv.org](https://arxiv.org/abs/2312.13771) | [github.com](https://github.com/HaiPenglai/Nano-APP-Agent) | [B station](https://www.bilibili.com/video/BV1nUAazDEma)
+- **[7] 跑KernelBench测试LLM将PyTorch转译为CUDA代码的能力（ICML2025）【每周一个宝藏实验】** - [arXiv:2502.10517](https://arxiv.org/abs/2502.10517) | [github.com](https://github.com/HaiPenglai/KernelBench-GuideBook) | [arxiv.org](https://arxiv.org/abs/2502.10517) | [B station](https://www.bilibili.com/video/BV1gzPyzuERu)
+- **[9] 跑CUDA-L2测试和cuBLAS相比效果如何？【每周一个宝藏实验】** - [arXiv:2512.02551](https://arxiv.org/abs/2512.02551) | [arxiv.org](https://arxiv.org/abs/2512.02551) | [github.com](https://github.com/deepreinforce-ai/CUDA-L2) | [github.com](https://github.com/HaiPenglai/CUDA-L2-GuideBook) | [B station](https://www.bilibili.com/video/BV1QPwszCE39)
 - **[11] 跑robust-kbench测试LLM写算子，附Agent提示词【每周一个宝藏实验】** - [B station](https://www.bilibili.com/video/BV1vxAszpE3P)
-- **[13] AutoDL上部署龙虾，它能帮忙测试算子性能吗？【每周一个宝藏实验】** - [B station](https://www.bilibili.com/video/BV1XMX5BZEGF)
-- **1. BitNet 1.58b：微软开源的3值量化模型【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1kG6jBSE3u)
-- **2. AWQ：一种保护关键权重的LLM量化算法【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV16H6EBHEP5)
-- **3. GPTQ：一种纯数学的LLM量化方法【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1aXzXBNE4A)
-- **4. SmoothQuant：一种转嫁压力的LLM量化方法【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1RyzXB6Eyz)
-- **7. SlimAttention：一种比FlashAttention更适合CPU的推理方案【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1MUzZBVEtV)
-- **8. PagedAttention：借鉴操作系统分页机制，内置于vLLM【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1Ht6wBVEUX)
-- **9. FlashAttention：将Attention的显存占用从平方级降到了线性级【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1C66YBvECv)
-- **10. NF4：QLoRA中的非均匀量化数据类型【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1qA6BBKEck)
-- **11. GQA：介于MHA和MQA之间，键值共享查询分组【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV19u6BBwEQ8)
-- **12. RoPE：通过旋转矩阵让注意力只取决于相对位置【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1gQ6iBREZw)
-- **15. 投机解码：小模型草拟，大模型验证【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1yS6zBXEVu)
-- **27. 在线Softmax：通过修正比安全Softmax减少了一次循环【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1c1c7zzEb4)
+- **[13] AutoDL上部署龙虾，它能帮忙测试算子性能吗？【每周一个宝藏实验】** - [arXiv:2601.00227](https://arxiv.org/abs/2601.00227) | [arxiv.org](https://arxiv.org/abs/2601.00227v1) | [B station](https://www.bilibili.com/video/BV1XMX5BZEGF)
+- **1. BitNet 1.58b：微软开源的3值量化模型【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2402.17764) | [huggingface.co](https://huggingface.co/microsoft/bitnet-b1.58-2B-4T) | [github.com](https://github.com/microsoft/BitNet) | [B station](https://www.bilibili.com/video/BV1kG6jBSE3u)
+- **2. AWQ：一种保护关键权重的LLM量化算法【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2306.00978) | [github.com](https://github.com/mit-han-lab/llm-awq) | [github.com](https://github.com/casper-hansen/AutoAWQ) | [B station](https://www.bilibili.com/video/BV16H6EBHEP5)
+- **3. GPTQ：一种纯数学的LLM量化方法【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2210.17323) | [github.com](https://github.com/AutoGPTQ/AutoGPTQ) | [B station](https://www.bilibili.com/video/BV1aXzXBNE4A)
+- **4. SmoothQuant：一种转嫁压力的LLM量化方法【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2211.10438) | [github.com](https://github.com/mit-han-lab/smoothquant) | [B station](https://www.bilibili.com/video/BV1RyzXB6Eyz)
+- **7. SlimAttention：一种比FlashAttention更适合CPU的推理方案【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2407.07304) | [github.com](https://github.com/intel/xFasterTransformer) | [B station](https://www.bilibili.com/video/BV1MUzZBVEtV)
+- **8. PagedAttention：借鉴操作系统分页机制，内置于vLLM【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2309.06180) | [github.com](https://github.com/vllm-project/vllm) | [B station](https://www.bilibili.com/video/BV1Ht6wBVEUX)
+- **9. FlashAttention：将Attention的显存占用从平方级降到了线性级【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2205.14135) | [github.com](https://github.com/Dao-AILab/flash-attention) | [B station](https://www.bilibili.com/video/BV1C66YBvECv)
+- **10. NF4：QLoRA中的非均匀量化数据类型【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2305.14314) | [github.com](https://github.com/artidoro/qlora) | [github.com](https://github.com/TimDettmers/bitsandbytes) | [B station](https://www.bilibili.com/video/BV1qA6BBKEck)
+- **11. GQA：介于MHA和MQA之间，键值共享查询分组【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2305.13245) | [github.com](https://github.com/meta-llama/llama3) | [B station](https://www.bilibili.com/video/BV19u6BBwEQ8)
+- **12. RoPE：通过旋转矩阵让注意力只取决于相对位置【每天一个宝藏名词】** - [github.com](https://github.com/ZhuiyiTechnology/roformer) | [arxiv.org](https://arxiv.org/pdf/2104.09864) | [B station](https://www.bilibili.com/video/BV1gQ6iBREZw)
+- **15. 投机解码：小模型草拟，大模型验证【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/2302.01318) | [github.com](https://github.com/vllm-project/vllm) | [B station](https://www.bilibili.com/video/BV1yS6zBXEVu)
+- **27. 在线Softmax：通过修正比安全Softmax减少了一次循环【每天一个宝藏名词】** - [arxiv.org](https://arxiv.org/pdf/1805.02867) | [B station](https://www.bilibili.com/video/BV1c1c7zzEb4)
 - **54. bf16：与FP32有相同的8位指数位，所以更适合模型训练【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1DvPhzeE3R)
-- **24. 思维树：大模型+DFS玩24点游戏成功率大增【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1gtcbzDENr)
-- **26. TinyML：MIT推出的大模型轻量化课，亲手量化一个本地llama模型【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1CPcJzLELq)
-- **5. CS336：斯坦福LLM神课，甚至包含洗数据和SFT【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV12pzXBREPY)
-- **18. CCF-DDL：一个统计CCF分类和倒计时的宝藏网站【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1Jif9BeEYE)
-- **6. nano-vLLM：纯python实现的堪比vLLM的推理框架【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1FTzfBcE3h)
-- **38. miniSGLang：一个简化版SGLang，仅5000行python【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1obA6zeEtE)
+- **24. 思维树：大模型+DFS玩24点游戏成功率大增【每天一个宝藏名词】** - [arXiv:2305.10601](https://arxiv.org/abs/2305.10601) | [arxiv.org](https://arxiv.org/abs/2305.10601) | [github.com](https://github.com/princeton-nlp/tree-of-thought-llm) | [B station](https://www.bilibili.com/video/BV1gtcbzDENr)
+- **26. TinyML：MIT推出的大模型轻量化课，亲手量化一个本地llama模型【每天一个宝藏名词】** - [youtube.com](https://www.youtube.com/watch?v=rCFvPEQTxKI&list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) | [github.com](https://github.com/mit-han-lab/tinyml) | [github.com](https://github.com/PKUFlyingPig/MIT6.5940_TinyML) | [B station](https://www.bilibili.com/video/BV1CPcJzLELq)
+- **5. CS336：斯坦福LLM神课，甚至包含洗数据和SFT【每天一个宝藏名词】** - [youtube.com](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) | [github.com](https://github.com/stanford-cs336/) | [B station](https://www.bilibili.com/video/BV12pzXBREPY)
+- **18. CCF-DDL：一个统计CCF分类和倒计时的宝藏网站【每天一个宝藏名词】** - [ccfddl.cn](https://ccfddl.cn/) | [github.com](https://github.com/ccfddl/ccf-deadlines) | [B station](https://www.bilibili.com/video/BV1Jif9BeEYE)
+- **6. nano-vLLM：纯python实现的堪比vLLM的推理框架【每天一个宝藏名词】** - [github.com](https://github.com/GeeeekExplorer/nano-vllm) | [B station](https://www.bilibili.com/video/BV1FTzfBcE3h)
+- **38. miniSGLang：一个简化版SGLang，仅5000行python【每天一个宝藏名词】** - [github.com](https://github.com/sgl-project/mini-sglang) | [B station](https://www.bilibili.com/video/BV1obA6zeEtE)
 - **43. everything：比Windows默认文件搜索工具快很多，2MB的免费小工具【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1iRArzqEvU)
 - **48. NoteBookLM：Google的PPT制作神器，还有思维导图等一系列功能【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1MUP5zDEmj)
 - **50. 环境变量的工作原理：控制台启动时自动执行命令，让简写命令找到在哪执行【每天一个宝藏名词】** - [B station](https://www.bilibili.com/video/BV1zXP7zyEbD)
+- **[Self-Evolving][01] 自进化/提升 Agent（上下文/记忆进化，参数进化，结构进化）** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | [B station](https://www.bilibili.com/video/BV1RZuy6CEA1)
+- **[Self-Evolving][02] DarwinX：Harness自进化（遗传算法）** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | [B station](https://www.bilibili.com/video/BV1my8x6AEYL)
+- **[Self-Evolving][03] SkillEvo：自进化 Skill** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | [B station](https://www.bilibili.com/video/BV1EKeh6uEby)
+- **[Self-Evolving][04] RSI：AI的最终目标，自己迭代优化自己** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | [B station](https://www.bilibili.com/video/BV16xah6BEhK)
+- **[Self-Evolving][05] MASS：多智能体系统自动设计与优化，从局部模块优化、拓扑结构搜索到全局联合优化** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Self-Evolving.md) | [B station](https://www.bilibili.com/video/BV1oLpM6CEeP)
+- **[Agentic RL][01] 练习两天半，完全从零开始实现PPO算法（基于Qwen2.5-0.5B），不依赖第三方强化学习框架，从原理讲解到代码实现** - [B station](https://www.bilibili.com/video/BV1CHQDYHEsU)
+- **[Agentic RL][02] 练习两周半，完全从零开始实现GRPO算法(不依赖第三方RL框架，并在Qwen2.5-1.5B上训练测试)，从原理到代码讲解** - [B station](https://www.bilibili.com/video/BV1XQLiz7EvY)
+- **[Agentic RL][03] 练习两天半，完全从零开始实现DAPO算法（使用Qwen2.5-1.5B模型测试），从原理讲解、代码实现到训练展示全流程** - [B station](https://www.bilibili.com/video/BV1GRJ7zMEMz)
+- **[Agentic RL][04] 练习两天半，完全搞懂什么是无监督强化学习（复现TTRL），清晰易懂，你值得拥有** - [B station](https://www.bilibili.com/video/BV12P3HzJE3s)
+- **[Agentic RL][05] 练习两天半，教你如何使用verl框架进行强化学习（环境安装、数据集处理、奖励函数构建、重要参数解析、debug）** - [B station](https://www.bilibili.com/video/BV14PuRzrEoE)
+- **[Agentic RL][06] 练习两天半，使用verl实现code-r1（agent-rl，verl二次开发），原理到代码实现全流程解读** - [B station](https://www.bilibili.com/video/BV1Pk8vziEdY)
+- **[Agentic RL][07] 超级详细的GSPO（GRPO又一变体，Qwen出品，必属精品）原理解读，你值得拥有！** - [B station](https://www.bilibili.com/video/BV1MEtZzeEif)
+- **[Agentic RL][08] 专为优化Agent而生的强化学习方法，基于熵自适应策略的采样，让你的Agent更会探索** - [B station](https://www.bilibili.com/video/BV1zvebzDE6p)
+- **[Agentic RL][09] 练习两天半，实现基于规则奖励的RLOO强化学习算法（Qwen2.5-7B测试，对比GRPO），从原理讲解到代码解读全流程** - [B station](https://www.bilibili.com/video/BV1p9hezAEsE)
+- **[Agentic RL][10] 练习两天半，从零实现ReMax强化学习算法（基于Qwen2.5-7B测试），从原理到代码实现，你绝对学得会** - [B station](https://www.bilibili.com/video/BV1hLazztEMv)
+- **[Agentic RL][11] 练习两天半，从零复现reinforce++和reinforce++-baseline算法，从原理到代码实现，清晰易懂，一眼就会** - [B station](https://www.bilibili.com/video/BV1ttYKzPEy6)
+- **[Agentic RL][12] 练习两天半，教你如何使用verl的multi-turn tool agent，从数据处理、配置文件修改到源码debug** - [B station](https://www.bilibili.com/video/BV1cHpEzhEwP)
+- **[Agentic RL][13] VeRL强化学习实用教程：自定义奖励计算的若干方法，从简单到复杂，覆盖所有应用需求** - [B station](https://www.bilibili.com/video/BV1seqHBFEGx)
+- **[Agentic RL][14] Agent is all you need，verl自定义Agent Loop（python code交互）** - [B station](https://www.bilibili.com/video/BV18UBMBKEAV)
+- **[Agentic RL][15] verl参数怎么看，今天就给你们来个保姆级的教程** - [B station](https://www.bilibili.com/video/BV11WiFBYEV9)
+- **[Agentic RL][16] 强化学习（verl）训练日志怎么看，今天就给你们来个保姆级的教程~** - [B station](https://www.bilibili.com/video/BV1PwrrBtENk)
+- **[Agentic RL][17] 闭关一坤天，从零复现GDPO算法（英伟达出品，简单但有效），从原理到代码实现，喂饭级讲解** - [B station](https://www.bilibili.com/video/BV1oyzCBUEXm)
+- **[Agentic RL][18] MiniMax M2.5背后的RL算法：CISPO 完全解读** - [B station](https://www.bilibili.com/video/BV1aAZCBpEpa)
+- **[Agentic RL][19] 给PPO加上双重保险（双裁剪机制），让PPO稳中加稳** - [B station](https://www.bilibili.com/video/BV1NnfbBBEEZ)
+- **[Agentic RL][20] SAPO机制详解，大概率是Qwen3.5所用后训练算法（公式有点多，但很容易看懂）** - [B station](https://www.bilibili.com/video/BV1zyAzziEXD)
+- **[Agentic RL][21] GiGPO算法详解 & VeRL-Agent-Loop VS VeRL-Agent** - [B station](https://www.bilibili.com/video/BV1zfwEzkEZZ)
+- **[Agentic RL][22] MAPO：Mixed Advantage Policy Optimization** - [B station](https://www.bilibili.com/video/BV1dpQrBuELL)
+- **[Agentic RL][23] RL is all you need！verl core algos最全讲解！** - [B station](https://www.bilibili.com/video/BV1sy9gBrEr6)
+- **[Agentic RL][24] slime：自定义程度最高的RL框架，从环境搭建（docker or conda）到开始训练** - [B station](https://www.bilibili.com/video/BV1uidpBpEvF)
+- **[Agentic RL][25] slime自定义Agentic RL流程，带你实现一个Code Agent训练** - [github.com](https://github.com/wyf3/all-in-ai/tree/main/post_training/code-r1-slime) | [B station](https://www.bilibili.com/video/BV1Xvo9B7ETK)
+- **[Agentic RL][26] slime coding agent rl，使用claude code框架做强化学习，代码搭配示例讲解，通俗易懂** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | [B station](https://www.bilibili.com/video/BV1DoTq65EMM)
+- **[Agentic RL][27] slime multi-agent rl，solver/rewriter/selector agent** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | [B station](https://www.bilibili.com/video/BV1iyMn6GEku)
+- **[Agentic RL][28] ECHO：改善Agentic RL长程任务上下文过长、奖励分配问题** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | [B station](https://www.bilibili.com/video/BV1PV3g6eExL)
+- **[Agentic RL][29] MaxRL：从三个视角用最大似然重新理解强化学习** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | [B station](https://www.bilibili.com/video/BV1nvbD6pEyU)
+- **[Agentic RL][30] CompactionRL：让模型学会压缩上下文** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | [B station](https://www.bilibili.com/video/BV1va4X6jEf7)
+- **[Agentic RL][31] SAO：GLM 5.2/5.3 的选择，让 Agentic RL 更高效** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | [B station](https://www.bilibili.com/video/BV1vibH6FEMe)
+- **从SFT、通用能力强化、Agent能力强化到RLHF，一个开源完整的LLM训练方案** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/RL.md) | [B station](https://www.bilibili.com/video/BV1YSHx6nETN)
+- **练习两周半，使用Qwen2.5-0.5B和SigLIP从零开始训练多模态大模型，从预训练到SFT完整流程，让你真正搞懂多模态大模型** - [B station](https://www.bilibili.com/video/BV1HTzEYbEv3)
+- **练习不到两天半，完全从零开始训练大模型，从训练tokenizer到预训练再到SFT全流程，让你完全搞懂大语言模型** - [B station](https://www.bilibili.com/video/BV13Ci6YYEUY)
+- **多模态大模型都在用的SigLIP，完全从零开始实现，原理、模型结构到训练代码，你肯定学得会** - [B station](https://www.bilibili.com/video/BV1i6kBYEELj)
+- **练习两天半，完全从零开始训练混合专家模型（MoE），从预训练到SFT全流程代码实现，搭配实例讲解MoE前向传播，绝对让你搞懂混合专家模型** - [B station](https://www.bilibili.com/video/BV1garHYdEoN)
+- **续上集（完全从零开始训练混合专家模型），效果展示与对比** - [B station](https://www.bilibili.com/video/BV1trcwe2EW1)
+- **研究两天半，让你完全搞懂DeepSeek多头潜在注意力机制（MLA）的原理与实现，搭配详细注释的代码，你完全学得会** - [B station](https://www.bilibili.com/video/BV1wVfGYfEq9)
+- **练习两天半，完全从零开始实现DeepSeek-V3的MTP(魔改Qwen2.5-0.5B)，从原理到代码实现，让你明白为什么DeepSeek快的飞起** - [B station](https://www.bilibili.com/video/BV1kePceVEap)
+- **练习两天半，从零实现多模态大模型（多图场景，多轮对话），从原理讲解到代码实现，搭配流程图，清晰易懂** - [B station](https://www.bilibili.com/video/BV1ZeT2zcEee)
+- **闭关两周半，完全从零开始实现Qwen3-Next模型（参数60M，线性注意力GatedDeltaNet），从架构原理到代码实现，绝对是你能找到的最详细的讲解** - [B station](https://www.bilibili.com/video/BV1f8sdziERA)
+- **Qwen3-Next到Kimi-Linear，混合线性注意力架构超越Softmax注意力，带你深度了解Kimi-Linear架构原理** - [B station](https://www.bilibili.com/video/BV1ZBUHB2Emx)
+- **练习两天半，完全从零开始实现DeepSeek Sparse Attention（DSA，DS-V3.2-Exp），从原理讲解到代码训练全流程，你一定要看** - [B station](https://www.bilibili.com/video/BV1MQSvBuEbb)
+- **研究两天半，让你完全搞懂DeepSeek的Engram模块原理与实现，清晰流程搭配详细代码注释，一看就懂** - [B station](https://www.bilibili.com/video/BV1vt6tBuEjz)
+- **蒸蚌！从零开始实现DeepSeek的mHC，从原理到完整代码实现，一学一个笑嘻嘻** - [B station](https://www.bilibili.com/video/BV1diFHzMEsj)
+- **练习两天半，从零实现kimi注意力残差，让马斯克点赞的kimi最新架构** - [B station](https://www.bilibili.com/video/BV1MzAwzLEqN)
+- **练习两天半，从零实现DeepSeek V4 CSA&HCA模块，原理讲解搭配最简代码实现，一看就懂** - [B station](https://www.bilibili.com/video/BV1svo1BjEB4)
+- **GLM5.2 IndexShare/KVShare讲解，更长的上下文，更低的成本，更快的速度** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/LLM%E6%9E%B6%E6%9E%84.md) | [B station](https://www.bilibili.com/video/BV1BXTC63Eqx)
+- **KIMI K3的三个核心架构：KDA、Attention Residuals和Stable LatentMoE** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/LLM%E6%9E%B6%E6%9E%84.md) | [B station](https://www.bilibili.com/video/BV1PrgX6HEdg)
+- **recurrent depth，gpt-6-astra的新架构？让模型无声的思考** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/LLM%E6%9E%B6%E6%9E%84.md) | [B station](https://www.bilibili.com/video/BV1UqYJ6sErE)
+- **开源决策模型 Laya（Jev开源版）架构与训练详解** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/LLM%E6%9E%B6%E6%9E%84.md) | [B station](https://www.bilibili.com/video/BV1LshX6dE1x)
+- **[知识蒸馏][01] 耗时两天半，完全从零开始实现大模型知识蒸馏（Qwen2.5系列模型），从原理讲解、代码实现到效果测试，绝对让你搞懂模型蒸馏** - [B station](https://www.bilibili.com/video/BV1kQcoetEFM)
+- **[知识蒸馏][02] 练习两分半，使用DeepSeek-R1蒸馏训练自己的本地小模型（Qwen2.5-0.5B），原理流程全讲解，模型数据全给你** - [B station](https://www.bilibili.com/video/BV1ekN2ebE68)
+- **[知识蒸馏][03] 闭关两天半，完全从零开始实现Embedding模型知识蒸馏（学生模型Qwen3-Embedding-0.6B，教师模型4B/8B）** - [B station](https://www.bilibili.com/video/BV1rtpRzwEsE)
+- **[知识蒸馏][04] 闭关2.5天，Embedding模型微调VS蒸馏（Qwen3-0.6B），谁更胜一筹，数据会告诉你答案，从原理流程、代码实现到结果分析** - [B station](https://www.bilibili.com/video/BV12BnnzzEgq)
+- **[知识蒸馏][05] 闭关两天半，从零实现大模型Logits知识蒸馏（Cross-Tokenizer，GLM4-9B-->Qwen2.5-0.5B）** - [B station](https://www.bilibili.com/video/BV1LnCyBfEo7)
+- **[知识蒸馏][06] 闭关两天半，完全从零实现大模型RL知识蒸馏（On Policy Distillation，Qwen2.5），你值得拥有** - [B station](https://www.bilibili.com/video/BV1yN29BrEjk)
+- **[知识蒸馏][07] 练习两天半，从零实现SDFT(Self-Distillation Enables Continual Learning)** - [B station](https://www.bilibili.com/video/BV1ETNMzEEKa)
+- **[知识蒸馏][08] 练习两周半，从零实现SDPO（Reinforcement Learning via Self-Distillation)** - [B station](https://www.bilibili.com/video/BV16hSUBFEej)
+- **[知识蒸馏][09] on policy distillation(OPD)中的kl散度详解** - [B station](https://www.bilibili.com/video/BV1iPRbByE5Z)
+- **[知识蒸馏][10] TCOD:将课程学习加入On-Policy Distillation，改善Agent蒸馏场景下的不稳定性** - [arXiv:2604.24005](https://arxiv.org/abs/2604.24005) | [arxiv.org](https://arxiv.org/abs/2604.24005) | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [B station](https://www.bilibili.com/video/BV1MZLu6JETz)
+- **[知识蒸馏][11] Uni-OPD：从教师学生双视角优化OPD，提升教师模型监督可靠性、学生模型探索多样性** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [github.com](https://github.com/wyf3/all-in-ai/blob/main/post_training/Uni-OPD/uni_opd_minimal_demo.py) | [B station](https://www.bilibili.com/video/BV1aYG26nEGc)
+- **[知识蒸馏][12] 一个很容易被忽略但是很重要的问题：为什么OPD中一般不直接使用reverse kl backward？** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [B station](https://www.bilibili.com/video/BV1sAVE6cEYE)
+- **[知识蒸馏][13] slime里面的on-policy distillation的实现逻辑** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [B station](https://www.bilibili.com/video/BV1Kq7X66Eqs)
+- **[知识蒸馏][14] ROPD：闭源大模型作为教师模型如何OPD** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/post_training/ROPD/minimal_ropd_demo.py) | [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [B station](https://www.bilibili.com/video/BV1cHJE66EKi)
+- **[知识蒸馏][15] 改善OPD中教师监督不可靠问题（轨迹级、prefix级、token级等）** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [B station](https://www.bilibili.com/video/BV18mjo6sEty)
+- **[知识蒸馏][16] Multi-teacher On-policy Distillation，将多个模型能力整合进一个模型** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [B station](https://www.bilibili.com/video/BV1ifKN6fExX)
+- **[知识蒸馏][17] ExOPD：On-policy Distillation中学生模型如何超过教师模型** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [B station](https://www.bilibili.com/video/BV1ai396qEGo)
+- **[知识蒸馏][18] OmniOPD：不限教师模型来源，Logit-Free OPD** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md) | [B station](https://www.bilibili.com/video/BV1YRYe6uEbY)
+- **[Agent][01] 练习两天半，从零开始实现Deep Research（DeepSeek自动生成带插图的markdown报告），原理讲解到代码实现** - [B station](https://www.bilibili.com/video/BV1RyZZY3E7n)
+- **[Agent][02] 练习两周半，完全从零开始实现Manus（LangGraph，智能数据分析报告生成），原理、流程到代码，让Agent不再神秘** - [B station](https://www.bilibili.com/video/BV1SBM2zHEAQ)
+- **[Agent][03] 练习两天半，让Gemini DeepResearch同时具备网络搜索和知识库检索能力，适配本地大模型，快来试试吧！** - [B station](https://www.bilibili.com/video/BV1w939zKEPD)
+- **[Agent][04] Clawdbot/Moltbot使用本地大模型服务和自定义Skills，不用担心自己的token耗光光了** - [B station](https://www.bilibili.com/video/BV1kGz9BHEhn)
+- **[Agent][05] 解读KIMI K2.5 Agent Swarm，下一代Agent主流架构** - [B station](https://www.bilibili.com/video/BV1idcbzhEX6)
+- **[Agent][06] Openclaw(nanobot) Agent架构剖析，最容易看懂的喂饭级解读** - [B station](https://www.bilibili.com/video/BV1aJwyzNEQE)
+- **[Agent][07] MCP-->CLI，双层渐进式披露，Agent时代的上下文工程** - [B station](https://www.bilibili.com/video/BV1HxXGBBESv)
+- **[Agent][08] Loop Engineering原理解读（以Codex Goal为例），简单易懂，清晰明了** - [github.com](https://github.com/wyf3/all-in-ai/blob/main/notebook/Agent.md) | [B station](https://www.bilibili.com/video/BV1fWjC6YEvj)
+- **[数据合成][01] Search Agent数据合成（图谱多跳推理、实体模糊、去噪轨迹生成）** - [B station](https://www.bilibili.com/video/BV1EoDyBSENx)
+- **[数据合成][02] magpie: 不依赖任何种子数据集或人工指令构建的指令数据合成(SFT数据)** - [github.com](https://github.com/wyf3/all-in-ai/tree/main/data_synthesis/magpie/magpie) | [B station](https://www.bilibili.com/video/BV1KWR7BAEsb)
+- **将图片或PDF中复杂的表格数据转成纯文本输入大模型，如何保持表格文字的排版布局不变？** - [B station](https://www.bilibili.com/video/BV1hJvQeyEZS)
+- **Qwen2-VL-7B实现精准pdf转markdown，从原理、代码实现、存在问题以及优化方向全流程讲解** - [B station](https://www.bilibili.com/video/BV1hHHZe8E4s)
+- **版面分析模型结合Qwen2-VL-7B，大幅提升gptpdf解析效果，代码实现更简洁、更高效** - [B station](https://www.bilibili.com/video/BV1n7pbeeEUD)
+- **PDF转HTML格式，专精于OCR识别的多模态大模型，适配多场景多功能。从原理到效果实测，带你一步一步解析。** - [B station](https://www.bilibili.com/video/BV1sitMebEiN)
+- **0.5B小模型将原始HTML完美转换为干净的Markdown，或许专用场景的小模型才是未来主流** - [B station](https://www.bilibili.com/video/BV1tztve3En3)
+- **不需要提取PDF，多模态大模型直接交互？通过MiniCPM-V-2.6进行测试，从模型本地部署到多图推理全流程** - [B station](https://www.bilibili.com/video/BV1XisXexE9D)
+- **1B多模态小模型只用于图片中表格的结构化提取，支持latex，markdown，html三种格式，效果似乎有点难说** - [B station](https://www.bilibili.com/video/BV1grD7YiEVi)
+- **一张图带你搞懂GraphRAG** - [B station](https://www.bilibili.com/video/BV1K6bXetER6)
+- **GraphRAG太烧钱？Qwen2-7b本地部署GraphRAG，无需Ollama，从环境搭建到报错解决全流程** - [B station](https://www.bilibili.com/video/BV1Bg8pe8Ekb)
+- **本地大模型启动openai服务的N种方式，vllm，fastchat，llama factory，llama.cpp，ollama** - [B station](https://www.bilibili.com/video/BV1GF8ye2E1E)
+- **不知道GraphRAG怎么存储文档？知识图谱可视化，带你最直观的感受GraphRAG** - [B station](https://www.bilibili.com/video/BV1eW8meoE4Y)
+- **还通过命令行和GraphRAG互动？Local UI界面来啦，支持本地txt，pdf，docx和markdown格式文档** - [B station](https://www.bilibili.com/video/BV1AS42197AP)
+- **ollama启动向量模型服务本地部署GraphRAG，从报错到更改，带你定位源码，更改源码** - [B station](https://www.bilibili.com/video/BV1mH4y1c7r1)
+- **如何用GraphRAG加载csv数据？通过源码告诉你怎么更改配置文件，成功加载你的csv数据** - [B station](https://www.bilibili.com/video/BV1gDv1eFEBr)
+- **CVPR 2024 | 重新思考用于表面法线估计的归纳偏差** - [baegwangbin.github.io](https://baegwangbin.github.io/DSINE/) | [B station](https://www.bilibili.com/video/BV1wj421U7Hb)
+- **CVPR2024 | AI设计再升级，视觉元素轻松迁移** - [youtu.be](https://youtu.be/8g--nx3RyEQ) | [arxiv.org](https://arxiv.org/pdf/2311.17083.pdf) | [B station](https://www.bilibili.com/video/BV1qE421M7p5)
+- **CUHK+腾讯AI视频生成DynamiCrafter升级了！！！ 更好的动态、更高的分辨率、更强的连贯性！** - [doubiiu.github.io](https://doubiiu.github.io/projects/DynamiCrafter/) | [huggingface.co](https://huggingface.co/spaces/Doubiiu/DynamiCrafter) | [github.com](https://github.com/Doubiiu/DynamiCrafter) | [B station](https://www.bilibili.com/video/BV1dZ421U7wL)
+- **谷歌最新AI视频生成算法 Lumiere！支持文转视频、图转视频、视频风格化等** - [youtube.com](https://www.youtube.com/watch?v=wxLr02Dz2Sc) | [lumiere-video.github.io](https://lumiere-video.github.io/) | [B station](https://www.bilibili.com/video/BV1CU421o7dS)
+- **【AI视频生成】PIA：文本到图像模型中的即插即用模块实现个性化图像动画师** - [arXiv:2312.13964](https://arxiv.org/abs/2312.13964) | [pi-animator.github.io](https://pi-animator.github.io) | [github.com](https://github.com/open-mmlab/pia) | [arxiv.org](https://arxiv.org/abs/2312.13964) | [B station](https://www.bilibili.com/video/BV1Ma4y167mx)
+- **AI生成视频！港中大提出DynamiCrafter：使用视频扩散先验使开放域图像变成动画** - [arXiv:2310.12190](https://arxiv.org/abs/2310.12190) | [doubiiu.github.io](https://doubiiu.github.io/projects/DynamiCrafter/) | [arxiv.org](https://arxiv.org/abs/2310.12190) | [B station](https://www.bilibili.com/video/BV1M94y1775T)
+- **南洋理工大学提出VideoBooth：基于扩散的图像提示视频生成** - [arXiv:2312.00777](https://arxiv.org/abs/2312.00777) | [vchitect.github.io](https://vchitect.github.io/VideoBooth-project/) | [arxiv.org](https://arxiv.org/abs/2312.00777) | [github.com](https://github.com/Vchitect/VideoBooth) | [B station](https://www.bilibili.com/video/BV1994y1j7x7)
+- **字节跳动最新视频生成工作！像素跳动? Make Pixels Dance** - [makepixelsdance.github.io](https://makepixelsdance.github.io/) | [B station](https://www.bilibili.com/video/BV13N4y1U7E9)
+- **【AI视频生成】丝滑！视频版ControlNet来了! ControlVideo！** - [arXiv:2305.17098](https://arxiv.org/abs/2305.17098) | [ml.cs.tsinghua.edu.cn](https://ml.cs.tsinghua.edu.cn/controlvideo/) | [arxiv.org](https://arxiv.org/abs/2305.17098) | [B station](https://www.bilibili.com/video/BV1w8411Z75p)
+- **视频内容生成！Text2Performer：文本驱动的真人视频生成** - [github.com](https://github.com/yumingj/Text2Performer) | [arxiv.org](https://arxiv.org/pdf/2304.08483.pdf) | [B station](https://www.bilibili.com/video/BV19L411e7ud)
+- **AI语音初创公司 ElevenLab 用AI给Sora生成的视频配音！AI电影更进一步** - [twitter.com](https://twitter.com/elevenlabsio/status/1759240084342059260) | [B station](https://www.bilibili.com/video/BV1qS421N7FP)
+- **哈工大&清华提出VideoElevator！一种无需训练且即插即用的方法提升视频生成质量** - [videoelevator.github.io](https://videoelevator.github.io/) | [B station](https://www.bilibili.com/video/BV1pr421H7A9)
+- **AAAI2024 | UCMCTrack：具有均匀相机运动补偿的多目标跟踪** - [arXiv:2312.08952](https://arxiv.org/abs/2312.08952) | [github.com](https://github.com/corfyi/UCMCTrack) | [arxiv.org](https://arxiv.org/abs/2312.08952) | [B station](https://www.bilibili.com/video/BV1Kt4y1Z718)
+- **CVPR2023 | SeaThru-NeRF：散射介质中的神经辐射场** - [youtube.com](https://www.youtube.com/watch?v=oRMvTBBARKE) | [github.com](https://github.com/DWCTOD/CVPR2023-Papers-with-Code-Demo) | [B station](https://www.bilibili.com/video/BV11Y411r7tY)
+- **CVPR 2023 | Im2Hands :交互双手形状表征** - [youtube.com](https://www.youtube.com/watch?v=3yNGSRz564A) | [github.com](https://github.com/DWCTOD/CVPR2023-Papers-with-Code-Demo) | [jyunlee.github.io](https://jyunlee.github.io/) | [arxiv.org](http://arxiv.org/pdf/2302.14348) | [B station](https://www.bilibili.com/video/BV1a24y1V7c7)
+- **CVPR2023 | dToF一致的视频深度超分辨率** - [arXiv:2211.08658](https://arxiv.org/abs/2211.08658) | [arxiv.org](https://arxiv.org/abs/2211.08658) | [zhsun0357.github.io](https://zhsun0357.github.io/consistent_dtof_video/) | [B station](https://www.bilibili.com/video/BV1Ph41137qG)
+- **CVPR 2023｜又一个工作将人脸玩出新高度，代码开源** - [youtube.com](https://www.youtube.com/watch?v=Z-cmKVeXHvY) | [github.com](https://github.com/e4s2022/e4s) | [B station](https://www.bilibili.com/video/BV1wo4y1t7sF)
+- **CVPR2023 | MetaAI最新工作ImageBind，全能AI可学习6种不同模态！** - [arXiv:2305.05665](https://arxiv.org/abs/2305.05665) | [imagebind.metademolab.com](https://imagebind.metademolab.com/) | [github.com](https://github.com/facebookresearch/ImageBind) | [arxiv.org](https://arxiv.org/abs/2305.05665) | [B station](https://www.bilibili.com/video/BV1va4y1g7ck)
+- **CVPR2023！使用文本到图像扩散模型的开放词汇全景分割** - [jerryxu.net](https://jerryxu.net/ODISE/) | [B station](https://www.bilibili.com/video/BV1xm4y1a7ig)
+- **ECCV2022|AdaNeRF：自适应采样用于神经辐射场实时渲染！代码开源** - [github.com](https://github.com/thomasneff/AdaNeRF) | [bkunyun.com](https://www.bkunyun.com/wap/console?source=aistudy) | [B station](https://www.bilibili.com/video/BV1Xv4y1m762)
+- **ECCV2022|AdaNeRF：自适应采样用于神经辐射场实时渲染！讲解** - [arXiv:2207.10312](https://arxiv.org/abs/2207.10312) | [arxiv.org](https://arxiv.org/abs/2207.10312) | [B station](https://www.bilibili.com/video/BV1RW4y1s7Jp)
+- **IJCAI2022 | 最近很火哭脸特效，这个算法可以做到** - [arXiv:2205.01155](https://arxiv.org/abs/2205.01155) | [youtube.com](https://www.youtube.com/watch?v=qqqRx-z5l9k) | [arxiv.org](https://arxiv.org/abs/2205.01155) | [B station](https://www.bilibili.com/video/BV1bZ4y187de)
+- **外网超火哭脸特效，笑拉了** - [youtube.com](https://www.youtube.com/watch?v=GaK9dh8OvTc) | [B station](https://www.bilibili.com/video/BV1j34y1E7M4)
+- **SIGGRAPH 2022 | 给定小示例合成更大输出结果** - [youtube.com](https://www.youtube.com/watch?v=vwN7oy3z4CU) | [phtu-cs.github.io](https://phtu-cs.github.io/cvt-sig22/) | [B station](https://www.bilibili.com/video/BV1x54y1f7vy)
+- **SIGGRAPH 2022 | 给定小示例合成更大输出结果（讲解）** - [youtube.com](https://www.youtube.com/watch?v=vwN7oy3z4CU) | [phtu-cs.github.io](https://phtu-cs.github.io/cvt-sig22/) | [B station](https://www.bilibili.com/video/BV13S4y1h7yu)
+- **NVIDIA 的新 AI：即时神经图形！（英）** - [youtube.com](https://www.youtube.com/watch?v=j8tMk-GE8hY) | [nvlabs.github.io](https://nvlabs.github.io/instant-ngp/) | [nvlabs.github.io](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf) | [github.com](https://github.com/NVlabs/instant-ngp) | [B station](https://www.bilibili.com/video/BV1jZ4y1k7tw)
+- **NVIDIA 的新 AI：即时神经图形！（中英）** - [youtube.com](https://www.youtube.com/watch?v=j8tMk-GE8hY) | [nvlabs.github.io](https://nvlabs.github.io/instant-ngp/) | [nvlabs.github.io](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf) | [github.com](https://github.com/NVlabs/instant-ngp) | [B station](https://www.bilibili.com/video/BV1RF411E7w7)
+- **英伟达又一个GAN！PoE-GAN，AI绘图细节拉满，支持多模态输入** - [arXiv:2112.05130](https://arxiv.org/abs/2112.05130) | [youtube.com](https://www.youtube.com/watch?v=eaSTGOgO-ss) | [arxiv.org](http://arxiv.org/abs/2112.05130) | [deepimagination.cc](https://deepimagination.cc/PoE-GAN/) | [B station](https://www.bilibili.com/video/BV1sm4y1d7bm)
+- **英伟达又一个GAN！PoE-GAN，AI绘图细节拉满，速度更快（无字幕）** - [youtube.com](https://www.youtube.com/watch?v=eaSTGOgO-ss) | [B station](https://www.bilibili.com/video/BV1bS4y1r7ou)
+- **英伟达又一个GAN！PoE-GAN，AI绘图细节拉满，速度更快（英）** - [youtube.com](https://www.youtube.com/watch?v=eaSTGOgO-ss) | [B station](https://www.bilibili.com/video/BV1k341177DJ)
+- **AI击败近一半参赛者！编程版“阿法狗”AlphaCode惊世登场！** - [youtube.com](https://www.youtube.com/watch?v=vmfwx2DSDUc) | [mp.weixin.qq.com](https://mp.weixin.qq.com/s/AdXWadazw1Muo3kvj8BIBQ) | [deepmind.com](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) | [storage.googleapis.com](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | [B station](https://www.bilibili.com/video/BV1GS4y117ak)
+- **（中英字幕）AI击败近一半程序员！编程版“阿法狗”AlphaCode惊世登场！** - [youtube.com](https://www.youtube.com/watch?v=vmfwx2DSDUc) | [mp.weixin.qq.com](https://mp.weixin.qq.com/s/AdXWadazw1Muo3kvj8BIBQ) | [deepmind.com](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) | [storage.googleapis.com](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | [B station](https://www.bilibili.com/video/BV18u411d78B)
+- **（英文字幕）AI击败近一半程序员！编程版“阿法狗”AlphaCode惊世登场！** - [youtube.com](https://www.youtube.com/watch?v=vmfwx2DSDUc) | [mp.weixin.qq.com](https://mp.weixin.qq.com/s/AdXWadazw1Muo3kvj8BIBQ) | [deepmind.com](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) | [storage.googleapis.com](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | [B station](https://www.bilibili.com/video/BV14R4y1j7wi)
+- **【CV】下一代数字绘画即将到来！用于数字绘画的实用颜料混合** - [github.com](https://github.com/scrtwpns/pigment-mixing) | [scrtwpns.com](https://scrtwpns.com/mixbox.pdf) | [B station](https://www.bilibili.com/video/BV1Ka411y74u)
+- **【CV-】下一代数字绘画即将到来！用于数字绘画的实用颜料混合** - [youtube.com](https://www.youtube.com/watch?v=b2D_5G_npVI) | [github.com](https://github.com/scrtwpns/pigment-mixing) | [scrtwpns.com](https://scrtwpns.com/mixbox.pdf) | [B station](https://www.bilibili.com/video/BV1nq4y1b7ME)
+- **【CV】下一代数字绘画即将到来！用于数字绘画的实用颜料混合 two minute papers** - [youtube.com](https://www.youtube.com/watch?v=b2D_5G_npVI) | [github.com](https://github.com/scrtwpns/pigment-mixing) | [scrtwpns.com](https://scrtwpns.com/mixbox.pdf) | [B station](https://www.bilibili.com/video/BV1834y1y7XE)
+- **（中英）语言模型学习知识（开冰箱、拖鞋等行为），并用于交互环境中！** - [arXiv:2201.07207](https://arxiv.org/abs/2201.07207) | [youtu.be](https://youtu.be/CkyugWI3_fc) | [wenlong.page](https://wenlong.page/language-planner/) | [arxiv.org](https://arxiv.org/abs/2201.07207) | [github.com](https://github.com/huangwl18/language-planner) | [B station](https://www.bilibili.com/video/BV1xF411p7FS)
+- **语言模型学习知识（开冰箱、拖鞋等行为），并用于交互环境中！** - [arXiv:2201.07207](https://arxiv.org/abs/2201.07207) | [youtu.be](https://youtu.be/CkyugWI3_fc) | [wenlong.page](https://wenlong.page/language-planner/) | [arxiv.org](https://arxiv.org/abs/2201.07207) | [github.com](https://github.com/huangwl18/language-planner) | [B station](https://www.bilibili.com/video/BV17F411p7xq)
+- **港科大新作IICNet：可逆图像转换的通用框架，可用于分辨率、FPS、压缩等任务 | ICCV2021** - [arXiv:2109.04242](https://arxiv.org/abs/2109.04242) | [github.com](https://github.com/felixcheng97/IICNet) | [arxiv.org](https://arxiv.org/abs/2109.04242) | [reurl.cc](https://reurl.cc/3aQARV) | [B station](https://www.bilibili.com/video/BV1dQ4y1Q7bs)
+- **PIRenderer：通过语义神经渲染的可控肖像图像生成 | ICCV2021** - [github.com](https://github.com/RenYurui/PIRender) | [arxiv.org](https://arxiv.org/pdf/2109.08379.pdf) | [B station](https://www.bilibili.com/video/BV1Dh411p7gQ)
+- **华科&腾讯提出：基于Query的实例分割！代码已开源 | ICCV2021** - [arXiv:2105.01928](https://arxiv.org/abs/2105.01928) | [github.com](https://github.com/hustvl/QueryInst) | [arxiv.org](https://arxiv.org/abs/2105.01928) | [reurl.cc](https://reurl.cc/3aQARV) | [B station](https://www.bilibili.com/video/BV1ih411p7je)
+- **CodeNeRF：学习目标的形状和纹理的隐式3D神经表征，可合成新视角 | ICCV2021** - [arXiv:2109.01750](https://arxiv.org/abs/2109.01750) | [arxiv.org](https://arxiv.org/abs/2109.01750) | [github.com](https://github.com/wayne1123/code-nerf) | [B station](https://www.bilibili.com/video/BV1ub4y127i4)
+- **上科大：MVSNeRF -快速通用的辐射场重建！三个输入视图即可快速推理！ICCV2021** - [github.com](https://github.com/apchenstu/mvsnerf) | [apchenstu.github.io](https://apchenstu.github.io/mvsnerf/) | [reurl.cc](https://reurl.cc/3aQARV) | [B station](https://www.bilibili.com/video/BV1Bg411V7r8)
+- **复杂三维场景下的4D人体捕捉，解决遮挡以及抖动问题 ICCV2021 Oral** - [github.com](https://github.com/sanweiliti/LEMO) | [B station](https://www.bilibili.com/video/BV1Ky4y1G7YV)
+- **人人都可以跳宅舞的算法！利用神经辐射场进行人体建模！ICCV2021** - [arXiv:2105.02872](https://arxiv.org/abs/2105.02872) | [github.com](https://github.com/zju3dv/animatable_nerf) | [arxiv.org](https://arxiv.org/abs/2105.02872) | [reurl.cc](https://reurl.cc/3aQARV) | [B station](https://www.bilibili.com/video/BV1jL4y1Y7PR)
+- **悉尼大学&京东提出：最新视频防抖算法 OVS：边界外视图合成稳定的视频帧 | ICCV2021** - [arXiv:2108.09041](https://arxiv.org/abs/2108.09041) | [github.com](https://github.com/Annbless/OVS_Stabilization) | [arxiv.org](https://arxiv.org/abs/2108.09041) | [reurl.cc](https://reurl.cc/3aQARV) | [B station](https://www.bilibili.com/video/BV1gA411c7aj)
+- **AI视频修复！基于Event引导的视频帧重建和超分辨率 ICCV2021** - [youtube.com](https://www.youtube.com/watch?v=3Uc1MMiYiO4) | [reurl.cc](https://reurl.cc/3aQARV) | [B station](https://www.bilibili.com/video/BV1ko4y1U7QZ)
+- **PyMAF：更准确的三维人体姿态估计！基于金字塔网格对齐反馈循环 | ICCV2021 Oral** - [github.com](https://github.com/HongwenZhang/PyMAF) | [reurl.cc](https://reurl.cc/3aQARV（) | [B station](https://www.bilibili.com/video/BV1LP4y1x7cA)
+- **看图说话！端到端多模态理解！ICCV2021** - [ashkamath.github.io](https://ashkamath.github.io/mdetr_page/) | [github.com](https://github.com/DWCTOD/ICCV202) | [B station](https://www.bilibili.com/video/BV1gq4y1p7zw)
+- **Neural Holography 3D - 计算机生成高质量3D全息 | SIGGRAPH Asia 2021** - [youtube.com](https://www.youtube.com/watch?v=EsxGnUd8Efs) | [reurl.cc](https://reurl.cc/3aQARV) | [B station](https://www.bilibili.com/video/BV1Lq4y1K7YN)
+- **浙大 00 后本科生提出全新美颜算法！双下巴去除 | SIGGRAPH 2021** - [cad.zju.edu.cn](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm) | [B station](https://www.bilibili.com/video/BV1fM4y1N7Q5)
+- **年龄转换算法，合成不同年龄的人脸，代码已开源！SIGGRAPH 2021** - [youtu.be](https://youtu.be/X_pYC_LtBFw) | [github.com](https://github.com/yuval-alaluf/SAM) | [reurl.cc](https://reurl.cc/3aQARV（) | [B station](https://www.bilibili.com/video/BV1YL411E7p7)
+- **AI舞蹈动画合成系统，根据音乐自动生成高质量舞蹈！ | SIGGRAPH 2021** - [youtube.com](https://www.youtube.com/watch?v=V8MlYa_yhF0) | [netease-gameai.github.io](https://netease-gameai.github.io/ChoreoMaster/Paper.pdf) | [B station](https://www.bilibili.com/video/BV1wb4y1z7bs)
+- **AI魔法-无限循环！检测静止图像中的周期图案并变成动画，已有14万用户体验！SIGGRAPH 2021** - [youtu.be](https://youtu.be/BpApq2EPDXE) | [pub.res.lightricks.com](https://pub.res.lightricks.com/endless-loops/) | [B station](https://www.bilibili.com/video/BV1TX4y1A7kd)
+- **基于物理感知的单目三维人体运动捕捉 | SIGGRAPH 2021** - [gvv.mpi-inf.mpg.de](http://gvv.mpi-inf.mpg.de/projects/PhysAware/) | [gvv.mpi-inf.mpg.de](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf) | [github.com](https://github.com/DWCTOD/CVPR2021-Papers-w) | [B station](https://www.bilibili.com/video/BV1R64y1r7Zo)
+- **DeepFaceEditing -人脸编辑玩出花 | SIGGRAPH 2021** - [youtube.com](https://www.youtube.com/watch?v=I0H7w06SxwA) | [github.com](https://github.com/IGLICT/DeepFaceEditing-Jittor) | [geometrylearning.com](http://www.geometrylearning.com/DeepFaceEditing/) | [github.com](https://github.com/DWCTOD/CVPR2021-Papers-with-Code-Demo) | [B station](https://www.bilibili.com/video/BV1JB4y1u72o)
+- **虚拟角色合成优美逼真的动作 | SIGGRAPH 2021** - [youtube.com](https://www.youtube.com/watch?v=wySUxZN_KbM) | [github.com](https://github.com/xbpeng/DeepMimic) | [xbpeng.github.io](https://xbpeng.github.io/projects/AMP/index.html) | [github.com](https://github.com/DWCTOD/CVPR2021-Papers-with-Code-Demo) | [B station](https://www.bilibili.com/video/BV1rU4y1L7Nf)
+- **AgileGAN - Inversion-Consistent高质量肖像风格化迁移框架（字节+南洋理工） | Siggraph 2021** - [youtube.com](https://www.youtube.com/watch?v=o0HHIvOT_n0) | [github.com](https://github.com/GuoxianSong/AgileGAN) | [guoxiansong.github.io](https://guoxiansong.github.io/homepage/paper/AgileGAN.pdf) | [guoxiansong.github.io](https://guoxiansong.github.io/homepage/agilegan.html) | [B station](https://www.bilibili.com/video/BV1sw411Z7F4)
+- **给背景替换加“亿”点真实感，变换背景依然保留真实感的光照效果  | siggraph 2021** - [youtube.com](https://www.youtube.com/watch?v=rVP2tcF_yRI) | [louisbouchard.ai](https://www.louisbouchard.ai/backgrounds-with-lighting/) | [B station](https://www.bilibili.com/video/BV1DK4y1d7kM)
+- **南京大学提出LSP系统，实现实时照片级真实感 talking-head动画 | SIGGRAPH Asia 2021 代码已开源** - [arXiv:2109.10595](https://arxiv.org/abs/2109.10595) | [yuanxunlu.github.io](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/) | [arxiv.org](https://arxiv.org/abs/2109.10595) | [github.com](https://github.com/YuanxunLu/LiveSpeechPortraits) | [reurl.cc](https://reurl.cc/3aQARV) | [B station](https://www.bilibili.com/video/BV1qM4y137BN)
+- **分形生成模型 论文逐段精读【论文精读】** - [B station](https://www.bilibili.com/video/BV1jgRFYBEjh)
+- **具身智能奠基之作：Do as I Can, Not as I Say【论文精读】** - [B station](https://www.bilibili.com/video/BV1vzfTYiEvs)
+- **李飞飞团队最新图像编码器SOTA：Flow to the Mode【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2503.11056v1) | [kylesargent.github.io](https://kylesargent.github.io/flowmo) | [B station](https://www.bilibili.com/video/BV1fcdLYXEMx)
+- **反向传播被判死刑！？“去噪学习”杀疯了：NoProp【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2503.24322v1) | [B station](https://www.bilibili.com/video/BV1zY5qzxEPf)
+- **交大出品“数字打工人”终结996！PC Agent【论文精读】** - [updf.cn](https://www.updf.cn/pdf-edu) | [arxiv.org](https://arxiv.org/pdf/2412.17589) | [github.com](https://github.com/GAIR-NLP/PC-Agent) | [B station](https://www.bilibili.com/video/BV1AbLezxEKB)
+- **即插即用，5%>100%！清华高分论文Mona 【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2408.08345) | [github.com](https://github.com/Leiyi-Hu/mona) | [B station](https://www.bilibili.com/video/BV18aG2zcEwk)
+- **“LoRA已死，新王当立”参数再砍95%！LoRI【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2504.07448) | [github.com](https://github.com/juzhengz/LoRI) | [B station](https://www.bilibili.com/video/BV1up5uz8EHY)
+- **Attention被爆杀？VMamba原班人马颠覆Transformer！【vHeat论文精读】** - [arxiv.org](https://arxiv.org/pdf/2405.16555) | [github.com](https://github.com/MzeroMiko/vHeat) | [B station](https://www.bilibili.com/video/BV1b8JWzUEL9)
+- **单步秒生图！性能暴增50%！MeanFlow【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2505.13447v1) | [B station](https://www.bilibili.com/video/BV1DYT4zcEXF)
+- **颠覆传统！李飞飞团队用"AI杂交"暴砍98%算力成本！【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2506.05340v1) | [grafting.stanford.edu](https://grafting.stanford.edu/) | [B station](https://www.bilibili.com/video/BV1VHNdz5Eqa)
+- **我对市面上多款AI模型进行了人格测试： Lying in llama** - [chatboxai.app](https://chatboxai.app/en) | [B station](https://www.bilibili.com/video/BV1L8gSzGEFS)
+- **“残差已死，新王当立”效能提升240%！MUDDFormer【论文精读】** - [arXiv:2502.12170](https://arxiv.org/abs/2502.12170) | [github.com](https://github.com/Caiyun-AI/MUDDFormer) | [arxiv.org](https://arxiv.org/abs/2502.12170) | [huggingface.co](https://huggingface.co/Caiyun-AI/MUDDPythia-1.4B) | [huggingface.co](https://huggingface.co/Caiyun-AI/MUDDPythia-2.8B) | [B station](https://www.bilibili.com/video/BV1zt3jztE1Z)
+- **Bengio亲手戳穿CoT神话！25％顶会论文遭打脸：CoT Is Not Explainability【论文精读】** - [alphaxiv.org](https://www.alphaxiv.org/abs/2025.02) | [B station](https://www.bilibili.com/video/BV1cmGWzQEP1)
+- **大模型告别逐字生成！并行推理提速200%！英伟达震撼发布：Multiverse【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2506.09991) | [github.com](https://github.com/Multiverse4FM/Multiverse) | [B station](https://www.bilibili.com/video/BV1zquMzaEDd)
+- **DiT被CNN爆杀！提速500%碾压Transformer：DiC【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2501.00603) | [github.com](https://github.com/YuchuanTian/DiC) | [B station](https://www.bilibili.com/video/BV1K8gTzGEZY)
+- **ICML'25神作！分隔符优化狂减50%KV缓存：SepLLM【论文精读】** - [arXiv:2412.12094](https://arxiv.org/abs/2412.12094) | [huggingface.co](https://huggingface.co/transformers-community/sep_cache) | [sepllm.github.io](https://sepllm.github.io/) | [arxiv.org](https://arxiv.org/abs/2412.12094) | [github.com](https://github.com/HKUDS/SepLLM) | [B station](https://www.bilibili.com/video/BV1CDbkzJEnD)
+- **谷歌DeepMind再放大招！推理提速100%，KV缓存减半：MoR【论文精读】** - [alphaxiv.org](http://alphaxiv.org/abs/2507.10524) | [B station](https://www.bilibili.com/video/BV1as8dzBEJh)
+- **DeepSeek下一代技术曝光！梁文锋获ACL'25最佳论文奖: NSA【论文精读】** - [arXiv:2502.11089](https://arxiv.org/abs/2502.11089) | [arxiv.org](https://arxiv.org/abs/2502.11089) | [B station](https://www.bilibili.com/video/BV1JrhWzhELd)
+- **3秒复刻灵笼！CosyVoice三部曲深度解析【论文精读】** - [B station](https://www.bilibili.com/video/BV1FotszbEYt)
+- **Transformer颤抖吧！我CNN又回来了！OverLoCK【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2502.20087) | [B station](https://www.bilibili.com/video/BV1KmbYzhEL9)
+- **为啥AI很难处理数量问题？** - [arXiv:2505.23941](https://arxiv.org/abs/2505.23941) | [arxiv.org](https://arxiv.org/pdf/2406.16860) | [arxiv.org](https://arxiv.org/abs/2505.23941) | [github.com](https://github.com/anvo25/vlms-are-biased) | [B station](https://www.bilibili.com/video/BV1i9bszsE4b)
+- **突破Transformer！交大首发「类人脑」大模型BriLLM【论文精读】** - [arXiv:2503.11299](https://arxiv.org/abs/2503.11299) | [arxiv.org](https://arxiv.org/abs/2503.11299v7) | [github.com](https://github.com/brillm05/BriLLM0.5) | [huggingface.co](https://huggingface.co/BriLLM/BriLLM0.5) | [B station](https://www.bilibili.com/video/BV1nNYQz2Et5)
+- **从DiT到MMDiT：一个视频看懂AI作图背后的技术革命！** - [B station](https://www.bilibili.com/video/BV1EjaSzqEic)
+- **云组会 ｜ 5分钟速通4大视频生成顶会论文！** - [B station](https://www.bilibili.com/video/BV14EWMz1EhN)
+- **梁文锋带DeepSeek登上Nature封面！隐藏亮点大揭秘！【论文精读】** - [nature.com](https://www.nature.com/articles/s41586-025-09422-z) | [B station](https://www.bilibili.com/video/BV1ZSpQzJEu2)
+- **OpenAl最新研究揭开AI幻觉真相！元凶竟是人类自己！【论文精读】** - [B station](https://www.bilibili.com/video/BV14AnVznEMp)
+- **华人团队再登《Nature》！光学AI生成模型【论文精读】** - [B station](https://www.bilibili.com/video/BV1gh4Uz6Exo)
+- **砍掉90% Token！源神要颠覆大模型训练范式？** - [B station](https://www.bilibili.com/video/BV1BCszzXEFa)
+- **“LoRA已死，果蝇称王”——FlyLoRA【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2510.08396) | [B station](https://www.bilibili.com/video/BV1qaCTBdETG)
+- **打脸主流！大道至简！何恺明新作：JiT【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2511.13720) | [B station](https://www.bilibili.com/video/BV1MJyMBmEcu)
+- **何恺明进军《行测》领域！| AI已超人类平均水平！？VARC【论文精读】** - [B station](https://www.bilibili.com/video/BV1T5zzB9ERZ)
+- **Kimi K2.5: Visual Agentic Intelligence【论文精读】** - [B station](https://www.bilibili.com/video/BV1NoZCBjEZY)
+- **颠覆10年共识！马斯克叹服！Kimi：AttnRes【论文精读】** - [B station](https://www.bilibili.com/video/BV1tuwezwEi7)
+- **【硬核科普】什么是AI大模型的“可解释性”？** - [B station](https://www.bilibili.com/video/BV1cbXWBKEMd)
+- **ICLR "神作"！文言文「硬控」全网大模型，100%越狱！** - [B station](https://www.bilibili.com/video/BV1Jb9EB9Evj)
+- **你的ViT一直在用背景做分类！| LaSt-ViT【CVPR'26】** - [B station](https://www.bilibili.com/video/BV1onQEBGE4r)
+- **【论文精读】国运之争！深度剖析《2026斯坦福AI报告》** - [B station](https://www.bilibili.com/video/BV1xgoHBLEjd)
+- **真王回归！！！DeepSeek系列最全回顾！无缝衔接V4！** - [B station](https://www.bilibili.com/video/BV1FWoGByEyU)
+- **我受够了Transformer！连续思维机器: CTM【论文精读】** - [B station](https://www.bilibili.com/video/BV19F5d6DEpq)
+- **彻底取代VAE！训练速度提升1000%！RAEv2【论文精读】** - [B station](https://www.bilibili.com/video/BV1VSV961Eq5)
+- **何恺明&谢赛宁署名！谷歌：Vision Banana【论文精读】** - [B station](https://www.bilibili.com/video/BV1ChEu6mEgU)
+- **CVPR'26 最佳学生论文提名！ChordEdit【论文精读】** - [B station](https://www.bilibili.com/video/BV1h8Jc6gEe7)
+- **比肩Claude！国产第一回归！GLM-5.2【论文精读】** - [arXiv:2603.12201](https://arxiv.org/abs/2603.12201) | [z.ai](https://z.ai/blog/glm-5.2) | [arxiv.org](https://arxiv.org/abs/2603.12201) | [zhipuai.cn](https://www.zhipuai.cn/zh/research/159) | [lmsys.org](https://www.lmsys.org/blog/2026-04-10-sglang-hisparse/) | [B station](https://www.bilibili.com/video/BV1awjw6qEog)
+- **CVPR 2026最佳论文提名| Mapping Networks【论文精读】** - [arXiv:2602.19134](https://arxiv.org/abs/2602.19134) | [arxiv.org](https://arxiv.org/abs/2602.19134) | [B station](https://www.bilibili.com/video/BV13s786JEaz)
+- **梁圣亲自挂帅！V4超级Buff全解析！DSpark【论文精读】** - [github.com](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | [B station](https://www.bilibili.com/video/BV1UhTu6tEKs)
+- **AI意识诞生前夜！证实Claude存在意识层：J-Space** - [B station](https://www.bilibili.com/video/BV1JnMG6dEbi)
+- **你真的懂Scaling Law吗？一口气搞懂AI的“缩放定律”！** - [B station](https://www.bilibili.com/video/BV1aa3b6PE7h)
+- **仅720美元，破解顶级大模型的加密机制！** - [B station](https://www.bilibili.com/video/BV1VAgJ6uEs2)
+- **大佬集体押注物理AI！深度解析《物理AI与世界模型》！** - [arxiv.org](https://arxiv.org/pdf/2606.24253) | [arxiv.org](https://arxiv.org/pdf/2603.19979) | [arxiv.org](https://arxiv.org/pdf/2605.24892) | [arxiv.org](https://arxiv.org/pdf/2604.20289) | [B station](https://www.bilibili.com/video/BV1hX836hEpP)
+- **开源第一！把后训练做到极致！GLM-5.3【论文精读】** - [z.ai](https://z.ai/blog/glm-5.3) | [B station](https://www.bilibili.com/video/BV1Qa8c6NE7A)
+- **1步反超250步！扔掉扩散模型！Drifting【论文精读】** - [arXiv:2602.04770](https://arxiv.org/abs/2602.04770) | [arxiv.org](https://arxiv.org/abs/2602.04770) | [B station](https://www.bilibili.com/video/BV1PW4o6MEtn)
+- **提速32倍！何恺明语言模型处女作！ELF【论文精读】** - [arxiv.org](https://arxiv.org/pdf/2605.10938v1) | [github.com](https://github.com/lillian039/ELF) | [B station](https://www.bilibili.com/video/BV1sGbH61EBf)
+- **不训一个参数！准实时强化学习：JitRL【论文精读】** - [arXiv:2601.18510](https://arxiv.org/abs/2601.18510) | [arxiv.org](https://arxiv.org/abs/2601.18510) | [arxiv.org](https://arxiv.org/abs/2307.13854) | [arxiv.org](https://arxiv.org/abs/2411.02337) | [arxiv.org](https://arxiv.org/abs/2303.11366) | [B station](https://www.bilibili.com/video/BV1rtHW6oEGw)
+- **22位巨头重磅联名！当AI开始自我进化，我们的时间还剩多少？** - [arXiv:2609.36054](https://arxiv.org/abs/2609.36054) | [arxiv.org](https://arxiv.org/abs/2609.36054) | [B station](https://www.bilibili.com/video/BV1uLpR6wES4)
+- **中国AI基建全球领跑！这回真的遥遥领先了...【业界前沿】** - [B station](https://www.bilibili.com/video/BV1LPhYzmE4z)
+- **参数超10000亿！国产最强大模型Qwen3-max发布！【业界前沿】** - [B station](https://www.bilibili.com/video/BV1BBJSzuEs2)
+- **李飞飞万字长文爆了！定义AI下一个十年！** - [drfeifei.substack.com](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) | [B station](https://www.bilibili.com/video/BV14gkyBkEm6)
+- **华人团队重铸AI硬件新范式！光帆 Lightwear【业界前沿】** - [B station](https://www.bilibili.com/video/BV1giBVBSEMj)
+- **上线即破3000万月活！中美健康大模型哪家强？** - [B station](https://www.bilibili.com/video/BV1bYr8BqEsz)
+- **用过去十年25万篇论文！看懂AI下一个十年！** - [B station](https://www.bilibili.com/video/BV1ZwkTBpEsx)
+- **爆火Moltbook一夜塌房！狂刷50万假Clawdbot【业界前沿】** - [B station](https://www.bilibili.com/video/BV1ZzFNzcEkF)
+- **影视飓风夸爆的Seedance是如何实现的?【技术拆解】** - [B station](https://www.bilibili.com/video/BV1ywcgzREmx)
+- **Seedance 2.0已成过去式？实时世界模型来了！** - [B station](https://www.bilibili.com/video/BV15VcLzXE6m)
+- **千问3.5重磅开源！性能比肩Gemini3，成本仅为1/18** - [B station](https://www.bilibili.com/video/BV1aoZKBDEa2)
+- **史上最疯狂的科研直播！学术终结者“FARS”杀疯了！** - [B station](https://www.bilibili.com/video/BV1VnftBSE8V)
+- **【龙虾测评】一口气拆解OpenClaw/QClaw/CoPaw/AutoClaw...** - [B station](https://www.bilibili.com/video/BV1a8wtzWEtQ)
+- **断档第一！对标Claude Opus 4.6，GLM 5.1杀疯了！** - [B station](https://www.bilibili.com/video/BV1D1DrB8Eya)
+- **Hermes爆火背后“中国模型”！MiniMax M2.7能力全解析！** - [B station](https://www.bilibili.com/video/BV1K5o5BbEQp)
+- **【云组会】为什么说浏览器一定不会被AI取代？** - [B station](https://www.bilibili.com/video/BV18V9aBGEdU)
+- **算力无限时代！我用Mavis，控制Agent军团！** - [B station](https://www.bilibili.com/video/BV1g7L16pEZg)
+- **大语言模型已成过去式？今年智源大会释放3大关键信号！** - [B station](https://www.bilibili.com/video/BV1HPjc67E5p)
+- **匿名杀进全球前三！LongCat-2.0：纯国产卡训出万亿模型** - [longcat.ai](https://longcat.ai/blog/longcat-2.0/) | [huggingface.co](https://huggingface.co/meituan-longcat/LongCat-2.0) | [github.com](https://github.com/meituan-longcat/LongCat-2.0) | [modelscope.cn](https://www.modelscope.cn/collections/meituan-longcat/LongCat-20) | [B station](https://www.bilibili.com/video/BV1kcNQ6wEzc)
+- **国产荣光！全球最大的开源模型！KimiK3【深度解析】** - [kimi.com](https://www.kimi.com/blog/kimi-k3) | [kimi.com](https://www.kimi.com/blog/perception-bench) | [B station](https://www.bilibili.com/video/BV1pTNd6CEqa)
+- **还记得稚晖君和智元吗？这次他们整了个“大活”！** - [B station](https://www.bilibili.com/video/BV1RAuP6FEZc)
+- **视频界的Codex来了！AI短片生成迎来革命！** - [B station](https://www.bilibili.com/video/BV1fYui6ZE21)
+- **再见Claude Code！你好DeepSeek Harness！** - [B station](https://www.bilibili.com/video/BV1wugF6YEL3)
+- **奥特曼改口、黄仁勋泼冷水：大佬们最近在暗示同一件事！** - [B station](https://www.bilibili.com/video/BV1nAbe6gE6A)
+- **快GPT 200倍的Jev到底抄没抄？我扒开了Laya背后的论文** - [github.com](https://github.com/NandhaKishorM/laya) | [huggingface.co](https://huggingface.co/convaiinnovations/laya) | [B station](https://www.bilibili.com/video/BV1Vsaw62ERa)
+- **【AI大学习】什么是计算机视觉？** - [B station](https://www.bilibili.com/video/BV1X3Kh6oE5U)
+- **DeepSeek开源周：其团队已具备驱动定制能力** - [B station](https://www.bilibili.com/video/BV12bPveyEAW)
+- **NotebookLM使用经验分享｜手把手教学｜AI如何制作PPT｜拒绝模版化PPT** - [ncnsy3q858ov.feishu.cn](https://ncnsy3q858ov.feishu.cn/wiki/LC0swijPJiNK3tktVYUc4uYTnzb?from=from_copylink) | [B station](https://www.bilibili.com/video/BV1etXsBREMj)
+- **🔥2026年5月最新！Codex从零安装到实战：手搓PPT+高颜值网页【保姆级】** - [B station](https://www.bilibili.com/video/BV1175y6zE1Z)
+- **Openclaw的部署与常见应用｜20260311** - [B station](https://www.bilibili.com/video/BV1vB5k67E7D)
+- **Codex桌面版科研应用｜文档办公｜学术写作｜设计绘图｜基础/Skill/工作流全解析** - [B station](https://www.bilibili.com/video/BV1kHLU6jEoi)
+- **【前沿技术体验】Jev实测：System One低延迟决策模型** - [typesafe.ai](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | [typesafe.ai](https://typesafe.ai/) | [docs.typesafe.ai](https://docs.typesafe.ai/introduction) | [github.com](https://github.com/fhshaik/typesafe-mario) | [B station](https://www.bilibili.com/video/BV1nLH46YE5f)
+- **具身智能入门科普01：机器人学习 vs. 常规机器学习｜状态空间与观测空间：从全知到受限｜动作空间与控制模式｜行为克隆的核心问题｜Action Chunking** - [B station](https://www.bilibili.com/video/BV1TAbS6xELE)
+- **具身智能入门科普02：从VLM到VLA--OpenVLA、Octo与π₀具身智能架构解析** - [B station](https://www.bilibili.com/video/BV15q8t62EzR)
+- **具身智能入门科普3: 世界模型与世界动作模型；世界模型如何驱动机器人？UniPi、V-JEPA 2 与 DreamZero** - [arXiv:2302.00111](https://arxiv.org/abs/2302.00111) | [arxiv.org](https://arxiv.org/abs/2302.00111) | [arxiv.org](https://arxiv.org/abs/2506.09985) | [arxiv.org](https://arxiv.org/abs/2602.15922) | [arxiv.org](https://arxiv.org/abs/2502.20694) | [B station](https://www.bilibili.com/video/BV1Kitt68EyE)
+- **具身智能入门科普4: 具身推理｜具身智能为什么需要记忆？长程任务规划 × Agent Memory** - [B station](https://www.bilibili.com/video/BV1ZJbL61Ept)
+- **具身智能（Embodied AI）入门级别介绍 ｜具身智能与VLA: 构建可交互的未来** - [B station](https://www.bilibili.com/video/BV1Ba6RBnECT)
+- **CVPR'26 MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agent** - [arXiv:2511.23055](https://arxiv.org/abs/2511.23055) | [arxiv.org](https://arxiv.org/abs/2511.23055) | [B station](https://www.bilibili.com/video/BV1XpRdBjEhp)
+- **具身智能系列论文报告 ｜π₀: A Vision-Language-Action Flow Model for General Robot Control** - [arXiv:2410.24164](https://arxiv.org/abs/2410.24164) | [arxiv.org](https://arxiv.org/abs/2410.24164) | [B station](https://www.bilibili.com/video/BV11E6RBFEZM)
+- **Act2Goal: From World Model To GeneralGoal-conditioned Policy论文报告** - [arXiv:2512.23541](https://arxiv.org/abs/2512.23541) | [arxiv.org](https://arxiv.org/abs/2512.23541) | [B station](https://www.bilibili.com/video/BV13BRXBzES3)
+- **ICML 2026 | World-R1: Reinforcing 3D Constraints for Text-to-Video Generation** - [arXiv:2604.24764](https://arxiv.org/abs/2604.24764) | [arxiv.org](https://arxiv.org/abs/2604.24764) | [B station](https://www.bilibili.com/video/BV1j9GQ63Efm)
+- **大模型能帮你找到钥匙吗？PinpointQA：挑战室内小物体精准定位｜ECCV 2026 Workshop** - [arXiv:2604.08991](https://arxiv.org/abs/2604.08991) | [rainchowz.github.io](https://rainchowz.github.io/PinpointQA/) | [arxiv.org](https://arxiv.org/abs/2604.08991) | [mp.weixin.qq.com](https://mp.weixin.qq.com/s/siHZpy3AkU8LNDsESd1o6g) | [B station](https://www.bilibili.com/video/BV1WVRXBdE2F)
+- **OrbiSim:World Models as Differentiable Physics Engines for  Embodied Intelligenc** - [arxiv.org](https://arxiv.org/html/2605.16395v1) | [B station](https://www.bilibili.com/video/BV14YGQ6REQR)
+- **【具身智能】让机器人自己发现并修复不可执行任务｜FATE 闭环任务生成** - [B station](https://www.bilibili.com/video/BV15c4R6LEqh)
+- **【论文精读】机器人如何跟上人的节奏？基于视线与认知负荷的自适应调速** - [B station](https://www.bilibili.com/video/BV1g1ti6xELC)
+- **手把手带你读论文&报告论文&完整CVPR论文示范｜科研常识科普系列** - [B station](https://www.bilibili.com/video/BV1gAiUBGEow)
+- **面向科研小白的多模态大模型简介｜暑期科研训练录制视频** - [B station](https://www.bilibili.com/video/BV1trk4BtE5p)
+- **面向科研小白的生成式AI简介｜扩散模型科研｜暑期科研训练录制视频** - [B station](https://www.bilibili.com/video/BV11Pk4BXEeJ)
+- **Vibe Coding手把手教学｜科研常识科普系列** - [B station](https://www.bilibili.com/video/BV1fn6UBeExx)
+- **AutoDL科研实战：GPU云端环境配置与AI自动编程调试全流程** - [B station](https://www.bilibili.com/video/BV1an846BEP5)
+- **从论文到可运行 Baseline：Olaf-World 代码复现全流程｜AutoDL 实战** - [B station](https://www.bilibili.com/video/BV1ZJbL61EhM)
+- **【1/4】计算机视觉基础知识点讲解：图像张量表示与分类任务、传统分类算法原理、KNN、Softmax、梯度下降、正则化** - [B station](https://www.bilibili.com/video/BV1rwgN6kE19)
+- **【2/4】计算机视觉基础-从反向传播到ResNet：神经网络与CNN核心原理系统讲解** - [B station](https://www.bilibili.com/video/BV1WE8t6fEgg)
+- **【3/4】计算机视觉基础：目标检测与图像分割** - [arXiv:1311.2524](https://arxiv.org/abs/1311.2524) | [arxiv.org](https://arxiv.org/abs/1311.2524) | [arxiv.org](https://arxiv.org/abs/1506.02640) | [arxiv.org](https://arxiv.org/abs/2005.12872) | [arxiv.org](https://arxiv.org/abs/1505.04597) | [B station](https://www.bilibili.com/video/BV14itt68EdN)
+- **【科研入门】自监督与对比学习：串起 MAE、SimCLR、MoCo、DINO 和 CLIP** - [B station](https://www.bilibili.com/video/BV136ti6fEed)
+- **【1/4】生成模型基础知识点讲解** - [B station](https://www.bilibili.com/video/BV1kwgN6kEM5)
+- **【2/4】从Next Token Prediction到LoRA：自回归模型与Transformer原理详解** - [B station](https://www.bilibili.com/video/BV1an846BEPE)
+- **多模态情感计算：从情绪识别到情感推理综述报告** - [B station](https://www.bilibili.com/video/BV17HRDBkEmL)
+- **【CVPR 2026】2.2B 小模型也能理解情绪并产生共情？｜Nano-EmoX 论文精读** - [B station](https://www.bilibili.com/video/BV1gM4R66Et3)
+- **AI也有“读心术”？ICLR 2026新作：用ToM教模型真正理解情感** - [B station](https://www.bilibili.com/video/BV1g1Lx6aEzp)
+- **CVPR 2026 | EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning** - [arXiv:2602.23802](https://arxiv.org/abs/2602.23802) | [arxiv.org](https://arxiv.org/abs/2602.23802) | [B station](https://www.bilibili.com/video/BV17SXEBjEiX)
+- **CVPR 2026 | EmoStyle: Emotion-Driven Image Stylization** - [arXiv:2512.05478](https://arxiv.org/abs/2512.05478) | [arxiv.org](https://arxiv.org/abs/2512.05478) | [B station](https://www.bilibili.com/video/BV1HxXHB8EUA)
+- **【论文精读】大模型能当“共情裁判”吗？可靠性、专家一致性与评价偏差** - [B station](https://www.bilibili.com/video/BV1u1ti6xEzq)
+- **✨ 告别OLAT！CVPR 2026最佳候选：稀疏视角下的动态人物重光照技术** - [openaccess.thecvf.com](https://openaccess.thecvf.com/content/CVPR2026/html/Singh_Relightable_Holoported_Characters_Capturing_and_Relighting_Dynamic_Human_Performance_from_CVPR_2026_paper.html) | [vcai.mpi-inf.mpg.de](https://vcai.mpi-inf.mpg.de/projects/RHC/) | [B station](https://www.bilibili.com/video/BV1cwgN6CEDg)
+- **【CVPR 2025】SynthLight：用126万张合成人脸训练人像重打光模型** - [B station](https://www.bilibili.com/video/BV1PE8t6fEMR)
+- **Learning-based Human Relighting: A Survey (1/3) ｜ACM Computing Survey** - [B station](https://www.bilibili.com/video/BV1KjzqByE1Q)
+- **人脸重打光论文介绍｜DiFaReli: Diffusion Face Relighting | ICCV 2023** - [B station](https://www.bilibili.com/video/BV1nKk3BTEf7)
+- **POLAR: A Portrait OLAT Dataset and Generative Framework for  Illumination-Aware** - [B station](https://www.bilibili.com/video/BV1KJ5y6uEsh)
+- **【CVPR 2025】一张 HDR 环境图，重塑整段人像视频光影｜Lux Post Facto** - [B station](https://www.bilibili.com/video/BV1SM4R6zEvZ)
+- **【论文精读】GeoRelight：一张人像，如何联合重建三维几何与重光照？** - [B station](https://www.bilibili.com/video/BV1u1ti6xEsT)
+- **【科研入门】扩散模型基础｜ LDM、Score Matching、Classifier Guidance、Classifier-Free Guidance** - [arXiv:2006.11239](https://arxiv.org/abs/2006.11239) | [arxiv.org](https://arxiv.org/abs/2006.11239) | [arxiv.org](https://arxiv.org/abs/2010.02502) | [arxiv.org](https://arxiv.org/abs/2112.10752) | [arxiv.org](https://arxiv.org/abs/2207.12598) | [B station](https://www.bilibili.com/video/BV1Titt68EsZ)
+- **【科研入门】Flow Matching 在学什么？从 ODE、条件流匹配到 Rectified Flow** - [B station](https://www.bilibili.com/video/BV1G6ti6fExr)
+- **扩散模型（Diffusion Model）入门级别介绍** - [B station](https://www.bilibili.com/video/BV1zurDBCEoS)
+- **图像生成系列论文｜Can We Generate Images with COT?** - [B station](https://www.bilibili.com/video/BV1XD6fB9EQj)
+- **生成理解一体模型 ｜Unified Multimodal Understanding and Generation Models: Advances, C** - [arXiv:2505.02567](https://arxiv.org/abs/2505.02567) | [arxiv.org](https://arxiv.org/abs/2505.02567) | [B station](https://www.bilibili.com/video/BV1SXXWBUEdL)
+- **Color Alignment in Diffusion ｜CVPR 2025** - [openaccess.thecvf.com](https://www.openaccess.thecvf.com/content/CVPR2025/html/Shum_Color_Alignment_in_Diffusion_CVPR_2025_paper.html) | [B station](https://www.bilibili.com/video/BV1kwgN6kETK)
+- **【CVPR 2025】WeGen：让多模态模型同时实现理解、生成与身份保持** - [B station](https://www.bilibili.com/video/BV1XJ846uE51)
+- **【CVPR 2026】AI 图像为什么“太鲜艳反而不真实”？｜生成图像颜色真实性评测** - [B station](https://www.bilibili.com/video/BV1gM4R66EEa)
+- **【论文精读】CDG：弱化文本条件，为什么反而能让扩散模型更听话？** - [B station](https://www.bilibili.com/video/BV136ti6fEef)
+- **科普｜GRPO的前世今生简介** - [arxiv.org](https://arxiv.org/pdf/2402.03300) | [arxiv.org](https://arxiv.org/pdf/2503.14476) | [arxiv.org](https://arxiv.org/pdf/2507.18071) | [B station](https://www.bilibili.com/video/BV1VT6oBjEsj)
+- **大模型推理论文报告｜GRPO的原论文DeepSeekMath详细介绍** - [arxiv.org](https://arxiv.org/pdf/2402.03300) | [B station](https://www.bilibili.com/video/BV1Dg6oBVEU5)
+- **大模型推理论文报告｜GRPO改进工作介绍｜2-GRPO｜DaGRPO** - [arXiv:2510.00977](https://arxiv.org/abs/2510.00977) | [arxiv.org](https://arxiv.org/abs/2510.00977) | [arxiv.org](https://arxiv.org/abs/2512.06337) | [arxiv.org](https://www.arxiv.org/pdf/2512.22955) | [B station](https://www.bilibili.com/video/BV1AAzPBLELY)
+- **大模型推理论文报告｜Video-R1: Reinforcing Video Reasoning in MLLMs** - [arXiv:2503.21776](https://arxiv.org/abs/2503.21776) | [arxiv.org](https://arxiv.org/abs/2503.21776) | [B station](https://www.bilibili.com/video/BV1pargBiEXw)
+- **大模型推理论文报告｜Does Reinforcement Learning Really Incentivize Reasoning Capacity?** - [arXiv:2504.13837](https://arxiv.org/abs/2504.13837) | [arxiv.org](https://arxiv.org/abs/2504.13837) | [B station](https://www.bilibili.com/video/BV1dbr3B4EJF)
+- **大模型推理论文报告｜GRPO的原论文DeepSeekMath详细介绍** - [arxiv.org](https://arxiv.org/pdf/2402.03300) | [B station](https://www.bilibili.com/video/BV1RQZ4ByEzm)
+- **大模型高效推理系列论文报告 ｜Efficient Reasoning Models: A Survey（1/3）** - [arXiv:2504.10903](https://arxiv.org/abs/2504.10903) | [arxiv.org](https://arxiv.org/abs/2504.10903) | [B station](https://www.bilibili.com/video/BV1cC6QBjE76)
+- **CVPR 2026 | VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twic** - [arXiv:2601.05175](https://arxiv.org/abs/2601.05175) | [arxiv.org](https://arxiv.org/abs/2601.05175) | [B station](https://www.bilibili.com/video/BV1KwXsBCEmt)
+- **🤯GRPO实战中遇到的坑｜实验经验分享｜避开Reward Hacking的5个关键Round~** - [dcngcpwqe5y8.feishu.cn](https://dcngcpwqe5y8.feishu.cn/wiki/Ta1qwpaf1iB0eRkUg0RcgVKonWe) | [B station](https://www.bilibili.com/video/BV1hFRXBvEj6)
+- **CVPR’26 APP: Attention Guided Perception Policy Optimization for Video Reasoning** - [B station](https://www.bilibili.com/video/BV1UW5D6fEH4)
+- **Memory in the Age of AI Agents: A Survey** - [arXiv:2512.13564](https://arxiv.org/abs/2512.13564) | [arxiv.org](https://arxiv.org/abs/2512.13564) | [B station](https://www.bilibili.com/video/BV1WLRXBsEgo)
+- **大模型推理系列论文报告 ｜The Landscape of Agentic RL for LLMs: A Survey（4/4）｜当前挑战和未来发展方向** - [B station](https://www.bilibili.com/video/BV1cv6mBKEpH)
+- **大模型推理系列论文报告 ｜The Landscape of Agentic RL for LLMs: A Survey（3/4）｜不同Agent类型介绍** - [B station](https://www.bilibili.com/video/BV1DgqPBQEEj)
+- **大模型推理系列论文报告 ｜The Landscape of Agentic RL for LLMs: A Survey（2/4）| Agentic RL的六大模** - [B station](https://www.bilibili.com/video/BV1ULqPBEEvm)
+- **大模型推理系列论文报告 ｜The Landscape of Agentic RL for LLMs: A Survey（1/4）｜什么是Agentic RL？** - [B station](https://www.bilibili.com/video/BV1BqqPBPEbb)
+- **[概率 & 统计] KL 散度（KL div）forward vs. reverse** - [B station](https://www.bilibili.com/video/BV1cT42127wg)
+- **179. 如何用高中导数证明 KL 散度非负？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1GEKG6uEgV)
+- **116. 如何从动态规划和记忆化搜索理解DQN？【每天一个宝藏问题】** - [B station](https://www.bilibili.com/video/BV1ygRXBZEQf)
