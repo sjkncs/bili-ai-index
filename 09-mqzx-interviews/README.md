@@ -1,6 +1,6 @@
 # 机器之心 · 访谈与论坛
 
-> Source: **机器之心** - Snapshot: **2026-10-13** - **50** episodes.
+> Source: **机器之心** - Snapshot: **2026-10-14** - **50** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
