@@ -1,6 +1,6 @@
 # AI 课程与教程
 
-> Source: **ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生, RethinkFun, 我是傅傅猪, 唐国梁Tommy, 九天Hector** - Snapshot: **2026-10-13** - **1431** episodes.
+> Source: **ShusenWang, 霹雳吧啦Wz, 刘二大人, 王木头学科学, Bubbliiiing, 啥都会一点的研究生, RethinkFun, 我是傅傅猪, 唐国梁Tommy, 九天Hector, shuhuai008, 王树尧SJTU, 张伟楠SJTU, 良睦路程序员, Beyond_April, Enzo_Mi, 鱼香ROS机器人, 古希腊掌管代码的神, Nenly同学, 淅沥f80, 破夜萤火虫, 杜子源源** - Snapshot: **2026-10-14** - **3165** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
@@ -18,7 +18,7 @@ homepage) -- so links points at entry points rather than at each individual pape
 **No venue, arXiv id or speaker is available for most entries, and none is invented.**
 16 of 106 descriptions are empty entirely.
 
-## All 1431 episodes
+## All 3165 episodes
 
 | # | speaker | affiliation | topic | length | B station |
 |---:|---|---|---|---:|---|
@@ -1101,88 +1101,88 @@ homepage) -- so links points at entry points rather than at each individual pape
 | 1077 | - | - | DeepSpeed-Chat-17-step1_源码解读_模型训练和验证 | 8:38 | [link](https://www.bilibili.com/video/BV1tr4y1d7GL) |
 | 1078 | - | - | DeepSpeed-Chat-18-step1_源码解读_模型保存-第1节 | 12:03 | [link](https://www.bilibili.com/video/BV1AF41117HY) |
 | 1079 | - | - | DeepSpeed-Chat-19-step1_源码解读_模型保存-第2节 | 3:31 | [link](https://www.bilibili.com/video/BV1Eh4y1S79Z) |
-| 1080 | - | - | DeepSpeed-Chat-20-step1_源码解读_模型保存-第3节 | 9:08 | [link](https://www.bilibili.com/video/BV18h4y1S7Rn) |
-| 1081 | - | - | DeepSpeed-Chat-21-step1_源码解读_模型评估 | 18:03 | [link](https://www.bilibili.com/video/BV1fZ421E7o9) |
-| 1082 | - | - | DeepSpeed-Chat-22-step1_源码解读_模型推理-第1节 | 6:04 | [link](https://www.bilibili.com/video/BV1bm421p7GE) |
-| 1083 | - | - | DeepSpeed-Chat-23-step1_源码解读_模型推理-第2节 | 5:46 | [link](https://www.bilibili.com/video/BV1yb421h7PB) |
-| 1084 | - | - | DeepSpeed-Chat-24-step1_源码解读_模型推理-第3节 | 11:53 | [link](https://www.bilibili.com/video/BV1Xb421Y7ga) |
-| 1085 | - | - | DeepSpeed-Chat-25 Step-2-01 简介 | 8:17 | [link](https://www.bilibili.com/video/BV1Dh4y1S7rG) |
-| 1086 | - | - | DeepSpeed-Chat-26 Step-2 Reward模型微调和评估 | 9:52 | [link](https://www.bilibili.com/video/BV1z14y1i7hv) |
-| 1087 | - | - | Chat-27-step2-源码解读-参数配置和初始化 | 12:28 | [link](https://www.bilibili.com/video/BV1y84y1m7VX) |
-| 1088 | - | - | Chat-28-step2-源码解读-创建Reward模型 | 10:59 | [link](https://www.bilibili.com/video/BV1hN411t7pk) |
-| 1089 | - | - | Chat-29-step2-源码解读-创建数据集 | 10:46 | [link](https://www.bilibili.com/video/BV14C4y1V7L4) |
-| 1090 | - | - | Chat-30-step2-源码解读-参数分组_创建学习率调度器 | 5:51 | [link](https://www.bilibili.com/video/BV1P34y137FB) |
-| 1091 | - | - | Chat-31-step2-源码解读-deepspeed初始化 | 2:45 | [link](https://www.bilibili.com/video/BV1Pm4y1G7yf) |
-| 1092 | - | - | Chat-32-step2-源码解读-模型评估定义 | 7:57 | [link](https://www.bilibili.com/video/BV1P94y1a7T1) |
-| 1093 | - | - | Chat-33-step2-源码解读-Reward模型训练 | 7:02 | [link](https://www.bilibili.com/video/BV1P8411y7EA) |
-| 1094 | - | - | Chat-34-step2-源码解读-Reward模型保存 | 4:18 | [link](https://www.bilibili.com/video/BV1FV411c7Cf) |
-| 1095 | - | - | Chat-35-step2-源码解读-Reward模型评估 | 11:22 | [link](https://www.bilibili.com/video/BV11H4y1f7X6) |
-| 1096 | - | - | Chat-36-step2-源码解读-forward算法-第1节 | 11:58 | [link](https://www.bilibili.com/video/BV1v34y1V7jV) |
-| 1097 | - | - | Chat-37-step2-源码解读-forward算法-第2节 | 13:32 | [link](https://www.bilibili.com/video/BV14H4y1f7EB) |
-| 1098 | - | - | Chat-38-step2-源码解读-forward算法-第3节 | 5:59 | [link](https://www.bilibili.com/video/BV13m4y1G7mq) |
-| 1099 | - | - | Chat-39-step2-源码解读-forward算法-第4节 | 9:47 | [link](https://www.bilibili.com/video/BV1RH4y1f7Dn) |
-| 1100 | - | - | 方案1-CIFAR10-01-数据加载和预处理 | 11:45 | [link](https://www.bilibili.com/video/BV1wx4y1r7nn) |
-| 1101 | - | - | 方案1-CIFAR10-02-模型定义与超参数创建 | 9:58 | [link](https://www.bilibili.com/video/BV1iC411n79w) |
-| 1102 | - | - | 方案1-CIFAR10-03-模型训练和本地保存 | 6:45 | [link](https://www.bilibili.com/video/BV1Jp421Q7Ar) |
-| 1103 | - | - | 方案1-CIFAR10-04-模型性能验证 | 16:35 | [link](https://www.bilibili.com/video/BV17z421r7nb) |
-| 1104 | - | - | 方案1-CIFAR10-05-基于FastAPI实现推理服务 | 14:22 | [link](https://www.bilibili.com/video/BV12z42167Qd) |
-| 1105 | - | - | 方案2-CIFAR10-DeepSpeed-01-超参数定义 | 15:37 | [link](https://www.bilibili.com/video/BV1Mt421A7Lj) |
-| 1106 | - | - | 方案2-CIFAR10-DeepSpeed-02-模型结构定义 | 15:35 | [link](https://www.bilibili.com/video/BV19w4m1275e) |
-| 1107 | - | - | 方案2-CIFAR10-DeepSpeed-03-模型分布式训练 | 7:13 | [link](https://www.bilibili.com/video/BV1u1421R78i) |
-| 1108 | - | - | 方案2-CIFAR10-DeepSpeed-04-模型性能验证 | 9:03 | [link](https://www.bilibili.com/video/BV1DH4y1A785) |
-| 1109 | - | - | 方案2-CIFAR10-DeepSpeed-05-配置文件参数讲解 | 8:54 | [link](https://www.bilibili.com/video/BV1dF4m1w7WQ) |
-| 1110 | - | - | 方案2-CIFAR10-DeepSpeed-06-模型分布式训练 | 12:17 | [link](https://www.bilibili.com/video/BV1tt421A7Pd) |
-| 1111 | - | - | OpenAI assistant API 学习指南-简介 | 22:55 | [link](https://www.bilibili.com/video/BV1Wj411j7mn) |
-| 1112 | - | - | OpenAI assistant API 学习指南-assistant运行原理 | 22:17 | [link](https://www.bilibili.com/video/BV1oN411777P) |
-| 1113 | - | - | LangChain 实战案例-01 基于上传的PDF文档进行QA问答 第1节 项目简介 | 9:55 | [link](https://www.bilibili.com/video/BV1fp4y137US) |
-| 1114 | - | - | LangChain 实战案例-01 基于上传PDF文档进行QA问答 第2节 案例实现 | 22:33 | [link](https://www.bilibili.com/video/BV1rk4y1g7Gd) |
-| 1115 | - | - | LangChain 教程 实战案例-01 基于上传PDF文档进行QA问答 第3节 向量数据库 | 15:13 | [link](https://www.bilibili.com/video/BV1294y1C7Cd) |
-| 1116 | - | - | LangChain 实战案例-01 基于上传PDF文档进行QA问答 第4节 基于Gradio实现QA交互 | 32:09 | [link](https://www.bilibili.com/video/BV1rN41187Q9) |
-| 1117 | - | - | Chinese LLaMA Alpaca 案例实战-01-项目概览 | 7:34 | [link](https://www.bilibili.com/video/BV1Mh4y187ir) |
-| 1118 | - | - | Chinese- LLaMA- Alpaca 案例实战-02-指令数据生成 | 10:58 | [link](https://www.bilibili.com/video/BV1ns4y1g717) |
-| 1119 | - | - | 案例实战-03-Chinese-LLaMA-AIpaca模型本地部署 | 12:39 | [link](https://www.bilibili.com/video/BV1xz4y18749) |
-| 1120 | - | - | 案例实战-04-基于webUI进行交互 | 9:43 | [link](https://www.bilibili.com/video/BV1im4y1h7wo) |
-| 1121 | - | - | 案例实战-05-基于LLaMA和LoRA模型进行预训练 | 20:30 | [link](https://www.bilibili.com/video/BV1f8411o73g) |
-| 1122 | - | - | 案例实战-06-上集—基于LLaMA和LoRA模型进行指令精调 | 16:50 | [link](https://www.bilibili.com/video/BV1eX4y187nN) |
-| 1123 | - | - | 案例实战-07-下集-基于LLaMA和LoRA模型进行指令精调 | 13:49 | [link](https://www.bilibili.com/video/BV1mP411D7bm) |
-| 1124 | - | - | 案例实战-08-LLaMA与LangChain进行集成 | 19:33 | [link](https://www.bilibili.com/video/BV1Ph4y137JW) |
-| 1125 | - | - | 案例实战-09-剧透-使用 FastAPI 实现 LLaMA API服务 | 10:50 | [link](https://www.bilibili.com/video/BV1vh4y1X7D6) |
-| 1126 | - | - | 案例实战-10-LLaMA tokenizer模型与中文tokenizer模型合并操作 | 5:51 | [link](https://www.bilibili.com/video/BV1hh4y1M7YE) |
-| 1127 | - | - | 案例实战-11-单个LoRA权重与LLaMA合并 | 25:00 | [link](https://www.bilibili.com/video/BV15h4y1M7MU) |
-| 1128 | - | - | 案例实战-12-多个LoRA权重与LLaMA合并 | 8:55 | [link](https://www.bilibili.com/video/BV1KV4y117ci) |
-| 1129 | - | - | 案例实战-13-指令精调手把手教程-升级版 | 16:32 | [link](https://www.bilibili.com/video/BV1Qu411t7ML) |
-| 1130 | - | - | 案例实战-14-基于llama.cpp量化模型部署 | 13:53 | [link](https://www.bilibili.com/video/BV1Y14y1d75g) |
-| 1131 | - | - | 案例实战-15-使用 privateGPT 进行多文档问答 | 14:07 | [link](https://www.bilibili.com/video/BV1Wm4y1Y7G3) |
-| 1132 | - | - | 案例实战-16-llama.cpp量化模型GPU加速推理 | 14:40 | [link](https://www.bilibili.com/video/BV1314y1o7dS) |
-| 1133 | - | - | 案例实战-17-llama.cpp量化模型API服务部署 | 13:58 | [link](https://www.bilibili.com/video/BV1kz4y1E7ha) |
-| 1134 | - | - | 源码讲解-01-中文词汇表扩充 | 9:33 | [link](https://www.bilibili.com/video/BV1Es4y1g7uu) |
-| 1135 | - | - | 源码讲解-02-llama与lora模型合并 | 14:35 | [link](https://www.bilibili.com/video/BV1rX4y187Wb) |
-| 1136 | - | - | 源码讲解-03-基于llama模型进行推理 | 13:31 | [link](https://www.bilibili.com/video/BV1a24y1K79a) |
-| 1137 | - | - | 源码讲解-04-上集-模型预训练代码逐行剖析 | 22:30 | [link](https://www.bilibili.com/video/BV18X4y187ss) |
-| 1138 | - | - | 源码讲解-05-中集-模型预训练代码逐行剖析 | 20:46 | [link](https://www.bilibili.com/video/BV1wo4y1g7DF) |
-| 1139 | - | - | 源码讲解-06-下集-模型预训练代码逐行剖析 | 24:41 | [link](https://www.bilibili.com/video/BV1S8411o78y) |
-| 1140 | - | - | 源码讲解-07-上集-API服务server代码讲解 | 21:58 | [link](https://www.bilibili.com/video/BV1N14y1D7eT) |
-| 1141 | - | - | 源码讲解-08-下集-API服务server代码讲解 | 17:41 | [link](https://www.bilibili.com/video/BV13k4y1H7Ck) |
-| 1142 | - | - | 01_模型推理与部署专题简介 | 1:12 | [link](https://www.bilibili.com/video/BV1HY411r7fc) |
-| 1143 | - | - | 02_TensorRT与Triton容器部署 | 15:35 | [link](https://www.bilibili.com/video/BV1h24y1n7ws) |
-| 1144 | - | - | 03_TensorFlow模型转换TensorRT引擎推理 | 13:30 | [link](https://www.bilibili.com/video/BV1124y1b7Le) |
-| 1145 | - | - | 04_Pytorch模型转换为TensorRT引擎推理 | 9:10 | [link](https://www.bilibili.com/video/BV1yg4y1t71M) |
-| 1146 | - | - | 05_tensorflow_serving_模型部署与推理_mnist分类案例 | 13:58 | [link](https://www.bilibili.com/video/BV1iT411a7GU) |
-| 1147 | - | - | 06_tensorflow_serving_单个模型部署与推理_线性回归 | 11:56 | [link](https://www.bilibili.com/video/BV1WY411B7Yh) |
-| 1148 | - | - | 07_tensorflow_serving_多个模型部署与推理_模型迭代 | 14:36 | [link](https://www.bilibili.com/video/BV1x54y1M7Es) |
-| 1149 | - | - | 08_torch_serving_docker环境部署 | 6:38 | [link](https://www.bilibili.com/video/BV19N411N73R) |
-| 1150 | - | - | 09_torch_serving_案例1-序列分类 | 9:15 | [link](https://www.bilibili.com/video/BV18g4y1W7BD) |
-| 1151 | - | - | 10_torch_serving_案例2-QA问答 | 12:33 | [link](https://www.bilibili.com/video/BV1vN411K7Bf) |
-| 1152 | - | - | 轻松学·Streamlit_01_专题简介 | 8:41 | [link](https://www.bilibili.com/video/BV1EY4y1Z7No) |
-| 1153 | - | - | 轻松学·Streamlit_02_基础功能探索 | 18:23 | [link](https://www.bilibili.com/video/BV1Q3411Z76n) |
-| 1154 | - | - | 轻松学·Streamlit_03_基础功能探索 | 10:28 | [link](https://www.bilibili.com/video/BV1624y1h78E) |
-| 1155 | - | - | 轻松学·Streamlit_04_基础功能探索 | 14:23 | [link](https://www.bilibili.com/video/BV1jv4y117zn) |
-| 1156 | - | - | 轻松学·Streamlit_05_基础功能探索 | 8:07 | [link](https://www.bilibili.com/video/BV16G4y1w7td) |
-| 1157 | - | - | 轻松学·Streamlit_06_基础功能探索 | 14:56 | [link](https://www.bilibili.com/video/BV1s3411d7QA) |
-| 1158 | - | - | 轻松学·Streamlit_07_动物图片识别 APP | 13:37 | [link](https://www.bilibili.com/video/BV1Cx4y137xK) |
-| 1159 | - | - | 轻松学·Streamlit_08_音频转文本 APP | 13:28 | [link](https://www.bilibili.com/video/BV1z14y1M7J1) |
-| 1160 | - | - | 轻松学·Streamlit_09_ML分类案例 APP | 26:28 | [link](https://www.bilibili.com/video/BV1g24y1h7FK) |
-| 1161 | - | - | 01_ES 概念、核心理论部分 | 8:39 | [link](https://www.bilibili.com/video/BV1Ta411q73R) |
+| 1080 | - | - | DeepSpeed-Chat-23-step1_源码解读_模型推理-第2节 | 5:46 | [link](https://www.bilibili.com/video/BV1yb421h7PB) |
+| 1081 | - | - | DeepSpeed-Chat-24-step1_源码解读_模型推理-第3节 | 11:53 | [link](https://www.bilibili.com/video/BV1Xb421Y7ga) |
+| 1082 | - | - | DeepSpeed-Chat-26 Step-2 Reward模型微调和评估 | 9:52 | [link](https://www.bilibili.com/video/BV1z14y1i7hv) |
+| 1083 | - | - | Chat-27-step2-源码解读-参数配置和初始化 | 12:28 | [link](https://www.bilibili.com/video/BV1y84y1m7VX) |
+| 1084 | - | - | Chat-28-step2-源码解读-创建Reward模型 | 10:59 | [link](https://www.bilibili.com/video/BV1hN411t7pk) |
+| 1085 | - | - | Chat-29-step2-源码解读-创建数据集 | 10:46 | [link](https://www.bilibili.com/video/BV14C4y1V7L4) |
+| 1086 | - | - | Chat-30-step2-源码解读-参数分组_创建学习率调度器 | 5:51 | [link](https://www.bilibili.com/video/BV1P34y137FB) |
+| 1087 | - | - | Chat-31-step2-源码解读-deepspeed初始化 | 2:45 | [link](https://www.bilibili.com/video/BV1Pm4y1G7yf) |
+| 1088 | - | - | Chat-32-step2-源码解读-模型评估定义 | 7:57 | [link](https://www.bilibili.com/video/BV1P94y1a7T1) |
+| 1089 | - | - | Chat-33-step2-源码解读-Reward模型训练 | 7:02 | [link](https://www.bilibili.com/video/BV1P8411y7EA) |
+| 1090 | - | - | Chat-34-step2-源码解读-Reward模型保存 | 4:18 | [link](https://www.bilibili.com/video/BV1FV411c7Cf) |
+| 1091 | - | - | Chat-35-step2-源码解读-Reward模型评估 | 11:22 | [link](https://www.bilibili.com/video/BV11H4y1f7X6) |
+| 1092 | - | - | Chat-36-step2-源码解读-forward算法-第1节 | 11:58 | [link](https://www.bilibili.com/video/BV1v34y1V7jV) |
+| 1093 | - | - | Chat-37-step2-源码解读-forward算法-第2节 | 13:32 | [link](https://www.bilibili.com/video/BV14H4y1f7EB) |
+| 1094 | - | - | Chat-38-step2-源码解读-forward算法-第3节 | 5:59 | [link](https://www.bilibili.com/video/BV13m4y1G7mq) |
+| 1095 | - | - | Chat-39-step2-源码解读-forward算法-第4节 | 9:47 | [link](https://www.bilibili.com/video/BV1RH4y1f7Dn) |
+| 1096 | - | - | 方案1-CIFAR10-01-数据加载和预处理 | 11:45 | [link](https://www.bilibili.com/video/BV1wx4y1r7nn) |
+| 1097 | - | - | 方案1-CIFAR10-02-模型定义与超参数创建 | 9:58 | [link](https://www.bilibili.com/video/BV1iC411n79w) |
+| 1098 | - | - | 方案1-CIFAR10-03-模型训练和本地保存 | 6:45 | [link](https://www.bilibili.com/video/BV1Jp421Q7Ar) |
+| 1099 | - | - | 方案1-CIFAR10-04-模型性能验证 | 16:35 | [link](https://www.bilibili.com/video/BV17z421r7nb) |
+| 1100 | - | - | 方案1-CIFAR10-05-基于FastAPI实现推理服务 | 14:22 | [link](https://www.bilibili.com/video/BV12z42167Qd) |
+| 1101 | - | - | 方案2-CIFAR10-DeepSpeed-01-超参数定义 | 15:37 | [link](https://www.bilibili.com/video/BV1Mt421A7Lj) |
+| 1102 | - | - | 方案2-CIFAR10-DeepSpeed-02-模型结构定义 | 15:35 | [link](https://www.bilibili.com/video/BV19w4m1275e) |
+| 1103 | - | - | 方案2-CIFAR10-DeepSpeed-03-模型分布式训练 | 7:13 | [link](https://www.bilibili.com/video/BV1u1421R78i) |
+| 1104 | - | - | 方案2-CIFAR10-DeepSpeed-04-模型性能验证 | 9:03 | [link](https://www.bilibili.com/video/BV1DH4y1A785) |
+| 1105 | - | - | 方案2-CIFAR10-DeepSpeed-05-配置文件参数讲解 | 8:54 | [link](https://www.bilibili.com/video/BV1dF4m1w7WQ) |
+| 1106 | - | - | 方案2-CIFAR10-DeepSpeed-06-模型分布式训练 | 12:17 | [link](https://www.bilibili.com/video/BV1tt421A7Pd) |
+| 1107 | - | - | OpenAI assistant API 学习指南-简介 | 22:55 | [link](https://www.bilibili.com/video/BV1Wj411j7mn) |
+| 1108 | - | - | OpenAI assistant API 学习指南-assistant运行原理 | 22:17 | [link](https://www.bilibili.com/video/BV1oN411777P) |
+| 1109 | - | - | LangChain 实战案例-01 基于上传的PDF文档进行QA问答 第1节 项目简介 | 9:55 | [link](https://www.bilibili.com/video/BV1fp4y137US) |
+| 1110 | - | - | LangChain 实战案例-01 基于上传PDF文档进行QA问答 第2节 案例实现 | 22:33 | [link](https://www.bilibili.com/video/BV1rk4y1g7Gd) |
+| 1111 | - | - | LangChain 教程 实战案例-01 基于上传PDF文档进行QA问答 第3节 向量数据库 | 15:13 | [link](https://www.bilibili.com/video/BV1294y1C7Cd) |
+| 1112 | - | - | LangChain 实战案例-01 基于上传PDF文档进行QA问答 第4节 基于Gradio实现QA交互 | 32:09 | [link](https://www.bilibili.com/video/BV1rN41187Q9) |
+| 1113 | - | - | Chinese LLaMA Alpaca 案例实战-01-项目概览 | 7:34 | [link](https://www.bilibili.com/video/BV1Mh4y187ir) |
+| 1114 | - | - | Chinese- LLaMA- Alpaca 案例实战-02-指令数据生成 | 10:58 | [link](https://www.bilibili.com/video/BV1ns4y1g717) |
+| 1115 | - | - | 案例实战-03-Chinese-LLaMA-AIpaca模型本地部署 | 12:39 | [link](https://www.bilibili.com/video/BV1xz4y18749) |
+| 1116 | - | - | 案例实战-04-基于webUI进行交互 | 9:43 | [link](https://www.bilibili.com/video/BV1im4y1h7wo) |
+| 1117 | - | - | 案例实战-05-基于LLaMA和LoRA模型进行预训练 | 20:30 | [link](https://www.bilibili.com/video/BV1f8411o73g) |
+| 1118 | - | - | 案例实战-06-上集—基于LLaMA和LoRA模型进行指令精调 | 16:50 | [link](https://www.bilibili.com/video/BV1eX4y187nN) |
+| 1119 | - | - | 案例实战-07-下集-基于LLaMA和LoRA模型进行指令精调 | 13:49 | [link](https://www.bilibili.com/video/BV1mP411D7bm) |
+| 1120 | - | - | 案例实战-08-LLaMA与LangChain进行集成 | 19:33 | [link](https://www.bilibili.com/video/BV1Ph4y137JW) |
+| 1121 | - | - | 案例实战-09-剧透-使用 FastAPI 实现 LLaMA API服务 | 10:50 | [link](https://www.bilibili.com/video/BV1vh4y1X7D6) |
+| 1122 | - | - | 案例实战-10-LLaMA tokenizer模型与中文tokenizer模型合并操作 | 5:51 | [link](https://www.bilibili.com/video/BV1hh4y1M7YE) |
+| 1123 | - | - | 案例实战-11-单个LoRA权重与LLaMA合并 | 25:00 | [link](https://www.bilibili.com/video/BV15h4y1M7MU) |
+| 1124 | - | - | 案例实战-12-多个LoRA权重与LLaMA合并 | 8:55 | [link](https://www.bilibili.com/video/BV1KV4y117ci) |
+| 1125 | - | - | 案例实战-13-指令精调手把手教程-升级版 | 16:32 | [link](https://www.bilibili.com/video/BV1Qu411t7ML) |
+| 1126 | - | - | 案例实战-14-基于llama.cpp量化模型部署 | 13:53 | [link](https://www.bilibili.com/video/BV1Y14y1d75g) |
+| 1127 | - | - | 案例实战-15-使用 privateGPT 进行多文档问答 | 14:07 | [link](https://www.bilibili.com/video/BV1Wm4y1Y7G3) |
+| 1128 | - | - | 案例实战-16-llama.cpp量化模型GPU加速推理 | 14:40 | [link](https://www.bilibili.com/video/BV1314y1o7dS) |
+| 1129 | - | - | 案例实战-17-llama.cpp量化模型API服务部署 | 13:58 | [link](https://www.bilibili.com/video/BV1kz4y1E7ha) |
+| 1130 | - | - | 源码讲解-01-中文词汇表扩充 | 9:33 | [link](https://www.bilibili.com/video/BV1Es4y1g7uu) |
+| 1131 | - | - | 源码讲解-02-llama与lora模型合并 | 14:35 | [link](https://www.bilibili.com/video/BV1rX4y187Wb) |
+| 1132 | - | - | 源码讲解-03-基于llama模型进行推理 | 13:31 | [link](https://www.bilibili.com/video/BV1a24y1K79a) |
+| 1133 | - | - | 源码讲解-04-上集-模型预训练代码逐行剖析 | 22:30 | [link](https://www.bilibili.com/video/BV18X4y187ss) |
+| 1134 | - | - | 源码讲解-05-中集-模型预训练代码逐行剖析 | 20:46 | [link](https://www.bilibili.com/video/BV1wo4y1g7DF) |
+| 1135 | - | - | 源码讲解-06-下集-模型预训练代码逐行剖析 | 24:41 | [link](https://www.bilibili.com/video/BV1S8411o78y) |
+| 1136 | - | - | 源码讲解-07-上集-API服务server代码讲解 | 21:58 | [link](https://www.bilibili.com/video/BV1N14y1D7eT) |
+| 1137 | - | - | 源码讲解-08-下集-API服务server代码讲解 | 17:41 | [link](https://www.bilibili.com/video/BV13k4y1H7Ck) |
+| 1138 | - | - | 01_模型推理与部署专题简介 | 1:12 | [link](https://www.bilibili.com/video/BV1HY411r7fc) |
+| 1139 | - | - | 02_TensorRT与Triton容器部署 | 15:35 | [link](https://www.bilibili.com/video/BV1h24y1n7ws) |
+| 1140 | - | - | 03_TensorFlow模型转换TensorRT引擎推理 | 13:30 | [link](https://www.bilibili.com/video/BV1124y1b7Le) |
+| 1141 | - | - | 04_Pytorch模型转换为TensorRT引擎推理 | 9:10 | [link](https://www.bilibili.com/video/BV1yg4y1t71M) |
+| 1142 | - | - | 05_tensorflow_serving_模型部署与推理_mnist分类案例 | 13:58 | [link](https://www.bilibili.com/video/BV1iT411a7GU) |
+| 1143 | - | - | 06_tensorflow_serving_单个模型部署与推理_线性回归 | 11:56 | [link](https://www.bilibili.com/video/BV1WY411B7Yh) |
+| 1144 | - | - | 07_tensorflow_serving_多个模型部署与推理_模型迭代 | 14:36 | [link](https://www.bilibili.com/video/BV1x54y1M7Es) |
+| 1145 | - | - | 08_torch_serving_docker环境部署 | 6:38 | [link](https://www.bilibili.com/video/BV19N411N73R) |
+| 1146 | - | - | 09_torch_serving_案例1-序列分类 | 9:15 | [link](https://www.bilibili.com/video/BV18g4y1W7BD) |
+| 1147 | - | - | 10_torch_serving_案例2-QA问答 | 12:33 | [link](https://www.bilibili.com/video/BV1vN411K7Bf) |
+| 1148 | - | - | 轻松学·Streamlit_01_专题简介 | 8:41 | [link](https://www.bilibili.com/video/BV1EY4y1Z7No) |
+| 1149 | - | - | 轻松学·Streamlit_02_基础功能探索 | 18:23 | [link](https://www.bilibili.com/video/BV1Q3411Z76n) |
+| 1150 | - | - | 轻松学·Streamlit_03_基础功能探索 | 10:28 | [link](https://www.bilibili.com/video/BV1624y1h78E) |
+| 1151 | - | - | 轻松学·Streamlit_04_基础功能探索 | 14:23 | [link](https://www.bilibili.com/video/BV1jv4y117zn) |
+| 1152 | - | - | 轻松学·Streamlit_05_基础功能探索 | 8:07 | [link](https://www.bilibili.com/video/BV16G4y1w7td) |
+| 1153 | - | - | 轻松学·Streamlit_06_基础功能探索 | 14:56 | [link](https://www.bilibili.com/video/BV1s3411d7QA) |
+| 1154 | - | - | 轻松学·Streamlit_07_动物图片识别 APP | 13:37 | [link](https://www.bilibili.com/video/BV1Cx4y137xK) |
+| 1155 | - | - | 轻松学·Streamlit_08_音频转文本 APP | 13:28 | [link](https://www.bilibili.com/video/BV1z14y1M7J1) |
+| 1156 | - | - | 轻松学·Streamlit_09_ML分类案例 APP | 26:28 | [link](https://www.bilibili.com/video/BV1g24y1h7FK) |
+| 1157 | - | - | 01_ES 概念、核心理论部分 | 8:39 | [link](https://www.bilibili.com/video/BV1Ta411q73R) |
+| 1158 | - | - | DeepSpeed-Chat-20-step1_源码解读_模型保存-第3节 | 9:08 | [link](https://www.bilibili.com/video/BV18h4y1S7Rn) |
+| 1159 | - | - | DeepSpeed-Chat-21-step1_源码解读_模型评估 | 18:03 | [link](https://www.bilibili.com/video/BV1fZ421E7o9) |
+| 1160 | - | - | DeepSpeed-Chat-22-step1_源码解读_模型推理-第1节 | 6:04 | [link](https://www.bilibili.com/video/BV1bm421p7GE) |
+| 1161 | - | - | DeepSpeed-Chat-25 Step-2-01 简介 | 8:17 | [link](https://www.bilibili.com/video/BV1Dh4y1S7rG) |
 | 1162 | - | - | 02_ES 基础操作快速入门 | 17:57 | [link](https://www.bilibili.com/video/BV1S5411U754) |
 | 1163 | - | - | 03_ES python API基础操作入门 | 22:16 | [link](https://www.bilibili.com/video/BV1hY411E7iA) |
 | 1164 | - | - | 04_ES 文本相似性计算 | 15:14 | [link](https://www.bilibili.com/video/BV1uZ4y127Lv) |
@@ -1195,264 +1195,1998 @@ homepage) -- so links points at entry points rather than at each individual pape
 | 1171 | - | - | 进阶学·ES-03-02 映射操作-4 | 14:15 | [link](https://www.bilibili.com/video/BV1Y8411W7o2) |
 | 1172 | - | - | 进阶学·ES-03-03 文档操作 | 18:50 | [link](https://www.bilibili.com/video/BV1J8411W7f6) |
 | 1173 | - | - | 进阶学ES 03-04 ES基于python API实践-1 | 15:32 | [link](https://www.bilibili.com/video/BV1Ce4y1q7Ne) |
-| 1174 | - | - | 进阶学ES 03-04 ES基于python API实践-2 | 18:37 | [link](https://www.bilibili.com/video/BV12d4y1i7QU) |
-| 1175 | - | - | 进阶学·ES-04-01 analyzer简介 | 13:02 | [link](https://www.bilibili.com/video/BV1SV4y1L77u) |
-| 1176 | - | - | 进阶学·ES-04-02 analyzer应用 | 13:20 | [link](https://www.bilibili.com/video/BV1g84y1z7SM) |
-| 1177 | - | - | 进阶学·ES-04-03 analyzer IK分词器-自定义词典 | 13:31 | [link](https://www.bilibili.com/video/BV16N4y1c7VW) |
-| 1178 | - | - | 进阶学·ES-04-04 analyzer IK分词器-同义词-上集 | 13:23 | [link](https://www.bilibili.com/video/BV1qe411L7SJ) |
-| 1179 | - | - | 进阶学·ES-04-05 analyzer IK分词器-同义词-下集 | 8:24 | [link](https://www.bilibili.com/video/BV1mG4y1p75R) |
-| 1180 | - | - | 进阶学·ES-04-06 analyzer IK分词器-停用词 | 17:39 | [link](https://www.bilibili.com/video/BV1i14y177tV) |
-| 1181 | - | - | 进阶学·ES-04-07 analyzer IK分词器-拼音搜索 | 5:16 | [link](https://www.bilibili.com/video/BV1BK411Q7YP) |
-| 1182 | - | - | 进阶学·ES-04-08 ES辅助功能 | 23:00 | [link](https://www.bilibili.com/video/BV1Ee4y1i77Q) |
-| 1183 | - | - | 进阶学·ES-04-09 ES布尔查询 | 10:11 | [link](https://www.bilibili.com/video/BV1ZW4y1J77a) |
-| 1184 | - | - | 进阶学·ES-04-10 ES全文搜索 | 13:18 | [link](https://www.bilibili.com/video/BV17e411V7ec) |
-| 1185 | - | - | 进阶学·ES-04-11 ES搜索排序 | 14:29 | [link](https://www.bilibili.com/video/BV19V4y1V7ge) |
-| 1186 | - | - | mysql_01_课程简介 | 2:59 | [link](https://www.bilibili.com/video/BV1e14y187iC) |
-| 1187 | - | - | mysql_02_基本操作 | 8:07 | [link](https://www.bilibili.com/video/BV13t4y1A7HN) |
-| 1188 | - | - | mysql_03_数据表的增删改 | 5:57 | [link](https://www.bilibili.com/video/BV1TV4y1K7S6) |
-| 1189 | - | - | mysql_04_01_数据查询 | 13:18 | [link](https://www.bilibili.com/video/BV15T411P7rC) |
-| 1190 | - | - | mysql_04_02_数据查询 | 13:43 | [link](https://www.bilibili.com/video/BV13e411j7M6) |
-| 1191 | - | - | mysql_05_01_存储过程 | 12:18 | [link](https://www.bilibili.com/video/BV1eG4y1W7H5) |
-| 1192 | - | - | mysql_05_02_存储过程 | 8:34 | [link](https://www.bilibili.com/video/BV1Te4y1z78C) |
-| 1193 | - | - | mysql_06_01_索引 | 6:25 | [link](https://www.bilibili.com/video/BV1NN4y1N7Mc) |
-| 1194 | - | - | mysql_06_02 索引 | 7:02 | [link](https://www.bilibili.com/video/BV1fV4y1N7eV) |
-| 1195 | - | - | mysql_07_python与mysql教程 | 27:59 | [link](https://www.bilibili.com/video/BV17G411n7q6) |
-| 1196 | - | - | mysql_08_pandas与mysql教程 | 9:24 | [link](https://www.bilibili.com/video/BV1kG4y1W7J7) |
-| 1197 | - | - | 自然语言处理快速入门 01-BERT及其变种的原理 | 18:16 | [link](https://www.bilibili.com/video/BV1RP4y1t7sc) |
-| 1198 | - | - | 02-BERT及其变种的原理 | 8:17 | [link](https://www.bilibili.com/video/BV1d44y1x7tP) |
-| 1199 | - | - | 03-BERT及其变种的原理 | 3:59 | [link](https://www.bilibili.com/video/BV12r4y1y7PS) |
-| 1200 | - | - | 04-BERT及其变种的原理 | 3:43 | [link](https://www.bilibili.com/video/BV19F411Y7ER) |
-| 1201 | - | - | 05-BERT及其变种的原理 | 4:36 | [link](https://www.bilibili.com/video/BV1zr4y1y72v) |
-| 1202 | - | - | 06-BERT入门二分类案例 自然语言处理快速入门 | 35:18 | [link](https://www.bilibili.com/video/BV1SP4y137Pp) |
-| 1203 | - | - | 07-基于RoBERTa训练一个MLM掩码语言模型 | 29:18 | [link](https://www.bilibili.com/video/BV1gF411z78D) |
-| 1204 | - | - | 08_一_基于BiLSTM和BERT实现分类任务 | 15:23 | [link](https://www.bilibili.com/video/BV1wb4y1i7hU) |
-| 1205 | - | - | 09_二_基于BiLSTM和BERT实现分类任务 | 17:40 | [link](https://www.bilibili.com/video/BV1uR4y137JG) |
-| 1206 | - | - | 10_三_基于BiLSTM和BERT实现分类任务 | 12:42 | [link](https://www.bilibili.com/video/BV1UP4y1J7yr) |
-| 1207 | - | - | 11_四_基于BiLSTM和BERT实现分类任务 | 21:14 | [link](https://www.bilibili.com/video/BV17q4y117YB) |
-| 1208 | - | - | 01_TensorFlow 2.0 分类案例【银行客户流失预测】官网+个人实现 | 40:56 | [link](https://www.bilibili.com/video/BV1f44y1z7XF) |
-| 1209 | - | - | 02_TensorFlow 2.0 鲜花分类 官网案例详解 + 优化 | 32:03 | [link](https://www.bilibili.com/video/BV1cf4y187PE) |
-| 1210 | - | - | 03_TensorFlow 2.0 迁移学习_案例1_基于预训练模型进行目标分类 | 22:16 | [link](https://www.bilibili.com/video/BV1oB4y1T7qL) |
-| 1211 | - | - | 04-1_TensorFlow 2.0 迁移学习_案例2_上集_宠物狗品种识别 | 28:35 | [link](https://www.bilibili.com/video/BV1b44y167ca) |
-| 1212 | - | - | 04-2_TensorFlow 2.0 迁移学习_案例2_下集_宠物狗品种识别 | 39:04 | [link](https://www.bilibili.com/video/BV19B4y1T7eP) |
-| 1213 | - | - | 05_TensorFlow 2.0 回归案例 葡萄酒品质预测 | 38:12 | [link](https://www.bilibili.com/video/BV1F64y1r7Ub) |
-| 1214 | - | - | 06_TensorFlow 2.0 基于LSTM进行文本生成（字符级） | 41:53 | [link](https://www.bilibili.com/video/BV1ko4y1k7Lo) |
-| 1215 | - | - | 07_TensorFlow 2.0 基于LSTM单变量预测_电力消耗案例 | 51:01 | [link](https://www.bilibili.com/video/BV1f5411K7qD) |
-| 1216 | - | - | 08_TensorFlow 2.0 基于LSTM多变量_共享单车使用量预测 | 48:39 | [link](https://www.bilibili.com/video/BV1y5411K7NR) |
-| 1217 | - | - | 09_基于Embedding进行IMDB情感文本分类（上集） | 20:17 | [link](https://www.bilibili.com/video/BV19y4y1M7p5) |
-| 1218 | - | - | 09_基于Embedding进行IMDB情感文本分类（下集） | 31:16 | [link](https://www.bilibili.com/video/BV1X64y197KS) |
-| 1219 | - | - | 10-01 OCR入门案例_手写字体识别 | 11:28 | [link](https://www.bilibili.com/video/BV1tX4y1w751) |
-| 1220 | - | - | 10-02 OCR入门案例_手写字体识别 | 44:06 | [link](https://www.bilibili.com/video/BV1EB4y1N7oz) |
-| 1221 | - | - | 10-03 OCR入门案例_手写字体识别 | 16:25 | [link](https://www.bilibili.com/video/BV1oh411h7oy) |
-| 1222 | - | - | 11_01 OCR 图片去噪 | 12:29 | [link](https://www.bilibili.com/video/BV1H54y1E7yv) |
-| 1223 | - | - | 11_02 OCR 图片去噪 | 2:28 | [link](https://www.bilibili.com/video/BV1TX4y1A7fN) |
-| 1224 | - | - | 11_03 OCR 图片去噪 | 16:14 | [link](https://www.bilibili.com/video/BV1Tf4y1j7PU) |
-| 1225 | - | - | 11_04 OCR 图片去噪 | 5:48 | [link](https://www.bilibili.com/video/BV1L64y1z7yV) |
-| 1226 | - | - | 11_05 OCR 图片去噪 | 10:51 | [link](https://www.bilibili.com/video/BV1bb4y1k75f) |
-| 1227 | - | - | 12_TensorFlow 2.0 多分类案例 CIFAR10【官网 + 个人实现】 | 37:24 | [link](https://www.bilibili.com/video/BV1UK4y1X7dM) |
-| 1228 | - | - | 01_轻松学Python_python语言简介和工具安装 | 14:13 | [link](https://www.bilibili.com/video/BV1Pg4y1q7BZ) |
-| 1229 | - | - | 02 轻松学python 变量 | 16:19 | [link](https://www.bilibili.com/video/BV1Qi4y1s7EW) |
-| 1230 | - | - | 03 轻松学python 数字类型 | 4:35 | [link](https://www.bilibili.com/video/BV1CT4y1E7fE) |
-| 1231 | - | - | 04 轻松学python 运算符 | 9:52 | [link](https://www.bilibili.com/video/BV1854y1Q7ai) |
-| 1232 | - | - | 05 轻松学python 字符串 | 39:30 | [link](https://www.bilibili.com/video/BV1vz411i726) |
-| 1233 | - | - | 06 轻松学python 列表 | 27:46 | [link](https://www.bilibili.com/video/BV1vz4y197hL) |
-| 1234 | - | - | 07 轻松学python 元组 | 18:43 | [link](https://www.bilibili.com/video/BV1xV411r7Gu) |
-| 1235 | - | - | 08 轻松学python 字典 | 25:54 | [link](https://www.bilibili.com/video/BV1ki4y1s7TG) |
-| 1236 | - | - | 09 轻松学python 集合 | 13:48 | [link](https://www.bilibili.com/video/BV1Lv41167zH) |
-| 1237 | - | - | 10 轻松学python if条件判断语句 | 17:17 | [link](https://www.bilibili.com/video/BV16z411i7iY) |
-| 1238 | - | - | 11 轻松学python while循环语句 | 22:27 | [link](https://www.bilibili.com/video/BV1RK4y1x7CQ) |
-| 1239 | - | - | 12 轻松学python for循环语句 | 19:07 | [link](https://www.bilibili.com/video/BV1ET4y1J7GV) |
-| 1240 | - | - | 13 轻松学python 迭代器 | 19:17 | [link](https://www.bilibili.com/video/BV11Z4y1H7zU) |
-| 1241 | - | - | 14 轻松学 python range zip enumerate 内置函数 | 24:27 | [link](https://www.bilibili.com/video/BV1NK411W72q) |
-| 1242 | - | - | 15 轻松学 python 列表推导 | 10:45 | [link](https://www.bilibili.com/video/BV1zz4y1Q7zo) |
-| 1243 | - | - | 16-1 轻松学 Python 类 ( 第一节 ) | 17:32 | [link](https://www.bilibili.com/video/BV1qK4y1478J) |
-| 1244 | - | - | 16-2 轻松学 Python 类 继承 多态 ( 第二节 ) | 33:10 | [link](https://www.bilibili.com/video/BV1Tz4y1X72S) |
-| 1245 | - | - | 16-3 轻松学 Python 类 运算符重载 ( 第三节 ) | 38:52 | [link](https://www.bilibili.com/video/BV1wf4y1R7tw) |
-| 1246 | - | - | 01_轻松学OpenCV_简介 | 15:40 | [link](https://www.bilibili.com/video/BV1Ji4y1x7vJ) |
-| 1247 | - | - | 02_轻松学OpenCV_图像基础 | 31:58 | [link](https://www.bilibili.com/video/BV1eg4y1i7P6) |
-| 1248 | - | - | 03 轻松学 OpenCV argparse模块 | 15:41 | [link](https://www.bilibili.com/video/BV1fK411H7bf) |
-| 1249 | - | - | 04 轻松学 OpenCV 读取图片 | 20:02 | [link](https://www.bilibili.com/video/BV1uT4y1J7iV) |
-| 1250 | - | - | 05 轻松学 OpenCV 读取_处理_保存图片 | 14:51 | [link](https://www.bilibili.com/video/BV1St4y1X7Lq) |
-| 1251 | - | - | 06 轻松学 OpenCV 从摄像头读取视频 | 22:14 | [link](https://www.bilibili.com/video/BV1gg4y1v7jt) |
-| 1252 | - | - | 07 轻松学 OpenCV 从视频文件读取内容 | 12:01 | [link](https://www.bilibili.com/video/BV19Z4y1H7GH) |
-| 1253 | - | - | 08 轻松学OpenCV 保存摄像头读取到的视频内容 | 28:17 | [link](https://www.bilibili.com/video/BV1EV411k78q) |
-| 1254 | - | - | 09 轻松学OpenCV 图像的8种变换 | 53:37 | [link](https://www.bilibili.com/video/BV1oK4y1x7PH) |
-| 1255 | - | - | 10 轻松学 OpenCV 灰度直方图 | 41:48 | [link](https://www.bilibili.com/video/BV14i4y1x797) |
-| 1256 | - | - | 11 轻松学 OpenCV 灰度直方图 ( 补充知识点 ) | 17:07 | [link](https://www.bilibili.com/video/BV1dK411p7cu) |
-| 1257 | - | - | 12 轻松学 OpenCV mask | 24:33 | [link](https://www.bilibili.com/video/BV1EZ4y1H7bB) |
-| 1258 | - | - | 13 轻松学 OpenCV 彩色直方图 | 25:12 | [link](https://www.bilibili.com/video/BV17k4y1z7L3) |
-| 1259 | - | - | 14 轻松学 OpenCV 画出基本图形 | 24:58 | [link](https://www.bilibili.com/video/BV1xK4y147Mk) |
-| 1260 | - | - | 15 轻松学 OpenCV 图片上显示文本 | 12:12 | [link](https://www.bilibili.com/video/BV1DD4y1D7Hw) |
-| 1261 | - | - | 16 轻松学 OpenCV 人脸检测基于Haar级联 | 47:11 | [link](https://www.bilibili.com/video/BV18z411e7VJ) |
-| 1262 | - | - | 17-1 轻松学 OpenCV 基于dlib在图片上进行人脸检测 | 22:37 | [link](https://www.bilibili.com/video/BV1PK411W7pF) |
-| 1263 | - | - | 17-2 轻松学 OpenCV 基于dlib通过摄像头进行实时人脸检测 | 14:38 | [link](https://www.bilibili.com/video/BV11Z4y1H7aS) |
-| 1264 | - | - | 18-1 轻松学 OpenCV  基于dlib进行人脸关键点检测( 图片 ) | 26:07 | [link](https://www.bilibili.com/video/BV1Bk4y1z7rE) |
-| 1265 | - | - | 18-2 轻松学OpenCV 基于dlib进行人脸关键点检测 (摄像头) | 16:48 | [link](https://www.bilibili.com/video/BV19A411v7QS) |
-| 1266 | - | - | 18-3 轻松学OpenCV 基于face_recognition进行人脸关键点检测 | 29:58 | [link](https://www.bilibili.com/video/BV1ez4y1Q7sD) |
-| 1267 | - | - | 19-1 轻松学OpenCV 基于dlib进行人脸跟踪 | 19:18 | [link](https://www.bilibili.com/video/BV1pK4y147Fj) |
-| 1268 | - | - | 19-2 轻松学OpenCV 基于dlib进行人脸跟踪(补充) | 15:29 | [link](https://www.bilibili.com/video/BV1Pz4y1R7iB) |
-| 1269 | - | - | 19-3 轻松学OpenCV 基于dlib进行目标跟踪 | 38:44 | [link](https://www.bilibili.com/video/BV1cv411B7yN) |
-| 1270 | - | - | 20-1 轻松学OpenCV 基于dlib进行人脸识别( 图片检测 ） | 61:17 | [link](https://www.bilibili.com/video/BV1DZ4y1H7RM) |
-| 1271 | - | - | 20-2 轻松学OpenCV 基于face_recognition进行人脸识别 ( 摄像头 ) | 43:51 | [link](https://www.bilibili.com/video/BV1h5411Y7d8) |
-| 1272 | - | - | 【极速入门】DeepSeek Harness上手实战指南！架构原理、项目实操、插件开发全栈精讲！赠全套知识库、Skills、桌面端应用与插件管理器！ | 135:02 | [link](https://www.bilibili.com/video/BV1tTbk6zE4C) |
-| 1273 | - | - | 从零手搓工业级知识库！DeepSeek Harness智能体开发实战！Skills+插件+Agent预设全栈精讲，Agent设计、开发、部署、优化全流程实操！ | 141:14 | [link](https://www.bilibili.com/video/BV1Hf8A6sEbN) |
-| 1274 | - | - | 用好插件，性能暴涨！多Agent系统+永久记忆+提示优化+OpenDesign+TUI等，10大必装插件助你的DeepSeek Harness如虎添翼！ | 12:17 | [link](https://www.bilibili.com/video/BV1eU836PEkF) |
-| 1275 | - | - | 桌面端+插件商店+视觉增强，DeepSeek Harness Studio开源上线！一键选配管理插件，原生视觉能力增强，自动版本更新，0代码彻底掌控DSH！ | 3:26 | [link](https://www.bilibili.com/video/BV19Hb16dExu) |
-| 1276 | - | - | DeepSeek Harness上手流程+入门导读！国产版Codex&Claude Code重磅开源！ | 8:43 | [link](https://www.bilibili.com/video/BV1P9gs6zEpz) |
-| 1277 | - | - | 保姆级DeepSeek Harness部署与上手指南！DeepSeek版Codex&Claude Code，DSH完整部署&使用&调用&开发流程详解！ | 4:59 | [link](https://www.bilibili.com/video/BV1hfgW6jEVr) |
-| 1278 | - | - | 架构解读+部署上手+插件使用，DeepSeek Harness全方位深度解析！基座性能持平Codex，高度灵活插件系统定义下一代Agent开发范式！ | 9:23 | [link](https://www.bilibili.com/video/BV1Lyuf6SETd) |
-| 1279 | - | - | 效率翻倍，效果追平！DeepSeek Harness VS Codex，Agent性能全方位深度对比评测！ | 6:19 | [link](https://www.bilibili.com/video/BV1gduf6GEbZ) |
-| 1280 | - | - | 0代码+配视觉！DeepSeek Harness桌面版安装使用，自带视觉增强与背景切换，保姆级上手使用流程详解！ | 46:22 | [link](https://www.bilibili.com/video/BV1aPgK6cEgj) |
-| 1281 | - | - | 顶级体验！DeepSeek V4 Vision多模态模型介绍与效果实测！DeepSeek V4-Flash-Vision-Exp重磅发布！ | 6:15 | [link](https://www.bilibili.com/video/BV1sh8i6XE49) |
-| 1282 | - | - | Token自由！单卡5090部署满血DeepSeek V4 Flash！32G显存运行Opus 4.8级大模型，FreeToken项目CPU+GPU混合推实战！ | 7:19 | [link](https://www.bilibili.com/video/BV1BuhG6CEjD) |
-| 1283 | - | - | DeepSeek-V4-Pro正式版深度评测！11项工业场景全方位测评，Agentic Coding、前端审美、物理理解、Agent开发全面追平Fable 5！ | 5:15 | [link](https://www.bilibili.com/video/BV1Q2g76cENE) |
-| 1284 | - | - | DeepSeek-V4-Pro正式版接Codex配视觉能力！0代码0网络门槛，Codex App、CLI双端环境实现，多隔离环境切换与配置管理，FF-Codex | 6:17 | [link](https://www.bilibili.com/video/BV1vegL6hEtA) |
-| 1285 | - | - | 性能评测+上手解读！DeepSeek-V4-Pro开源新王，Agentic coding&推理&长程工具调用全面硬刚Fable 5！ | 4:34 | [link](https://www.bilibili.com/video/BV1bSgL6nEwR) |
-| 1286 | - | - | DeepSeek Harness工作流分享！精美前端开发、AI PPT&视频制作实用工作流实践，Agent预设Preset上手进阶实战！ | 7:34 | [link](https://www.bilibili.com/video/BV1b68d6EEhG) |
-| 1287 | - | - | 【面试八股】大模型微调与RAG该如何选？面试满分回答模板+底层原理精讲，直接背！秋招求职必备！ | 6:17 | [link](https://www.bilibili.com/video/BV12bYszLEY5) |
-| 1288 | - | - | 【面试八股】如何估算大模型微调所需硬件？一个公式搞定！附面试满分答案模板 / MOE架构模型 / 微调预算有限如何分配资源 | 6:47 | [link](https://www.bilibili.com/video/BV19WeAzAEPJ) |
-| 1289 | - | - | 【面试八股】PPO与GRPO算法原理对比分析，大模型强化学习微调必考，2步做出满分答卷，拿下高薪offer！ / 强化学习算法原理 / 高效微调算法原理 | 7:48 | [link](https://www.bilibili.com/video/BV1MGeVzHEB4) |
-| 1290 | - | - | 【面试八股】如何进行多机多卡大模型微调？分布式训练满分答卷，让你的offer率提升80%！ / DeepSpeed / PyTorch Distributed | 6:22 | [link](https://www.bilibili.com/video/BV1xCY9zbE6b) |
-| 1291 | - | - | 【面试八股】如何进行大模型多模态微调？10+算法工程经验分享，你也能写出满分答案！ / LoRA / QLoRA / 高效微调 | 4:30 | [link](https://www.bilibili.com/video/BV1hdebzTE3g) |
-| 1292 | - | - | 【面试八股】专业领域微调数据集如何准备？11步工程化构建环节，适配面试 & 企业项目落地！/ 数据预处理 / 微调效果评估 | 6:45 | [link](https://www.bilibili.com/video/BV1RmebzkEyV) |
-| 1293 | - | - | 【面试八股】如何评估大模型微调效果？人工+自动化评估，面试官听完点头的企业级评估方案！ / 构建模型评估数据集 / EvalScope自动构建数据集 | 5:25 | [link](https://www.bilibili.com/video/BV1h5ebzKEbA) |
-| 1294 | - | - | 【面试八股】Qwen3的GSPO算法原理是什么？国产T0大模型核心技术精讲，0基础也能手撕前沿算法 / GRPO VS GSPO / PPO长度归一化 | 7:35 | [link](https://www.bilibili.com/video/BV1tNh1zvEnX) |
-| 1295 | - | - | 【面试八股】如何通过微调提升Agent性能？Claude Code也在用的技术思路，自动化生成最优工具调用策略 / 指令微调 / 强化学习 / 奖励函数设计 | 5:18 | [link](https://www.bilibili.com/video/BV1ChhyzZEDv) |
-| 1296 | - | - | 真神还是造假？GPT-5 VS Claude 4.1编程性能对比评测！全网首发GPT-5工业级实战性能评测，代码能力&Agent性能全方位深度测评！ | 10:28 | [link](https://www.bilibili.com/video/BV1kLtmzREMr) |
-| 1297 | - | - | GPT-5深度解读与性能评测！编程&Agent性能全面超越Claude 4.1？实测&揭秘地表最强大模型核心功能特性！ | 10:51 | [link](https://www.bilibili.com/video/BV18YtCzoEue) |
-| 1298 | - | - | GPT-5发布会4分钟速览！定价、性能…一次看完！GPT-5你需要知道的都在这了 | 6:35 | [link](https://www.bilibili.com/video/BV1ggtkz9EKs) |
-| 1299 | - | - | LangGraph&LangChain智能体开发极速入门！前端对话+NL2SQL+Python代码解释器，前后端分离部署+运行状态实时追踪全流程实战！ | 11:52 | [link](https://www.bilibili.com/video/BV1Nx38zMEyi) |
-| 1300 | - | - | 工业级智能体开发实践，LangChain从零入门与智能体开发实战！RAG知识库检索、MCP智能体开发、数据分析智能体搭建全领域实战！从零学会LangChain！ | 325:10 | [link](https://www.bilibili.com/video/BV1pYKgzAE5C) |
-| 1301 | - | - | 超越LangChain！LangGraph快速入门与智能体开发实战！工业级智能体开发、部署、运维、前端对话全流程实践，NL2SQL、Python代码解释器开发！ | 275:01 | [link](https://www.bilibili.com/video/BV1Kx3CzyE6Q) |
-| 1302 | - | - | 最热门智能体开发技术栈，最低零代码开发企业级Agent！LangChain&LangGraph+MCP技术实战，双向MCP接入与封装双向开发实践！ | 142:37 | [link](https://www.bilibili.com/video/BV1bzMdzkERM) |
-| 1303 | - | - | MCP技术开发入门实战！DeepSeek、ollama、vLLM接入MCP，从零手撕代码搭建MCP Client与Server！MCP完整技术实战！ | 115:15 | [link](https://www.bilibili.com/video/BV1NLXCYTEbj) |
-| 1304 | - | - | MCP企业级智能体开发实战！知识库问答系统+AI数据分析智能体项目实战！独家提供MCP常用工作流+通用开发模版+外部工具调用优化函数 | 132:56 | [link](https://www.bilibili.com/video/BV1n1ZuYjEzf) |
-| 1305 | - | - | 零门槛接入MCP！Cursor、阿里云百炼、Open-WebUI、Cherry Studio接入10大最热门MCP工具实战流程！零门槛搭建专属智能体应用！ | 123:09 | [link](https://www.bilibili.com/video/BV1dCo7YdEgK) |
-| 1306 | - | - | DeepSeek v3本地部署与调用实战｜vLLM、SGLang、LMDeploy+DeepSeek v3部署调用实战 | 33:40 | [link](https://www.bilibili.com/video/BV1jjwVe4EKn) |
-| 1307 | - | - | DeepSeek-v3调用指南与Function calling技术实战｜DeepSeek v3模型参数详解与Tool Use功能实战 | 97:25 | [link](https://www.bilibili.com/video/BV1JuwVewELc) |
-| 1308 | - | - | 【全网独家】手动复现DeepSeek v3！从零训练Mini DeepSeek v3！模型预训练+全量指令微调+DPO强化学习微调全流程实战 | 120:14 | [link](https://www.bilibili.com/video/BV1KtwueYE54) |
-| 1309 | - | - | DeepSeek v3搭建Multi-Agent技术入门实战｜DeepSeek v3+OpenAI Swarm技术实战 | 60:04 | [link](https://www.bilibili.com/video/BV1T8czeSEf1) |
-| 1310 | - | - | DeepSeek v3+GraphRAG技术实战｜DeepSeek v3知识图谱检索增强技术实战 | 44:01 | [link](https://www.bilibili.com/video/BV1Xwc6eoEW5) |
-| 1311 | - | - | 【保姆级】DeepSeek R1本地部署与调用指南｜transformer、Ollama、vLLM、LMDeploy、SGLang部署与调用R1与蒸馏模型组 | 54:58 | [link](https://www.bilibili.com/video/BV19kFoe6Ef7) |
-| 1312 | - | - | DeepSeek R1 API调用实战！DeepSeek R1模型参数详解与模型功能介绍｜自动编程、自动机器学习项目入门实战 | 23:52 | [link](https://www.bilibili.com/video/BV1UyfGYqE28) |
-| 1313 | - | - | 借助DeepSeek R1进行模型蒸馏，模型蒸馏入门实战！从零训练DeepSeek R1 Distill模型｜模型蒸馏技术实战 | 79:22 | [link](https://www.bilibili.com/video/BV1X1FoeBEgW) |
-| 1314 | - | - | 【最佳方案】DeepSeek R1搭建本地知识库问答系统｜DeepSeek+Ollama+RAG本地知识库问答实战｜AnythingLLM快速部署与应用实战 | 47:16 | [link](https://www.bilibili.com/video/BV12qF2ePEDa) |
-| 1315 | - | - | 新年巨献！DeepSeek Janus Pro重磅开源！文生图+图像识别，统一多模态大模型奠基之作！超越DALL-E 3、SD3 Medium | 25:10 | [link](https://www.bilibili.com/video/BV15kFseHEQ5) |
-| 1316 | - | - | DeepSeek新年巨献！Janus Pro本地部署与调用实战！图像识别+文生图统一多模态大模型本地部署与调用流程详解！ | 34:13 | [link](https://www.bilibili.com/video/BV1ZqFse9Egc) |
-| 1317 | - | - | 【全网独家】训练定制化DeepSeek R1！零基础DeepSeek R1高效微调实战｜知识灌注+对话风格微调，推理模型+Cot数据集微调实战！ | 111:26 | [link](https://www.bilibili.com/video/BV1YjN8eGE1H) |
-| 1318 | - | - | 【全网最强】DeepSeek R1论文逐段精读与训练流程代码复现｜R1强化学习训练流程详解、模型蒸馏方法介绍｜GRPO原理介绍与代码复现 | 162:26 | [link](https://www.bilibili.com/video/BV1n9NfezErB) |
-| 1319 | - | - | 联网+本地知识问答+外部工具调用+代码解释器+多用户并发+多模型切换，DeepSeek+Open-WebUI终极部署指南！ | 109:52 | [link](https://www.bilibili.com/video/BV1qU9AYLEe3) |
-| 1320 | - | - | 最低0显存，独家Unsloth动态量化部署满血DeepSeek｜纯CPU推理、CPU+GPU混合推理、纯GPU推理方案详解｜企业级最佳部署方案 | 103:00 | [link](https://www.bilibili.com/video/BV1oePLezEZD) |
-| 1321 | - | - | 【全网独家】训练定制化DeepSeek R1！零基础DeepSeek R1高效微调实战｜知识灌注+对话风格微调，推理模型+Cot数据集微调实战！ | 110:46 | [link](https://www.bilibili.com/video/BV1f8Are5Enz) |
-| 1322 | - | - | 独家KTransformers技术实战，手把手跑通4090运行DeepSeek满血版，独家FastAPI脚本编写&Open-WebUI结合方案深度讲解 | 113:14 | [link](https://www.bilibili.com/video/BV1kyAke9EBA) |
-| 1323 | - | - | DeepSeek正式发布DualPipe，梁文峰亲自带队研发神级双向管道并行算加速，毫秒级榨干GPU性能！ | 6:28 | [link](https://www.bilibili.com/video/BV1Gj9AYMEki) |
-| 1324 | - | - | DeepSeek重磅开源DeepGEMM矩阵加速库，全球唯一FP8超级矩阵加速器！2.7倍提升矩阵乘法计算效率！ | 4:43 | [link](https://www.bilibili.com/video/BV1KJP7eZE2F) |
-| 1325 | - | - | DeepSeek重磅开源DeepEP，大模型训练&推理效率暴涨！粉碎算力垄断，重塑MoE模型训练新范式！ | 4:53 | [link](https://www.bilibili.com/video/BV1LXPYeHEwB) |
-| 1326 | - | - | 不负众望，Deepseek又开源封神！FlashMLA推理速度怒飙3倍！工业级加速库改写vLLM、SGLang技术规范 | 4:11 | [link](https://www.bilibili.com/video/BV1jdPxeKEPV) |
-| 1327 | - | - | DeepSeek开源周压轴发布3FS，全球唯一大模型分布式文件管理系统，6TiB/s巨量吞吐性能，开辟训练新篇章！ | 5:54 | [link](https://www.bilibili.com/video/BV1Xh93YfEV1) |
-| 1328 | - | - | 比肩o1！DeepSeek R1全面解析！价格比OpenAI o1便宜50倍！ / 1.5B小模型代码能力赶超GPT4o / 小尺寸推理模型企业可本地部署 | 6:52 | [link](https://www.bilibili.com/video/BV1UBwbe4E1D) |
-| 1329 | - | - | 【深度】DeepSeek v3性能评测与技术解析｜DeepSeek v3为何是技术人首选模型｜颠覆当前大模型技术格局 | 11:17 | [link](https://www.bilibili.com/video/BV18Ccie5Esy) |
-| 1330 | - | - | 2025大模型最强求职指南！整理全网2万份JD，一手数据信息揭秘求职真相！ | 12:47 | [link](https://www.bilibili.com/video/BV18JreYpE5Q) |
-| 1331 | - | - | 【深度】2024大模型年度总结与2025技术展望！Agent智能体迎来全面爆发，大模型技术“黄金十年”即将到来！ | 20:29 | [link](https://www.bilibili.com/video/BV1Xn6nYnEnr) |
-| 1332 | - | - | 不止会解数学题！OpenAI o3即将开启AGI新时代！详解o3的现实应用与深远影响 | 10:50 | [link](https://www.bilibili.com/video/BV1abCaYxEpp) |
-| 1333 | - | - | OpenAI发布会总结与深度解读：AGI之路天堑变通途！ | 11:08 | [link](https://www.bilibili.com/video/BV1YZCNYDEzt) |
-| 1334 | - | - | AI视频生成终极之战！谷歌Veo 2正面硬刚OpenAI Sora！ | 5:48 | [link](https://www.bilibili.com/video/BV1YVkMYsEq5) |
-| 1335 | - | - | 万元服务器运行满血DeepSeek！全网最全低成本部署方案+硬件采购避坑指南！KTransformers方案+Unsloth动态量化方案详解！ | 13:36 | [link](https://www.bilibili.com/video/BV1K7ACewEfM) |
-| 1336 | - | - | 零基础揭秘DeepSeek R1训练流程｜全网首发万字拆解R1复现流程｜多阶段GRPO强化学习训练、模型蒸馏技术揭秘！ | 15:48 | [link](https://www.bilibili.com/video/BV1ESAMepE4K) |
-| 1337 | - | - | OpenAI年度发布会Day 1解读：o1满血版、o1 pro mode与ChatGPT Pro新品解读！ | 7:51 | [link](https://www.bilibili.com/video/BV1ufiYYuEpT) |
-| 1338 | - | - | OpenAI年度发布会Day 1完整回放与实时解读！｜o1、o1Pro、ChatGPT Pro重磅发布！｜三位UP深夜团建解读发布会 | 21:56 | [link](https://www.bilibili.com/video/BV1GXiYYVEGa) |
-| 1339 | - | - | OpenAI年度发布会前瞻解读，GPT5、Sora、Agent工具会发布么？ | 18:09 | [link](https://www.bilibili.com/video/BV1PuieYaEjT) |
-| 1340 | - | - | OpenAI年度发布会Day2解读：强化学习微调与定制化o1模型震撼登场！开启Agent开发新时代！奥特曼：今年最大惊喜！ | 11:45 | [link](https://www.bilibili.com/video/BV1joirYkEB8) |
-| 1341 | - | - | OpenAI发布会Day 2发布会完整回放与深度解读｜强化学习API震撼登场，定制化o1模型人人可得，Agent开发一夜变天！Sam：今年最大惊喜！ | 80:46 | [link](https://www.bilibili.com/video/BV1yfi6YHEQ4) |
-| 1342 | - | - | OpenAI年度发布会一阶段汇总：o1 Pro、ChatGPT Pro、强化学习API新品解读【合集】 | 19:35 | [link](https://www.bilibili.com/video/BV1GAq5YZEeA) |
-| 1343 | - | - | Sora来了！今日最新宣传片《合成青春》速览与解读！｜百人热舞+实体一致+物理遵循+专业运镜，Sora王者归来！ | 5:40 | [link](https://www.bilibili.com/video/BV1AjqHYAESa) |
-| 1344 | - | - | OpenAI年度重磅！o1大模型快速入门与开发实战！｜o1 API调用流程、推理与上下文管理、自动编程与实体识别开发实战！ | 46:33 | [link](https://www.bilibili.com/video/BV1zWqHY4EjE) |
-| 1345 | - | - | Sora重磅发布！无限时长一致+任意帧修改+物理遵循！OpenAI发布会Day 3深度解读！ | 6:17 | [link](https://www.bilibili.com/video/BV18EquYGEfo) |
-| 1346 | - | - | Sora今日重磅上线！发布会完整解读、Sora演示与功能详解！ | 56:22 | [link](https://www.bilibili.com/video/BV1shquYPEds) |
-| 1347 | - | - | Sora功能及价格全解！Sora今日重磅发布，再次颠覆多模态领域，不负期待！ | 14:14 | [link](https://www.bilibili.com/video/BV1rRqMYZERK) |
-| 1348 | - | - | 在线Cursor来了！新版Canvas功能深度解读！ChatGPT在线文本&代码智能编辑器现已上线！ | 14:53 | [link](https://www.bilibili.com/video/BV1dYqyYUEVT) |
-| 1349 | - | - | OpenAI Day 4发布会实况回放与深度解读！在线Cursor来了，新版Canvas重磅上线！ | 24:04 | [link](https://www.bilibili.com/video/BV1FpqyY4Eew) |
-| 1350 | - | - | ChatGPT Canvas智能编程与智能文本编辑完整功能演示！OpenAI发布会Day 4，新版ChatGPT Canvas重磅上线！ | 17:47 | [link](https://www.bilibili.com/video/BV1B1qCYQEcK) |
-| 1351 | - | - | OpenAI Day 7深度解读，ChatGPT Projects功能来袭，文本&代码生产力迎来重大突破！ | 10:08 | [link](https://www.bilibili.com/video/BV1TfB3Y2EUS) |
-| 1352 | - | - | OpenAI发布会Day 7发布会回放与解读：ChatGPT Projects功能重磅上线！新一代ChatBot生产力标杆！ | 29:14 | [link](https://www.bilibili.com/video/BV1pbB3YTE33) |
-| 1353 | - | - | ChatGPT操控APP效果演示：一键操控Cursor及其他文本与代码编辑器！ | 31:25 | [link](https://www.bilibili.com/video/BV1e3kkY9E49) |
-| 1354 | - | - | OpenAI Day 11：ChatGPT操控指定APP功能上线！发布会实况与深度解读～ | 49:41 | [link](https://www.bilibili.com/video/BV1eVkkYpEAu) |
-| 1355 | - | - | ChatGPT APP协作功能介绍与解读！一键配对APP完成操控！Computer use雏形功能上线 | 13:00 | [link](https://www.bilibili.com/video/BV1pikkYqEbU) |
-| 1356 | - | - | OpenAI Day 10：打电话、发短信找ChatGPT聊天｜OpenAI发布会Day 10回放与解读 | 18:46 | [link](https://www.bilibili.com/video/BV13DkPYCEHb) |
-| 1357 | - | - | ChatGPT创意功能上线！打电话、发短信找ChatGPT聊天～ | 5:21 | [link](https://www.bilibili.com/video/BV1oHkNYHETB) |
-| 1358 | - | - | ChatGPT Search发布会完整解读与实况回放｜ChatGPT完整体正式发布，发布会实况解读 | 18:16 | [link](https://www.bilibili.com/video/BV1zSkGYjEWA) |
-| 1359 | - | - | ChatGPT完整体来袭，新版互联网Search功能重磅上线，免费可用！｜OpenAI发布会Day 8深度解读 | 9:47 | [link](https://www.bilibili.com/video/BV1nmkGYmEcf) |
-| 1360 | - | - | o3推理大模型王炸登场 Agent将获最强大脑！数学编程能力大幅提升、推理新时代来临 ｜ OpenAI发布会Day12 | 7:37 | [link](https://www.bilibili.com/video/BV17wkQYQEaU) |
-| 1361 | - | - | 全程高能！o3大模型发布会实况与深度解读！OpenAI Day12完整录像与技术解说 | 77:07 | [link](https://www.bilibili.com/video/BV1hikDYzELp) |
-| 1362 | - | - | Agent智能体概念详解与2025大模型岗位技能要求分析｜2025Agent最热门开发方向分析 | 25:31 | [link](https://www.bilibili.com/video/BV1TjBnYTETX) |
-| 1363 | - | - | 零基础Agent智能体开发基础理论详解！记忆、工具、规划、执行四大功能模块设计原理保姆级介绍！ | 24:47 | [link](https://www.bilibili.com/video/BV1CcBJYtEne) |
-| 1364 | - | - | 12项Agent智能体开发框架入门与选型！｜Coze、Dify、LangChain、LangGraph、AutoGen等工具对比分析与选型建议！ | 23:10 | [link](https://www.bilibili.com/video/BV16NBJYRE3s) |
-| 1365 | - | - | 当前主流各类GPU分类命名及适用场景介绍｜RTX系列、A系列、H系列、中国区特供版GPU分类命名规则及性能介绍 | 6:55 | [link](https://www.bilibili.com/video/BV1HpBEYsEzW) |
-| 1366 | - | - | 大模型GPU性能与性价比天梯图详解！各类GPU的大模型训练与推理性能对比，以及主流GPU性价比分析！ | 9:33 | [link](https://www.bilibili.com/video/BV1daBEY7ESw) |
-| 1367 | - | - | 各类大模型运行GPU配置推荐！各尺寸大模型训练、微调、推理所需GPU配置推荐！ | 7:26 | [link](https://www.bilibili.com/video/BV1GZB7YrE2Y) |
-| 1368 | - | - | 个人、实验室、企业大模型项目GPU服务器推荐配置及报价！各类大模型项目GPU完整配置清单详解 | 6:29 | [link](https://www.bilibili.com/video/BV15oB7YGEjG) |
-| 1369 | - | - | GLM4实战教程（1）：GLM系列在线大模型生态入门介绍 | 34:37 | [link](https://www.bilibili.com/video/BV1gK4y1B7oq) |
-| 1370 | - | - | GLM4实战教程（2）：GLM4 API-KEY获取与本地调用 | 32:58 | [link](https://www.bilibili.com/video/BV1ja4y1y7Aj) |
-| 1371 | - | - | GLM4实战教程（3）：GLM模型全参数讲解 | 59:18 | [link](https://www.bilibili.com/video/BV1he411n7nS) |
-| 1372 | - | - | GLM4实战教程（4）：GLM模型Message队列设置方法与模型身份设置 | 21:23 | [link](https://www.bilibili.com/video/BV1oN4y1n7QG) |
-| 1373 | - | - | 大模型最大风口Agent是什么？详解Agent在医疗、教育、生产力、个人助理、娱乐、电商领域应用现状 | 14:54 | [link](https://www.bilibili.com/video/BV1LN4y1a7gB) |
-| 1374 | - | - | 团队自研Agent：MateGen重磅上线！定制知识库+本地代码解释器+联网+追踪debug！伴你高效学习&工作 | 17:16 | [link](https://www.bilibili.com/video/BV1WN41157QT) |
-| 1375 | - | - | 开源大模型 VS GPT，哪个最适合做Agent？零基础入门Agent开发学习路线推荐！ | 16:17 | [link](https://www.bilibili.com/video/BV11u4y1M73s) |
-| 1376 | - | - | 全球最前沿GPT系Agent开发都需要哪些技能？详解GPT系Agent开发必备技能学习路线！ | 8:22 | [link](https://www.bilibili.com/video/BV1mi4y1e7kd) |
-| 1377 | - | - | 国内商用Agent开发，要学习哪些开源大模型？详解开源大模型开发Agent入门学习路径！ | 13:31 | [link](https://www.bilibili.com/video/BV1ij411W7fp) |
-| 1378 | - | - | Agent概念详解！为什么Agent才是大模型的未来？数据分析&机器学习Agent到底长啥样？ | 32:13 | [link](https://www.bilibili.com/video/BV1w94y177et) |
-| 1379 | - | - | Agent开发必备技能详解！零基础入门Agent开发学习路线精讲！｜在线大模型&开源大模型技术学习路线 | 38:09 | [link](https://www.bilibili.com/video/BV1MN4y1a7iz) |
-| 1380 | - | - | 零基础迅速掌握Agent开发流程！Agent通用开发范式详解！｜Agent模块化开发流程精讲 | 23:22 | [link](https://www.bilibili.com/video/BV1MN41157gh) |
-| 1381 | - | - | AI Agent开发新范式，GPTs功能详解！｜打造个人专属ChatGPT | 28:19 | [link](https://www.bilibili.com/video/BV1az4y1w7nH) |
-| 1382 | - | - | 手把手创建一个专属GPTs！打造全自动数据分析Agent！｜以对话的方式高效开发AI Agent | 31:08 | [link](https://www.bilibili.com/video/BV1XG411S7Df) |
-| 1383 | - | - | GPTs进阶功能Actions使用方法详解！将外部工具API接入GPTs，打造功能专属ChatGPT | 39:32 | [link](https://www.bilibili.com/video/BV1qC4y127js) |
-| 1384 | - | - | 全自动数据分析报表GPTs功能测试！｜专属GPTs发布与功能测试 | 12:15 | [link](https://www.bilibili.com/video/BV1qw411N7qf) |
-| 1385 | - | - | ChatGLM3零基础安装部署流程（上）｜ChatGLM3零基础代码调用流程｜ChatGLM3 Web应用调用方法 | 28:59 | [link](https://www.bilibili.com/video/BV1gN4y1r7RX) |
-| 1386 | - | - | ChatGLM3零基础安装部署流程（下）｜ChatGLM3零基础代码调用流程｜ChatGLM3 Web应用调用方法 | 27:05 | [link](https://www.bilibili.com/video/BV18M411Q7Pp) |
-| 1387 | - | - | ChatGLM3快速入门，全新API调用方法详解｜Messages参数功能介绍 | 28:21 | [link](https://www.bilibili.com/video/BV18c411d7Hd) |
-| 1388 | - | - | ChatGLM3推理性能快速评测｜ChatGLM3 VS GPT系模型性能对比 | 25:57 | [link](https://www.bilibili.com/video/BV1BG411X7Hk) |
-| 1389 | - | - | ChatGLM3工具调用function calling功能详解｜如何让ChatGLM3接入外部工具｜ChatGLM3 Agent开发入门 | 24:46 | [link](https://www.bilibili.com/video/BV1V84y1971r) |
-| 1390 | - | - | ChatGLM3 Agent开发入门｜Function calling全自动实现｜AI Agent开发入门 | 26:00 | [link](https://www.bilibili.com/video/BV1Wy4y1c7oA) |
-| 1391 | - | - | 进步显著！ChatGLM3重磅上线！深度详解新模型性能与新功能 | 34:48 | [link](https://www.bilibili.com/video/BV14N4y1674J) |
-| 1392 | - | - | ChatGLM3全新消息队列功能介绍！接入先进多角色对话功能！ | 15:09 | [link](https://www.bilibili.com/video/BV1fg4y197xM) |
-| 1393 | - | - | ChatGLM3全新Function calling功能详解！开启AI Agent之路的最核心功能！ | 22:21 | [link](https://www.bilibili.com/video/BV1K94y157gd) |
-| 1394 | - | - | 如何借助大模型冲击Kaggle金牌？ | 26:48 | [link](https://www.bilibili.com/video/BV1i84y127sB) |
-| 1395 | - | - | 自动机器学习建模AI Agent功能架构详解 | 29:07 | [link](https://www.bilibili.com/video/BV1MN411t79i) |
-| 1396 | - | - | 自动机器学习建模 AI Agent入门实操 | 26:25 | [link](https://www.bilibili.com/video/BV1oG41117oq) |
-| 1397 | - | - | 特征衍生全技术路径精讲 / 机器学习 / 特征工程 | 17:21 | [link](https://www.bilibili.com/video/BV1aC4y1d7GD) |
-| 1398 | - | - | 特征筛选全技术路径精讲 | 10:59 | [link](https://www.bilibili.com/video/BV1Kw411k7XT) |
-| 1399 | - | - | 模型融合全技术地图讲解 | 16:26 | [link](https://www.bilibili.com/video/BV19B4y1Z7dK) |
-| 1400 | - | - | GPT系AI应用开发实战01: GPT模型Function calling功能入门介绍 | 27:18 | [link](https://www.bilibili.com/video/BV1XF411f7qF) |
-| 1401 | - | - | GPT系AI应用开发实战02: Function calling相关参数详解 | 30:32 | [link](https://www.bilibili.com/video/BV16X4y1L7H2) |
-| 1402 | - | - | GPT系AI应用开发实战03: Function calling开发流程详解 | 26:02 | [link](https://www.bilibili.com/video/BV1f8411d73j) |
-| 1403 | - | - | GPT系AI应用开发实战04: GPT模型调用外部工具API方法介绍 | 29:17 | [link](https://www.bilibili.com/video/BV1w14y1q7yr) |
-| 1404 | - | - | GPT系AI应用开发实战05: 基于GPT模型的天气查询应用开发实战 | 16:34 | [link](https://www.bilibili.com/video/BV1Nu4y1z7ku) |
-| 1405 | - | - | GPT系AI应用开发实战06: AI应用开发入门: 谷歌云与API库入门介绍 | 22:07 | [link](https://www.bilibili.com/video/BV1hH4y1D7qF) |
-| 1406 | - | - | GPT系AI应用开发实战07: AI应用开发入门: 谷歌云 Auth2.0 授权方法 | 28:30 | [link](https://www.bilibili.com/video/BV17p4y1j75v) |
-| 1407 | - | - | GPT系AI应用开发实战08: 基于Gmail API的AI邮件系统开发实战1 | 15:04 | [link](https://www.bilibili.com/video/BV1rj411C7G4) |
-| 1408 | - | - | GPT系AI应用开发实战09: 基于Gmail API的AI邮件系统开发实战2 | 27:26 | [link](https://www.bilibili.com/video/BV1gH4y1Q7iy) |
-| 1409 | - | - | GPT系AI应用开发实战10: 热门AI应用开发方向解读 | 26:24 | [link](https://www.bilibili.com/video/BV1Dz4y1j7vH) |
-| 1410 | - | - | GPT系AI应用开发实战11: 智能搜索问答机器人项目介绍与开发思路 | 29:52 | [link](https://www.bilibili.com/video/BV1Qp4y1A7X9) |
-| 1411 | - | - | GPT系AI应用开发实战12: 谷歌搜索API获取与使用方法 / 将谷歌搜索接入GPT大模型 | 28:53 | [link](https://www.bilibili.com/video/BV16u411c7Nd) |
-| 1412 | - | - | GPT系AI应用开发实战13: 构建基于GitHub的搜索问答机器人 | 30:32 | [link](https://www.bilibili.com/video/BV1jy4y1F7QW) |
-| 1413 | - | - | GPT大模型技术实战教程01: OpenAI官网使用指南与API-Key获取 | 29:15 | [link](https://www.bilibili.com/video/BV1YM4y1x76K) |
-| 1414 | - | - | GPT大模型技术实战教程02: GPT大模型API-Key使用方法&Jupyter本地调用 | 16:09 | [link](https://www.bilibili.com/video/BV1RV411T754) |
-| 1415 | - | - | GPT大模型技术实战教程03: Completion模型与Chat模型入门介绍 | 16:04 | [link](https://www.bilibili.com/video/BV1M8411Q7Kv) |
-| 1416 | - | - | GPT大模型技术实战教程04: Completion模型API使用方法详解 | 25:29 | [link](https://www.bilibili.com/video/BV1fP411k7vv) |
-| 1417 | - | - | GPT大模型技术实战教程05:  Completion模型调参实践 | 14:46 | [link](https://www.bilibili.com/video/BV1zz4y147FZ) |
-| 1418 | - | - | GPT大模型技术实战教程06: 基于Completion手动创建可自定义聊天风格的对话机器人 | 14:25 | [link](https://www.bilibili.com/video/BV1U14y197hp) |
-| 1419 | - | - | GPT大模型技术实战教程07: GPT最新Chat类模型入门介绍 | 23:09 | [link](https://www.bilibili.com/video/BV1Vk4y1V76h) |
-| 1420 | - | - | GPT大模型技术实战教程08：Chat模型功能介绍与发展现状 | 19:35 | [link](https://www.bilibili.com/video/BV1LN411Y7hW) |
-| 1421 | - | - | GPT大模型技术实战教程09: GPT-4 API使用方法&Chat模型API详解 | 36:15 | [link](https://www.bilibili.com/video/BV1f14y1z7HS) |
-| 1422 | - | - | GPT大模型技术实战教程10: GPT-4 API核心参数Message使用方法详解 | 25:32 | [link](https://www.bilibili.com/video/BV1vc411F7vi) |
-| 1423 | - | - | 【入门】OpenAI在线大模型生态介绍｜大模型技术入门课程｜GPT&DALL·E&Codex&Embedding模型介绍 | 27:15 | [link](https://www.bilibili.com/video/BV15P411z7pU) |
-| 1424 | - | - | 【入门】开源大模型生态与ChatGLM-6B大模型介绍｜最强中文大模型GLM介绍｜LLM开源大模型概览 | 33:35 | [link](https://www.bilibili.com/video/BV1Xg4y1N7kM) |
-| 1425 | - | - | 【入门】大语言模型常用微调框架介绍｜LoRA&Prefix-Tuning&Prompt-Tuning&P-Tuning v2&RLHF微调原理简介 | 33:33 | [link](https://www.bilibili.com/video/BV1Yc411g78a) |
-| 1426 | - | - | 【入门】AI应用开发范式LangChain零基础入门介绍｜LangChain六大功能模块解释｜基于LLM的AI开发流程与开发工具 | 25:38 | [link](https://www.bilibili.com/video/BV1gz4y1e7im) |
-| 1427 | - | - | 机器学习面试热点问题精讲·Part 1.机器学习基础篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 45:49 | [link](https://www.bilibili.com/video/BV1oo4y167CV) |
-| 1428 | - | - | 机器学习面试热点问题精讲·Part 2.经典机器学习篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 15:10 | [link](https://www.bilibili.com/video/BV1XT411v7WK) |
-| 1429 | - | - | 机器学习面试热点问题精讲·Part 3.集成学习篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 24:22 | [link](https://www.bilibili.com/video/BV17j411g7PX) |
-| 1430 | - | - | 机器学习面试热点问题精讲·Part 4.特征工程篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 35:13 | [link](https://www.bilibili.com/video/BV1pT411v7gD) |
-| 1431 | - | - | 机器学习面试热点问题精讲·Part 5.模型融合篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 41:57 | [link](https://www.bilibili.com/video/BV1c54y1u7DU) |
+| 1174 | - | - | 进阶学·ES-04-01 analyzer简介 | 13:02 | [link](https://www.bilibili.com/video/BV1SV4y1L77u) |
+| 1175 | - | - | 进阶学·ES-04-02 analyzer应用 | 13:20 | [link](https://www.bilibili.com/video/BV1g84y1z7SM) |
+| 1176 | - | - | 进阶学·ES-04-03 analyzer IK分词器-自定义词典 | 13:31 | [link](https://www.bilibili.com/video/BV16N4y1c7VW) |
+| 1177 | - | - | 进阶学·ES-04-04 analyzer IK分词器-同义词-上集 | 13:23 | [link](https://www.bilibili.com/video/BV1qe411L7SJ) |
+| 1178 | - | - | 进阶学·ES-04-05 analyzer IK分词器-同义词-下集 | 8:24 | [link](https://www.bilibili.com/video/BV1mG4y1p75R) |
+| 1179 | - | - | 进阶学·ES-04-06 analyzer IK分词器-停用词 | 17:39 | [link](https://www.bilibili.com/video/BV1i14y177tV) |
+| 1180 | - | - | 进阶学·ES-04-07 analyzer IK分词器-拼音搜索 | 5:16 | [link](https://www.bilibili.com/video/BV1BK411Q7YP) |
+| 1181 | - | - | 进阶学·ES-04-08 ES辅助功能 | 23:00 | [link](https://www.bilibili.com/video/BV1Ee4y1i77Q) |
+| 1182 | - | - | 进阶学·ES-04-09 ES布尔查询 | 10:11 | [link](https://www.bilibili.com/video/BV1ZW4y1J77a) |
+| 1183 | - | - | 进阶学·ES-04-10 ES全文搜索 | 13:18 | [link](https://www.bilibili.com/video/BV17e411V7ec) |
+| 1184 | - | - | 进阶学·ES-04-11 ES搜索排序 | 14:29 | [link](https://www.bilibili.com/video/BV19V4y1V7ge) |
+| 1185 | - | - | mysql_01_课程简介 | 2:59 | [link](https://www.bilibili.com/video/BV1e14y187iC) |
+| 1186 | - | - | mysql_02_基本操作 | 8:07 | [link](https://www.bilibili.com/video/BV13t4y1A7HN) |
+| 1187 | - | - | mysql_03_数据表的增删改 | 5:57 | [link](https://www.bilibili.com/video/BV1TV4y1K7S6) |
+| 1188 | - | - | mysql_04_01_数据查询 | 13:18 | [link](https://www.bilibili.com/video/BV15T411P7rC) |
+| 1189 | - | - | mysql_04_02_数据查询 | 13:43 | [link](https://www.bilibili.com/video/BV13e411j7M6) |
+| 1190 | - | - | mysql_05_01_存储过程 | 12:18 | [link](https://www.bilibili.com/video/BV1eG4y1W7H5) |
+| 1191 | - | - | mysql_05_02_存储过程 | 8:34 | [link](https://www.bilibili.com/video/BV1Te4y1z78C) |
+| 1192 | - | - | mysql_06_01_索引 | 6:25 | [link](https://www.bilibili.com/video/BV1NN4y1N7Mc) |
+| 1193 | - | - | mysql_06_02 索引 | 7:02 | [link](https://www.bilibili.com/video/BV1fV4y1N7eV) |
+| 1194 | - | - | mysql_07_python与mysql教程 | 27:59 | [link](https://www.bilibili.com/video/BV17G411n7q6) |
+| 1195 | - | - | mysql_08_pandas与mysql教程 | 9:24 | [link](https://www.bilibili.com/video/BV1kG4y1W7J7) |
+| 1196 | - | - | 自然语言处理快速入门 01-BERT及其变种的原理 | 18:16 | [link](https://www.bilibili.com/video/BV1RP4y1t7sc) |
+| 1197 | - | - | 02-BERT及其变种的原理 | 8:17 | [link](https://www.bilibili.com/video/BV1d44y1x7tP) |
+| 1198 | - | - | 03-BERT及其变种的原理 | 3:59 | [link](https://www.bilibili.com/video/BV12r4y1y7PS) |
+| 1199 | - | - | 04-BERT及其变种的原理 | 3:43 | [link](https://www.bilibili.com/video/BV19F411Y7ER) |
+| 1200 | - | - | 05-BERT及其变种的原理 | 4:36 | [link](https://www.bilibili.com/video/BV1zr4y1y72v) |
+| 1201 | - | - | 06-BERT入门二分类案例 自然语言处理快速入门 | 35:18 | [link](https://www.bilibili.com/video/BV1SP4y137Pp) |
+| 1202 | - | - | 07-基于RoBERTa训练一个MLM掩码语言模型 | 29:18 | [link](https://www.bilibili.com/video/BV1gF411z78D) |
+| 1203 | - | - | 08_一_基于BiLSTM和BERT实现分类任务 | 15:23 | [link](https://www.bilibili.com/video/BV1wb4y1i7hU) |
+| 1204 | - | - | 09_二_基于BiLSTM和BERT实现分类任务 | 17:40 | [link](https://www.bilibili.com/video/BV1uR4y137JG) |
+| 1205 | - | - | 10_三_基于BiLSTM和BERT实现分类任务 | 12:42 | [link](https://www.bilibili.com/video/BV1UP4y1J7yr) |
+| 1206 | - | - | 11_四_基于BiLSTM和BERT实现分类任务 | 21:14 | [link](https://www.bilibili.com/video/BV17q4y117YB) |
+| 1207 | - | - | 01_TensorFlow 2.0 分类案例【银行客户流失预测】官网+个人实现 | 40:56 | [link](https://www.bilibili.com/video/BV1f44y1z7XF) |
+| 1208 | - | - | 02_TensorFlow 2.0 鲜花分类 官网案例详解 + 优化 | 32:03 | [link](https://www.bilibili.com/video/BV1cf4y187PE) |
+| 1209 | - | - | 03_TensorFlow 2.0 迁移学习_案例1_基于预训练模型进行目标分类 | 22:16 | [link](https://www.bilibili.com/video/BV1oB4y1T7qL) |
+| 1210 | - | - | 04-1_TensorFlow 2.0 迁移学习_案例2_上集_宠物狗品种识别 | 28:35 | [link](https://www.bilibili.com/video/BV1b44y167ca) |
+| 1211 | - | - | 04-2_TensorFlow 2.0 迁移学习_案例2_下集_宠物狗品种识别 | 39:04 | [link](https://www.bilibili.com/video/BV19B4y1T7eP) |
+| 1212 | - | - | 05_TensorFlow 2.0 回归案例 葡萄酒品质预测 | 38:12 | [link](https://www.bilibili.com/video/BV1F64y1r7Ub) |
+| 1213 | - | - | 06_TensorFlow 2.0 基于LSTM进行文本生成（字符级） | 41:53 | [link](https://www.bilibili.com/video/BV1ko4y1k7Lo) |
+| 1214 | - | - | 07_TensorFlow 2.0 基于LSTM单变量预测_电力消耗案例 | 51:01 | [link](https://www.bilibili.com/video/BV1f5411K7qD) |
+| 1215 | - | - | 08_TensorFlow 2.0 基于LSTM多变量_共享单车使用量预测 | 48:39 | [link](https://www.bilibili.com/video/BV1y5411K7NR) |
+| 1216 | - | - | 09_基于Embedding进行IMDB情感文本分类（上集） | 20:17 | [link](https://www.bilibili.com/video/BV19y4y1M7p5) |
+| 1217 | - | - | 09_基于Embedding进行IMDB情感文本分类（下集） | 31:16 | [link](https://www.bilibili.com/video/BV1X64y197KS) |
+| 1218 | - | - | 10-01 OCR入门案例_手写字体识别 | 11:28 | [link](https://www.bilibili.com/video/BV1tX4y1w751) |
+| 1219 | - | - | 10-02 OCR入门案例_手写字体识别 | 44:06 | [link](https://www.bilibili.com/video/BV1EB4y1N7oz) |
+| 1220 | - | - | 10-03 OCR入门案例_手写字体识别 | 16:25 | [link](https://www.bilibili.com/video/BV1oh411h7oy) |
+| 1221 | - | - | 11_01 OCR 图片去噪 | 12:29 | [link](https://www.bilibili.com/video/BV1H54y1E7yv) |
+| 1222 | - | - | 11_02 OCR 图片去噪 | 2:28 | [link](https://www.bilibili.com/video/BV1TX4y1A7fN) |
+| 1223 | - | - | 11_03 OCR 图片去噪 | 16:14 | [link](https://www.bilibili.com/video/BV1Tf4y1j7PU) |
+| 1224 | - | - | 11_04 OCR 图片去噪 | 5:48 | [link](https://www.bilibili.com/video/BV1L64y1z7yV) |
+| 1225 | - | - | 11_05 OCR 图片去噪 | 10:51 | [link](https://www.bilibili.com/video/BV1bb4y1k75f) |
+| 1226 | - | - | 12_TensorFlow 2.0 多分类案例 CIFAR10【官网 + 个人实现】 | 37:24 | [link](https://www.bilibili.com/video/BV1UK4y1X7dM) |
+| 1227 | - | - | 01_轻松学Python_python语言简介和工具安装 | 14:13 | [link](https://www.bilibili.com/video/BV1Pg4y1q7BZ) |
+| 1228 | - | - | 02 轻松学python 变量 | 16:19 | [link](https://www.bilibili.com/video/BV1Qi4y1s7EW) |
+| 1229 | - | - | 03 轻松学python 数字类型 | 4:35 | [link](https://www.bilibili.com/video/BV1CT4y1E7fE) |
+| 1230 | - | - | 04 轻松学python 运算符 | 9:52 | [link](https://www.bilibili.com/video/BV1854y1Q7ai) |
+| 1231 | - | - | 05 轻松学python 字符串 | 39:30 | [link](https://www.bilibili.com/video/BV1vz411i726) |
+| 1232 | - | - | 06 轻松学python 列表 | 27:46 | [link](https://www.bilibili.com/video/BV1vz4y197hL) |
+| 1233 | - | - | 07 轻松学python 元组 | 18:43 | [link](https://www.bilibili.com/video/BV1xV411r7Gu) |
+| 1234 | - | - | 08 轻松学python 字典 | 25:54 | [link](https://www.bilibili.com/video/BV1ki4y1s7TG) |
+| 1235 | - | - | 09 轻松学python 集合 | 13:48 | [link](https://www.bilibili.com/video/BV1Lv41167zH) |
+| 1236 | - | - | 10 轻松学python if条件判断语句 | 17:17 | [link](https://www.bilibili.com/video/BV16z411i7iY) |
+| 1237 | - | - | 11 轻松学python while循环语句 | 22:27 | [link](https://www.bilibili.com/video/BV1RK4y1x7CQ) |
+| 1238 | - | - | 12 轻松学python for循环语句 | 19:07 | [link](https://www.bilibili.com/video/BV1ET4y1J7GV) |
+| 1239 | - | - | 13 轻松学python 迭代器 | 19:17 | [link](https://www.bilibili.com/video/BV11Z4y1H7zU) |
+| 1240 | - | - | 14 轻松学 python range zip enumerate 内置函数 | 24:27 | [link](https://www.bilibili.com/video/BV1NK411W72q) |
+| 1241 | - | - | 15 轻松学 python 列表推导 | 10:45 | [link](https://www.bilibili.com/video/BV1zz4y1Q7zo) |
+| 1242 | - | - | 16-1 轻松学 Python 类 ( 第一节 ) | 17:32 | [link](https://www.bilibili.com/video/BV1qK4y1478J) |
+| 1243 | - | - | 16-2 轻松学 Python 类 继承 多态 ( 第二节 ) | 33:10 | [link](https://www.bilibili.com/video/BV1Tz4y1X72S) |
+| 1244 | - | - | 16-3 轻松学 Python 类 运算符重载 ( 第三节 ) | 38:52 | [link](https://www.bilibili.com/video/BV1wf4y1R7tw) |
+| 1245 | - | - | 01_轻松学OpenCV_简介 | 15:40 | [link](https://www.bilibili.com/video/BV1Ji4y1x7vJ) |
+| 1246 | - | - | 02_轻松学OpenCV_图像基础 | 31:58 | [link](https://www.bilibili.com/video/BV1eg4y1i7P6) |
+| 1247 | - | - | 03 轻松学 OpenCV argparse模块 | 15:41 | [link](https://www.bilibili.com/video/BV1fK411H7bf) |
+| 1248 | - | - | 04 轻松学 OpenCV 读取图片 | 20:02 | [link](https://www.bilibili.com/video/BV1uT4y1J7iV) |
+| 1249 | - | - | 05 轻松学 OpenCV 读取_处理_保存图片 | 14:51 | [link](https://www.bilibili.com/video/BV1St4y1X7Lq) |
+| 1250 | - | - | 06 轻松学 OpenCV 从摄像头读取视频 | 22:14 | [link](https://www.bilibili.com/video/BV1gg4y1v7jt) |
+| 1251 | - | - | 07 轻松学 OpenCV 从视频文件读取内容 | 12:01 | [link](https://www.bilibili.com/video/BV19Z4y1H7GH) |
+| 1252 | - | - | 08 轻松学OpenCV 保存摄像头读取到的视频内容 | 28:17 | [link](https://www.bilibili.com/video/BV1EV411k78q) |
+| 1253 | - | - | 09 轻松学OpenCV 图像的8种变换 | 53:37 | [link](https://www.bilibili.com/video/BV1oK4y1x7PH) |
+| 1254 | - | - | 10 轻松学 OpenCV 灰度直方图 | 41:48 | [link](https://www.bilibili.com/video/BV14i4y1x797) |
+| 1255 | - | - | 11 轻松学 OpenCV 灰度直方图 ( 补充知识点 ) | 17:07 | [link](https://www.bilibili.com/video/BV1dK411p7cu) |
+| 1256 | - | - | 12 轻松学 OpenCV mask | 24:33 | [link](https://www.bilibili.com/video/BV1EZ4y1H7bB) |
+| 1257 | - | - | 13 轻松学 OpenCV 彩色直方图 | 25:12 | [link](https://www.bilibili.com/video/BV17k4y1z7L3) |
+| 1258 | - | - | 14 轻松学 OpenCV 画出基本图形 | 24:58 | [link](https://www.bilibili.com/video/BV1xK4y147Mk) |
+| 1259 | - | - | 15 轻松学 OpenCV 图片上显示文本 | 12:12 | [link](https://www.bilibili.com/video/BV1DD4y1D7Hw) |
+| 1260 | - | - | 16 轻松学 OpenCV 人脸检测基于Haar级联 | 47:11 | [link](https://www.bilibili.com/video/BV18z411e7VJ) |
+| 1261 | - | - | 17-1 轻松学 OpenCV 基于dlib在图片上进行人脸检测 | 22:37 | [link](https://www.bilibili.com/video/BV1PK411W7pF) |
+| 1262 | - | - | 17-2 轻松学 OpenCV 基于dlib通过摄像头进行实时人脸检测 | 14:38 | [link](https://www.bilibili.com/video/BV11Z4y1H7aS) |
+| 1263 | - | - | 18-1 轻松学 OpenCV  基于dlib进行人脸关键点检测( 图片 ) | 26:07 | [link](https://www.bilibili.com/video/BV1Bk4y1z7rE) |
+| 1264 | - | - | 18-2 轻松学OpenCV 基于dlib进行人脸关键点检测 (摄像头) | 16:48 | [link](https://www.bilibili.com/video/BV19A411v7QS) |
+| 1265 | - | - | 18-3 轻松学OpenCV 基于face_recognition进行人脸关键点检测 | 29:58 | [link](https://www.bilibili.com/video/BV1ez4y1Q7sD) |
+| 1266 | - | - | 19-1 轻松学OpenCV 基于dlib进行人脸跟踪 | 19:18 | [link](https://www.bilibili.com/video/BV1pK4y147Fj) |
+| 1267 | - | - | 19-2 轻松学OpenCV 基于dlib进行人脸跟踪(补充) | 15:29 | [link](https://www.bilibili.com/video/BV1Pz4y1R7iB) |
+| 1268 | - | - | 19-3 轻松学OpenCV 基于dlib进行目标跟踪 | 38:44 | [link](https://www.bilibili.com/video/BV1cv411B7yN) |
+| 1269 | - | - | 20-1 轻松学OpenCV 基于dlib进行人脸识别( 图片检测 ） | 61:17 | [link](https://www.bilibili.com/video/BV1DZ4y1H7RM) |
+| 1270 | - | - | 20-2 轻松学OpenCV 基于face_recognition进行人脸识别 ( 摄像头 ) | 43:51 | [link](https://www.bilibili.com/video/BV1h5411Y7d8) |
+| 1271 | - | - | 【极速入门】DeepSeek Harness上手实战指南！架构原理、项目实操、插件开发全栈精讲！赠全套知识库、Skills、桌面端应用与插件管理器！ | 135:02 | [link](https://www.bilibili.com/video/BV1tTbk6zE4C) |
+| 1272 | - | - | 从零手搓工业级知识库！DeepSeek Harness智能体开发实战！Skills+插件+Agent预设全栈精讲，Agent设计、开发、部署、优化全流程实操！ | 141:14 | [link](https://www.bilibili.com/video/BV1Hf8A6sEbN) |
+| 1273 | - | - | 用好插件，性能暴涨！多Agent系统+永久记忆+提示优化+OpenDesign+TUI等，10大必装插件助你的DeepSeek Harness如虎添翼！ | 12:17 | [link](https://www.bilibili.com/video/BV1eU836PEkF) |
+| 1274 | - | - | 桌面端+插件商店+视觉增强，DeepSeek Harness Studio开源上线！一键选配管理插件，原生视觉能力增强，自动版本更新，0代码彻底掌控DSH！ | 3:26 | [link](https://www.bilibili.com/video/BV19Hb16dExu) |
+| 1275 | - | - | DeepSeek Harness上手流程+入门导读！国产版Codex&Claude Code重磅开源！ | 8:43 | [link](https://www.bilibili.com/video/BV1P9gs6zEpz) |
+| 1276 | - | - | 保姆级DeepSeek Harness部署与上手指南！DeepSeek版Codex&Claude Code，DSH完整部署&使用&调用&开发流程详解！ | 4:59 | [link](https://www.bilibili.com/video/BV1hfgW6jEVr) |
+| 1277 | - | - | 架构解读+部署上手+插件使用，DeepSeek Harness全方位深度解析！基座性能持平Codex，高度灵活插件系统定义下一代Agent开发范式！ | 9:23 | [link](https://www.bilibili.com/video/BV1Lyuf6SETd) |
+| 1278 | - | - | 效率翻倍，效果追平！DeepSeek Harness VS Codex，Agent性能全方位深度对比评测！ | 6:19 | [link](https://www.bilibili.com/video/BV1gduf6GEbZ) |
+| 1279 | - | - | 0代码+配视觉！DeepSeek Harness桌面版安装使用，自带视觉增强与背景切换，保姆级上手使用流程详解！ | 46:22 | [link](https://www.bilibili.com/video/BV1aPgK6cEgj) |
+| 1280 | - | - | 顶级体验！DeepSeek V4 Vision多模态模型介绍与效果实测！DeepSeek V4-Flash-Vision-Exp重磅发布！ | 6:15 | [link](https://www.bilibili.com/video/BV1sh8i6XE49) |
+| 1281 | - | - | Token自由！单卡5090部署满血DeepSeek V4 Flash！32G显存运行Opus 4.8级大模型，FreeToken项目CPU+GPU混合推实战！ | 7:19 | [link](https://www.bilibili.com/video/BV1BuhG6CEjD) |
+| 1282 | - | - | DeepSeek-V4-Pro正式版深度评测！11项工业场景全方位测评，Agentic Coding、前端审美、物理理解、Agent开发全面追平Fable 5！ | 5:15 | [link](https://www.bilibili.com/video/BV1Q2g76cENE) |
+| 1283 | - | - | DeepSeek-V4-Pro正式版接Codex配视觉能力！0代码0网络门槛，Codex App、CLI双端环境实现，多隔离环境切换与配置管理，FF-Codex | 6:17 | [link](https://www.bilibili.com/video/BV1vegL6hEtA) |
+| 1284 | - | - | 性能评测+上手解读！DeepSeek-V4-Pro开源新王，Agentic coding&推理&长程工具调用全面硬刚Fable 5！ | 4:34 | [link](https://www.bilibili.com/video/BV1bSgL6nEwR) |
+| 1285 | - | - | DeepSeek Harness工作流分享！精美前端开发、AI PPT&视频制作实用工作流实践，Agent预设Preset上手进阶实战！ | 7:34 | [link](https://www.bilibili.com/video/BV1b68d6EEhG) |
+| 1286 | - | - | 【面试八股】大模型微调与RAG该如何选？面试满分回答模板+底层原理精讲，直接背！秋招求职必备！ | 6:17 | [link](https://www.bilibili.com/video/BV12bYszLEY5) |
+| 1287 | - | - | 【面试八股】如何估算大模型微调所需硬件？一个公式搞定！附面试满分答案模板 / MOE架构模型 / 微调预算有限如何分配资源 | 6:47 | [link](https://www.bilibili.com/video/BV19WeAzAEPJ) |
+| 1288 | - | - | 【面试八股】PPO与GRPO算法原理对比分析，大模型强化学习微调必考，2步做出满分答卷，拿下高薪offer！ / 强化学习算法原理 / 高效微调算法原理 | 7:48 | [link](https://www.bilibili.com/video/BV1MGeVzHEB4) |
+| 1289 | - | - | 【面试八股】如何进行多机多卡大模型微调？分布式训练满分答卷，让你的offer率提升80%！ / DeepSpeed / PyTorch Distributed | 6:22 | [link](https://www.bilibili.com/video/BV1xCY9zbE6b) |
+| 1290 | - | - | 【面试八股】如何进行大模型多模态微调？10+算法工程经验分享，你也能写出满分答案！ / LoRA / QLoRA / 高效微调 | 4:30 | [link](https://www.bilibili.com/video/BV1hdebzTE3g) |
+| 1291 | - | - | 【面试八股】专业领域微调数据集如何准备？11步工程化构建环节，适配面试 & 企业项目落地！/ 数据预处理 / 微调效果评估 | 6:45 | [link](https://www.bilibili.com/video/BV1RmebzkEyV) |
+| 1292 | - | - | 【面试八股】如何评估大模型微调效果？人工+自动化评估，面试官听完点头的企业级评估方案！ / 构建模型评估数据集 / EvalScope自动构建数据集 | 5:25 | [link](https://www.bilibili.com/video/BV1h5ebzKEbA) |
+| 1293 | - | - | 【面试八股】Qwen3的GSPO算法原理是什么？国产T0大模型核心技术精讲，0基础也能手撕前沿算法 / GRPO VS GSPO / PPO长度归一化 | 7:35 | [link](https://www.bilibili.com/video/BV1tNh1zvEnX) |
+| 1294 | - | - | 【面试八股】如何通过微调提升Agent性能？Claude Code也在用的技术思路，自动化生成最优工具调用策略 / 指令微调 / 强化学习 / 奖励函数设计 | 5:18 | [link](https://www.bilibili.com/video/BV1ChhyzZEDv) |
+| 1295 | - | - | 真神还是造假？GPT-5 VS Claude 4.1编程性能对比评测！全网首发GPT-5工业级实战性能评测，代码能力&Agent性能全方位深度测评！ | 10:28 | [link](https://www.bilibili.com/video/BV1kLtmzREMr) |
+| 1296 | - | - | GPT-5深度解读与性能评测！编程&Agent性能全面超越Claude 4.1？实测&揭秘地表最强大模型核心功能特性！ | 10:51 | [link](https://www.bilibili.com/video/BV18YtCzoEue) |
+| 1297 | - | - | GPT-5发布会4分钟速览！定价、性能…一次看完！GPT-5你需要知道的都在这了 | 6:35 | [link](https://www.bilibili.com/video/BV1ggtkz9EKs) |
+| 1298 | - | - | LangGraph&LangChain智能体开发极速入门！前端对话+NL2SQL+Python代码解释器，前后端分离部署+运行状态实时追踪全流程实战！ | 11:52 | [link](https://www.bilibili.com/video/BV1Nx38zMEyi) |
+| 1299 | - | - | 工业级智能体开发实践，LangChain从零入门与智能体开发实战！RAG知识库检索、MCP智能体开发、数据分析智能体搭建全领域实战！从零学会LangChain！ | 325:10 | [link](https://www.bilibili.com/video/BV1pYKgzAE5C) |
+| 1300 | - | - | 超越LangChain！LangGraph快速入门与智能体开发实战！工业级智能体开发、部署、运维、前端对话全流程实践，NL2SQL、Python代码解释器开发！ | 275:01 | [link](https://www.bilibili.com/video/BV1Kx3CzyE6Q) |
+| 1301 | - | - | 最热门智能体开发技术栈，最低零代码开发企业级Agent！LangChain&LangGraph+MCP技术实战，双向MCP接入与封装双向开发实践！ | 142:37 | [link](https://www.bilibili.com/video/BV1bzMdzkERM) |
+| 1302 | - | - | MCP技术开发入门实战！DeepSeek、ollama、vLLM接入MCP，从零手撕代码搭建MCP Client与Server！MCP完整技术实战！ | 115:15 | [link](https://www.bilibili.com/video/BV1NLXCYTEbj) |
+| 1303 | - | - | MCP企业级智能体开发实战！知识库问答系统+AI数据分析智能体项目实战！独家提供MCP常用工作流+通用开发模版+外部工具调用优化函数 | 132:56 | [link](https://www.bilibili.com/video/BV1n1ZuYjEzf) |
+| 1304 | - | - | 零门槛接入MCP！Cursor、阿里云百炼、Open-WebUI、Cherry Studio接入10大最热门MCP工具实战流程！零门槛搭建专属智能体应用！ | 123:09 | [link](https://www.bilibili.com/video/BV1dCo7YdEgK) |
+| 1305 | - | - | DeepSeek v3本地部署与调用实战｜vLLM、SGLang、LMDeploy+DeepSeek v3部署调用实战 | 33:40 | [link](https://www.bilibili.com/video/BV1jjwVe4EKn) |
+| 1306 | - | - | DeepSeek-v3调用指南与Function calling技术实战｜DeepSeek v3模型参数详解与Tool Use功能实战 | 97:25 | [link](https://www.bilibili.com/video/BV1JuwVewELc) |
+| 1307 | - | - | 【全网独家】手动复现DeepSeek v3！从零训练Mini DeepSeek v3！模型预训练+全量指令微调+DPO强化学习微调全流程实战 | 120:14 | [link](https://www.bilibili.com/video/BV1KtwueYE54) |
+| 1308 | - | - | DeepSeek v3搭建Multi-Agent技术入门实战｜DeepSeek v3+OpenAI Swarm技术实战 | 60:04 | [link](https://www.bilibili.com/video/BV1T8czeSEf1) |
+| 1309 | - | - | DeepSeek v3+GraphRAG技术实战｜DeepSeek v3知识图谱检索增强技术实战 | 44:01 | [link](https://www.bilibili.com/video/BV1Xwc6eoEW5) |
+| 1310 | - | - | 【保姆级】DeepSeek R1本地部署与调用指南｜transformer、Ollama、vLLM、LMDeploy、SGLang部署与调用R1与蒸馏模型组 | 54:58 | [link](https://www.bilibili.com/video/BV19kFoe6Ef7) |
+| 1311 | - | - | DeepSeek R1 API调用实战！DeepSeek R1模型参数详解与模型功能介绍｜自动编程、自动机器学习项目入门实战 | 23:52 | [link](https://www.bilibili.com/video/BV1UyfGYqE28) |
+| 1312 | - | - | 借助DeepSeek R1进行模型蒸馏，模型蒸馏入门实战！从零训练DeepSeek R1 Distill模型｜模型蒸馏技术实战 | 79:22 | [link](https://www.bilibili.com/video/BV1X1FoeBEgW) |
+| 1313 | - | - | 【最佳方案】DeepSeek R1搭建本地知识库问答系统｜DeepSeek+Ollama+RAG本地知识库问答实战｜AnythingLLM快速部署与应用实战 | 47:16 | [link](https://www.bilibili.com/video/BV12qF2ePEDa) |
+| 1314 | - | - | 新年巨献！DeepSeek Janus Pro重磅开源！文生图+图像识别，统一多模态大模型奠基之作！超越DALL-E 3、SD3 Medium | 25:10 | [link](https://www.bilibili.com/video/BV15kFseHEQ5) |
+| 1315 | - | - | DeepSeek新年巨献！Janus Pro本地部署与调用实战！图像识别+文生图统一多模态大模型本地部署与调用流程详解！ | 34:13 | [link](https://www.bilibili.com/video/BV1ZqFse9Egc) |
+| 1316 | - | - | 【全网独家】训练定制化DeepSeek R1！零基础DeepSeek R1高效微调实战｜知识灌注+对话风格微调，推理模型+Cot数据集微调实战！ | 111:26 | [link](https://www.bilibili.com/video/BV1YjN8eGE1H) |
+| 1317 | - | - | 【全网最强】DeepSeek R1论文逐段精读与训练流程代码复现｜R1强化学习训练流程详解、模型蒸馏方法介绍｜GRPO原理介绍与代码复现 | 162:26 | [link](https://www.bilibili.com/video/BV1n9NfezErB) |
+| 1318 | - | - | 联网+本地知识问答+外部工具调用+代码解释器+多用户并发+多模型切换，DeepSeek+Open-WebUI终极部署指南！ | 109:52 | [link](https://www.bilibili.com/video/BV1qU9AYLEe3) |
+| 1319 | - | - | 最低0显存，独家Unsloth动态量化部署满血DeepSeek｜纯CPU推理、CPU+GPU混合推理、纯GPU推理方案详解｜企业级最佳部署方案 | 103:00 | [link](https://www.bilibili.com/video/BV1oePLezEZD) |
+| 1320 | - | - | 【全网独家】训练定制化DeepSeek R1！零基础DeepSeek R1高效微调实战｜知识灌注+对话风格微调，推理模型+Cot数据集微调实战！ | 110:46 | [link](https://www.bilibili.com/video/BV1f8Are5Enz) |
+| 1321 | - | - | 独家KTransformers技术实战，手把手跑通4090运行DeepSeek满血版，独家FastAPI脚本编写&Open-WebUI结合方案深度讲解 | 113:14 | [link](https://www.bilibili.com/video/BV1kyAke9EBA) |
+| 1322 | - | - | DeepSeek正式发布DualPipe，梁文峰亲自带队研发神级双向管道并行算加速，毫秒级榨干GPU性能！ | 6:28 | [link](https://www.bilibili.com/video/BV1Gj9AYMEki) |
+| 1323 | - | - | DeepSeek重磅开源DeepGEMM矩阵加速库，全球唯一FP8超级矩阵加速器！2.7倍提升矩阵乘法计算效率！ | 4:43 | [link](https://www.bilibili.com/video/BV1KJP7eZE2F) |
+| 1324 | - | - | DeepSeek重磅开源DeepEP，大模型训练&推理效率暴涨！粉碎算力垄断，重塑MoE模型训练新范式！ | 4:53 | [link](https://www.bilibili.com/video/BV1LXPYeHEwB) |
+| 1325 | - | - | 不负众望，Deepseek又开源封神！FlashMLA推理速度怒飙3倍！工业级加速库改写vLLM、SGLang技术规范 | 4:11 | [link](https://www.bilibili.com/video/BV1jdPxeKEPV) |
+| 1326 | - | - | DeepSeek开源周压轴发布3FS，全球唯一大模型分布式文件管理系统，6TiB/s巨量吞吐性能，开辟训练新篇章！ | 5:54 | [link](https://www.bilibili.com/video/BV1Xh93YfEV1) |
+| 1327 | - | - | 比肩o1！DeepSeek R1全面解析！价格比OpenAI o1便宜50倍！ / 1.5B小模型代码能力赶超GPT4o / 小尺寸推理模型企业可本地部署 | 6:52 | [link](https://www.bilibili.com/video/BV1UBwbe4E1D) |
+| 1328 | - | - | 【深度】DeepSeek v3性能评测与技术解析｜DeepSeek v3为何是技术人首选模型｜颠覆当前大模型技术格局 | 11:17 | [link](https://www.bilibili.com/video/BV18Ccie5Esy) |
+| 1329 | - | - | 2025大模型最强求职指南！整理全网2万份JD，一手数据信息揭秘求职真相！ | 12:47 | [link](https://www.bilibili.com/video/BV18JreYpE5Q) |
+| 1330 | - | - | 【深度】2024大模型年度总结与2025技术展望！Agent智能体迎来全面爆发，大模型技术“黄金十年”即将到来！ | 20:29 | [link](https://www.bilibili.com/video/BV1Xn6nYnEnr) |
+| 1331 | - | - | 不止会解数学题！OpenAI o3即将开启AGI新时代！详解o3的现实应用与深远影响 | 10:50 | [link](https://www.bilibili.com/video/BV1abCaYxEpp) |
+| 1332 | - | - | OpenAI发布会总结与深度解读：AGI之路天堑变通途！ | 11:08 | [link](https://www.bilibili.com/video/BV1YZCNYDEzt) |
+| 1333 | - | - | AI视频生成终极之战！谷歌Veo 2正面硬刚OpenAI Sora！ | 5:48 | [link](https://www.bilibili.com/video/BV1YVkMYsEq5) |
+| 1334 | - | - | 万元服务器运行满血DeepSeek！全网最全低成本部署方案+硬件采购避坑指南！KTransformers方案+Unsloth动态量化方案详解！ | 13:36 | [link](https://www.bilibili.com/video/BV1K7ACewEfM) |
+| 1335 | - | - | 零基础揭秘DeepSeek R1训练流程｜全网首发万字拆解R1复现流程｜多阶段GRPO强化学习训练、模型蒸馏技术揭秘！ | 15:48 | [link](https://www.bilibili.com/video/BV1ESAMepE4K) |
+| 1336 | - | - | OpenAI年度发布会Day 1解读：o1满血版、o1 pro mode与ChatGPT Pro新品解读！ | 7:51 | [link](https://www.bilibili.com/video/BV1ufiYYuEpT) |
+| 1337 | - | - | OpenAI年度发布会Day 1完整回放与实时解读！｜o1、o1Pro、ChatGPT Pro重磅发布！｜三位UP深夜团建解读发布会 | 21:56 | [link](https://www.bilibili.com/video/BV1GXiYYVEGa) |
+| 1338 | - | - | OpenAI年度发布会前瞻解读，GPT5、Sora、Agent工具会发布么？ | 18:09 | [link](https://www.bilibili.com/video/BV1PuieYaEjT) |
+| 1339 | - | - | OpenAI年度发布会Day2解读：强化学习微调与定制化o1模型震撼登场！开启Agent开发新时代！奥特曼：今年最大惊喜！ | 11:45 | [link](https://www.bilibili.com/video/BV1joirYkEB8) |
+| 1340 | - | - | OpenAI发布会Day 2发布会完整回放与深度解读｜强化学习API震撼登场，定制化o1模型人人可得，Agent开发一夜变天！Sam：今年最大惊喜！ | 80:46 | [link](https://www.bilibili.com/video/BV1yfi6YHEQ4) |
+| 1341 | - | - | OpenAI年度发布会一阶段汇总：o1 Pro、ChatGPT Pro、强化学习API新品解读【合集】 | 19:35 | [link](https://www.bilibili.com/video/BV1GAq5YZEeA) |
+| 1342 | - | - | Sora来了！今日最新宣传片《合成青春》速览与解读！｜百人热舞+实体一致+物理遵循+专业运镜，Sora王者归来！ | 5:40 | [link](https://www.bilibili.com/video/BV1AjqHYAESa) |
+| 1343 | - | - | OpenAI年度重磅！o1大模型快速入门与开发实战！｜o1 API调用流程、推理与上下文管理、自动编程与实体识别开发实战！ | 46:33 | [link](https://www.bilibili.com/video/BV1zWqHY4EjE) |
+| 1344 | - | - | Sora重磅发布！无限时长一致+任意帧修改+物理遵循！OpenAI发布会Day 3深度解读！ | 6:17 | [link](https://www.bilibili.com/video/BV18EquYGEfo) |
+| 1345 | - | - | Sora今日重磅上线！发布会完整解读、Sora演示与功能详解！ | 56:22 | [link](https://www.bilibili.com/video/BV1shquYPEds) |
+| 1346 | - | - | Sora功能及价格全解！Sora今日重磅发布，再次颠覆多模态领域，不负期待！ | 14:14 | [link](https://www.bilibili.com/video/BV1rRqMYZERK) |
+| 1347 | - | - | 在线Cursor来了！新版Canvas功能深度解读！ChatGPT在线文本&代码智能编辑器现已上线！ | 14:53 | [link](https://www.bilibili.com/video/BV1dYqyYUEVT) |
+| 1348 | - | - | OpenAI Day 4发布会实况回放与深度解读！在线Cursor来了，新版Canvas重磅上线！ | 24:04 | [link](https://www.bilibili.com/video/BV1FpqyY4Eew) |
+| 1349 | - | - | ChatGPT Canvas智能编程与智能文本编辑完整功能演示！OpenAI发布会Day 4，新版ChatGPT Canvas重磅上线！ | 17:47 | [link](https://www.bilibili.com/video/BV1B1qCYQEcK) |
+| 1350 | - | - | OpenAI Day 7深度解读，ChatGPT Projects功能来袭，文本&代码生产力迎来重大突破！ | 10:08 | [link](https://www.bilibili.com/video/BV1TfB3Y2EUS) |
+| 1351 | - | - | OpenAI发布会Day 7发布会回放与解读：ChatGPT Projects功能重磅上线！新一代ChatBot生产力标杆！ | 29:14 | [link](https://www.bilibili.com/video/BV1pbB3YTE33) |
+| 1352 | - | - | ChatGPT操控APP效果演示：一键操控Cursor及其他文本与代码编辑器！ | 31:25 | [link](https://www.bilibili.com/video/BV1e3kkY9E49) |
+| 1353 | - | - | OpenAI Day 11：ChatGPT操控指定APP功能上线！发布会实况与深度解读～ | 49:41 | [link](https://www.bilibili.com/video/BV1eVkkYpEAu) |
+| 1354 | - | - | ChatGPT APP协作功能介绍与解读！一键配对APP完成操控！Computer use雏形功能上线 | 13:00 | [link](https://www.bilibili.com/video/BV1pikkYqEbU) |
+| 1355 | - | - | OpenAI Day 10：打电话、发短信找ChatGPT聊天｜OpenAI发布会Day 10回放与解读 | 18:46 | [link](https://www.bilibili.com/video/BV13DkPYCEHb) |
+| 1356 | - | - | ChatGPT创意功能上线！打电话、发短信找ChatGPT聊天～ | 5:21 | [link](https://www.bilibili.com/video/BV1oHkNYHETB) |
+| 1357 | - | - | ChatGPT Search发布会完整解读与实况回放｜ChatGPT完整体正式发布，发布会实况解读 | 18:16 | [link](https://www.bilibili.com/video/BV1zSkGYjEWA) |
+| 1358 | - | - | ChatGPT完整体来袭，新版互联网Search功能重磅上线，免费可用！｜OpenAI发布会Day 8深度解读 | 9:47 | [link](https://www.bilibili.com/video/BV1nmkGYmEcf) |
+| 1359 | - | - | o3推理大模型王炸登场 Agent将获最强大脑！数学编程能力大幅提升、推理新时代来临 ｜ OpenAI发布会Day12 | 7:37 | [link](https://www.bilibili.com/video/BV17wkQYQEaU) |
+| 1360 | - | - | 全程高能！o3大模型发布会实况与深度解读！OpenAI Day12完整录像与技术解说 | 77:07 | [link](https://www.bilibili.com/video/BV1hikDYzELp) |
+| 1361 | - | - | Agent智能体概念详解与2025大模型岗位技能要求分析｜2025Agent最热门开发方向分析 | 25:31 | [link](https://www.bilibili.com/video/BV1TjBnYTETX) |
+| 1362 | - | - | 零基础Agent智能体开发基础理论详解！记忆、工具、规划、执行四大功能模块设计原理保姆级介绍！ | 24:47 | [link](https://www.bilibili.com/video/BV1CcBJYtEne) |
+| 1363 | - | - | 12项Agent智能体开发框架入门与选型！｜Coze、Dify、LangChain、LangGraph、AutoGen等工具对比分析与选型建议！ | 23:10 | [link](https://www.bilibili.com/video/BV16NBJYRE3s) |
+| 1364 | - | - | 当前主流各类GPU分类命名及适用场景介绍｜RTX系列、A系列、H系列、中国区特供版GPU分类命名规则及性能介绍 | 6:55 | [link](https://www.bilibili.com/video/BV1HpBEYsEzW) |
+| 1365 | - | - | 大模型GPU性能与性价比天梯图详解！各类GPU的大模型训练与推理性能对比，以及主流GPU性价比分析！ | 9:33 | [link](https://www.bilibili.com/video/BV1daBEY7ESw) |
+| 1366 | - | - | 各类大模型运行GPU配置推荐！各尺寸大模型训练、微调、推理所需GPU配置推荐！ | 7:26 | [link](https://www.bilibili.com/video/BV1GZB7YrE2Y) |
+| 1367 | - | - | 个人、实验室、企业大模型项目GPU服务器推荐配置及报价！各类大模型项目GPU完整配置清单详解 | 6:29 | [link](https://www.bilibili.com/video/BV15oB7YGEjG) |
+| 1368 | - | - | GLM4实战教程（1）：GLM系列在线大模型生态入门介绍 | 34:37 | [link](https://www.bilibili.com/video/BV1gK4y1B7oq) |
+| 1369 | - | - | GLM4实战教程（2）：GLM4 API-KEY获取与本地调用 | 32:58 | [link](https://www.bilibili.com/video/BV1ja4y1y7Aj) |
+| 1370 | - | - | GLM4实战教程（3）：GLM模型全参数讲解 | 59:18 | [link](https://www.bilibili.com/video/BV1he411n7nS) |
+| 1371 | - | - | GLM4实战教程（4）：GLM模型Message队列设置方法与模型身份设置 | 21:23 | [link](https://www.bilibili.com/video/BV1oN4y1n7QG) |
+| 1372 | - | - | 大模型最大风口Agent是什么？详解Agent在医疗、教育、生产力、个人助理、娱乐、电商领域应用现状 | 14:54 | [link](https://www.bilibili.com/video/BV1LN4y1a7gB) |
+| 1373 | - | - | 团队自研Agent：MateGen重磅上线！定制知识库+本地代码解释器+联网+追踪debug！伴你高效学习&工作 | 17:16 | [link](https://www.bilibili.com/video/BV1WN41157QT) |
+| 1374 | - | - | 开源大模型 VS GPT，哪个最适合做Agent？零基础入门Agent开发学习路线推荐！ | 16:17 | [link](https://www.bilibili.com/video/BV11u4y1M73s) |
+| 1375 | - | - | 全球最前沿GPT系Agent开发都需要哪些技能？详解GPT系Agent开发必备技能学习路线！ | 8:22 | [link](https://www.bilibili.com/video/BV1mi4y1e7kd) |
+| 1376 | - | - | 国内商用Agent开发，要学习哪些开源大模型？详解开源大模型开发Agent入门学习路径！ | 13:31 | [link](https://www.bilibili.com/video/BV1ij411W7fp) |
+| 1377 | - | - | Agent概念详解！为什么Agent才是大模型的未来？数据分析&机器学习Agent到底长啥样？ | 32:13 | [link](https://www.bilibili.com/video/BV1w94y177et) |
+| 1378 | - | - | Agent开发必备技能详解！零基础入门Agent开发学习路线精讲！｜在线大模型&开源大模型技术学习路线 | 38:09 | [link](https://www.bilibili.com/video/BV1MN4y1a7iz) |
+| 1379 | - | - | 零基础迅速掌握Agent开发流程！Agent通用开发范式详解！｜Agent模块化开发流程精讲 | 23:22 | [link](https://www.bilibili.com/video/BV1MN41157gh) |
+| 1380 | - | - | AI Agent开发新范式，GPTs功能详解！｜打造个人专属ChatGPT | 28:19 | [link](https://www.bilibili.com/video/BV1az4y1w7nH) |
+| 1381 | - | - | 手把手创建一个专属GPTs！打造全自动数据分析Agent！｜以对话的方式高效开发AI Agent | 31:08 | [link](https://www.bilibili.com/video/BV1XG411S7Df) |
+| 1382 | - | - | GPTs进阶功能Actions使用方法详解！将外部工具API接入GPTs，打造功能专属ChatGPT | 39:32 | [link](https://www.bilibili.com/video/BV1qC4y127js) |
+| 1383 | - | - | 全自动数据分析报表GPTs功能测试！｜专属GPTs发布与功能测试 | 12:15 | [link](https://www.bilibili.com/video/BV1qw411N7qf) |
+| 1384 | - | - | ChatGLM3零基础安装部署流程（上）｜ChatGLM3零基础代码调用流程｜ChatGLM3 Web应用调用方法 | 28:59 | [link](https://www.bilibili.com/video/BV1gN4y1r7RX) |
+| 1385 | - | - | ChatGLM3零基础安装部署流程（下）｜ChatGLM3零基础代码调用流程｜ChatGLM3 Web应用调用方法 | 27:05 | [link](https://www.bilibili.com/video/BV18M411Q7Pp) |
+| 1386 | - | - | ChatGLM3快速入门，全新API调用方法详解｜Messages参数功能介绍 | 28:21 | [link](https://www.bilibili.com/video/BV18c411d7Hd) |
+| 1387 | - | - | ChatGLM3推理性能快速评测｜ChatGLM3 VS GPT系模型性能对比 | 25:57 | [link](https://www.bilibili.com/video/BV1BG411X7Hk) |
+| 1388 | - | - | ChatGLM3工具调用function calling功能详解｜如何让ChatGLM3接入外部工具｜ChatGLM3 Agent开发入门 | 24:46 | [link](https://www.bilibili.com/video/BV1V84y1971r) |
+| 1389 | - | - | ChatGLM3 Agent开发入门｜Function calling全自动实现｜AI Agent开发入门 | 26:00 | [link](https://www.bilibili.com/video/BV1Wy4y1c7oA) |
+| 1390 | - | - | 进步显著！ChatGLM3重磅上线！深度详解新模型性能与新功能 | 34:48 | [link](https://www.bilibili.com/video/BV14N4y1674J) |
+| 1391 | - | - | ChatGLM3全新消息队列功能介绍！接入先进多角色对话功能！ | 15:09 | [link](https://www.bilibili.com/video/BV1fg4y197xM) |
+| 1392 | - | - | ChatGLM3全新Function calling功能详解！开启AI Agent之路的最核心功能！ | 22:21 | [link](https://www.bilibili.com/video/BV1K94y157gd) |
+| 1393 | - | - | 如何借助大模型冲击Kaggle金牌？ | 26:48 | [link](https://www.bilibili.com/video/BV1i84y127sB) |
+| 1394 | - | - | 自动机器学习建模AI Agent功能架构详解 | 29:07 | [link](https://www.bilibili.com/video/BV1MN411t79i) |
+| 1395 | - | - | 自动机器学习建模 AI Agent入门实操 | 26:25 | [link](https://www.bilibili.com/video/BV1oG41117oq) |
+| 1396 | - | - | 特征衍生全技术路径精讲 / 机器学习 / 特征工程 | 17:21 | [link](https://www.bilibili.com/video/BV1aC4y1d7GD) |
+| 1397 | - | - | 特征筛选全技术路径精讲 | 10:59 | [link](https://www.bilibili.com/video/BV1Kw411k7XT) |
+| 1398 | - | - | 模型融合全技术地图讲解 | 16:26 | [link](https://www.bilibili.com/video/BV19B4y1Z7dK) |
+| 1399 | - | - | GPT系AI应用开发实战01: GPT模型Function calling功能入门介绍 | 27:18 | [link](https://www.bilibili.com/video/BV1XF411f7qF) |
+| 1400 | - | - | GPT系AI应用开发实战02: Function calling相关参数详解 | 30:32 | [link](https://www.bilibili.com/video/BV16X4y1L7H2) |
+| 1401 | - | - | GPT系AI应用开发实战03: Function calling开发流程详解 | 26:02 | [link](https://www.bilibili.com/video/BV1f8411d73j) |
+| 1402 | - | - | GPT系AI应用开发实战04: GPT模型调用外部工具API方法介绍 | 29:17 | [link](https://www.bilibili.com/video/BV1w14y1q7yr) |
+| 1403 | - | - | GPT系AI应用开发实战05: 基于GPT模型的天气查询应用开发实战 | 16:34 | [link](https://www.bilibili.com/video/BV1Nu4y1z7ku) |
+| 1404 | - | - | GPT系AI应用开发实战06: AI应用开发入门: 谷歌云与API库入门介绍 | 22:07 | [link](https://www.bilibili.com/video/BV1hH4y1D7qF) |
+| 1405 | - | - | GPT系AI应用开发实战07: AI应用开发入门: 谷歌云 Auth2.0 授权方法 | 28:30 | [link](https://www.bilibili.com/video/BV17p4y1j75v) |
+| 1406 | - | - | GPT系AI应用开发实战08: 基于Gmail API的AI邮件系统开发实战1 | 15:04 | [link](https://www.bilibili.com/video/BV1rj411C7G4) |
+| 1407 | - | - | GPT系AI应用开发实战09: 基于Gmail API的AI邮件系统开发实战2 | 27:26 | [link](https://www.bilibili.com/video/BV1gH4y1Q7iy) |
+| 1408 | - | - | GPT系AI应用开发实战10: 热门AI应用开发方向解读 | 26:24 | [link](https://www.bilibili.com/video/BV1Dz4y1j7vH) |
+| 1409 | - | - | GPT系AI应用开发实战11: 智能搜索问答机器人项目介绍与开发思路 | 29:52 | [link](https://www.bilibili.com/video/BV1Qp4y1A7X9) |
+| 1410 | - | - | GPT系AI应用开发实战12: 谷歌搜索API获取与使用方法 / 将谷歌搜索接入GPT大模型 | 28:53 | [link](https://www.bilibili.com/video/BV16u411c7Nd) |
+| 1411 | - | - | GPT系AI应用开发实战13: 构建基于GitHub的搜索问答机器人 | 30:32 | [link](https://www.bilibili.com/video/BV1jy4y1F7QW) |
+| 1412 | - | - | GPT大模型技术实战教程01: OpenAI官网使用指南与API-Key获取 | 29:15 | [link](https://www.bilibili.com/video/BV1YM4y1x76K) |
+| 1413 | - | - | GPT大模型技术实战教程02: GPT大模型API-Key使用方法&Jupyter本地调用 | 16:09 | [link](https://www.bilibili.com/video/BV1RV411T754) |
+| 1414 | - | - | GPT大模型技术实战教程03: Completion模型与Chat模型入门介绍 | 16:04 | [link](https://www.bilibili.com/video/BV1M8411Q7Kv) |
+| 1415 | - | - | GPT大模型技术实战教程04: Completion模型API使用方法详解 | 25:29 | [link](https://www.bilibili.com/video/BV1fP411k7vv) |
+| 1416 | - | - | GPT大模型技术实战教程05:  Completion模型调参实践 | 14:46 | [link](https://www.bilibili.com/video/BV1zz4y147FZ) |
+| 1417 | - | - | GPT大模型技术实战教程06: 基于Completion手动创建可自定义聊天风格的对话机器人 | 14:25 | [link](https://www.bilibili.com/video/BV1U14y197hp) |
+| 1418 | - | - | GPT大模型技术实战教程07: GPT最新Chat类模型入门介绍 | 23:09 | [link](https://www.bilibili.com/video/BV1Vk4y1V76h) |
+| 1419 | - | - | GPT大模型技术实战教程08：Chat模型功能介绍与发展现状 | 19:35 | [link](https://www.bilibili.com/video/BV1LN411Y7hW) |
+| 1420 | - | - | GPT大模型技术实战教程09: GPT-4 API使用方法&Chat模型API详解 | 36:15 | [link](https://www.bilibili.com/video/BV1f14y1z7HS) |
+| 1421 | - | - | GPT大模型技术实战教程10: GPT-4 API核心参数Message使用方法详解 | 25:32 | [link](https://www.bilibili.com/video/BV1vc411F7vi) |
+| 1422 | - | - | 【入门】OpenAI在线大模型生态介绍｜大模型技术入门课程｜GPT&DALL·E&Codex&Embedding模型介绍 | 27:15 | [link](https://www.bilibili.com/video/BV15P411z7pU) |
+| 1423 | - | - | 【入门】开源大模型生态与ChatGLM-6B大模型介绍｜最强中文大模型GLM介绍｜LLM开源大模型概览 | 33:35 | [link](https://www.bilibili.com/video/BV1Xg4y1N7kM) |
+| 1424 | - | - | 【入门】大语言模型常用微调框架介绍｜LoRA&Prefix-Tuning&Prompt-Tuning&P-Tuning v2&RLHF微调原理简介 | 33:33 | [link](https://www.bilibili.com/video/BV1Yc411g78a) |
+| 1425 | - | - | 【入门】AI应用开发范式LangChain零基础入门介绍｜LangChain六大功能模块解释｜基于LLM的AI开发流程与开发工具 | 25:38 | [link](https://www.bilibili.com/video/BV1gz4y1e7im) |
+| 1426 | - | - | 机器学习面试热点问题精讲·Part 1.机器学习基础篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 45:49 | [link](https://www.bilibili.com/video/BV1oo4y167CV) |
+| 1427 | - | - | 机器学习面试热点问题精讲·Part 2.经典机器学习篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 15:10 | [link](https://www.bilibili.com/video/BV1XT411v7WK) |
+| 1428 | - | - | 机器学习面试热点问题精讲·Part 3.集成学习篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 24:22 | [link](https://www.bilibili.com/video/BV17j411g7PX) |
+| 1429 | - | - | 机器学习面试热点问题精讲·Part 4.特征工程篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 35:13 | [link](https://www.bilibili.com/video/BV1pT411v7gD) |
+| 1430 | - | - | 机器学习面试热点问题精讲·Part 5.模型融合篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版 | 41:57 | [link](https://www.bilibili.com/video/BV1c54y1u7DU) |
+| 1431 | - | - | 【优化算法】无约束优化-概述 | 24:04 | [link](https://www.bilibili.com/video/BV1mP411C7ed) |
+| 1432 | - | - | 【优化算法】线搜索方法-方向 | 22:15 | [link](https://www.bilibili.com/video/BV1iX4y1H7Ef) |
+| 1433 | - | - | 【优化算法】线搜索方法-步长-精确搜索 | 13:36 | [link](https://www.bilibili.com/video/BV1H14y1R7Yo) |
+| 1434 | - | - | 【优化算法】线搜索方法-步长-非确定性搜索 | 14:22 | [link](https://www.bilibili.com/video/BV1Gh411P7uw) |
+| 1435 | - | - | 【优化算法】线搜索方法-步长-Armijo Condition | 10:36 | [link](https://www.bilibili.com/video/BV11N411m75b) |
+| 1436 | - | - | 【优化算法】线搜索方法-步长-Glodstein Condition | 10:07 | [link](https://www.bilibili.com/video/BV1UF411X7Dh) |
+| 1437 | - | - | 【优化算法】线搜索方法-步长-Wolfe Condition | 15:30 | [link](https://www.bilibili.com/video/BV1Nz4y1J7Wt) |
+| 1438 | - | - | 【优化算法】线搜索方法-收敛性证明 | 30:13 | [link](https://www.bilibili.com/video/BV1Mh411P7VY) |
+| 1439 | - | - | 【优化算法】收敛速度简介 | 14:15 | [link](https://www.bilibili.com/video/BV1FP411y7kx) |
+| 1440 | - | - | 【优化算法】梯度下降法-总体介绍 | 18:32 | [link](https://www.bilibili.com/video/BV14h4y1E71v) |
+| 1441 | - | - | 【优化算法】梯度下降法-基础补充-凸函数vs强凸函数vs严格凸函数（上） | 23:39 | [link](https://www.bilibili.com/video/BV1vs4y167rA) |
+| 1442 | - | - | 【优化算法】梯度下降法-基础补充-凸函数vs强凸函数vs严格凸函数（下） | 12:33 | [link](https://www.bilibili.com/video/BV1Uj411o7XT) |
+| 1443 | - | - | 【优化算法】梯度下降法-二次上界 | 26:02 | [link](https://www.bilibili.com/video/BV1Ek4y1P72N) |
+| 1444 | - | - | 【优化算法】梯度下降法-凸函数的收敛性 | 30:28 | [link](https://www.bilibili.com/video/BV15m4y1n72Q) |
+| 1445 | - | - | 【优化算法】梯度下降法-白老爹定理（上） | 18:20 | [link](https://www.bilibili.com/video/BV1Tg4y1w7jx) |
+| 1446 | - | - | 【优化算法】梯度下降法-白老爹定理（下） | 32:31 | [link](https://www.bilibili.com/video/BV1MV4y1h7Va) |
+| 1447 | - | - | 【优化算法】梯度下降法-强凸函数的收敛性分析（上） | 37:48 | [link](https://www.bilibili.com/video/BV1WW4y1o7aG) |
+| 1448 | - | - | 【优化算法】梯度下降法-强凸函数的收敛性分析（下） | 17:50 | [link](https://www.bilibili.com/video/BV1mj411Z7br) |
+| 1449 | - | - | 【优化算法】经典牛顿法-总体介绍 | 18:48 | [link](https://www.bilibili.com/video/BV1fX4y1J7jE) |
+| 1450 | - | - | 【优化算法】经典牛顿法-收敛性分析 | 41:08 | [link](https://www.bilibili.com/video/BV1794y1q7Hz) |
+| 1451 | - | - | 【强化学习】规划与学习-Dyna Architecture | 39:44 | [link](https://www.bilibili.com/video/BV1yT4y1U78Z) |
+| 1452 | - | - | 【强化学习】规划与学习-算力聚焦 | 27:14 | [link](https://www.bilibili.com/video/BV1ar4y1p7ES) |
+| 1453 | - | - | 【强化学习】规划与学习-决策时规划 | 33:35 | [link](https://www.bilibili.com/video/BV1cY4y1i785) |
+| 1454 | - | - | 【强化学习】规划与学习-蒙特卡洛树搜索 MCTS | 30:14 | [link](https://www.bilibili.com/video/BV1s5411D7JT) |
+| 1455 | - | - | 【强化学习】策略梯度方法-策略近似 | 25:10 | [link](https://www.bilibili.com/video/BV1MS4y1r7ta) |
+| 1456 | - | - | 【强化学习】策略梯度方法-策略梯度定理 | 27:50 | [link](https://www.bilibili.com/video/BV18u411Q76q) |
+| 1457 | - | - | 【强化学习】策略梯度方法-REINFORCE | 9:26 | [link](https://www.bilibili.com/video/BV1xb4y1W7Ye) |
+| 1458 | - | - | 【强化学习】策略梯度方法-REINFORCE with Baseline & Actor-Critic | 10:21 | [link](https://www.bilibili.com/video/BV1RF411x7oS) |
+| 1459 | - | - | 【强化学习】 时序差分-策略评估 | 10:56 | [link](https://www.bilibili.com/video/BV1wS4y1F7zn) |
+| 1460 | - | - | 【强化学习】(SARSA) 时序差分-同轨策略TD控制 | 9:27 | [link](https://www.bilibili.com/video/BV1BS4y1r7cm) |
+| 1461 | - | - | 【强化学习】(Q-Learning) 时序差分-离轨策略TD控制 | 7:26 | [link](https://www.bilibili.com/video/BV1cZ4y1C7Ma) |
+| 1462 | - | - | 【强化学习】时序差分-期望SARSA | 13:40 | [link](https://www.bilibili.com/video/BV15L411T7LM) |
+| 1463 | - | - | 【强化学习】蒙特卡洛方法-前情回顾 | 15:02 | [link](https://www.bilibili.com/video/BV1rF411J7Mw) |
+| 1464 | - | - | 【强化学习】蒙特卡洛方法-策略评估 | 8:23 | [link](https://www.bilibili.com/video/BV1vm4y1Z7Ce) |
+| 1465 | - | - | 【强化学习】蒙特卡洛方法-基于试探性出发假设的MC控制 | 9:05 | [link](https://www.bilibili.com/video/BV1N5411o7QD) |
+| 1466 | - | - | 【强化学习】蒙特卡洛方法-同轨VS离轨 | 8:09 | [link](https://www.bilibili.com/video/BV1bS4y1C75M) |
+| 1467 | - | - | 【强化学习】 蒙特卡洛方法-同轨策略MC控制 | 21:19 | [link](https://www.bilibili.com/video/BV1Ju4119794) |
+| 1468 | - | - | 【强化学习】蒙特卡洛方法-离轨策略MC策略评估 | 18:41 | [link](https://www.bilibili.com/video/BV1EZ4y1R7r4) |
+| 1469 | - | - | 【强化学习】 蒙特卡洛方法-离轨策略评估与控制 | 15:12 | [link](https://www.bilibili.com/video/BV1sS4y1C7tR) |
+| 1470 | - | - | 序言 | 25:52 | [link](https://www.bilibili.com/video/BV1yk28YUEfs) |
+| 1471 | - | - | 2012逻辑选择 | 116:07 | [link](https://www.bilibili.com/video/BV1sk28YSEXV) |
+| 1472 | - | - | 2012论证有效性分析 | 12:01 | [link](https://www.bilibili.com/video/BV1Nk28YSEY4) |
+| 1473 | - | - | 2012论说文 | 17:40 | [link](https://www.bilibili.com/video/BV1Nk28YSEtg) |
+| 1474 | - | - | 2016逻辑选择 | 135:51 | [link](https://www.bilibili.com/video/BV1demgYjEVD) |
+| 1475 | - | - | 2016-26 | 3:18 | [link](https://www.bilibili.com/video/BV1a4mVYUENE) |
+| 1476 | - | - | 2016-27 | 3:04 | [link](https://www.bilibili.com/video/BV18amVYLEKG) |
+| 1477 | - | - | 2016-28 | 1:52 | [link](https://www.bilibili.com/video/BV1uamVYjERx) |
+| 1478 | - | - | 2016-29 | 3:37 | [link](https://www.bilibili.com/video/BV1bamVYLEoz) |
+| 1479 | - | - | 2016-30 | 2:33 | [link](https://www.bilibili.com/video/BV18amVYLEKx) |
+| 1480 | - | - | 2016-31 | 2:33 | [link](https://www.bilibili.com/video/BV18amVYLEwL) |
+| 1481 | - | - | 2016-32 | 5:52 | [link](https://www.bilibili.com/video/BV18amVYLENz) |
+| 1482 | - | - | 2016-33 | 1:27 | [link](https://www.bilibili.com/video/BV1KZmGYzEsj) |
+| 1483 | - | - | 2016-34 | 1:14 | [link](https://www.bilibili.com/video/BV1bamVYLEoc) |
+| 1484 | - | - | 2016-35 | 9:20 | [link](https://www.bilibili.com/video/BV1bamVYLEoM) |
+| 1485 | - | - | 2016-36 | 3:40 | [link](https://www.bilibili.com/video/BV18amVYLEcz) |
+| 1486 | - | - | 2016-37 | 2:49 | [link](https://www.bilibili.com/video/BV1SamVYLExM) |
+| 1487 | - | - | 2016-38 | 6:47 | [link](https://www.bilibili.com/video/BV18amVYLEwo) |
+| 1488 | - | - | 2016-39 | 4:36 | [link](https://www.bilibili.com/video/BV1SamVYLEiW) |
+| 1489 | - | - | 2016-40 | 2:31 | [link](https://www.bilibili.com/video/BV1bamVYLEZi) |
+| 1490 | - | - | 2016-41 | 4:00 | [link](https://www.bilibili.com/video/BV1bamVYLEZk) |
+| 1491 | - | - | 2016-42 | 1:04 | [link](https://www.bilibili.com/video/BV18amVYLEA5) |
+| 1492 | - | - | 2016-43、44 | 7:32 | [link](https://www.bilibili.com/video/BV18amVYLEPF) |
+| 1493 | - | - | 2016-45 | 2:26 | [link](https://www.bilibili.com/video/BV1bamVYLEfa) |
+| 1494 | - | - | 2016-46 | 4:33 | [link](https://www.bilibili.com/video/BV1gamVYjEwA) |
+| 1495 | - | - | 2016-47 | 1:58 | [link](https://www.bilibili.com/video/BV18amVYLEMk) |
+| 1496 | - | - | 2016-48 | 5:10 | [link](https://www.bilibili.com/video/BV18amVYjEvq) |
+| 1497 | - | - | 2016-49 | 5:57 | [link](https://www.bilibili.com/video/BV1bamVYLEfZ) |
+| 1498 | - | - | 2016-50 | 3:52 | [link](https://www.bilibili.com/video/BV18amVYLEAs) |
+| 1499 | - | - | 2016-51 | 2:33 | [link](https://www.bilibili.com/video/BV1SamVYLEiR) |
+| 1500 | - | - | 2016-52、53 | 6:33 | [link](https://www.bilibili.com/video/BV1SamVYLEtx) |
+| 1501 | - | - | 2016-54、55 | 5:24 | [link](https://www.bilibili.com/video/BV1Q4mVYUEBB) |
+| 1502 | - | - | 2016论证有效性分析 | 10:37 | [link](https://www.bilibili.com/video/BV1mB28YpE6F) |
+| 1503 | - | - | 2016论说文 | 14:34 | [link](https://www.bilibili.com/video/BV1xk28YSEc1) |
+| 1504 | - | - | 2019逻辑选择 | 134:57 | [link](https://www.bilibili.com/video/BV1Nk28YSExk) |
+| 1505 | - | - | 2019-26 | 2:50 | [link](https://www.bilibili.com/video/BV14czXYhEx5) |
+| 1506 | - | - | 2019-27 | 3:59 | [link](https://www.bilibili.com/video/BV12czXYhEDz) |
+| 1507 | - | - | 2019-28 | 3:27 | [link](https://www.bilibili.com/video/BV1KczXYhEQV) |
+| 1508 | - | - | 2019-29 | 2:06 | [link](https://www.bilibili.com/video/BV1xczXYhEXv) |
+| 1509 | - | - | 2019-30&31 | 5:09 | [link](https://www.bilibili.com/video/BV11czXYbEtr) |
+| 1510 | - | - | 2019-32 | 3:17 | [link](https://www.bilibili.com/video/BV1KczXYhEdo) |
+| 1511 | - | - | 2019-33 | 3:21 | [link](https://www.bilibili.com/video/BV1KczXYhEdX) |
+| 1512 | - | - | 2019-34 | 5:42 | [link](https://www.bilibili.com/video/BV1KczXYhEDF) |
+| 1513 | - | - | 2019-35 | 2:32 | [link](https://www.bilibili.com/video/BV1KczXYhEWV) |
+| 1514 | - | - | 2019-36 | 5:47 | [link](https://www.bilibili.com/video/BV1KczXYhERR) |
+| 1515 | - | - | 2019-37 | 7:04 | [link](https://www.bilibili.com/video/BV1TFzXYwEid) |
+| 1516 | - | - | 2019-38 | 7:28 | [link](https://www.bilibili.com/video/BV1TFzXYwEkA) |
+| 1517 | - | - | 2019-39 | 11:16 | [link](https://www.bilibili.com/video/BV14FzXYwEq8) |
+| 1518 | - | - | 2019-40 | 4:05 | [link](https://www.bilibili.com/video/BV14FzXYwEqM) |
+| 1519 | - | - | 2019-41 | 5:30 | [link](https://www.bilibili.com/video/BV14FzXYwEqz) |
+| 1520 | - | - | 2019-42 | 1:33 | [link](https://www.bilibili.com/video/BV1TFzXYwEzG) |
+| 1521 | - | - | 2019-43 | 5:03 | [link](https://www.bilibili.com/video/BV1tFzXYwEAs) |
+| 1522 | - | - | 2019-44 | 4:04 | [link](https://www.bilibili.com/video/BV1TFzXYwEvn) |
+| 1523 | - | - | 2019-45 | 2:10 | [link](https://www.bilibili.com/video/BV1tFzXYwEAd) |
+| 1524 | - | - | 2019-46 | 5:13 | [link](https://www.bilibili.com/video/BV14FzXYwEvw) |
+| 1525 | - | - | 2019-47 | 3:00 | [link](https://www.bilibili.com/video/BV14FzXYwEv1) |
+| 1526 | - | - | 2019-48 | 3:34 | [link](https://www.bilibili.com/video/BV1mFzXYwEP4) |
+| 1527 | - | - | 2019-49&50 | 9:31 | [link](https://www.bilibili.com/video/BV1NPzXYbEtG) |
+| 1528 | - | - | 2019-51 | 3:06 | [link](https://www.bilibili.com/video/BV1NPzXYbE4D) |
+| 1529 | - | - | 2019-52 | 3:46 | [link](https://www.bilibili.com/video/BV11PzXYbEsz) |
+| 1530 | - | - | 2019-53 | 6:32 | [link](https://www.bilibili.com/video/BV1xPzXYbEcm) |
+| 1531 | - | - | 2019-54&55 | 12:18 | [link](https://www.bilibili.com/video/BV1PPzXYbEfV) |
+| 1532 | - | - | 2019论证有效性分析 | 17:00 | [link](https://www.bilibili.com/video/BV1yk28YUEoN) |
+| 1533 | - | - | 2019论说文 | 15:06 | [link](https://www.bilibili.com/video/BV1Nk28YSE8v) |
+| 1534 | - | - | 2021逻辑选择 | 123:29 | [link](https://www.bilibili.com/video/BV1yk28YUERZ) |
+| 1535 | - | - | 2021-26 | 1:08 | [link](https://www.bilibili.com/video/BV1YYzFYZE2e) |
+| 1536 | - | - | 2021-27 | 4:19 | [link](https://www.bilibili.com/video/BV1EszFYNEKF) |
+| 1537 | - | - | 2021-28 | 2:55 | [link](https://www.bilibili.com/video/BV1ZszFYPErU) |
+| 1538 | - | - | 2021-29 | 4:44 | [link](https://www.bilibili.com/video/BV1ZszFYPEaT) |
+| 1539 | - | - | 2021-30 | 1:11 | [link](https://www.bilibili.com/video/BV1BszFYNE8g) |
+| 1540 | - | - | 2021-31 | 3:57 | [link](https://www.bilibili.com/video/BV1BszFYPEuj) |
+| 1541 | - | - | 2021-32 | 1:30 | [link](https://www.bilibili.com/video/BV1EszFYNEwm) |
+| 1542 | - | - | 2021-33 | 10:22 | [link](https://www.bilibili.com/video/BV1BszFYPEMa) |
+| 1543 | - | - | 2021-34 | 1:57 | [link](https://www.bilibili.com/video/BV1ZszFYPEkn) |
+| 1544 | - | - | 2021-35 | 6:18 | [link](https://www.bilibili.com/video/BV15azFY8EYc) |
+| 1545 | - | - | 2021-36 | 4:05 | [link](https://www.bilibili.com/video/BV1eazFYbEbd) |
+| 1546 | - | - | 2021-37 | 8:46 | [link](https://www.bilibili.com/video/BV15azFY8Ea8) |
+| 1547 | - | - | 2021-38 | 3:28 | [link](https://www.bilibili.com/video/BV1eazFYbEhi) |
+| 1548 | - | - | 2021-39 | 2:39 | [link](https://www.bilibili.com/video/BV1RazFYbENG) |
+| 1549 | - | - | 2021-40&41 | 4:10 | [link](https://www.bilibili.com/video/BV15azFY8EtQ) |
+| 1550 | - | - | 2021-42 | 3:46 | [link](https://www.bilibili.com/video/BV1eazFYbEv1) |
+| 1551 | - | - | 2021-43 | 1:20 | [link](https://www.bilibili.com/video/BV1eazFYbEvQ) |
+| 1552 | - | - | 2021-44 | 2:48 | [link](https://www.bilibili.com/video/BV19azFYbEot) |
+| 1553 | - | - | 2021-45 | 6:02 | [link](https://www.bilibili.com/video/BV1eazFYbEan) |
+| 1554 | - | - | 2021-46 | 2:24 | [link](https://www.bilibili.com/video/BV1RazFYbEN1) |
+| 1555 | - | - | 2021-47&48 | 9:14 | [link](https://www.bilibili.com/video/BV1eazFY8EdM) |
+| 1556 | - | - | 2021-49 | 3:55 | [link](https://www.bilibili.com/video/BV1eazFYbEBa) |
+| 1557 | - | - | 2021-50 | 3:17 | [link](https://www.bilibili.com/video/BV1eazFYbEqC) |
+| 1558 | - | - | 2021-51 | 7:04 | [link](https://www.bilibili.com/video/BV19azFYbEo9) |
+| 1559 | - | - | 2021-52 | 1:07 | [link](https://www.bilibili.com/video/BV1eazFY8EdN) |
+| 1560 | - | - | 2021-53 | 2:09 | [link](https://www.bilibili.com/video/BV19YzFYZELZ) |
+| 1561 | - | - | 2021-54、55 | 17:59 | [link](https://www.bilibili.com/video/BV1eYzFYfEu6) |
+| 1562 | - | - | 2021论证有效性分析 | 17:15 | [link](https://www.bilibili.com/video/BV1Nk28YSEbp) |
+| 1563 | - | - | 2021论说文 | 10:55 | [link](https://www.bilibili.com/video/BV1sk28YSER7) |
+| 1564 | - | - | 2024逻辑选择 | 151:45 | [link](https://www.bilibili.com/video/BV11k28YUEFo) |
+| 1565 | - | - | 2024-26 | 3:32 | [link](https://www.bilibili.com/video/BV1W9zFY5EHW) |
+| 1566 | - | - | 2024-27 | 4:04 | [link](https://www.bilibili.com/video/BV1xUzFYmEh6) |
+| 1567 | - | - | 2024-28 | 4:19 | [link](https://www.bilibili.com/video/BV12UzFYmEgy) |
+| 1568 | - | - | 2024-28 | 7:22 | [link](https://www.bilibili.com/video/BV12UzFYmEAM) |
+| 1569 | - | - | 2024-29 | 4:11 | [link](https://www.bilibili.com/video/BV1KUzFYUEhy) |
+| 1570 | - | - | 2024-30 | 4:52 | [link](https://www.bilibili.com/video/BV1xUzFYmEvn) |
+| 1571 | - | - | 2024-32 | 12:06 | [link](https://www.bilibili.com/video/BV1xUzFYmEzG) |
+| 1572 | - | - | 2024-33 | 4:10 | [link](https://www.bilibili.com/video/BV12UzFYmEAf) |
+| 1573 | - | - | 2024-34 | 3:23 | [link](https://www.bilibili.com/video/BV1wozFYVE9k) |
+| 1574 | - | - | 2024-35&36 | 7:00 | [link](https://www.bilibili.com/video/BV1pozFYGEFv) |
+| 1575 | - | - | 2024-37 | 4:54 | [link](https://www.bilibili.com/video/BV1HozFYGEoX) |
+| 1576 | - | - | 2024-38 | 4:17 | [link](https://www.bilibili.com/video/BV1pozFYGEwv) |
+| 1577 | - | - | 2024-39 | 4:38 | [link](https://www.bilibili.com/video/BV1pozFYGEKP) |
+| 1578 | - | - | 2024-40 | 5:37 | [link](https://www.bilibili.com/video/BV1kozFYGExb) |
+| 1579 | - | - | 2024-41 | 3:11 | [link](https://www.bilibili.com/video/BV1kozFYGEir) |
+| 1580 | - | - | 2024-42 | 1:39 | [link](https://www.bilibili.com/video/BV1HozFYGEfV) |
+| 1581 | - | - | 2024-43 | 2:47 | [link](https://www.bilibili.com/video/BV1pozFYGETp) |
+| 1582 | - | - | 2024-44 | 3:11 | [link](https://www.bilibili.com/video/BV1yQzFY1Evo) |
+| 1583 | - | - | 2024-45 | 3:49 | [link](https://www.bilibili.com/video/BV1yQzFY1ECd) |
+| 1584 | - | - | 2024-46 | 2:27 | [link](https://www.bilibili.com/video/BV1kozFYGEBw) |
+| 1585 | - | - | 2024-47 | 7:26 | [link](https://www.bilibili.com/video/BV1kozFYGEqx) |
+| 1586 | - | - | 2024-48 | 4:17 | [link](https://www.bilibili.com/video/BV1HZzFYrE7n) |
+| 1587 | - | - | 2024-49 | 3:55 | [link](https://www.bilibili.com/video/BV1HZzFYrEpN) |
+| 1588 | - | - | 2024-50 | 6:40 | [link](https://www.bilibili.com/video/BV1rZzFYrE12) |
+| 1589 | - | - | 2024-51 | 2:19 | [link](https://www.bilibili.com/video/BV1rZzFYrE2N) |
+| 1590 | - | - | 2024-52 | 5:43 | [link](https://www.bilibili.com/video/BV1HZzFYrEE8) |
+| 1591 | - | - | 2024-53 | 4:12 | [link](https://www.bilibili.com/video/BV1HZzFYrEp7) |
+| 1592 | - | - | 2024-54、55 | 10:38 | [link](https://www.bilibili.com/video/BV1W9zFY5E46) |
+| 1593 | - | - | 2024论证有效性分析 | 11:55 | [link](https://www.bilibili.com/video/BV1xk28YSEA5) |
+| 1594 | - | - | 2024论说文 | 12:08 | [link](https://www.bilibili.com/video/BV1Nk28YSEe8) |
+| 1595 | - | - | 0.1三国志曹操传（序章）——何去何从 | 1:02 | [link](https://www.bilibili.com/video/BV1ym4y1g7r5) |
+| 1596 | - | - | 0.2三国志曹操传（序章）——颖川之战 | 8:58 | [link](https://www.bilibili.com/video/BV1aj411t7ao) |
+| 1597 | - | - | 0.3三国志曹操传（序章）——壮志雄心 | 1:15 | [link](https://www.bilibili.com/video/BV1km4y1g7g1) |
+| 1598 | - | - | 1.1三国志曹操传（第一章 霸王诞生）——董卓专权，首倡义兵 | 8:46 | [link](https://www.bilibili.com/video/BV1Jy4y1N7Lo) |
+| 1599 | - | - | 1.2三国志曹操传（第一章 霸王诞生）——汜水关之战 | 13:42 | [link](https://www.bilibili.com/video/BV1PC4y157fE) |
+| 1600 | - | - | 1.3三国志曹操传（第一章 霸王诞生）——军合力不齐，踌躇而雁行 | 2:12 | [link](https://www.bilibili.com/video/BV12G411m7zu) |
+| 1601 | - | - | 1.4三国志曹操传（第一章 霸王诞生）——虎牢关之战 | 13:29 | [link](https://www.bilibili.com/video/BV1EC4y1577b) |
+| 1602 | - | - | 1.5三国志曹操传（第一章 霸王诞生）——播越西迁移，号泣而且行 | 2:37 | [link](https://www.bilibili.com/video/BV1kw411r7hy) |
+| 1603 | - | - | 1.6三国志曹操传（第一章 霸王诞生）——董卓追击战 | 21:30 | [link](https://www.bilibili.com/video/BV1hh4y1z7s3) |
+| 1604 | - | - | 1.7三国志曹操传（第一章 霸王诞生）——盗贼如蚁聚，群雄皆鹰扬 | 7:28 | [link](https://www.bilibili.com/video/BV1WN4y1y7bE) |
+| 1605 | - | - | 1.8三国志曹操传（第一章 霸王诞生）——青州黄巾讨伐战 | 15:27 | [link](https://www.bilibili.com/video/BV1Rj411s7ST) |
+| 1606 | - | - | 1.9三国志曹操传（第一章 霸王诞生）——征讨陶谦，吕布偷袭 | 3:17 | [link](https://www.bilibili.com/video/BV1wG411U7gs) |
+| 1607 | - | - | 1.10三国志曹操传（第一章 霸王诞生）——徐州复仇战 | 12:44 | [link](https://www.bilibili.com/video/BV1ew411A7rA) |
+| 1608 | - | - | 1.11三国志曹操传（第一章 霸王诞生）——放弃进攻，回救濮阳 | 0:47 | [link](https://www.bilibili.com/video/BV1894y187aY) |
+| 1609 | - | - | 1.12三国志曹操传（第一章 霸王诞生）——濮阳之战壹 | 25:38 | [link](https://www.bilibili.com/video/BV118411k719) |
+| 1610 | - | - | 1.13三国志曹操传（第一章 霸王诞生）——似有内应，再战濮阳 | 1:30 | [link](https://www.bilibili.com/video/BV1ow411k7jm) |
+| 1611 | - | - | 1.14三国志曹操传（第一章 霸王诞生）——濮阳之战贰 | 17:32 | [link](https://www.bilibili.com/video/BV1VG411U7ao) |
+| 1612 | - | - | 1.15三国志曹操传（第一章 霸王诞生）——全力以赴，夺回濮阳 | 3:20 | [link](https://www.bilibili.com/video/BV1w8411C798) |
+| 1613 | - | - | 1.16三国志曹操传（第一章 霸王诞生）——濮阳之战叁 | 18:38 | [link](https://www.bilibili.com/video/BV1ew411A7Sr) |
+| 1614 | - | - | 1.17三国志曹操传（第一章 霸王诞生）——奉天子以令不臣 | 3:32 | [link](https://www.bilibili.com/video/BV1N84y127vB) |
+| 1615 | - | - | 1.18三国志曹操传（第一章 霸王诞生）——献帝救出战 | 11:13 | [link](https://www.bilibili.com/video/BV1384y127E8) |
+| 1616 | - | - | 1.19三国志曹操传（第一章 霸王诞生）——一征张绣，得意忘形 | 9:30 | [link](https://www.bilibili.com/video/BV1Wj411v7zm) |
+| 1617 | - | - | 1.20三国志曹操传（第一章 霸王诞生）——张绣讨伐战壹（典韦殒命） | 6:15 | [link](https://www.bilibili.com/video/BV1nN4y1C7Fj) |
+| 1618 | - | - | 1.21三国志曹操传（第一章 霸王诞生）——张绣讨伐战壹（典韦存活） | 11:46 | [link](https://www.bilibili.com/video/BV1gw411X74g) |
+| 1619 | - | - | 1.22三国志曹操传（第一章 霸王诞生）——淮南弟称号 | 1:12 | [link](https://www.bilibili.com/video/BV15H4y1d7eH) |
+| 1620 | - | - | 1.23三国志曹操传（第一章 霸王诞生）——袁术讨伐战 | 13:29 | [link](https://www.bilibili.com/video/BV1Sh4y1q7P4) |
+| 1621 | - | - | 1.24三国志曹操传（第一章 霸王诞生）——卷土重来，二征张绣 | 1:54 | [link](https://www.bilibili.com/video/BV1Jy4y1K7Hh) |
+| 1622 | - | - | 1.25三国志曹操传（第一章 霸王诞生）——张绣讨伐战贰 | 14:58 | [link](https://www.bilibili.com/video/BV1rh4y1q7JF) |
+| 1623 | - | - | 1.26三国志曹操传（第一章 霸王诞生）——救援刘备，消灭吕布 | 2:30 | [link](https://www.bilibili.com/video/BV1Hy4y1K7mT) |
+| 1624 | - | - | 1.27三国志曹操传（第一章 霸王诞生）——徐州救援战 | 15:44 | [link](https://www.bilibili.com/video/BV1ZC4y1G7F1) |
+| 1625 | - | - | 1.28三国志曹操传（第一章 霸王诞生）——天寒地冻，围攻下邳 | 1:28 | [link](https://www.bilibili.com/video/BV1A94y1b7NV) |
+| 1626 | - | - | 1.29三国志曹操传（第一章 霸王诞生）——吕布包围战 | 14:38 | [link](https://www.bilibili.com/video/BV19C4y1G7cC) |
+| 1627 | - | - | 1.30三国志曹操传（第一章 霸王诞生）——吕布授首，中原统一 | 2:20 | [link](https://www.bilibili.com/video/BV1Nh4y1B78f) |
+| 1628 | - | - | 2.1三国志曹操传（第二章 河北之争）——放虎归山，张绣来降 | 5:10 | [link](https://www.bilibili.com/video/BV1Sj411a7J4) |
+| 1629 | - | - | 2.2三国志曹操传（第二章 河北之争）——徐州入侵战 | 12:17 | [link](https://www.bilibili.com/video/BV1LC4y1H7Ye) |
+| 1630 | - | - | 2.3三国志曹操传（第二章 河北之争）——身在曹营心在刘 | 6:00 | [link](https://www.bilibili.com/video/BV1P94y1L7Lh) |
+| 1631 | - | - | 2.4三国志曹操传（第二章 河北之争）——白马之战 | 11:07 | [link](https://www.bilibili.com/video/BV1DN4y167DT) |
+| 1632 | - | - | 2.5三国志曹操传（第二章 河北之争）——已斩颜良，待诛文丑 | 1:17 | [link](https://www.bilibili.com/video/BV1du4y1j7gG) |
+| 1633 | - | - | 2.6三国志曹操传（第二章 河北之争）——延津之战 | 12:42 | [link](https://www.bilibili.com/video/BV11z4y1N7hZ) |
+| 1634 | - | - | 2.7三国志曹操传（第二章 河北之争）——送别关羽，直面生死 | 5:51 | [link](https://www.bilibili.com/video/BV19H4y1z73n) |
+| 1635 | - | - | 2.8三国志曹操传（第二章 河北之争）——官渡之战 | 17:50 | [link](https://www.bilibili.com/video/BV1a94y1G7Pt) |
+| 1636 | - | - | 2.9三国志曹操传（第二章 河北之争）——一战功成，袁氏溃败 | 4:11 | [link](https://www.bilibili.com/video/BV1JG411X7L9) |
+| 1637 | - | - | 2.10三国志曹操传（第二章 河北之争）——宜将剩勇追穷寇 | 16:22 | [link](https://www.bilibili.com/video/BV1DC4y1E7Do) |
+| 1638 | - | - | 2.11三国志曹操传（第二章 河北之争）——袁绍殒命，往事如烟 | 1:31 | [link](https://www.bilibili.com/video/BV1Aw411M7Zx) |
+| 1639 | - | - | 2.12三国志曹操传（第二章 河北之争）——忙里偷闲，闪击刘备 | 0:18 | [link](https://www.bilibili.com/video/BV13Q4y1p7kS) |
+| 1640 | - | - | 2.13三国志曹操传（第二章 河北之争）——穰山之战 | 13:12 | [link](https://www.bilibili.com/video/BV1Ke411R7si) |
+| 1641 | - | - | 2.14三国志曹操传（第二章 河北之争）——刘备败逃，再击袁氏 | 2:29 | [link](https://www.bilibili.com/video/BV1Uu4y1h7CN) |
+| 1642 | - | - | 2.15三国志曹操传（第二章 河北之争）——黎阳之战 | 10:38 | [link](https://www.bilibili.com/video/BV1v94y1G7D5) |
+| 1643 | - | - | 2.16三国志曹操传（第二章 河北之争）——一鼓作气，拿下邺城 | 3:40 | [link](https://www.bilibili.com/video/BV12e411Q7Lm) |
+| 1644 | - | - | 2.17三国志曹操传（第二章 河北之争）——邺城之战 | 19:08 | [link](https://www.bilibili.com/video/BV1TN4y1r7Mj) |
+| 1645 | - | - | 2.18三国志曹操传（第二章 河北之争）——兄弟内讧，渔翁得利 | 2:44 | [link](https://www.bilibili.com/video/BV1uM411Q7Fm) |
+| 1646 | - | - | 2.19三国志曹操传（第二章 河北之争）——南皮攻略战 | 13:53 | [link](https://www.bilibili.com/video/BV1cw411M7qy) |
+| 1647 | - | - | 2.20三国志曹操传（第二章 河北之争）——出其不意，奔袭乌丸 | 1:04 | [link](https://www.bilibili.com/video/BV1n84y197MT) |
+| 1648 | - | - | 2.21三国志曹操传（第二章 河北之争）——柳城平定战（郭嘉殒命） | 6:28 | [link](https://www.bilibili.com/video/BV1uu4y17732) |
+| 1649 | - | - | 2.22三国志曹操传（第二章 河北之争）——柳城平定战（郭嘉存活） | 8:50 | [link](https://www.bilibili.com/video/BV1yH4y1z7Le) |
+| 1650 | - | - | 2.23三国志曹操传（第二章 河北之争）——袁氏灭亡，北方统一 | 1:31 | [link](https://www.bilibili.com/video/BV1B94y1G7su) |
+| 1651 | - | - | 3.1三国志曹操传（第三章 三国鼎立）——卧龙出山，国士无双 | 5:26 | [link](https://www.bilibili.com/video/BV1zG411S7h1) |
+| 1652 | - | - | 3.2三国志曹操传（第三章 三国鼎立）——博望坡之战 | 10:22 | [link](https://www.bilibili.com/video/BV1Bv411F7vA) |
+| 1653 | - | - | 3.3三国志曹操传（第三章 三国鼎立）——南下灭刘，鲸吞荆州 | 2:26 | [link](https://www.bilibili.com/video/BV1wC4y1j7Lj) |
+| 1654 | - | - | 3.4三国志曹操传（第三章 三国鼎立）——长坂坡之战 | 16:30 | [link](https://www.bilibili.com/video/BV1Lu4y1b7Hv) |
+| 1655 | - | - | 3.5三国志曹操传（第三章 三国鼎立）——孙刘联盟，南北对抗 | 4:25 | [link](https://www.bilibili.com/video/BV1wG411X7vq) |
+| 1656 | - | - | 3.6三国志曹操传（第三章 三国鼎立）——赤壁之战（全灭敌军） | 20:41 | [link](https://www.bilibili.com/video/BV1cG411X7C3) |
+| 1657 | - | - | 3.7三国志曹操传（第三章 三国鼎立）——赤壁之战（仓皇撤退） | 17:08 | [link](https://www.bilibili.com/video/BV17u4y1b7TK) |
+| 1658 | - | - | 3.8三国志曹操传（第三章 三国鼎立）——败走华容 | 1:14 | [link](https://www.bilibili.com/video/BV1ma4y1S76v) |
+| 1659 | - | - | 3.9三国志曹操传（第三章 三国鼎立）——赤壁突围战 | 7:18 | [link](https://www.bilibili.com/video/BV1Uv411F7hj) |
+| 1660 | - | - | 3.10三国志曹操传（第三章 三国鼎立）——操撤兵北归，权兵临合肥 | 1:34 | [link](https://www.bilibili.com/video/BV1ru4y1A7Dy) |
+| 1661 | - | - | 3.11三国志曹操传（第三章 三国鼎立）——合肥之战 | 9:50 | [link](https://www.bilibili.com/video/BV1yQ4y1t7GN) |
+| 1662 | - | - | 3.12三国志曹操传（第三章 三国鼎立）——进军关中，消灭马超 | 3:43 | [link](https://www.bilibili.com/video/BV1dC4y127Ck) |
+| 1663 | - | - | 3.13三国志曹操传（第三章 三国鼎立）——马超迎击战 | 9:41 | [link](https://www.bilibili.com/video/BV16G411S7bH) |
+| 1664 | - | - | 3.14三国志曹操传（第三章 三国鼎立）——得寸进尺，剑指汉中 | 2:28 | [link](https://www.bilibili.com/video/BV19G411S7Di) |
+| 1665 | - | - | 3.15三国志曹操传（第三章 三国鼎立）——张鲁讨伐战 | 10:12 | [link](https://www.bilibili.com/video/BV1bz4y1w7DJ) |
+| 1666 | - | - | 3.16三国志曹操传（第三章 三国鼎立）——得陇不望蜀，孙刘再携手 | 2:31 | [link](https://www.bilibili.com/video/BV1iC4y1274c) |
+| 1667 | - | - | 3.17三国志曹操传（第三章 三国鼎立）——逍遥津之战 | 10:45 | [link](https://www.bilibili.com/video/BV1v94y1n7TU) |
+| 1668 | - | - | 3.18三国志曹操传（第三章 三国鼎立）——最后一次南征 | 1:30 | [link](https://www.bilibili.com/video/BV1Ua4y1m7Rt) |
+| 1669 | - | - | 3.19三国志曹操传（第三章 三国鼎立）——濡须口之战 | 9:00 | [link](https://www.bilibili.com/video/BV1yN411M7wM) |
+| 1670 | - | - | 3.20三国志曹操传（第三章 三国鼎立）——势均力敌，鼎足三分 | 1:06 | [link](https://www.bilibili.com/video/BV1Ug4y1Q7Ji) |
+| 1671 | - | - | 4.1三国志曹操传（终章 天下统一）——天下英雄唯使君与操尔 | 1:18 | [link](https://www.bilibili.com/video/BV1Mz4y1A7bw) |
+| 1672 | - | - | 4.2三国志曹操传（终章 天下统一）——定军山之战（全灭敌军） | 12:55 | [link](https://www.bilibili.com/video/BV1ej411E7kn) |
+| 1673 | - | - | 4.3三国志曹操传（终章 天下统一）——定军山之战（夏侯渊殒命） | 18:37 | [link](https://www.bilibili.com/video/BV1qg4y1Q7Zo) |
+| 1674 | - | - | 4.4三国志曹操传（终章 天下统一）——最后一次西征 | 0:45 | [link](https://www.bilibili.com/video/BV17e411Q76b) |
+| 1675 | - | - | 4.5三国志曹操传（终章 天下统一）——汉水之战 | 10:59 | [link](https://www.bilibili.com/video/BV1Wu411F7FM) |
+| 1676 | - | - | 4.6三国志曹操传（终章 天下统一）——一生的对手 | 0:11 | [link](https://www.bilibili.com/video/BV1Lw411N7U1) |
+| 1677 | - | - | 4.7三国志曹操传（终章 天下统一）——斜谷之战 | 11:28 | [link](https://www.bilibili.com/video/BV16b4y1g7kT) |
+| 1678 | - | - | 4.8三国志曹操传（终章 天下统一）——水淹七军，威震华夏 | 3:30 | [link](https://www.bilibili.com/video/BV1Sv411F7tk) |
+| 1679 | - | - | 4.9三国志曹操传（终章 天下统一）——樊城救援战（庞德殒命） | 9:49 | [link](https://www.bilibili.com/video/BV16b4y1g7VL) |
+| 1680 | - | - | 4.10三国志曹操传（终章 天下统一）——忠肝义胆，英雄相惜 | 1:24 | [link](https://www.bilibili.com/video/BV1eC4y1E7d5) |
+| 1681 | - | - | 4.11三国志曹操传（终章 天下统一）——若天命在吾，吾为周文王矣 | 1:53 | [link](https://www.bilibili.com/video/BV1su4y1b76j) |
+| 1682 | - | - | 5.1三国志曹操传（他不知道的事）——英雄的落幕 | 1:22 | [link](https://www.bilibili.com/video/BV1ZG411S7c6) |
+| 1683 | - | - | 5.2三国志曹操传（心中永远的遗憾）——老骥伏枥，志在千里，烈士暮年，壮心不已。山不厌高，海不厌深，周公吐哺，天下归心。 | 131:17 | [link](https://www.bilibili.com/video/BV1qw411W7iP) |
+| 1684 | - | - | 1.2024研究生入学考试数学冲刺阶段考点串讲——导学篇（独孤九剑总章） | 213:04 | [link](https://www.bilibili.com/video/BV1Gh4y1676V) |
+| 1685 | - | - | 2.1.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性1 | 72:41 | [link](https://www.bilibili.com/video/BV1AC4y1Z7vV) |
+| 1686 | - | - | 2.2.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性2（复合函数例题） | 42:59 | [link](https://www.bilibili.com/video/BV1Fz4y1F7Qi) |
+| 1687 | - | - | 2.3.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性3（单调性、奇偶性例题） | 53:00 | [link](https://www.bilibili.com/video/BV1CC4y1L7mJ) |
+| 1688 | - | - | 2.4.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性4（有界性例题） | 89:19 | [link](https://www.bilibili.com/video/BV11w411a7BK) |
+| 1689 | - | - | 2.5.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性5（周期性例题） | 76:30 | [link](https://www.bilibili.com/video/BV1N94y1a78m) |
+| 1690 | - | - | 2.6.2024考研高等数学冲刺串讲——常考函数、参数方程与极坐标方程 | 102:55 | [link](https://www.bilibili.com/video/BV1wH4y1o7Ds) |
+| 1691 | - | - | 2.7.2024考研高等数学冲刺串讲——常考数列与不等式 | 85:19 | [link](https://www.bilibili.com/video/BV1J8411k79K) |
+| 1692 | - | - | 2.8.2024考研高等数学冲刺串讲——常考数列与不等式（1.数学归纳法；2.柯西不等式） | 56:34 | [link](https://www.bilibili.com/video/BV178411k7cP) |
+| 1693 | - | - | 2.8.2024考研高等数学冲刺串讲——常考数列与不等式（3.常用放缩公式；4.看起来不是不等式的不等式问题） | 78:35 | [link](https://www.bilibili.com/video/BV1rj41147ja) |
+| 1694 | - | - | 2.8.2024考研高等数学冲刺串讲——常考数列与不等式（5.“经典名菜”品鉴） | 97:37 | [link](https://www.bilibili.com/video/BV1Nm4y1g7GJ) |
+| 1695 | - | - | 3.1.2024考研高等数学冲刺串讲——极限与连续（考点梳理） | 113:18 | [link](https://www.bilibili.com/video/BV14Q4y1s7w7) |
+| 1696 | - | - | 3.2.2024考研高等数学冲刺串讲——极限与连续（极限的计算） | 86:01 | [link](https://www.bilibili.com/video/BV19u4y1p7Ai) |
+| 1697 | - | - | 3.3.2024考研高等数学冲刺串讲——极限与连续（有关极限定义的问题） | 84:27 | [link](https://www.bilibili.com/video/BV1bC4y137Bj) |
+| 1698 | - | - | 3.4.2024考研高等数学冲刺串讲——极限与连续（夹逼定理与单调有界准则） | 84:39 | [link](https://www.bilibili.com/video/BV1HN411s7VY) |
+| 1699 | - | - | 3.5.2024考研高等数学冲刺串讲——极限与连续（“经典名菜”品鉴） | 147:13 | [link](https://www.bilibili.com/video/BV1ce411X7Z8) |
+| 1700 | - | - | 上海交大大模型智能体课程第1讲：初探大模型智能体 | 20:17 | [link](https://www.bilibili.com/video/BV1UgvYBtEaa) |
+| 1701 | - | - | 上海交大大模型智能体课程第2讲：生成式大语言模型 | 16:45 | [link](https://www.bilibili.com/video/BV1bgvYBtEbk) |
+| 1702 | - | - | 上海交大大模型智能体课程第3讲：提示工程 | 28:54 | [link](https://www.bilibili.com/video/BV1bgvYBtECs) |
+| 1703 | - | - | 上海交大大模型智能体课程第4讲：智能体评估 | 26:16 | [link](https://www.bilibili.com/video/BV1YAvYBAETJ) |
+| 1704 | - | - | 上海交大大模型智能体课程第5讲：智能体架构概览 | 35:52 | [link](https://www.bilibili.com/video/BV1YAvYBAEHH) |
+| 1705 | - | - | 上海交大大模型智能体课程第6讲：记忆管理与检索增强 | 33:09 | [link](https://www.bilibili.com/video/BV1XAvYBAEXS) |
+| 1706 | - | - | 上海交大大模型智能体课程第7讲：外部工具调用 | 29:50 | [link](https://www.bilibili.com/video/BV1VAvYBPEFW) |
+| 1707 | - | - | 上海交大大模型智能体课程第8讲：推理、规划和树搜索增强 | 36:02 | [link](https://www.bilibili.com/video/BV1GAvYBPE9J) |
+| 1708 | - | - | 上海交大大模型智能体课程第9讲：指令微调 | 26:16 | [link](https://www.bilibili.com/video/BV1YAvYBAEET) |
+| 1709 | - | - | 上海交大大模型智能体课程第10讲：LoRA微调与模型量化 | 22:10 | [link](https://www.bilibili.com/video/BV1YAvYBAEcM) |
+| 1710 | - | - | 上海交大大模型智能体课程第11讲：针对AI智能体的强化微调 | 34:51 | [link](https://www.bilibili.com/video/BV1YAvYBAEHU) |
+| 1711 | - | - | 上海交大大模型智能体课程第12讲：多模态智能体 | 31:01 | [link](https://www.bilibili.com/video/BV1XAvYBAEaC) |
+| 1712 | - | - | 上海交大大模型智能体课程第13讲：基于大语言模型的多智能体系统 | 28:33 | [link](https://www.bilibili.com/video/BV1XAvYBAEQw) |
+| 1713 | - | - | 上海交大大模型智能体课程第14讲：智能体攻防 | 20:33 | [link](https://www.bilibili.com/video/BV19cvYBeEWt) |
+| 1714 | - | - | 上海交大大模型智能体课程第15讲：智能体通信协议 | 37:09 | [link](https://www.bilibili.com/video/BV1YcvYBeEpE) |
+| 1715 | - | - | HugWBC：让人形机器人蹦跶起来！ | 2:40 | [link](https://www.bilibili.com/video/BV13UNGe4Etn) |
+| 1716 | - | - | OmniH2O：人形机器人全身控制遥操作学习框架 | 2:07 | [link](https://www.bilibili.com/video/BV1Y5KsewEdD) |
+| 1717 | - | - | BeamDojo：人形机器人走梅花桩啦！ | 1:44 | [link](https://www.bilibili.com/video/BV1bAAtexEoB) |
+| 1718 | - | - | RHINO：让人形机器人学会交互！ | 2:31 | [link](https://www.bilibili.com/video/BV18AAtexEpk) |
+| 1719 | - | - | 跨具身人形运动：一脑多形 | 1:01 | [link](https://www.bilibili.com/video/BV11f8nztEia) |
+| 1720 | - | - | 上海交大张伟楠机器学习课程第1讲：机器学习简介I | 25:38 | [link](https://www.bilibili.com/video/BV1L5S2Y9ESV) |
+| 1721 | - | - | 上海交大张伟楠强化学习课程第1讲：机器学习简介II | 30:05 | [link](https://www.bilibili.com/video/BV16TS2YbE1q) |
+| 1722 | - | - | 上海交大张伟楠机器学习课程第1讲：机器学习简介III | 32:01 | [link](https://www.bilibili.com/video/BV1cKS2YFEbC) |
+| 1723 | - | - | 上海交大张伟楠机器学习课程第1讲：机器学习简介IV | 31:57 | [link](https://www.bilibili.com/video/BV1fgS2YxEEM) |
+| 1724 | - | - | 上海交大张伟楠机器学习课程第1讲：机器学习简介V | 25:14 | [link](https://www.bilibili.com/video/BV1hcUNYtExa) |
+| 1725 | - | - | 上海交大张伟楠机器学习课程第2讲：线性模型I | 30:37 | [link](https://www.bilibili.com/video/BV1A4UnYdEG6) |
+| 1726 | - | - | 上海交大张伟楠机器学习课程第2讲：线性模型II | 29:58 | [link](https://www.bilibili.com/video/BV1p4UnYdEYN) |
+| 1727 | - | - | 上海交大张伟楠机器学习课程第2讲：线性模型III | 30:05 | [link](https://www.bilibili.com/video/BV1A4UnYdE3b) |
+| 1728 | - | - | 上海交大张伟楠机器学习课程第2讲：线性模型IV | 33:50 | [link](https://www.bilibili.com/video/BV1p4UnYdErP) |
+| 1729 | - | - | 上海交大张伟楠机器学习课程第2讲：线性模型V | 22:04 | [link](https://www.bilibili.com/video/BV1A4UnYdET4) |
+| 1730 | - | - | 上海交大张伟楠机器学习课程第3讲：K近邻算法与双线性模型I | 35:13 | [link](https://www.bilibili.com/video/BV1RiB8Y5Emz) |
+| 1731 | - | - | 上海交大张伟楠机器学习课程第3讲：K近邻算法与双线性模型II | 35:42 | [link](https://www.bilibili.com/video/BV1ViB8YVERU) |
+| 1732 | - | - | 上海交大张伟楠机器学习课程第3讲：K近邻算法与双线性模型III | 18:39 | [link](https://www.bilibili.com/video/BV1viB8YLESe) |
+| 1733 | - | - | 上海交大张伟楠机器学习课程第4讲：人工神经网络I | 48:11 | [link](https://www.bilibili.com/video/BV1zuzxYgEAs) |
+| 1734 | - | - | 上海交大张伟楠机器学习课程第4讲：人工神经网络II | 33:37 | [link](https://www.bilibili.com/video/BV1BuzxYgEho) |
+| 1735 | - | - | 上海交大张伟楠机器学习课程第4讲：人工神经网络III | 35:51 | [link](https://www.bilibili.com/video/BV1EuzxY3EaY) |
+| 1736 | - | - | 上海交大张伟楠机器学习课程第4讲：人工神经网络IV | 33:54 | [link](https://www.bilibili.com/video/BV1r5i1YoEuf) |
+| 1737 | - | - | 上海交大张伟楠机器学习课程第4讲：人工神经网络V | 37:01 | [link](https://www.bilibili.com/video/BV165i1YoEQQ) |
+| 1738 | - | - | 上海交大张伟楠机器学习课程第4讲：人工神经网络VI | 21:38 | [link](https://www.bilibili.com/video/BV165i1YoEmF) |
+| 1739 | - | - | 上海交大张伟楠机器学习课程第5讲：支持向量机I | 44:26 | [link](https://www.bilibili.com/video/BV1QKBFYpE2A) |
+| 1740 | - | - | 上海交大张伟楠机器学习课程第5讲：支持向量机II | 37:56 | [link](https://www.bilibili.com/video/BV1XKBFYpE2c) |
+| 1741 | - | - | 上海交大张伟楠机器学习课程第5讲：支持向量机III | 42:13 | [link](https://www.bilibili.com/video/BV1XKBFYpEhM) |
+| 1742 | - | - | 上海交大张伟楠机器学习课程第6讲：决策树I | 19:44 | [link](https://www.bilibili.com/video/BV1pUkUYXEiQ) |
+| 1743 | - | - | 上海交大张伟楠机器学习课程第6讲：决策树II | 38:21 | [link](https://www.bilibili.com/video/BV1pUkUYXEHQ) |
+| 1744 | - | - | 上海交大张伟楠机器学习课程第6讲：决策树III | 37:31 | [link](https://www.bilibili.com/video/BV1pUkUYXE4Q) |
+| 1745 | - | - | 上海交大张伟楠机器学习课程第7讲：集成学习与森林模型I | 38:13 | [link](https://www.bilibili.com/video/BV17o6eYPEtB) |
+| 1746 | - | - | 上海交大张伟楠机器学习课程第7讲：集成学习与森林模型II | 37:36 | [link](https://www.bilibili.com/video/BV17o6eYPEb3) |
+| 1747 | - | - | 上海交大张伟楠机器学习课程第7讲：集成学习与森林模型III | 38:52 | [link](https://www.bilibili.com/video/BV1nU6eYzExT) |
+| 1748 | - | - | 上海交大张伟楠机器学习课程第8讲：概率图模型I | 39:08 | [link](https://www.bilibili.com/video/BV1NNrgY1EWF) |
+| 1749 | - | - | 上海交大张伟楠机器学习课程第8讲：概率图模型II | 22:26 | [link](https://www.bilibili.com/video/BV11NrgYyEGH) |
+| 1750 | - | - | 上海交大张伟楠机器学习课程第8讲：概率图模型III | 38:02 | [link](https://www.bilibili.com/video/BV1yNrgYyEr3) |
+| 1751 | - | - | 上海交大张伟楠机器学习课程第9讲：无监督学习I | 29:51 | [link](https://www.bilibili.com/video/BV1ancNeZEXt) |
+| 1752 | - | - | 上海交大张伟楠机器学习课程第9讲：无监督学习II | 37:06 | [link](https://www.bilibili.com/video/BV1ancNeZE2Y) |
+| 1753 | - | - | 上海交大张伟楠机器学习课程第9讲：无监督学习III | 37:36 | [link](https://www.bilibili.com/video/BV1GncNeZEpS) |
+| 1754 | - | - | 上海交大张伟楠机器学习课程第9讲：无监督学习IV | 38:18 | [link](https://www.bilibili.com/video/BV1HowkeQEzS) |
+| 1755 | - | - | 上海交大张伟楠机器学习课程第9讲：无监督学习V | 37:47 | [link](https://www.bilibili.com/video/BV1powkeQENk) |
+| 1756 | - | - | 上海交大张伟楠机器学习课程第10讲：学习理论与模型选择I | 37:03 | [link](https://www.bilibili.com/video/BV1jpFNeYEdS) |
+| 1757 | - | - | 上海交大张伟楠机器学习课程第10讲：学习理论与模型选择II | 38:28 | [link](https://www.bilibili.com/video/BV17pFNeYET2) |
+| 1758 | - | - | 上海交大张伟楠机器学习课程第10讲：学习理论与模型选择III | 22:13 | [link](https://www.bilibili.com/video/BV17HFNePEzX) |
+| 1759 | - | - | 上海交大张伟楠机器学习课程第11讲：迁移、多任务、元学习I | 48:57 | [link](https://www.bilibili.com/video/BV1sHfzYMETB) |
+| 1760 | - | - | 上海交大张伟楠机器学习课程第11讲：迁移、多任务、元学习II | 36:20 | [link](https://www.bilibili.com/video/BV1sHfzYMEJH) |
+| 1761 | - | - | 上海交大张伟楠机器学习课程第11讲：迁移、多任务、元学习III | 23:43 | [link](https://www.bilibili.com/video/BV1yHfzYMEya) |
+| 1762 | - | - | 上海交大张伟楠机器学习课程第12讲：机器学习前沿话题漫谈 | 14:03 | [link](https://www.bilibili.com/video/BV1tVfzYCERh) |
+| 1763 | - | - | RLChina 2024 / 3小时强化学习入门课程-上 | 58:07 | [link](https://www.bilibili.com/video/BV1yFm1Y4Evf) |
+| 1764 | - | - | RLChina 2024 / 3小时强化学习入门课程-下 | 72:39 | [link](https://www.bilibili.com/video/BV1yFm1Y4Eiy) |
+| 1765 | - | - | 上海交大张伟楠强化学习课程第1讲：强化学习简介I | 35:34 | [link](https://www.bilibili.com/video/BV1jUHdePEUZ) |
+| 1766 | - | - | 上海交大张伟楠强化学习课程第1讲：强化学习简介II | 41:10 | [link](https://www.bilibili.com/video/BV1LSHdeYEQJ) |
+| 1767 | - | - | 上海交大张伟楠强化学习课程第1讲：强化学习简介III | 11:52 | [link](https://www.bilibili.com/video/BV1LSHdeYEsv) |
+| 1768 | - | - | 上海交大张伟楠强化学习课程第2讲：探索与利用 | 33:39 | [link](https://www.bilibili.com/video/BV1jaHfekE2U) |
+| 1769 | - | - | 上海交大张伟楠强化学习课程第3讲：马尔可夫决策过程I | 21:33 | [link](https://www.bilibili.com/video/BV1ZaHfekEyL) |
+| 1770 | - | - | 上海交大张伟楠强化学习课程第3讲：马尔可夫决策过程II | 24:34 | [link](https://www.bilibili.com/video/BV1D2HfewEmk) |
+| 1771 | - | - | 上海交大张伟楠强化学习课程第4讲：动态规划 | 26:52 | [link](https://www.bilibili.com/video/BV1S2HfewEQa) |
+| 1772 | - | - | 上海交大张伟楠强化学习课程第5讲：值函数估计I | 17:13 | [link](https://www.bilibili.com/video/BV13yHfeeEo2) |
+| 1773 | - | - | 上海交大张伟楠强化学习课程第5讲：值函数估计II | 19:58 | [link](https://www.bilibili.com/video/BV1QyHfeYEPY) |
+| 1774 | - | - | 上海交大张伟楠强化学习课程第6讲：无模型控制方法I | 39:41 | [link](https://www.bilibili.com/video/BV1USHfeFEZV) |
+| 1775 | - | - | 上海交大张伟楠强化学习课程第6讲：无模型控制方法II | 26:49 | [link](https://www.bilibili.com/video/BV1SmHfehE3E) |
+| 1776 | - | - | 上海交大张伟楠强化学习课程第7讲：规划与学习I | 34:01 | [link](https://www.bilibili.com/video/BV196HfeKEjm) |
+| 1777 | - | - | 上海交大张伟楠强化学习课程第7讲：规划与学习II | 28:42 | [link](https://www.bilibili.com/video/BV196HfeKEBr) |
+| 1778 | - | - | 上海交大张伟楠强化学习课程第8讲：参数化的值函数和策略I | 43:36 | [link](https://www.bilibili.com/video/BV1RBHfeqEHo) |
+| 1779 | - | - | 上海交大张伟楠强化学习课程第8讲：参数化的值函数和策略II | 39:07 | [link](https://www.bilibili.com/video/BV1RBHfeqEWK) |
+| 1780 | - | - | 上海交大张伟楠强化学习课程第9讲：深度强化学习价值方法I | 29:27 | [link](https://www.bilibili.com/video/BV1DtpeewESC) |
+| 1781 | - | - | 上海交大张伟楠强化学习课程第9讲：深度强化学习价值方法II | 36:39 | [link](https://www.bilibili.com/video/BV1drpve3Eip) |
+| 1782 | - | - | 上海交大张伟楠强化学习课程第10讲：深度强化学习策略方法I | 36:22 | [link](https://www.bilibili.com/video/BV199pzeUEMA) |
+| 1783 | - | - | 上海交大张伟楠强化学习课程第10讲：深度强化学习策略方法II | 14:50 | [link](https://www.bilibili.com/video/BV199pzeUEgQ) |
+| 1784 | - | - | 上海交大张伟楠强化学习课程第11讲：基于模型的深度强化学习I | 18:57 | [link](https://www.bilibili.com/video/BV199pzeUEg9) |
+| 1785 | - | - | 上海交大张伟楠强化学习课程第11讲：基于模型的深度强化学习II | 35:09 | [link](https://www.bilibili.com/video/BV1DfpzeLEkB) |
+| 1786 | - | - | 上海交大张伟楠强化学习课程第11讲：基于模型的深度强化学习III | 29:28 | [link](https://www.bilibili.com/video/BV1DfpzeLE5K) |
+| 1787 | - | - | 上海交大张伟楠强化学习课程第12讲：模仿学习I | 32:10 | [link](https://www.bilibili.com/video/BV1DfpzeLEmC) |
+| 1788 | - | - | 上海交大张伟楠强化学习课程第12讲：模仿学习II | 33:11 | [link](https://www.bilibili.com/video/BV1Qopze2Ee1) |
+| 1789 | - | - | 上海交大张伟楠强化学习课程第13讲：离线强化学习 | 35:30 | [link](https://www.bilibili.com/video/BV1Qopze2EYU) |
+| 1790 | - | - | 上海交大张伟楠强化学习课程第14讲：多智能体强化学习I | 33:03 | [link](https://www.bilibili.com/video/BV1Qopze2E1M) |
+| 1791 | - | - | 上海交大张伟楠强化学习课程第14讲：多智能体强化学习II | 33:44 | [link](https://www.bilibili.com/video/BV1Qopze2Ep6) |
+| 1792 | - | - | 上海交大张伟楠强化学习课程第14讲：多智能体强化学习III | 34:30 | [link](https://www.bilibili.com/video/BV1GopzemEF2) |
+| 1793 | - | - | 上海交大张伟楠强化学习课程第14讲：多智能体强化学习IV | 32:58 | [link](https://www.bilibili.com/video/BV1TspzezEoo) |
+| 1794 | - | - | 上海交大张伟楠强化学习课程第15讲：AI Agent与决策大模型I | 32:58 | [link](https://www.bilibili.com/video/BV1TspzezEbE) |
+| 1795 | - | - | 上海交大张伟楠强化学习课程第15讲：AI Agent与决策大模型II | 31:18 | [link](https://www.bilibili.com/video/BV14spzezExv) |
+| 1796 | - | - | 上海交大张伟楠强化学习课程第15讲：AI Agent与决策大模型III | 24:57 | [link](https://www.bilibili.com/video/BV14spzezE85) |
+| 1797 | - | - | 上海交大张伟楠强化学习课程第16讲：基于扩散模型的强化学习 | 45:57 | [link](https://www.bilibili.com/video/BV12spzezE9Y) |
+| 1798 | - | - | 面向python、算法工程师的agent开发教程 s1-介绍 | 9:15 | [link](https://www.bilibili.com/video/BV12AwDzgEwe) |
+| 1799 | - | - | 面向python、算法工程师的agent开发教程 s2-图解+调试的方式查看agent数据流控制（查看agent是如何运行的） | 63:01 | [link](https://www.bilibili.com/video/BV1XADnBBEMy) |
+| 1800 | - | - | 面向python、算法工程师的agent开发教程 s3-简单介绍一下agentscope的闪光点～ | 53:07 | [link](https://www.bilibili.com/video/BV1ksd9BcEx3) |
+| 1801 | - | - | 【PaperTrail】把 DeepSeek 论文 Agent 蒸馏到 4B：数据采集、SFT 训练与本地部署｜源码分享 | 33:06 | [link](https://www.bilibili.com/video/BV12CY96EEFP) |
+| 1802 | - | - | 【PaperTrail】Agent 技术拆解 S1：用 DeepSeek 和 AgentScope 搭建论文助手 | 12:43 | [link](https://www.bilibili.com/video/BV1Zkpp6HEuS) |
+| 1803 | - | - | 【PaperTrail】Agent 技术拆解 S2：记录大模型交互轨迹，为 SFT 准备数据 | 9:01 | [link](https://www.bilibili.com/video/BV15Cpu65Esb) |
+| 1804 | - | - | 图解deepseek的grpo原理、以debug形式阅读grpo的源码 | 43:09 | [link](https://www.bilibili.com/video/BV1wFNCehERn) |
+| 1805 | - | - | deepseek-r1复现踩坑系列1: 多机多卡环境下GRPO训练32B大模型的框架对比 | 31:09 | [link](https://www.bilibili.com/video/BV1tGGezxEGg) |
+| 1806 | - | - | deepseek-r1复现踩坑系列2: verl的二次开发-reward模块 | 51:43 | [link](https://www.bilibili.com/video/BV1TwV1zdEHw) |
+| 1807 | - | - | 一个视频带你搞懂 verl里面的ray到底起什么作用？verl里面的worker怎么使用？——verl源码解读系列 | 53:53 | [link](https://www.bilibili.com/video/BV116gozmEdn) |
+| 1808 | - | - | 由浅入深的了解 verl如何使用fsdp初始化model并且计算logits——verl源码解读系列 | 28:52 | [link](https://www.bilibili.com/video/BV1gjgqzYEJ3) |
+| 1809 | - | - | 文本转向量教程s1——总体介绍 | 8:18 | [link](https://www.bilibili.com/video/BV1dw4m1o7X9) |
+| 1810 | - | - | 文本转向量教程s2——认识文本转向量方法（sbert本质和推理加速） | 23:26 | [link](https://www.bilibili.com/video/BV1ex4y1S7u5) |
+| 1811 | - | - | 文本转向量教程s3——Trainer二次开发（embedding为例） | 67:12 | [link](https://www.bilibili.com/video/BV1BC411L7tB) |
+| 1812 | - | - | 为什么我的模型就没有办法使用ddp——基于bert做embedding任务 使用ddp进行训练 | 17:17 | [link](https://www.bilibili.com/video/BV1ii421e7V6) |
+| 1813 | - | - | qwen3-embedidng、qwen3-reranker模型解读 使用ray进行部署 | 45:15 | [link](https://www.bilibili.com/video/BV18FThzuE4b) |
+| 1814 | - | - | transformers源码阅读——入门（提高nlp工程师的工程能力） | 11:33 | [link](https://www.bilibili.com/video/BV1DN4y1X7av) |
+| 1815 | - | - | transformers源码阅读——transformers包的文件框架介绍 | 12:45 | [link](https://www.bilibili.com/video/BV1Tm4y1M7nQ) |
+| 1816 | - | - | transformers源码阅读——如何看懂模型代码（以llama为例） | 39:07 | [link](https://www.bilibili.com/video/BV1qj411y7kF) |
+| 1817 | - | - | 图解llama架构 解读源码实现 | 30:31 | [link](https://www.bilibili.com/video/BV1nK4y1F7x7) |
+| 1818 | - | - | transformers源码阅读——llama模型调试 | 43:36 | [link](https://www.bilibili.com/video/BV1Cw411y7gs) |
+| 1819 | - | - | transfomers源码阅读——Trainer解读系列1_了解训练流程 | 31:58 | [link](https://www.bilibili.com/video/BV1b8411y7rR) |
+| 1820 | - | - | transformers源码阅读——Trainer解读系列2_关键方法 | 25:08 | [link](https://www.bilibili.com/video/BV1GN411n7rS) |
+| 1821 | - | - | transformers疑惑解答S1——transformers是怎么保存模型权重的？ | 9:33 | [link](https://www.bilibili.com/video/BV1nw411y7qL) |
+| 1822 | - | - | longlora是怎么实现的——如何在transformers的模型上修改的 | 5:12 | [link](https://www.bilibili.com/video/BV1JN4y1f7JX) |
+| 1823 | - | - | transformers二次开发——（定义自己的数据加载器 模型 训练器）bge模型微调流程 | 36:39 | [link](https://www.bilibili.com/video/BV1eu4y1x7ix) |
+| 1824 | - | - | transformers二次开发——bge-reranker模型微调流程 | 19:17 | [link](https://www.bilibili.com/video/BV1sQ4y137Ft) |
+| 1825 | - | - | 强化学习TRL包源码解读S1——reward_Trainer | 21:31 | [link](https://www.bilibili.com/video/BV1RG411y71U) |
+| 1826 | - | - | 强化学习TRL包源码解读S2——PPO | 22:51 | [link](https://www.bilibili.com/video/BV1vy4y1P7GT) |
+| 1827 | - | - | transformers源码阅读——neftune的工程实现 | 10:21 | [link](https://www.bilibili.com/video/BV1YQ4y1n7c6) |
+| 1828 | - | - | transformers源码阅读——gradient_checkpointing详解 | 8:30 | [link](https://www.bilibili.com/video/BV1K84y1Q7hH) |
+| 1829 | - | - | transformers源码阅读——投机采样原理和实现方法 | 25:20 | [link](https://www.bilibili.com/video/BV1ZC4y177Tw) |
+| 1830 | - | - | 大模型量化是怎么实现的——transformers源码解读 | 11:51 | [link](https://www.bilibili.com/video/BV1Ga4y1D7ed) |
+| 1831 | - | - | chatglm3源码阅读——吐槽角度 | 21:08 | [link](https://www.bilibili.com/video/BV1Rv411F7Mk) |
+| 1832 | - | - | 国内的大模型结构和llama有多相似？ | 22:20 | [link](https://www.bilibili.com/video/BV15j411J7QP) |
+| 1833 | - | - | transformers源码阅读——mixtral模型解读——MoE实现细节 | 35:13 | [link](https://www.bilibili.com/video/BV19N411G7J2) |
+| 1834 | - | - | transformers源码阅读——图解mixtral模型——图解MoE细节 | 25:08 | [link](https://www.bilibili.com/video/BV1Xu4y1K7zn) |
+| 1835 | - | - | transformers二次开发——百度轩辕70b大模型数据调度的实现 | 32:36 | [link](https://www.bilibili.com/video/BV1qT4y1H7G1) |
+| 1836 | - | - | transformers二次开发——为什么要实现自己的sft代码 | 26:39 | [link](https://www.bilibili.com/video/BV1sK4y1z7LV) |
+| 1837 | - | - | transformers二次开发——为什么要实现自己的sentence-embedding训练代码 | 19:47 | [link](https://www.bilibili.com/video/BV1bN4y1n7Ex) |
+| 1838 | - | - | miniCPM系列S1——技术报告解读（吊打llama2-70b-chat模型？） | 30:51 | [link](https://www.bilibili.com/video/BV1cC411r7ZG) |
+| 1839 | - | - | 手把手带你发现transformers的bug 并且修复它！ | 29:53 | [link](https://www.bilibili.com/video/BV16F4m1V7E1) |
+| 1840 | - | - | 我的pr被transformers官方merge了&如何使用vscode和tensorboard查看训练日志 | 12:05 | [link](https://www.bilibili.com/video/BV1CZ421878s) |
+| 1841 | - | - | 图解minicpm-v-2.6源码（debug的形式 一个视频看懂他的网络结构） | 53:09 | [link](https://www.bilibili.com/video/BV1SCYSeYET9) |
+| 1842 | - | - | 一个视频让你对flash attention2下头（比较FA2和sdpa的效率） | 10:55 | [link](https://www.bilibili.com/video/BV18ceWeFEoP) |
+| 1843 | - | - | transformers集成了Liger Kernel：在llm训练的时间更少、显存使用的更少 | 16:25 | [link](https://www.bilibili.com/video/BV1XCWzeJE7A) |
+| 1844 | - | - | 如何优雅的修改transformers包的模型结构——面向nlp小白的开发教程 | 28:21 | [link](https://www.bilibili.com/video/BV1KhWmehEVz) |
+| 1845 | - | - | transformers一个非常严重的bug——在使用梯度累计的时候 loss不等效 | 33:51 | [link](https://www.bilibili.com/video/BV1oY1aYzEVi) |
+| 1846 | - | - | AutoModel的lazy加载方式原理解读 | 26:07 | [link](https://www.bilibili.com/video/BV1mhmeYiE3T) |
+| 1847 | - | - | 图解大模型的KV Cache——图解+transformers源码阅读 | 60:55 | [link](https://www.bilibili.com/video/BV1U5CcYeEX8) |
+| 1848 | - | - | vLLM源码阅读s1——源码介绍 | 18:16 | [link](https://www.bilibili.com/video/BV1Vp421S7zg) |
+| 1849 | - | - | vLLM源码阅读s2——是如何进行离线推理的 | 43:45 | [link](https://www.bilibili.com/video/BV1qE42157Rn) |
+| 1850 | - | - | vllm二次开发——自定义的新模型如何部署在vllm上S1 | 58:54 | [link](https://www.bilibili.com/video/BV1xbypYtEu2) |
+| 1851 | - | - | 多模态大模型LLaVA模型讲解——transformers源码解读 | 40:13 | [link](https://www.bilibili.com/video/BV1nw4m1S7nZ) |
+| 1852 | - | - | 自定义多模态大模型LLaVA——LLaVA系列 | 21:44 | [link](https://www.bilibili.com/video/BV1GS411P74b) |
+| 1853 | - | - | 训练LLaVA模型（数据集构建、基于Trainer的训练框架搭建）——LLaVA系列 | 84:57 | [link](https://www.bilibili.com/video/BV1Si421v7j1) |
+| 1854 | - | - | nlp开发利器——vscode如何debug transformers源码 | 10:15 | [link](https://www.bilibili.com/video/BV1Hh4y1i7Li) |
+| 1855 | - | - | nlp开发利器——vscode如何debug transformers源码(torchrun形式） | 11:45 | [link](https://www.bilibili.com/video/BV1b84y1R75V) |
+| 1856 | - | - | nlp开发利器——vscode如何debug transformers源码(deepspeed形式） | 7:07 | [link](https://www.bilibili.com/video/BV1xC4y1P7LH) |
+| 1857 | - | - | nlp开发利器——vscode debug nlp大工程（最最最优雅的方式） | 13:31 | [link](https://www.bilibili.com/video/BV1wt421V718) |
+| 1858 | - | - | 我的vscode主题配色 | 3:00 | [link](https://www.bilibili.com/video/BV1xv411c7ti) |
+| 1859 | - | - | 使用vscode愉快的阅读transformers源码 | 8:11 | [link](https://www.bilibili.com/video/BV14b4y1G7bF) |
+| 1860 | - | - | nlp开发利器——vscode愉快的写nlp代码 | 10:59 | [link](https://www.bilibili.com/video/BV1LH4y1H7jj) |
+| 1861 | - | - | transformers更新了啥S2——在国庆的时候 更新了啥（闲聊） | 2:29 | [link](https://www.bilibili.com/video/BV1Lw411y7kD) |
+| 1862 | - | - | transformers更新了啥S1——InternLM模型和llama模型竟然是差不多的 | 2:10 | [link](https://www.bilibili.com/video/BV1rz4y1G74d) |
+| 1863 | - | - | transformers更新了啥S3——23-10-22日更新 | 10:27 | [link](https://www.bilibili.com/video/BV1Bj411v7PA) |
+| 1864 | - | - | transformers更新了啥S3——23-11-05日更新 | 9:15 | [link](https://www.bilibili.com/video/BV1BC4y1J7Rs) |
+| 1865 | - | - | transformers包新功能——一行代码将模型效率提高40% | 6:53 | [link](https://www.bilibili.com/video/BV1ap4y1d7MZ) |
+| 1866 | - | - | [国内一小伙自制]地理坐标系的映射关系 | 0:41 | [link](https://www.bilibili.com/video/BV1uR4y1W7hZ) |
+| 1867 | - | - | 3d视角查看中国各个省级地图(demo) | 0:52 | [link](https://www.bilibili.com/video/BV1JF41187Jf) |
+| 1868 | - | - | python入门教程之写代码素质1【管理数据和代码】【中国人不骗中国人，这个绝对是最走心的教程】 | 13:15 | [link](https://www.bilibili.com/video/BV1Vg411T74D) |
+| 1869 | - | - | 最走心的python学习分享【没有广告、没有焦虑、单纯的分享干货】 | 14:03 | [link](https://www.bilibili.com/video/BV1JP4y157uV) |
+| 1870 | - | - | 我用技术成功追星啦 | 9:40 | [link](https://www.bilibili.com/video/BV1DT4y1R79v) |
+| 1871 | - | - | 手写数值识别web应用 | 1:42 | [link](https://www.bilibili.com/video/BV15X4y1M7DT) |
+| 1872 | - | - | python通关羊了个羊 | 1:35 | [link](https://www.bilibili.com/video/BV1HG4y1q7gi) |
+| 1873 | - | - | vscode调试jupyter notebook | 0:47 | [link](https://www.bilibili.com/video/BV1KB4y1B78v) |
+| 1874 | - | - | 细节怪27秋招面经八股合集：Day00 Multi-Agent 和 ReAct 和 Harness 有什么区别（不理解为什么会问这样的问题 | 6:39 | [link](https://www.bilibili.com/video/BV1k3YJ6GEek) |
+| 1875 | - | - | 细节怪27秋招面经八股合集：ReAct 和 Plan-and-Excute 有什么区别 | 9:07 | [link](https://www.bilibili.com/video/BV1EEeA64ET3) |
+| 1876 | - | - | 细节怪-2027秋招必学：如何拆解一个Agent （从loop到Harness,从openclaw 到Hermes ) | 21:35 | [link](https://www.bilibili.com/video/BV1GcKV6rEQq) |
+| 1877 | - | - | 细节怪-27秋招必学：Claude Code 强大的Runtime到底是什么样的 | 34:00 | [link](https://www.bilibili.com/video/BV1VB3Y61EyE) |
+| 1878 | - | - | 细节怪27秋招必学-Claude Code的上下文工程（听说最近删除了80%的System Prompt?!) | 21:52 | [link](https://www.bilibili.com/video/BV1Z33o6HEmG) |
+| 1879 | - | - | 细节怪27秋招必学：Claude Code 的 Memory 是如何设计的（CLADE.md和Auto Memory) | 23:32 | [link](https://www.bilibili.com/video/BV1xr3f6zEcS) |
+| 1880 | - | - | 细节怪-27秋招必学：Claude Code如何组织Skill,MCP,等tool(Action层） | 28:29 | [link](https://www.bilibili.com/video/BV1dou96KEGk) |
+| 1881 | - | - | 细节怪27秋招必学：Herman Agent 惊艳一时的爱马仕究竟是如何完成自进化的？ | 13:38 | [link](https://www.bilibili.com/video/BV1wBbT6aEMY) |
+| 1882 | - | - | 细节怪手撕LLM-混合专家模型MoE详解 | 18:08 | [link](https://www.bilibili.com/video/BV1iji7BwEqC) |
+| 1883 | - | - | 细节怪-手撕LLM之如何训练一个大模型（大模型的能力，特点以及发展趋势）【本期为后续预告】 | 18:21 | [link](https://www.bilibili.com/video/BV1yZBbBSEUg) |
+| 1884 | - | - | 细节怪-手撕LLM-LLaMA（激活函数SwiGLU, GQA…数学原理分析) | 22:58 | [link](https://www.bilibili.com/video/BV1damrBbErz) |
+| 1885 | - | - | 细节怪-手撕LLM-Decoder-only之GLM（国内模型，创新点分析，架构设计） | 13:50 | [link](https://www.bilibili.com/video/BV1bZmiBKE4E) |
+| 1886 | - | - | 细节怪-手撕LLM- GPT系列（细节设计分析，发展历程回顾） | 16:08 | [link](https://www.bilibili.com/video/BV11AmxBAEiR) |
+| 1887 | - | - | 细节怪-手斯LLM- T5（Encoder-Decoder)创新点原理分析 | 17:43 | [link](https://www.bilibili.com/video/BV1W12QBiEoy) |
+| 1888 | - | - | 细节怪-手撕LLM-Bert全景分析：ALBERT(Encoder-only) | 11:35 | [link](https://www.bilibili.com/video/BV1HU2SBoENv) |
+| 1889 | - | - | 细节怪之手撕LLM-Bert 全景分析：RoBERTa（四大优化点剖析） | 11:49 | [link](https://www.bilibili.com/video/BV1aw25B3End) |
+| 1890 | - | - | 细节怪之手撕LLM-Bert 全景分析（1）：Bert 细节分析和原理介绍（Encoder-only) | 17:27 | [link](https://www.bilibili.com/video/BV1eq25BLE5N) |
+| 1891 | - | - | 细节怪-手撕LLM-旋转位置编码（3）：代码实现 | 6:12 | [link](https://www.bilibili.com/video/BV1K6UuBoEiY) |
+| 1892 | - | - | 细节怪-手撕LLM-PE&RoPE: 为什么需要旋转位置编码（数学证明） | 9:55 | [link](https://www.bilibili.com/video/BV1MbycBbE4A) |
+| 1893 | - | - | 细节怪-手撕LLM-PE&RoPE(1)：什么是旋转位置编码（原理分析） | 10:39 | [link](https://www.bilibili.com/video/BV19jycBiEBd) |
+| 1894 | - | - | 细节怪-手撕Transformer: Add & Norm 残差连接和归一化的理论原理 | 10:24 | [link](https://www.bilibili.com/video/BV1agCeBdEdW) |
+| 1895 | - | - | 细节怪-手撕Transformer: 位置编码（设计原理与示意图） | 7:10 | [link](https://www.bilibili.com/video/BV1DxyWBfEh1) |
+| 1896 | - | - | 细节怪-手撕Transformer: 注意力机制之多头注意力（为什么需要多头注意力，为什么多头可以提取的多维信息，计算优化和纬度变化） | 9:57 | [link](https://www.bilibili.com/video/BV12jsyz2EeV) |
+| 1897 | - | - | 细节怪-手撕Transformer: 注意力机制之掩码注意力（为什么需要掩码，如何构建掩码） | 5:42 | [link](https://www.bilibili.com/video/BV1WpsyzkEY3) |
+| 1898 | - | - | 细节怪-手撕Transformer(2): 注意力机制原理分析与代码实践！（公式推导；自注意力） | 30:10 | [link](https://www.bilibili.com/video/BV1c9sizJEMv) |
+| 1899 | - | - | 细节怪-手撕Transformer(1) : 整体架构（从数学原理到代码实践） | 4:49 | [link](https://www.bilibili.com/video/BV1DX4BzyEfC) |
+| 1900 | - | - | 细节怪-手撕LLM之如何估算模型所需的显存（看完就会！算力选购必备~)【B站AI创作大赛-开放赛道】 | 6:54 | [link](https://www.bilibili.com/video/BV1Lj69BkEpi) |
+| 1901 | - | - | 细节怪-手撕LLM之 LoRA 原理（大模型算法面试必考！）【2026开个好头】 | 13:23 | [link](https://www.bilibili.com/video/BV1wHkYBiEap) |
+| 1902 | - | - | 细节怪-手撕 LLM 之 KV Cache 推理优化（1）实例分析（8分钟透彻理解） | 8:25 | [link](https://www.bilibili.com/video/BV1mDzcByEcv) |
+| 1903 | - | - | 细节怪-手撕 LLM 之 vLLM 推理优化（2）最流行的大模型部署方式（一学就会！） | 12:43 | [link](https://www.bilibili.com/video/BV1wvzuBfEgD) |
+| 1904 | - | - | 细节怪-手撕 LLM 之 Flash Attention 训练与推理优化（4）超清晰的讲解和手动推导，零基础也能听懂！ | 16:28 | [link](https://www.bilibili.com/video/BV1PazCBZEAK) |
+| 1905 | - | - | 细节怪-手撕 LLM 之 TensorRT-LLM 推理优化（3）静态计算图，深度算子融合，超详细解读（一学就会！） | 18:25 | [link](https://www.bilibili.com/video/BV1mkz6BWEF4) |
+| 1906 | - | - | 细节怪-手撕 LLM 系列：DeepSpeed 详解（ ZeRO 三阶段和底层通信原理，值得细细品味！) | 26:26 | [link](https://www.bilibili.com/video/BV1yP6GBzE7V) |
+| 1907 | - | - | 细节怪-手撕 LLM 之 RLHF 概念详解与PPO算法详解（1）（近期高频八股，系统搞定！） | 19:10 | [link](https://www.bilibili.com/video/BV1LB6nBJECs) |
+| 1908 | - | - | 细节怪-手撕 LLM 之大模型常用的几种精度（FP32，FP16，BF16，NF8，实例分析，一步到位，小知识点扫盲） | 19:17 | [link](https://www.bilibili.com/video/BV1SDZXB3Ewe) |
+| 1909 | - | - | 细节怪-手撕 LLM 系列之 QLoRA 详解（什么是双重量化） | 7:56 | [link](https://www.bilibili.com/video/BV1BqZeBMEvZ) |
+| 1910 | - | - | 细节怪手撕 LLM 之 DeepSeek-V4 注意力机制（CSA，HCA，Sliding Window, 从架构到原理 | 21:42 | [link](https://www.bilibili.com/video/BV1vsd3BcE97) |
+| 1911 | - | - | 细节怪-手撕Transformer: KL散度公式推导（从信息量到交叉熵） | 6:33 | [link](https://www.bilibili.com/video/BV1Pxui6eErQ) |
+| 1912 | - | - | 细节怪-手撕Transformer: RL中的KL散度，与DPO替代奖励函数的解析解 | 6:50 | [link](https://www.bilibili.com/video/BV1nQuv6oEKW) |
+| 1913 | - | - | 手撕 LLM - 沉浸式实战跟练：手撕 MHA（多头注意力）大模型算法工程师必备技能！ | 15:33 | [link](https://www.bilibili.com/video/BV1TqkVB9EPL) |
+| 1914 | - | - | 沉浸式手撕 LLM 系列 —— 手撕 GQA （大模型算法工程师入门必学）十分钟搞定！ | 11:30 | [link](https://www.bilibili.com/video/BV12ozABEEEG) |
+| 1915 | - | - | 沉浸式手撕 LLM ：RoPE (旋转位置编码）细节只有手撕了才知道！大模型算法工程师入门必学～ | 9:54 | [link](https://www.bilibili.com/video/BV1soz2BMEmY) |
+| 1916 | - | - | 沉浸式手撕 LLM 系列：Softmax (面试题目，新鲜出炉，做了一点拓展，后面的还得撕一下online softmax) | 5:02 | [link](https://www.bilibili.com/video/BV1yH6FBzE6t) |
+| 1917 | - | - | 手撕 LLM 之沉浸式实战 plus : SFT-loss 原理分析公式推导 | 7:35 | [link](https://www.bilibili.com/video/BV1QoGf6HEqU) |
+| 1918 | - | - | 沉浸式手撕实战：SFT-loss （numpy) 面试必会手撕跟练! | 4:44 | [link](https://www.bilibili.com/video/BV1EUEF6LEb9) |
+| 1919 | - | - | LLM 应用开发原理-Agent 入门介绍（2）（Function calling 底层原理，如何选择合适的范式） | 13:21 | [link](https://www.bilibili.com/video/BV1nCcPzYExP) |
+| 1920 | - | - | LLM 应用开发原理：Agent 开发框架介绍（1）低代码开发平台（dify, Coze, n8n, CrewAI) | 13:28 | [link](https://www.bilibili.com/video/BV1dNFUzVEhk) |
+| 1921 | - | - | LLM 应用开发实战篇 ：从零构建一个 Agent Skill (小白友好，有手就会）第一期 | 11:22 | [link](https://www.bilibili.com/video/BV1MRf7B1EZW) |
+| 1922 | - | - | LLM 应用开发原理实战篇：从零手搓一个skill (包含自己手搓和使用 skill-creator 来构建）小白友好，有手就行 | 16:07 | [link](https://www.bilibili.com/video/BV1naf7BhE8J) |
+| 1923 | - | - | LLM 应用开发原理实战篇：安装一些好用的 skill (手把手教学，有手就行） | 5:45 | [link](https://www.bilibili.com/video/BV1uffJBDEGD) |
+| 1924 | - | - | LLM 应用开发原理—拆解现象级 Agent 产品 OpenClaw 大虾（源码加原理） | 10:00 | [link](https://www.bilibili.com/video/BV15NQQBaE93) |
+| 1925 | - | - | 多模态 之 CLIP ｜ 1、CLIP 网络结构精讲 | 24:33 | [link](https://www.bilibili.com/video/BV1BeZFBGEhe) |
+| 1926 | - | - | 多模态 之 CLIP / 2、官方不开源训练代码？给你推荐个社区版开源复现 -- OpenCLIP | 19:57 | [link](https://www.bilibili.com/video/BV1YP5v6tEop) |
+| 1927 | - | - | 多模态 之 ViLT ｜ 1、ViLT 的 Single Stream 结构 | 10:50 | [link](https://www.bilibili.com/video/BV1YUVJ6EERN) |
+| 1928 | - | - | 多模态 之 ViLT ｜2、模型结构详解、三类任务、模型权重初始化方案 | 20:00 | [link](https://www.bilibili.com/video/BV1pwVU6VEjS) |
+| 1929 | - | - | MLM｜Masked Language Model 详解 & Whole Word Masking | 14:36 | [link](https://www.bilibili.com/video/BV1QB7S63Ed2) |
+| 1930 | - | - | 多模态 之 BLIP｜  一个模型 可以支持 3种工作模式（图文对比、图文匹配、配文生成） | 24:41 | [link](https://www.bilibili.com/video/BV1YwTk6tEPj) |
+| 1931 | - | - | 多模态 之 BLIP｜ CapFilt ：自举式训练（Bootstrapped），用模型反哺数据 | 15:27 | [link](https://www.bilibili.com/video/BV1UMMN6DEvs) |
+| 1932 | - | - | 3）BeamSearch 与 NucleusSampling | 7:05 | [link](https://www.bilibili.com/video/BV1Mr3Q64E8o) |
+| 1933 | - | - | 多模态 之 YOLO-World ｜ 1、整体网络结构 | 13:57 | [link](https://www.bilibili.com/video/BV1S78w6eEAK) |
+| 1934 | - | - | 多模态 之 YOLO-World ｜2、训练数据集 以及 Grounding 数据集的标注格式要求 （基于 Ultralytics） | 14:54 | [link](https://www.bilibili.com/video/BV1Nm826QEc4) |
+| 1935 | - | - | 3）online/offline vocabulary | 13:32 | [link](https://www.bilibili.com/video/BV1R7tN6VE5T) |
+| 1936 | - | - | 4）CLIP Text Encoder 处理文本流程 | 9:31 | [link](https://www.bilibili.com/video/BV19LtN6yEoH) |
+| 1937 | - | - | 5）T-CSP Layer | 11:55 | [link](https://www.bilibili.com/video/BV1RLtN6yE1M) |
+| 1938 | - | - | 6）Max-Sigmoid Attention | 14:40 | [link](https://www.bilibili.com/video/BV1Znt36vEc1) |
+| 1939 | - | - | 7）Image-pooling Attention | 10:17 | [link](https://www.bilibili.com/video/BV1BTbF6zEQh) |
+| 1940 | - | - | 8）World Head / Contrastive Head | 18:33 | [link](https://www.bilibili.com/video/BV1Wcbw6HEVY) |
+| 1941 | - | - | 9）Region-Text Contrastive Loss | 7:36 | [link](https://www.bilibili.com/video/BV1webT6NEdk) |
+| 1942 | - | - | 多模态 之 YOLOE ｜ 1、YOLOE 的三种模式 & 三阶段训练 & 模型整体网络结构 | 13:09 | [link](https://www.bilibili.com/video/BV1dMY16gEJP) |
+| 1943 | - | - | 2）Text Embedding 与 RepRTA  网络结构 | 14:08 | [link](https://www.bilibili.com/video/BV1wzeh62Eg1) |
+| 1944 | - | - | 3）YOLO-World 与 YOLOE 对比 | 8:50 | [link](https://www.bilibili.com/video/BV1fXev6pE8L) |
+| 1945 | - | - | 4）BNContrastiveHead | 12:17 | [link](https://www.bilibili.com/video/BV1FEha6uESV) |
+| 1946 | - | - | 5）RepRTA 结构重参数化 推导 & 代码讲解 | 14:06 | [link](https://www.bilibili.com/video/BV1hLaN6JE9Z) |
+| 1947 | - | - | 6）第二阶段训练 参数冻结 | 9:53 | [link](https://www.bilibili.com/video/BV1ozaW61Eyx) |
+| 1948 | - | - | 7）第二阶段整体训练框架 & 视觉提示 mask 预处理 | 10:18 | [link](https://www.bilibili.com/video/BV1LLYP6sEMk) |
+| 1949 | - | - | 8）SAVPE 网络结构 & 分组加权聚合 | 20:59 | [link](https://www.bilibili.com/video/BV15Vp46ZE6j) |
+| 1950 | - | - | Tokenizer｜1、基础知识准备 ：Unicode、UTF-8、ASCII | 10:50 | [link](https://www.bilibili.com/video/BV116daB6EC5) |
+| 1951 | - | - | Tokenizer｜2、三大分词方法 ：Word / Character / Subword | 22:05 | [link](https://www.bilibili.com/video/BV1NtdZB1Eai) |
+| 1952 | - | - | Tokenizer｜3、BPE 与 BBPE Tokenizer 详解 | 14:02 | [link](https://www.bilibili.com/video/BV1YYdmBhErJ) |
+| 1953 | - | - | Tokenizer｜4、词边界符 | 10:06 | [link](https://www.bilibili.com/video/BV1cE9xByEXx) |
+| 1954 | - | - | 5）WordPiece Tokenizer | 24:59 | [link](https://www.bilibili.com/video/BV14k3Q6REHR) |
+| 1955 | - | - | 1）Flickr8k | 8:59 | [link](https://www.bilibili.com/video/BV1Z6Gs6NEaJ) |
+| 1956 | - | - | 多模态 常用数据集｜ Flickr30k & Entities （Grounding 任务常用） | 11:51 | [link](https://www.bilibili.com/video/BV1kPpJ6DEhk) |
+| 1957 | - | - | Conda 环境管理工具 | 56:09 | [link](https://www.bilibili.com/video/BV1bqKE6pEmD) |
+| 1958 | - | - | Enzo 深度学习  入门篇 （更新中） | 258:20 | [link](https://www.bilibili.com/video/BV1tLuw6VEJd) |
+| 1959 | - | - | 反向传播 ：计算图、叶子节点/非叶子节点/根节点、requires_grad、grad | 19:38 | [link](https://www.bilibili.com/video/BV12Q4X6aEjt) |
+| 1960 | - | - | 模型压缩神技：结构重参数化 ： 训练时多分支，推理时单卷积！ | 26:40 | [link](https://www.bilibili.com/video/BV1uhN96JEzF) |
+| 1961 | - | - | 环境配置 依赖包安装 常见问题 【50系显卡 Blackwell架构】 | 15:03 | [link](https://www.bilibili.com/video/BV1RLtU6eE7f) |
+| 1962 | - | - | 【即插即用 卷积模块】蛇形卷积 DSConv ：Dynamic Snake Convolution | 21:19 | [link](https://www.bilibili.com/video/BV18SYt6EE64) |
+| 1963 | - | - | 【即插即用 卷积模块】中国结卷积 CKConv ：Chinese Knot Convolution | 9:42 | [link](https://www.bilibili.com/video/BV1i9eH6LEkq) |
+| 1964 | - | - | 【即插即用 卷积模块】方向引导的边缘门控卷积 DEGConv ：Direction-guided Edge Gated Convolution | 27:08 | [link](https://www.bilibili.com/video/BV1xRhs6hEXr) |
+| 1965 | - | - | 【即插即用 注意力模块】LA：Linear Attention | 14:33 | [link](https://www.bilibili.com/video/BV1N8at6uEpi) |
+| 1966 | - | - | 【即插即用 卷积模块】风车卷积 PConv ：Pinwheel-shaped Convolution | 9:27 | [link](https://www.bilibili.com/video/BV1UUpt6XEJZ) |
+| 1967 | - | - | self-Attention｜自注意力机制 ｜位置编码 ｜ 理论 + 代码 | 19:00 | [link](https://www.bilibili.com/video/BV1qo4y1F7Ep) |
+| 1968 | - | - | Multi-Head Attention / 算法 + 代码 | 7:42 | [link](https://www.bilibili.com/video/BV1gV4y167rS) |
+| 1969 | - | - | ViT｜ Vision Transformer ｜理论 + 代码 | 25:28 | [link](https://www.bilibili.com/video/BV1xm4y1b7Pw) |
+| 1970 | - | - | Positional Encoding ｜ 位置编码 | 11:47 | [link](https://www.bilibili.com/video/BV1z84y1R7t8) |
+| 1971 | - | - | Swin Transformer ｜ Abstract | 14:53 | [link](https://www.bilibili.com/video/BV1Nz4y177aW) |
+| 1972 | - | - | Swin Transformer （上） | 28:27 | [link](https://www.bilibili.com/video/BV1xF41197E4) |
+| 1973 | - | - | Swin Transformer （下） | 18:21 | [link](https://www.bilibili.com/video/BV1qX4y1Y7mj) |
+| 1974 | - | - | DETR ｜ 1、算法概述 | 7:13 | [link](https://www.bilibili.com/video/BV1Zo4y1A7FB) |
+| 1975 | - | - | DETR ｜2、模型结构讲解 | 17:25 | [link](https://www.bilibili.com/video/BV1Gh4y127eZ) |
+| 1976 | - | - | DETR ｜3、损失函数讲解 | 23:24 | [link](https://www.bilibili.com/video/BV1qu411V7ud) |
+| 1977 | - | - | Attention Map ｜ 复现 DETR 论文中 encoder layer 的 attention map | 10:19 | [link](https://www.bilibili.com/video/BV1jC411W7sC) |
+| 1978 | - | - | Deformable Convolution ｜可变形卷积 | 12:04 | [link](https://www.bilibili.com/video/BV1Sh4y1y75i) |
+| 1979 | - | - | Deformable DETR / 1、Abstract  算法概述 | 11:24 | [link](https://www.bilibili.com/video/BV1rh4y1F7fG) |
+| 1980 | - | - | Deformable DETR ｜ 2、backbone 、MultiHeadAttention 公式讲解 | 15:19 | [link](https://www.bilibili.com/video/BV1vr4y1o73B) |
+| 1981 | - | - | Deformable DETR｜ 3、Deformable Attention、MSDeformAttention、流程讲解 | 15:02 | [link](https://www.bilibili.com/video/BV1Uj411z7QU) |
+| 1982 | - | - | torchvision.models.resnet50() 可以使用哪些参数 ？ 这些参数有什么用 ？ 学习 DETR 必读 ！ | 14:00 | [link](https://www.bilibili.com/video/BV1Ya4y1o7HP) |
+| 1983 | - | - | RT-DETR ｜1、abstract 算法概述 | 10:20 | [link](https://www.bilibili.com/video/BV1Nb4y1F7k9) |
+| 1984 | - | - | RT-DETR  ｜ 2、backbone | 5:15 | [link](https://www.bilibili.com/video/BV1Ac411k7Sg) |
+| 1985 | - | - | RT-DETR  ｜ 3、AIFI | 9:10 | [link](https://www.bilibili.com/video/BV1be411S74w) |
+| 1986 | - | - | RT- DETR ｜ 4、CCFM | 7:52 | [link](https://www.bilibili.com/video/BV1DG411z71m) |
+| 1987 | - | - | 5）CCFM 收尾工作 | 7:11 | [link](https://www.bilibili.com/video/BV1bUR3BDEWC) |
+| 1988 | - | - | 6）decoder 整体网络结构 | 5:22 | [link](https://www.bilibili.com/video/BV1njt36uEk6) |
+| 1989 | - | - | 7）denoising 理论讲解 | 18:05 | [link](https://www.bilibili.com/video/BV1Fjt36uEKD) |
+| 1990 | - | - | 8）denoising 代码讲解 | 13:22 | [link](https://www.bilibili.com/video/BV1fJt36KEw9) |
+| 1991 | - | - | 9）IoU-aware query selection | 6:43 | [link](https://www.bilibili.com/video/BV1fJt36KEuA) |
+| 1992 | - | - | 10）IoU-aware query selection | 11:23 | [link](https://www.bilibili.com/video/BV1PMt36yEUR) |
+| 1993 | - | - | 11）decoder MSDeformableAttention | 17:02 | [link](https://www.bilibili.com/video/BV1A3t36kEnm) |
+| 1994 | - | - | 12）损失函数 | 31:11 | [link](https://www.bilibili.com/video/BV1L4t36aErd) |
+| 1995 | - | - | 13）RT-DETR 快速跑通 | 15:14 | [link](https://www.bilibili.com/video/BV1v4t36aEyb) |
+| 1996 | - | - | 14）Pycharm远程连接 + 配置 + 全流程跑通 | 10:50 | [link](https://www.bilibili.com/video/BV1Xht36ZE48) |
+| 1997 | - | - | RT-DETR v1 ｜快速跑通 + AutoDL | 15:14 | [link](https://www.bilibili.com/video/BV1UWmMBREJ7) |
+| 1998 | - | - | RT-DETR / Pycharm 远程连接 (AutoDL) + 配置 + 全流程跑通 | 10:50 | [link](https://www.bilibili.com/video/BV1egm7BxE4T) |
+| 1999 | - | - | RT-DETR v2 相较于 v1 的 4个优化点 | 14:47 | [link](https://www.bilibili.com/video/BV1ePwzehEEy) |
+| 2000 | - | - | RT-DETRv4 ｜ RT-DETR + DINOv3 | 28:26 | [link](https://www.bilibili.com/video/BV1zbE56sEmG) |
+| 2001 | - | - | D-Fine ｜1、FDR ： Fine-grained Distribution Refinement | 27:24 | [link](https://www.bilibili.com/video/BV1JHopYjEV7) |
+| 2002 | - | - | D-Fine｜2、损失函数细节精讲 之  FGL 数据准备 | 11:19 | [link](https://www.bilibili.com/video/BV1jHJNzGEDC) |
+| 2003 | - | - | D-Fine｜3、损失函数  FGL :  Fine-Grained Localization Loss | 30:23 | [link](https://www.bilibili.com/video/BV1eDJ6zuErg) |
+| 2004 | - | - | D-Fine / 4、GO-LDS 全局优化定位自蒸馏、DDFLoss | 16:13 | [link](https://www.bilibili.com/video/BV1kgjXz5EjJ) |
+| 2005 | - | - | DEIM / 为什么 DEIM 能让 DETR 收敛提速一倍？？ | 19:39 | [link](https://www.bilibili.com/video/BV1saKAzSEHg) |
+| 2006 | - | - | RoPE 旋转位置编码 | 22:46 | [link](https://www.bilibili.com/video/BV1ReLq6BE8i) |
+| 2007 | - | - | Vibe Researching / Codex 介绍与安装 | 9:31 | [link](https://www.bilibili.com/video/BV1ZoJG6nEi9) |
+| 2008 | - | - | Vibe Researching / Codex 基础使用 | 10:41 | [link](https://www.bilibili.com/video/BV1wSL96YENx) |
+| 2009 | - | - | Vibe Researching / Codex - SKILL 基础介绍 | 16:05 | [link](https://www.bilibili.com/video/BV1Qjjh6SEYm) |
+| 2010 | - | - | Vibe Researching / Codex - SKILL 实践 ： 创建一个用于收集论文基本信息的 SKILL | 15:17 | [link](https://www.bilibili.com/video/BV1e17g6PEEk) |
+| 2011 | - | - | 解放生产力！我整了一个自动整理即插即用模块的 Codex Skill | 4:52 | [link](https://www.bilibili.com/video/BV1rwjd6TE7w) |
+| 2012 | - | - | DINO v1 /  自监督学习、无标签的自蒸馏  self-distillation with no labels | 29:54 | [link](https://www.bilibili.com/video/BV1Q74HzeEBY) |
+| 2013 | - | - | DINO v2 ｜ 5大改进点概述、整体训练框架解读 | 19:29 | [link](https://www.bilibili.com/video/BV1BoUnByEWr) |
+| 2014 | - | - | DINO v3 ｜3阶段训练 +  扩大数据集（LVD-1689M）+ 扩大模型（ ViT-7B/16 ） | 9:49 | [link](https://www.bilibili.com/video/BV1vTvDBWEgG) |
+| 2015 | - | - | DINOv3｜多模态｜DINOv3 +  CLIP 图文对齐 方案解析 | 9:14 | [link](https://www.bilibili.com/video/BV1JRd3B6EwN) |
+| 2016 | - | - | 1、Dino v1 整体介绍 | 29:54 | [link](https://www.bilibili.com/video/BV1AKDdBsEib) |
+| 2017 | - | - | 2、Multi-crop | 17:46 | [link](https://www.bilibili.com/video/BV1kKDdBWEZC) |
+| 2018 | - | - | 3、教师网络与学生网络 | 19:33 | [link](https://www.bilibili.com/video/BV1pKDdBWEsp) |
+| 2019 | - | - | 4、损失函数 | 16:52 | [link](https://www.bilibili.com/video/BV1HKDdBWEXb) |
+| 2020 | - | - | 5、实验｜centering 与 sharpening | 11:57 | [link](https://www.bilibili.com/video/BV1kKDdBWE9E) |
+| 2021 | - | - | 6、教师网络参数的更新 | 7:12 | [link](https://www.bilibili.com/video/BV1pKDdBWEbm) |
+| 2022 | - | - | 7、实验｜教师网络构建方法的选择 | 3:53 | [link](https://www.bilibili.com/video/BV1AKDdBsE1E) |
+| 2023 | - | - | 8、优化器、调度器、各组件重要性分析 | 13:12 | [link](https://www.bilibili.com/video/BV1pKDdBWEJZ) |
+| 2024 | - | - | 0、前言 | 3:37 | [link](https://www.bilibili.com/video/BV1scDdBoEoy) |
+| 2025 | - | - | 1、数据集构建_LVD142M | 11:20 | [link](https://www.bilibili.com/video/BV1scDdBoEzN) |
+| 2026 | - | - | 2、改进点概述 | 19:29 | [link](https://www.bilibili.com/video/BV1scDdBoEzP) |
+| 2027 | - | - | 3、patch-level objective | 23:16 | [link](https://www.bilibili.com/video/BV1xcDdBoEKe) |
+| 2028 | - | - | 4、Sepeated Head | 4:08 | [link](https://www.bilibili.com/video/BV1ycDdBoEfg) |
+| 2029 | - | - | 5、Sinkhorn-Knopp | 15:08 | [link](https://www.bilibili.com/video/BV1scDdBoE85) |
+| 2030 | - | - | 6、KoLeo Regularizer | 25:03 | [link](https://www.bilibili.com/video/BV1scDdBoEm9) |
+| 2031 | - | - | 1、DINOv3 | 9:49 | [link](https://www.bilibili.com/video/BV1qEDdBLEMk) |
+| 2032 | - | - | 2、LVD1689M数据集的构建 | 12:30 | [link](https://www.bilibili.com/video/BV1qEDdBLE6i) |
+| 2033 | - | - | 3、第一阶段训练 | 13:18 | [link](https://www.bilibili.com/video/BV1oEDdBLENy) |
+| 2034 | - | - | 4、第二阶段训练 ： Gram Anchoring | 32:17 | [link](https://www.bilibili.com/video/BV1ZEDdBLEua) |
+| 2035 | - | - | 5、第三阶段训练 High Resolution Adaptat | 3:45 | [link](https://www.bilibili.com/video/BV1jEDdBLEz2) |
+| 2036 | - | - | 6、多学生模型并行蒸馏 | 21:49 | [link](https://www.bilibili.com/video/BV1jEDdBLE9c) |
+| 2037 | - | - | 7、图文对齐（DINOv3 - CLIP） | 9:14 | [link](https://www.bilibili.com/video/BV1ZHRDBkEjf) |
+| 2038 | - | - | 9、2D RoPE | 23:13 | [link](https://www.bilibili.com/video/BV1yfGE6fE3R) |
+| 2039 | - | - | 1、自蒸馏训练 环境配置 + 运行 | 35:25 | [link](https://www.bilibili.com/video/BV1utQxBDEtY) |
+| 2040 | - | - | 2、多学生模型并行蒸馏 环境配置+运行 | 26:58 | [link](https://www.bilibili.com/video/BV1jEDdBLEy3) |
+| 2041 | - | - | yolov1 算法精讲（上） | 14:55 | [link](https://www.bilibili.com/video/BV1ec411T7Rh) |
+| 2042 | - | - | yolov1 算法精讲（下） | 22:22 | [link](https://www.bilibili.com/video/BV1ks4y137oU) |
+| 2043 | - | - | yolov5 ｜ 手把手代码精读 ｜数据增强 之 仿射变换(Affine)、透视变换(Perspective) | 17:51 | [link](https://www.bilibili.com/video/BV1Vr421h7wF) |
+| 2044 | - | - | yolov5 ｜ 手把手代码精读 ｜数据增强 之 仿射变换(Affine)、透视变换(Perspective) / opencv 相关使用 | 9:21 | [link](https://www.bilibili.com/video/BV1sp42117Ti) |
+| 2045 | - | - | yolov5 网络结构｜yaml 文件解读 | 11:53 | [link](https://www.bilibili.com/video/BV1tH4y1n7MT) |
+| 2046 | - | - | yolov5 网络搭建 代码精讲 | 19:31 | [link](https://www.bilibili.com/video/BV1YZ421e7zH) |
+| 2047 | - | - | yolov5 ｜损失函数 ｜ 正样本匹配 | 15:44 | [link](https://www.bilibili.com/video/BV1iH4y1G7hV) |
+| 2048 | - | - | yolov5 ｜损失函数 ｜ 正样本匹配  代码精讲 | 15:48 | [link](https://www.bilibili.com/video/BV1nr421j7X5) |
+| 2049 | - | - | 番外 ｜ anchor-based 与 anchor-free 、anchor 与 anchor-point、grid cell | 11:42 | [link](https://www.bilibili.com/video/BV1W1421b7uF) |
+| 2050 | - | - | yolov8  /  损失函数 之  1、数据预处理 代码精读 | 18:31 | [link](https://www.bilibili.com/video/BV1Rb421n7fr) |
+| 2051 | - | - | yolov8  /  损失函数 之  2、正样本匹配 理论讲解 | 7:58 | [link](https://www.bilibili.com/video/BV1p142187Sv) |
+| 2052 | - | - | yolov8  /  损失函数 之  3、正样本匹配 代码精讲（上） | 22:01 | [link](https://www.bilibili.com/video/BV1HM4m1276w) |
+| 2053 | - | - | yolov8  /  损失函数 之  4、正样本匹配 代码精讲（下） | 12:39 | [link](https://www.bilibili.com/video/BV1b1421t7rY) |
+| 2054 | - | - | yolov8  /  损失函数 之  5、类别损失 | 7:08 | [link](https://www.bilibili.com/video/BV1ti421h77Z) |
+| 2055 | - | - | yolov8  /  损失函数 之  6、定位损失 CIoU + DFL | 15:34 | [link](https://www.bilibili.com/video/BV1Zy411i75C) |
+| 2056 | - | - | yolov5 ｜ 手把手代码精读 ｜数据增强 之 mosaic | 12:05 | [link](https://www.bilibili.com/video/BV1ax4y1U7Ym) |
+| 2057 | - | - | yolo v11 网络结构的改动有哪些 ？ | 2:15 | [link](https://www.bilibili.com/video/BV1q7DpYtEWL) |
+| 2058 | - | - | yolo v11 ｜  C3k2 模块结构详解 | 11:32 | [link](https://www.bilibili.com/video/BV1uUyUY6ETc) |
+| 2059 | - | - | yolo v11 ｜ C2PSA 模块详解 | 10:50 | [link](https://www.bilibili.com/video/BV1ko18YLEir) |
+| 2060 | - | - | yolo v11 ｜ Detect Head  检测头 | 4:27 | [link](https://www.bilibili.com/video/BV1vHDpYREFR) |
+| 2061 | - | - | 怎么盘项目新版本的改动点 ？ yolo v11 的图像增强 和 损失函数 有改动嘛 ？ | 5:07 | [link](https://www.bilibili.com/video/BV1xErrYTEb1) |
+| 2062 | - | - | yolo 实例分割 ｜ Segmentation Head 结构 与 推理阶段后处理流程 | 13:28 | [link](https://www.bilibili.com/video/BV1TpgqzbEu2) |
+| 2063 | - | - | YOLO26 ｜ SPPF、C3K2、Detect Head 的模块改动 | 22:52 | [link](https://www.bilibili.com/video/BV1ULF5zBEnz) |
+| 2064 | - | - | YOLO26 ｜ 整体训练流程，以及 STAL 与 ProgLoss 处理节点 | 13:38 | [link](https://www.bilibili.com/video/BV1o2FzzsENp) |
+| 2065 | - | - | YOLO26 / DFL Removal 需要做哪些配合调整 ？ | 6:02 | [link](https://www.bilibili.com/video/BV1N8cwzvEum) |
+| 2066 | - | - | YOLO26 / NMS-Free 的后处理是怎么做的 ？End-to-End NMS-Free Inference | 9:11 | [link](https://www.bilibili.com/video/BV13QcuzYEKj) |
+| 2067 | - | - | YOLO26 / ProgLoss & STAL ， STAL 解决的是什么问题 ？ 具体解决方案是什么 ？ | 14:10 | [link](https://www.bilibili.com/video/BV1nJcxzbEA2) |
+| 2068 | - | - | 9）YOLO26 ｜ MuSGD 知识准备 ：奇异值分解 | 17:29 | [link](https://www.bilibili.com/video/BV1UPPvz3EfN) |
+| 2069 | - | - | 10）YOLO26 ｜ MuSGD 知识准备 ：牛顿法 | 7:48 | [link](https://www.bilibili.com/video/BV1mNPvz6EfV) |
+| 2070 | - | - | 8）YOLO26 ｜MuSGD | 31:04 | [link](https://www.bilibili.com/video/BV1SNPvz6EFZ) |
+| 2071 | - | - | Ultralytics 使用指南  / 下载哪个发布版本的 Ultralytics 项目 ？ 如何下载指定版本的 ？ | 6:35 | [link](https://www.bilibili.com/video/BV1f1PezWEKN) |
+| 2072 | - | - | YOLO26 / AutoDL + Ultralytics 环境配置，全程复制粘贴命令，懒人必备 ！ | 8:47 | [link](https://www.bilibili.com/video/BV1q5ftBXE48) |
+| 2073 | - | - | 小白必看 ！ 训练效率优化，需要观察哪些指标，如何查看，有哪些参数会影响 训练效率 ？ | 21:36 | [link](https://www.bilibili.com/video/BV1HuA3zoEAB) |
+| 2074 | - | - | 训练小技巧 ｜ ultralytics 项目如此庞大且复杂，如何快速定位网络搭建入口/训练入口/损失函数入口/数据增强入口 ？ 怎么找到那条执行的任务主线 ？ | 11:55 | [link](https://www.bilibili.com/video/BV1VqJnz7EjB) |
+| 2075 | - | - | pycharm 使用小技巧｜断点的灵活使用，如何断点在逻辑重叠的代码行，以及断点的统一管理 | 9:12 | [link](https://www.bilibili.com/video/BV1K3h4zUEif) |
+| 2076 | - | - | 深度学习 pycharm 使用 ｜ 命令行完全解析：从 CLI 命令 到 PyCharm 配置 | 28:19 | [link](https://www.bilibili.com/video/BV11CZWBWE7N) |
+| 2077 | - | - | 深度学习炼丹必修！AutoDL 租 GPU 全流程教学，跑通深度学习项目 | 29:07 | [link](https://www.bilibili.com/video/BV1s2YdzNESZ) |
+| 2078 | - | - | AutoDL 实例迁移 / 在其他实例中复用环境 与 数据集、项目代码 | 19:17 | [link](https://www.bilibili.com/video/BV1PN1VB4Etx) |
+| 2079 | - | - | 远程训练必备！再也不担心 断网 / 断电 / 关机，screen 一招搞定 | 10:01 | [link](https://www.bilibili.com/video/BV1eRwYzrEGq) |
+| 2080 | - | - | 23.2、tmux | 14:53 | [link](https://www.bilibili.com/video/BV19ZAEzTE9A) |
+| 2081 | - | - | 免费 GPU / TPU ｜ kaggle 项目部署 | 13:08 | [link](https://www.bilibili.com/video/BV1qM41137SY) |
+| 2082 | - | - | kaggle 上白嫖 GPU 资源 训练 ViT 网络 | 16:48 | [link](https://www.bilibili.com/video/BV1zLSKBgE4S) |
+| 2083 | - | - | 深度学习基础 ｜ argparse 模块 ｜ 命令行参数解析 | 22:25 | [link](https://www.bilibili.com/video/BV1jM4m1176F) |
+| 2084 | - | - | tensor基础知识 1 -  pytorch 之 tensor 内部存储结构 | 10:18 | [link](https://www.bilibili.com/video/BV1NH4y177VL) |
+| 2085 | - | - | Dataset 与 DataLoader | 5:42 | [link](https://www.bilibili.com/video/BV1sRtresEbB) |
+| 2086 | - | - | Batch Normalization | 17:46 | [link](https://www.bilibili.com/video/BV11s4y1c7pg) |
+| 2087 | - | - | 优化器 ｜SGD ｜Momentum ｜Adagrad ｜RMSProp ｜Adam | 23:48 | [link](https://www.bilibili.com/video/BV1jh4y1q7ua) |
+| 2088 | - | - | 优化器 optimizer｜ 权重衰减、weight decay、L2 正则化惩罚 | 17:25 | [link](https://www.bilibili.com/video/BV1LghvzHEKn) |
+| 2089 | - | - | 信息量 ｜熵 ｜ 交叉熵 ｜KL散度 （相对熵）｜交叉熵损失函数 | 18:19 | [link](https://www.bilibili.com/video/BV1L8411X7ZZ) |
+| 2090 | - | - | 深度学习基础 ｜目标检测 评价指标 ：AP、mAP | 22:36 | [link](https://www.bilibili.com/video/BV1XHTwzhE1V) |
+| 2091 | - | - | Mamba 超超超详细解说 ｜ 1、对 SSM 的透彻理解 | 15:08 | [link](https://www.bilibili.com/video/BV1n7421d7xG) |
+| 2092 | - | - | Mamba 超超超详细解说 ｜ 2、SSM 的离散化推导 + 代码示例 | 9:46 | [link](https://www.bilibili.com/video/BV1GT421Y7vN) |
+| 2093 | - | - | Mamba 超超超详细解说 ｜3、S4 ：Structured State Spaces for Sequences | 13:14 | [link](https://www.bilibili.com/video/BV1wR67YhE18) |
+| 2094 | - | - | Mamba 超超超详细解说 ｜4、Mamba | 21:44 | [link](https://www.bilibili.com/video/BV16862YgEFK) |
+| 2095 | - | - | VMamba / Mamba 如何应用于2维图像 ？ SS2D ！ 前 2D-Cross-Scan，后 2D-Cross-Merge | 12:26 | [link](https://www.bilibili.com/video/BV1FVbQzqEis) |
+| 2096 | - | - | 基础知识准备 之 Triton（上） | 9:13 | [link](https://www.bilibili.com/video/BV1CjtbzGERE) |
+| 2097 | - | - | 基础知识准备 之 Triton（下） | 11:39 | [link](https://www.bilibili.com/video/BV1rntbzzEUX) |
+| 2098 | - | - | 4.1、VMamba 整体网络结构 | 12:26 | [link](https://www.bilibili.com/video/BV1uRhJzKEyG) |
+| 2099 | - | - | 4.2、SS2D | 15:18 | [link](https://www.bilibili.com/video/BV1TfhJzYExF) |
+| 2100 | - | - | 4.3、CrossScan 的 Triton 并行实现 | 29:30 | [link](https://www.bilibili.com/video/BV1CshJzdEyh) |
+| 2101 | - | - | CUDA 编程快速上手 ｜ 1、grid、block、thread | 12:41 | [link](https://www.bilibili.com/video/BV1vpPXekEdC) |
+| 2102 | - | - | CUDA 编程快速上手 ｜ 2、global memory、shared memory、register | 25:22 | [link](https://www.bilibili.com/video/BV16ZPCeoETD) |
+| 2103 | - | - | 不会写 cuda / c++ ？ 用平替的 triton 呀 ! | 10:47 | [link](https://www.bilibili.com/video/BV1uvVFziE2k) |
+| 2104 | - | - | triton 基础使用 第2课 ｜通过 一个简单的【向量加法并行计算】，带你入门 Triton 基础使用 ！ | 11:40 | [link](https://www.bilibili.com/video/BV1oLVrz8EVW) |
+| 2105 | - | - | triton 基础使用 第3课 ｜LayerNorm 的并行实现 | 14:03 | [link](https://www.bilibili.com/video/BV1cU5PzTE2b) |
+| 2106 | - | - | triton 基础使用 第4课 ｜LayerNorm 的并行实现 | 11:09 | [link](https://www.bilibili.com/video/BV17qEuz9EQ9) |
+| 2107 | - | - | Diffusion ｜ DDPM ｜ 1 - 概述 | 17:44 | [link](https://www.bilibili.com/video/BV1Xu4y147ov) |
+| 2108 | - | - | Diffusion ｜ DDPM ｜2 - 基础知识准备 | 21:53 | [link](https://www.bilibili.com/video/BV1UN411E7hz) |
+| 2109 | - | - | Diffusion / DDPM ｜ 3 - 前向扩散过程 | 9:55 | [link](https://www.bilibili.com/video/BV1vw41117r1) |
+| 2110 | - | - | Diffusion / DDPM / 4 - 反向去噪过程、图像概率分布的理解 | 7:44 | [link](https://www.bilibili.com/video/BV13N411J7zK) |
+| 2111 | - | - | Diffusion ｜ DDPM ｜ 5 - 损失函数 | 12:58 | [link](https://www.bilibili.com/video/BV1ju4y1x7L4) |
+| 2112 | - | - | 《ROS 2机器人开发从入门到实践》课程介绍 | 6:48 | [link](https://www.bilibili.com/video/BV1GW42197Ck) |
+| 2113 | - | - | 《ROS 2机器人开发从入门到实践》1.1 ROS部落的自我介绍 | 19:51 | [link](https://www.bilibili.com/video/BV1tE4m1d7Ug) |
+| 2114 | - | - | 《ROS 2机器人开发从入门到实践》1.2.1~1.2.3 ROS2开发环境搭建之安装虚拟机和Ubuntu | 31:41 | [link](https://www.bilibili.com/video/BV14M4m117LJ) |
+| 2115 | - | - | 《ROS 2机器人开发从入门到实践》1.2.3.1使用Windows子系统WSL安装ROS2运行小海龟 | 13:10 | [link](https://www.bilibili.com/video/BV1QarYYsEnE) |
+| 2116 | - | - | 《ROS 2机器人开发从入门到实践》1.2.4 在Ubuntu中安装ROS2 | 22:16 | [link](https://www.bilibili.com/video/BV1Jz421B7Ey) |
+| 2117 | - | - | 《ROS 2机器人开发从入门到实践》1.3 运行你的第一个机器人 | 10:02 | [link](https://www.bilibili.com/video/BV1iE421w7d5) |
+| 2118 | - | - | 《ROS 2机器人开发从入门到实践》 1.4.5 Linux基础之环境变量 | 26:00 | [link](https://www.bilibili.com/video/BV1pm42137bR) |
+| 2119 | - | - | 《ROS 2机器人开发从入门到实践》 2.1.1编写你的第一个节点(Python示例) | 35:09 | [link](https://www.bilibili.com/video/BV1iy411i727) |
+| 2120 | - | - | 《ROS 2机器人开发从入门到实践》 2.1.2编写你的第一个节点( C++ 示例) | 32:28 | [link](https://www.bilibili.com/video/BV1FH4y1c7Px) |
+| 2121 | - | - | 《ROS 2机器人开发从入门到实践》 2.2 使用功能包组织Python节点 | 33:26 | [link](https://www.bilibili.com/video/BV1ky411e7hp) |
+| 2122 | - | - | 《ROS 2机器人开发从入门到实践》 2.3 使用功能包组织C++节点 | 22:12 | [link](https://www.bilibili.com/video/BV1Pb42177BJ) |
+| 2123 | - | - | 《ROS 2机器人开发从入门到实践》 2.4 多功能包的最佳实践WorkSpace | 9:26 | [link](https://www.bilibili.com/video/BV1Hx4y147gW) |
+| 2124 | - | - | 《ROS 2机器人开发从入门到实践》2.5.1ROS2基础之编程:面向对象编程Python示例 | 34:10 | [link](https://www.bilibili.com/video/BV1xU411U7yR) |
+| 2125 | - | - | 《ROS 2机器人开发从入门到实践》2.5.1ROS2基础之编程:面向对象编程C++示例 | 20:56 | [link](https://www.bilibili.com/video/BV191p2eMErj) |
+| 2126 | - | - | 《ROS 2机器人开发从入门到实践》2.5.2用得到的C++新特性 | 39:09 | [link](https://www.bilibili.com/video/BV1CRWWeoEso) |
+| 2127 | - | - | 《ROS 2机器人开发从入门到实践》2.5.3.1多线程与回调函数Python示例 | 19:10 | [link](https://www.bilibili.com/video/BV1DvWYehEWz) |
+| 2128 | - | - | 《ROS 2机器人开发从入门到实践》2.5.3.2多线程与回调函数C++示例 | 23:31 | [link](https://www.bilibili.com/video/BV18mWjeEEXS) |
+| 2129 | - | - | 《ROS 2机器人开发从入门到实践》3.1话题通信介绍 | 17:24 | [link](https://www.bilibili.com/video/BV1D3WXeSELP) |
+| 2130 | - | - | 《ROS 2机器人开发从入门到实践》3.2.1通过话题发布小说 | 38:58 | [link](https://www.bilibili.com/video/BV1g1sFezEpx) |
+| 2131 | - | - | 《ROS 2机器人开发从入门到实践》3.2.2订阅小说并合成语音 | 19:32 | [link](https://www.bilibili.com/video/BV18GWreJEVo) |
+| 2132 | - | - | 《ROS 2机器人开发从入门到实践》3.3.1发布速度控制海龟画圆 | 26:30 | [link](https://www.bilibili.com/video/BV1pas7eGEkk) |
+| 2133 | - | - | 《ROS 2机器人开发从入门到实践》3.3.2订阅pose实现闭环控制 | 27:26 | [link](https://www.bilibili.com/video/BV1mLsseKEiN) |
+| 2134 | - | - | 《ROS 2机器人开发从入门到实践》3.4.1完成工程架构设计 | 4:01 | [link](https://www.bilibili.com/video/BV118sMeQExX) |
+| 2135 | - | - | 《ROS 2机器人开发从入门到实践》3.4.2自定义通信接口 | 17:29 | [link](https://www.bilibili.com/video/BV1dTHgeeEPm) |
+| 2136 | - | - | 《ROS 2机器人开发从入门到实践》3.4.3系统信息获取与发布 | 19:46 | [link](https://www.bilibili.com/video/BV1GnH5eGEC3) |
+| 2137 | - | - | 《ROS 2机器人开发从入门到实践》3.4.4在功能包中使用QT | 13:08 | [link](https://www.bilibili.com/video/BV1W4noe5Ezr) |
+| 2138 | - | - | 《ROS 2机器人开发从入门到实践》3.4.5订阅数据并用Qt显示 | 23:48 | [link](https://www.bilibili.com/video/BV1MxHvebEdL) |
+| 2139 | - | - | 《ROS 2机器人开发从入门到实践》3.5ROS2基础之Git入门 | 14:57 | [link](https://www.bilibili.com/video/BV1FoHreaEMc) |
+| 2140 | - | - | 《ROS 2机器人开发从入门到实践》4.1.1服务通信介绍 | 9:14 | [link](https://www.bilibili.com/video/BV1kAHxepEcf) |
+| 2141 | - | - | 《ROS 2机器人开发从入门到实践》4.1.2基于服务的参数通信 | 8:34 | [link](https://www.bilibili.com/video/BV1pGHaerErL) |
+| 2142 | - | - | 《ROS 2机器人开发从入门到实践》4.2.1自定义服务接口 | 9:57 | [link](https://www.bilibili.com/video/BV18rpKeUETp) |
+| 2143 | - | - | 《ROS 2机器人开发从入门到实践》4.2.2人脸检测 | 19:19 | [link](https://www.bilibili.com/video/BV14HHQeKEPm) |
+| 2144 | - | - | 《ROS 2机器人开发从入门到实践》4.2.3人脸检测服务实现 | 18:40 | [link](https://www.bilibili.com/video/BV13zpbeJEG2) |
+| 2145 | - | - | 《ROS 2机器人开发从入门到实践》4.2.4人脸检测客户端的实现 | 21:12 | [link](https://www.bilibili.com/video/BV1yMpBehEWW) |
+| 2146 | - | - | 《ROS 2机器人开发从入门到实践》4.3.1自定义服务接口 | 7:33 | [link](https://www.bilibili.com/video/BV123pJe2EgX) |
+| 2147 | - | - | 《ROS 2机器人开发从入门到实践》4.3.2服务端代码实现 | 15:18 | [link](https://www.bilibili.com/video/BV1ncpEevE4N) |
+| 2148 | - | - | 《ROS 2机器人开发从入门到实践》4.3.3客户端代码实现 | 20:03 | [link](https://www.bilibili.com/video/BV1mj4zeUELx) |
+| 2149 | - | - | 《ROS 2机器人开发从入门到实践》4.4.1参数声明设置 | 5:50 | [link](https://www.bilibili.com/video/BV1G54neuEiH) |
+| 2150 | - | - | 《ROS 2机器人开发从入门到实践》4.4.2订阅参数更新 | 9:12 | [link](https://www.bilibili.com/video/BV16T4fe4EpX) |
+| 2151 | - | - | 《ROS 2机器人开发从入门到实践》4.4.3客户端代码实现 | 17:17 | [link](https://www.bilibili.com/video/BV1xatKeWEFT) |
+| 2152 | - | - | 《ROS 2机器人开发从入门到实践》4.5.1参数声明与设置 | 4:40 | [link](https://www.bilibili.com/video/BV19k4UeXEvZ) |
+| 2153 | - | - | 《ROS 2机器人开发从入门到实践》4.5.2接收参数事件 | 12:20 | [link](https://www.bilibili.com/video/BV1sutteUEry) |
+| 2154 | - | - | 《ROS 2机器人开发从入门到实践》4.5.3修改其他节点的参数 | 21:09 | [link](https://www.bilibili.com/video/BV1dAtieREYf) |
+| 2155 | - | - | 《ROS 2机器人开发从入门到实践》4.6.1使用Launch启动多个节点 | 12:18 | [link](https://www.bilibili.com/video/BV1hdtLeZE9y) |
+| 2156 | - | - | 《ROS 2机器人开发从入门到实践》4.6.2使用launch传递参数 | 11:01 | [link](https://www.bilibili.com/video/BV18MtRePEdY) |
+| 2157 | - | - | 《ROS 2机器人开发从入门到实践》4.6.3 launch使用进阶 | 19:12 | [link](https://www.bilibili.com/video/BV1BMbAeKEY8) |
+| 2158 | - | - | 《ROS 2机器人开发从入门到实践》5.1.1通过命令行使用TF | 12:36 | [link](https://www.bilibili.com/video/BV1ietCe2E9F) |
+| 2159 | - | - | 《ROS 2机器人开发从入门到实践》5.1.2对TF原理的简单探究 | 4:33 | [link](https://www.bilibili.com/video/BV1wnsCe1EgM) |
+| 2160 | - | - | 《ROS 2机器人开发从入门到实践》5.2Python中的手眼坐标变换 | 21:50 | [link](https://www.bilibili.com/video/BV1YesXeoEGd) |
+| 2161 | - | - | 《ROS 2机器人开发从入门到实践》5.2.2 通过Python发布动态TF | 6:04 | [link](https://www.bilibili.com/video/BV1mxsheXEpc) |
+| 2162 | - | - | 《ROS 2机器人开发从入门到实践》5.2.3通过Python查询TF关系 | 11:45 | [link](https://www.bilibili.com/video/BV1CSszeuEH3) |
+| 2163 | - | - | 《ROS 2机器人开发从入门到实践》5.3.1 通过C++发布静态TF | 18:36 | [link](https://www.bilibili.com/video/BV1h8xnePEMe) |
+| 2164 | - | - | 《ROS 2机器人开发从入门到实践》5.3.2通过C++发布动态TF | 6:26 | [link](https://www.bilibili.com/video/BV12RsoefEyV) |
+| 2165 | - | - | 《ROS 2机器人开发从入门到实践》5.3.3通过C++查询TF关系 | 17:33 | [link](https://www.bilibili.com/video/BV1CexqevEAw) |
+| 2166 | - | - | 《ROS 2机器人开发从入门到实践》5.4.1常用可视化工具rqt | 5:10 | [link](https://www.bilibili.com/video/BV1dtxmeJEbG) |
+| 2167 | - | - | 《ROS 2机器人开发从入门到实践》5.4.2 数据化可视工具Rviz | 6:42 | [link](https://www.bilibili.com/video/BV1NQx4e5EoJ) |
+| 2168 | - | - | 《ROS 2机器人开发从入门到实践》5.5 数据记录工具ros2 bag | 6:07 | [link](https://www.bilibili.com/video/BV1KyxeewEuY) |
+| 2169 | - | - | 《ROS 2机器人开发从入门到实践》5.6 ROS 2基础之Git进阶 | 3:26 | [link](https://www.bilibili.com/video/BV1qs4geDEzC) |
+| 2170 | - | - | 《ROS 2机器人开发从入门到实践》5.6.2 Git进阶之学会撤销代码 | 3:31 | [link](https://www.bilibili.com/video/BV1ejxDesExB) |
+| 2171 | - | - | 《ROS 2机器人开发从入门到实践》5.6.3 Git进阶之分支 | 6:42 | [link](https://www.bilibili.com/video/BV1tbxDejE9n) |
+| 2172 | - | - | 《ROS 2机器人开发从入门到实践》6.1 机器人建模与仿真概述 | 5:26 | [link](https://www.bilibili.com/video/BV1CB19Y1Ew8) |
+| 2173 | - | - | 《ROS 2机器人开发从入门到实践》6.2 使用URDF创建机器人 | 16:12 | [link](https://www.bilibili.com/video/BV1RT1BYQEAk) |
+| 2174 | - | - | 《ROS 2机器人开发从入门到实践》6.2.2 在RViz中显示机器人 | 27:35 | [link](https://www.bilibili.com/video/BV1Vq2LYoECn) |
+| 2175 | - | - | 《ROS 2机器人开发从入门到实践》6.2.3使用Xacro简化URDF | 13:58 | [link](https://www.bilibili.com/video/BV1WY2WYaEwc) |
+| 2176 | - | - | 《ROS 2机器人开发从入门到实践》6.2.4创建机器人及传感器部件 | 17:10 | [link](https://www.bilibili.com/video/BV12a2NYJE7L) |
+| 2177 | - | - | 《ROS 2机器人开发从入门到实践》6.2.5完善机器人执行器部件 | 12:47 | [link](https://www.bilibili.com/video/BV1s92VYTEc7) |
+| 2178 | - | - | 《ROS 2机器人开发从入门到实践》6.2.6贴合地面，添加虚拟部件 | 3:47 | [link](https://www.bilibili.com/video/BV1xU2mYBE9u) |
+| 2179 | - | - | 《ROS 2机器人开发从入门到实践》6.3.1为机器人部件添加碰撞属性 | 4:05 | [link](https://www.bilibili.com/video/BV11J29YQESi) |
+| 2180 | - | - | 《ROS 2机器人开发从入门到实践》6.3.2为机器人部件添加质量与惯性 | 14:50 | [link](https://www.bilibili.com/video/BV1wJ2BYqER6) |
+| 2181 | - | - | 《ROS 2机器人开发从入门到实践》6.4.1安装与使用Gazebo构建世界 | 9:53 | [link](https://www.bilibili.com/video/BV1oamGYxEty) |
+| 2182 | - | - | 《ROS 2机器人开发从入门到实践》6.4.2在Gazebo中加载机器人模型 | 15:52 | [link](https://www.bilibili.com/video/BV1ho2dYNE6T) |
+| 2183 | - | - | 《ROS 2机器人开发从入门到实践》6.4.3 使用Gazebo标签扩展URDF | 6:17 | [link](https://www.bilibili.com/video/BV1k8mNYyEjW) |
+| 2184 | - | - | 《ROS 2机器人开发从入门到实践》6.4.4 使用两轮差速插件控制机器人 | 16:55 | [link](https://www.bilibili.com/video/BV1wyyPYvEPy) |
+| 2185 | - | - | 《ROS 2机器人开发从入门到实践》6.4.5 激光雷达传感器仿真 | 8:08 | [link](https://www.bilibili.com/video/BV1vTCUYyEcX) |
+| 2186 | - | - | 《ROS 2机器人开发从入门到实践》6.4.6惯性测量传感器仿真 | 4:45 | [link](https://www.bilibili.com/video/BV1qLCRYYEMa) |
+| 2187 | - | - | 《ROS 2机器人开发从入门到实践》6.4.7深度相机传感器仿真 | 9:46 | [link](https://www.bilibili.com/video/BV1SVy8YQEzu) |
+| 2188 | - | - | 《ROS 2机器人开发从入门到实践》6.5.1ros2_control介绍与安装 | 7:01 | [link](https://www.bilibili.com/video/BV1f1yVYREG6) |
+| 2189 | - | - | 《ROS 2机器人开发从入门到实践》6.5.2使用 Gazebo 接入 ros2_control | 14:02 | [link](https://www.bilibili.com/video/BV1VayHYqEUe) |
+| 2190 | - | - | 《ROS 2机器人开发从入门到实践》6.5.3使用关节状态发布控制器 | 14:32 | [link](https://www.bilibili.com/video/BV1kfyZY9EaA) |
+| 2191 | - | - | 《ROS 2机器人开发从入门到实践》6.5.4使用力控制器控制轮子 | 4:58 | [link](https://www.bilibili.com/video/BV18QyzY2ExG) |
+| 2192 | - | - | 《ROS 2机器人开发从入门到实践》6.5.5使用两轮差速控制器控制机器人 | 9:33 | [link](https://www.bilibili.com/video/BV13SyDYmEPx) |
+| 2193 | - | - | 《ROS 2机器人开发从入门到实践》7 自主导航 让机器人自己动起来 | 1:15 | [link](https://www.bilibili.com/video/BV1fA1bYYE5q) |
+| 2194 | - | - | 《ROS 2机器人开发从入门到实践》7.1 机器人导航介绍 | 9:05 | [link](https://www.bilibili.com/video/BV1gf1KYoEMf) |
+| 2195 | - | - | 《ROS 2机器人开发从入门到实践》7.2.1构建第一章导航地图 | 9:06 | [link](https://www.bilibili.com/video/BV1Ff1jYqEyU) |
+| 2196 | - | - | 《ROS 2机器人开发从入门到实践》7.2.2将地图保存为文件 | 5:36 | [link](https://www.bilibili.com/video/BV1kB1JYmEvR) |
+| 2197 | - | - | 《ROS 2机器人开发从入门到实践》7.3.1Navigation2介绍与安装 | 6:15 | [link](https://www.bilibili.com/video/BV1ezSiYdEJG) |
+| 2198 | - | - | 《ROS 2机器人开发从入门到实践》7.3.2编写launch并启动导航 | 4:59 | [link](https://www.bilibili.com/video/BV1kiSHYaEh8) |
+| 2199 | - | - | 《ROS 2机器人开发从入门到实践》7.3.3编写launch并启动导航 | 13:06 | [link](https://www.bilibili.com/video/BV1bNSoY6EVj) |
+| 2200 | - | - | 《ROS 2机器人开发从入门到实践》7.3.4进行单点与路点导航 | 3:10 | [link](https://www.bilibili.com/video/BV1bPSoY3E9D) |
+| 2201 | - | - | 《ROS 2机器人开发从入门到实践》7.3.5导航过程中进行动态避障 | 1:06 | [link](https://www.bilibili.com/video/BV1VdSdY2EzK) |
+| 2202 | - | - | 《ROS 2机器人开发从入门到实践》7.3.6优化导航速度和膨胀半径 | 5:41 | [link](https://www.bilibili.com/video/BV15CDWYbEnG) |
+| 2203 | - | - | 《ROS 2机器人开发从入门到实践》7.3.7 优化机器人到点精度 | 3:54 | [link](https://www.bilibili.com/video/BV1iaDMYDEHW) |
+| 2204 | - | - | 《ROS 2机器人开发从入门到实践》7.4.1使用话题初始化机器人位姿 | 11:50 | [link](https://www.bilibili.com/video/BV11bDDYXEsC) |
+| 2205 | - | - | 《ROS 2机器人开发从入门到实践》7.4.2使用TF获取机器人实时位置 | 8:00 | [link](https://www.bilibili.com/video/BV1i5DaYnE31) |
+| 2206 | - | - | 《ROS 2机器人开发从入门到实践》7.4.3调用接口进行单点导航 | 19:33 | [link](https://www.bilibili.com/video/BV1ALD6YXENf) |
+| 2207 | - | - | 《ROS 2机器人开发从入门到实践》7.4.4使用接口完成路点导航 | 6:55 | [link](https://www.bilibili.com/video/BV1NumkY9E8H) |
+| 2208 | - | - | 《ROS 2机器人开发从入门到实践》7.5.1完成机器人系统架构设计 | 2:37 | [link](https://www.bilibili.com/video/BV1eZm1YmEhm) |
+| 2209 | - | - | 《ROS 2机器人开发从入门到实践》7.5.2编写巡检控制节点 | 34:27 | [link](https://www.bilibili.com/video/BV17WmhYyEZi) |
+| 2210 | - | - | 《ROS 2机器人开发从入门到实践》7.5.3.1添加语音播报功能（上） | 4:57 | [link](https://www.bilibili.com/video/BV1yQU5Y5EVu) |
+| 2211 | - | - | 《ROS 2机器人开发从入门到实践》7.5.3.2添加语音播报功能（中） | 7:33 | [link](https://www.bilibili.com/video/BV1PnmZYaEox) |
+| 2212 | - | - | 《ROS 2机器人开发从入门到实践》7.5.3.3添加语音播报功能（下） | 14:13 | [link](https://www.bilibili.com/video/BV1oAUiY4EUY) |
+| 2213 | - | - | 《ROS 2机器人开发从入门到实践》7.5.4订阅图像并记录 | 13:24 | [link](https://www.bilibili.com/video/BV1s7UrYpE1Z) |
+| 2214 | - | - | 《ROS 2机器人开发从入门到实践》7.6.1添加自描述文件 | 11:57 | [link](https://www.bilibili.com/video/BV19HUkYBEYV) |
+| 2215 | - | - | 《ROS 2机器人开发从入门到实践》7.6.2将代码托管在Gitee | 5:33 | [link](https://www.bilibili.com/video/BV1pAUkYQE6J) |
+| 2216 | - | - | 《ROS 2机器人开发从入门到实践》7.6.3将代码托管在GitHub | 5:44 | [link](https://www.bilibili.com/video/BV1mbU7YoE6t) |
+| 2217 | - | - | 《ROS 2机器人开发从入门到实践》8.1.1pluginlib介绍与安装 | 4:41 | [link](https://www.bilibili.com/video/BV1tbUQYREiY) |
+| 2218 | - | - | 《ROS 2机器人开发从入门到实践》8.1.2定义插件抽象类 | 6:44 | [link](https://www.bilibili.com/video/BV1HVBqYVECK) |
+| 2219 | - | - | 《ROS 2机器人开发从入门到实践》8.1.3编写并生成第一个插件 | 14:11 | [link](https://www.bilibili.com/video/BV1DYB2YnEYz) |
+| 2220 | - | - | 《ROS 2机器人开发从入门到实践》8.1.4编写插件测试程序 | 8:36 | [link](https://www.bilibili.com/video/BV1hjB4YhELs) |
+| 2221 | - | - | 《ROS 2机器人开发从入门到实践》8.2.1自定义规划器介绍 | 7:13 | [link](https://www.bilibili.com/video/BV1fSzNYHEza) |
+| 2222 | - | - | 【面试必考】交叉熵 vs KL散度到底是什么？从惊讶度讲到损失函数，一次说清它俩的关系 | 5:53 | [link](https://www.bilibili.com/video/BV13tMK6oEAA) |
+| 2223 | - | - | 【面试高频】熵、交叉熵、KL 散度什么关系？一枚硬币讲透 交叉熵 = 熵 + KL | 3:17 | [link](https://www.bilibili.com/video/BV1BJMh6uEGj) |
+| 2224 | - | - | 【手撕代码】交叉熵到底在惩罚什么？BCE 与多分类 CE 一次讲透 | 3:19 | [link](https://www.bilibili.com/video/BV1vmM36EEmH) |
+| 2225 | - | - | 【面试高频】InfoNCE Loss 和 Cross Entropy Loss 有什么区别？对比学习核心损失全解析 | 3:35 | [link](https://www.bilibili.com/video/BV1VQMp6LEvg) |
+| 2226 | - | - | 【面试高频】什么是语言模型：从 N-gram、数据稀疏到神经语言模型与大模型 | 3:32 | [link](https://www.bilibili.com/video/BV1h9No6cE6x) |
+| 2227 | - | - | 【强化学习】Q-Learning 到 DQN：TD 更新、经验回放、target 网络，为什么能玩 Atari | 3:02 | [link](https://www.bilibili.com/video/BV1FUKW6JE3P) |
+| 2228 | - | - | 【强化学习最小模型】多臂老虎机：探索利用、ε-greedy、UCB、汤普森采样 | 4:03 | [link](https://www.bilibili.com/video/BV1ZYKs6EEGQ) |
+| 2229 | - | - | 【强化学习】Actor-Critic / A2C / A3C：优势函数 A=Q−V、多 worker 并行为什么更稳 | 3:15 | [link](https://www.bilibili.com/video/BV13bKt6UELM) |
+| 2230 | - | - | 【强化学习】Actor-Critic / A2C / A3C：优势函数 A=Q−V、多 worker 并行为什么更稳 | 3:15 | [link](https://www.bilibili.com/video/BV15fKx6nEDN) |
+| 2231 | - | - | 【手撕代码】寻找质数：为什么只需试除到 √n？从暴力到埃氏筛 | 3:18 | [link](https://www.bilibili.com/video/BV1TYKx6MEBZ) |
+| 2232 | - | - | 【机器学习】决策树三兄弟 ID3 / C4.5 / CART：划分标准、结构差异、工程选用 | 4:39 | [link](https://www.bilibili.com/video/BV1J5gR6mEuu) |
+| 2233 | - | - | 【机器学习】K-means 聚类讲透：两步迭代 + 肘部法则 + EM 视角 | 3:39 | [link](https://www.bilibili.com/video/BV1E5gR6mEdn) |
+| 2234 | - | - | 【机器学习】L1 vs L2 正则化：为什么 L1 产生稀疏解？几何/梯度/贝叶斯三视角 | 4:01 | [link](https://www.bilibili.com/video/BV1nVgR6EExs) |
+| 2235 | - | - | 【机器学习】逻辑回归：名字叫回归 本质是分类——Sigmoid / 决策边界 / 交叉熵 一次讲透 | 4:23 | [link](https://www.bilibili.com/video/BV177gR61EJX) |
+| 2236 | - | - | 【强化学习】SARSA vs Q-learning：一个绕悬崖一个贴悬崖，On/Off-Policy 本质 | 3:37 | [link](https://www.bilibili.com/video/BV18vgR6PEbf) |
+| 2237 | - | - | 【强化学习基石】TD 时序差分：MC 采样 + DP bootstrap，SARSA / Q-learning / Actor-Critic 全是它的实例 | 3:35 | [link](https://www.bilibili.com/video/BV1uvgR6PEin) |
+| 2238 | - | - | 【手撕面试】AUC 0.8 到底是什么意思：正样本排在负样本前面的概率，三行代码手撕 | 0:59 | [link](https://www.bilibili.com/video/BV1ampE6YEkX) |
+| 2239 | - | - | 【从 Transformer 到大模型现代架构 01/20】大模型到底在算什么：下一词预测 | 4:01 | [link](https://www.bilibili.com/video/BV1SSpE6cECv) |
+| 2240 | - | - | 【RL 入门到 GRPO 01】强化学习到底在学什么？监督学习给答案，RL 只给一个分数 | 1:00 | [link](https://www.bilibili.com/video/BV1HAhU6WEod) |
+| 2241 | - | - | 【RL 入门到 GRPO 02】折扣因子 γ 到底在决定什么？为什么大模型里直接取 1 | 0:59 | [link](https://www.bilibili.com/video/BV1HThU6DEJi) |
+| 2242 | - | - | 【RL 入门到 GRPO 03】V、Q 和 Advantage 分别在算什么？贝尔曼方程与 PPO 的 Critic | 0:59 | [link](https://www.bilibili.com/video/BV16ThU6DEk9) |
+| 2243 | - | - | 【RL 入门到 GRPO 04】蒙特卡洛和 TD 差在哪？偏差方差的取舍与 TD 误差 δ | 0:59 | [link](https://www.bilibili.com/video/BV1nKhU6HEva) |
+| 2244 | - | - | 【RL 入门到 GRPO 05】策略梯度是怎么推出来的？REINFORCE 与 DeepSeekMath 的统一形式 | 1:00 | [link](https://www.bilibili.com/video/BV14Zhm6oE5i) |
+| 2245 | - | - | 【RL 入门到 GRPO 06】baseline 为什么不引入偏差？减 V 得到优势，GRPO 减的是组平均 | 0:57 | [link](https://www.bilibili.com/video/BV14Zhm6oEPG) |
+| 2246 | - | - | 【RL 入门到 GRPO 07】Actor-Critic 为什么要两个网络？Critic 的作业与它在大模型上的代价 | 0:59 | [link](https://www.bilibili.com/video/BV1Tohm6bE1K) |
+| 2247 | - | - | 【RL 入门到 GRPO 08】GAE 的 λ 到底在调什么？λ 为什么可以比 γ 小得多 | 1:00 | [link](https://www.bilibili.com/video/BV1Tohm6bEe4) |
+| 2248 | - | - | 【RL 入门到 GRPO 09】重要性采样是什么？旧策略采的数据为什么还能用、能用到什么程度 | 0:56 | [link](https://www.bilibili.com/video/BV1schU6REqP) |
+| 2249 | - | - | 【RL 入门到 GRPO 10】从 TRPO 到 PPO：KL 围栏与 clip 剪刀，ε 为什么是 0.2 | 0:59 | [link](https://www.bilibili.com/video/BV1WFhU6xED8) |
+| 2250 | - | - | 【RL 入门到 GRPO 11】PPO 完整训练流程：三步一轮、三项损失，以及大模型版的参数 | 0:58 | [link](https://www.bilibili.com/video/BV1WFhU6xEmR) |
+| 2251 | - | - | 【RL 入门到 GRPO 12】大模型怎么变成策略？单步老虎机与 token 级 MDP 的两种看法 | 0:56 | [link](https://www.bilibili.com/video/BV1LjhU6yEy1) |
+| 2252 | - | - | 【RL 入门到 GRPO 13】RLHF 三阶段是怎么串起来的？InstructGPT 的三个数与对齐税 | 1:00 | [link](https://www.bilibili.com/video/BV17LhU6LEDs) |
+| 2253 | - | - | 【RL 入门到 GRPO 14】Reward Model 是怎么训出来的？Bradley-Terry 与 batch 的反直觉细节 | 0:55 | [link](https://www.bilibili.com/video/BV1LJhU6kEkp) |
+| 2254 | - | - | 【RL 入门到 GRPO 15】KL 惩罚在拴住谁？β 的取值、k3 估计，以及放奖励还是放损失 | 1:00 | [link](https://www.bilibili.com/video/BV1iEhU6VEm5) |
+| 2255 | - | - | 【RL 入门到 GRPO 16】PPO 的四个模型：谁在学、谁在看，以及显存为什么是它的死穴 | 0:57 | [link](https://www.bilibili.com/video/BV1vEhU6VE81) |
+| 2256 | - | - | 【RL 入门到 GRPO 17】DPO 是怎么推出来的？闭式解、配分函数与「你的语言模型其实是个 Reward Model」 | 1:00 | [link](https://www.bilibili.com/video/BV1fghU6UEUB) |
+| 2257 | - | - | 【RL 入门到 GRPO 18】GRPO 到底改了 PPO 什么？去掉 Critic、换成组内基线、KL 进损失 | 0:58 | [link](https://www.bilibili.com/video/BV1e6hm6uEYW) |
+| 2258 | - | - | 【RL 入门到 GRPO 19】GRPO 的两个偏差藏在哪？Dr. GRPO 删两个分母、DAPO 放宽 clip 治熵坍塌 | 0:59 | [link](https://www.bilibili.com/video/BV1EVhU62Ein) |
+| 2259 | - | - | 【RL 入门到 GRPO 20】DeepSeek-R1 做对了什么？规则奖励、顿悟时刻与四阶段配方 | 0:59 | [link](https://www.bilibili.com/video/BV17VhU62EwM) |
+| 2260 | - | - | 【面试高频】SFT 为什么要 Mask 掉 User 的部分？只学 Assistant，label 设 -100 | 3:43 | [link](https://www.bilibili.com/video/BV1KyNH6nEPk) |
+| 2261 | - | - | 【面试高频】指令微调 Instruction Tuning：多任务、统一格式、零样本泛化，和 RLHF 别搞混 | 3:45 | [link](https://www.bilibili.com/video/BV1qLKj6ZE8D) |
+| 2262 | - | - | 【面试高频】PEFT 参数高效微调五种方法：Adapter/Prefix/P-Tuning/Prompt Tuning/LoRA 对比 | 4:03 | [link](https://www.bilibili.com/video/BV1VUNo6vE1H) |
+| 2263 | - | - | 【微调排障】chat template 不一致：不报错但效果暴降的 silent error | 2:42 | [link](https://www.bilibili.com/video/BV1t68264Eyx) |
+| 2264 | - | - | 【微调实操】LoRA 超参调优：rank、alpha、target modules 与学习率怎么设 | 2:30 | [link](https://www.bilibili.com/video/BV1VY826wEd2) |
+| 2265 | - | - | 【微调必修】LoRA 显存悖论：只训 1% 参数，为什么显存没等比例下降 | 2:51 | [link](https://www.bilibili.com/video/BV1aq826bExU) |
+| 2266 | - | - | 【立项必答】SFT 到底需要多少条数据？从 LIMA 与 Alpaca 的对比讲透质量与数量 | 3:12 | [link](https://www.bilibili.com/video/BV1Rg8s6qEyy) |
+| 2267 | - | - | 【微调排障】SFT 后的三种退化：重复、啰嗦、幻觉加剧各自的根因与修复 | 1:05 | [link](https://www.bilibili.com/video/BV1YL8s6PENV) |
+| 2268 | - | - | 【SFT 排障】第二个 epoch loss 断崖暴跌：三大根因、判断方法与五个避免手段 | 3:15 | [link](https://www.bilibili.com/video/BV1hL8s6PE3u) |
+| 2269 | - | - | 【大模型基础】SFT 和预训练的区别在哪里？损失掩码机制详解 | 2:37 | [link](https://www.bilibili.com/video/BV19V8s6vEKY) |
+| 2270 | - | - | 【DeepSeek R1】冷启动 SFT 详解：千条数据为什么能解决 R1-Zero 的可读性问题 | 3:04 | [link](https://www.bilibili.com/video/BV14V8t6AELz) |
+| 2271 | - | - | 【SFT 进阶】多轮对话训练详解：上下文拼接、loss mask 与长对话截断 | 2:59 | [link](https://www.bilibili.com/video/BV1wgbL6XE3k) |
+| 2272 | - | - | 【推理提升】RFT 拒绝采样微调详解：性价比最高的推理能力提升方法 | 2:57 | [link](https://www.bilibili.com/video/BV1kdb76fEAX) |
+| 2273 | - | - | 【SFT 调参】学习率实操指南：十分之一法则、经验值与两侧症状 | 2:24 | [link](https://www.bilibili.com/video/BV1TAb76KEap) |
+| 2274 | - | - | 【SFT 数据】GRAPE：用目标模型概率挑回答，三分之一数据为什么能超过 Tulu3-SFT | 2:54 | [link](https://www.bilibili.com/video/BV1VneY6qEhN) |
+| 2275 | - | - | 【Qwen3 技术报告】思考与非思考模式怎么训进一个模型？空 think 块、/no_think 标记与涌现的思考预算 | 3:48 | [link](https://www.bilibili.com/video/BV18mea6FEt1) |
+| 2276 | - | - | 【训练排障】LoRA 开梯度检查点后 loss 纹丝不动，根因是什么？enable_input_require_grads 与 use_reentrant | 3:20 | [link](https://www.bilibili.com/video/BV1ezea6vE4D) |
+| 2277 | - | - | 【SFT 面试】为什么用 SFT 教模型新知识，反而会让它更爱编？未知样本学得慢、学会后幻觉线性上升 | 2:59 | [link](https://www.bilibili.com/video/BV1Yrea6PEJH) |
+| 2278 | - | - | 【SFT 评测】SFT 之后模型对提示词措辞更鲁棒了吗？1.7B/4B 降 54%~71%，8B 几乎为零 | 2:55 | [link](https://www.bilibili.com/video/BV1Wfea6QEWG) |
+| 2279 | - | - | 【SFT 进阶】SFT 里每个 token 都该学吗？Rho-1 超额损失选 token 与 ProFit 屏蔽低概率措辞 | 3:41 | [link](https://www.bilibili.com/video/BV1Wfea6QEJ9) |
+| 2280 | - | - | 【SFT 调参】六个决定一次讲透：为什么按验证 loss 早停会停错？LoRA lr 1e-3、过 2 轮 IFEval 退化、Muon | 3:19 | [link](https://www.bilibili.com/video/BV1knea6mErC) |
+| 2281 | - | - | 【SFT 面试】为 RL 准备的 SFT 为什么不该追求最低 loss？TailSFT、SWE-Prime 与数据选择的容量边界 | 4:51 | [link](https://www.bilibili.com/video/BV16xea65ExR) |
+| 2282 | - | - | 【SFT 面试】SFT 一定要 mask 掉 prompt 吗？指令长 5 倍、样本少于 1 万时给 prompt 算 loss 反而涨点 | 4:06 | [link](https://www.bilibili.com/video/BV1UTea64E3a) |
+| 2283 | - | - | 【面试高频】梯度裁剪原理：按范数裁剪 vs 按值裁剪，阈值怎么设，为什么必开 | 3:03 | [link](https://www.bilibili.com/video/BV14ZNa6HEru) |
+| 2284 | - | - | 【面试高频】大模型训练为何突然 NaN？QK-Norm 两行代码治好注意力 logit 爆炸 | 3:11 | [link](https://www.bilibili.com/video/BV1UUua6wEVU) |
+| 2285 | - | - | 【微调实操】灾难性遗忘的五种缓解方法：从 LoRA rank 到任务向量加法 | 1:05 | [link](https://www.bilibili.com/video/BV1PD826SEFs) |
+| 2286 | - | - | 【训练稳定性】梯度裁剪详解：静态全局范数裁剪与 AdaGC 自适应裁剪 | 0:58 | [link](https://www.bilibili.com/video/BV1EH826zEU7) |
+| 2287 | - | - | 【RLHF 排障】三大崩溃现象诊断：reward 崩塌、KL 爆炸、输出发散 | 1:08 | [link](https://www.bilibili.com/video/BV1Bu8S6LEJU) |
+| 2288 | - | - | 【训练排障】loss 突然变 NaN 怎么办？脏数据、梯度爆炸、精度溢出三路排查 | 2:57 | [link](https://www.bilibili.com/video/BV13f846kEU1) |
+| 2289 | - | - | 【训练排障】训练不收敛的系统排查清单：学习率、数据、初始化、精度四步走 | 2:54 | [link](https://www.bilibili.com/video/BV1LQ8467E4e) |
+| 2290 | - | - | 【持续学习】数据回放详解：配比、选样与遗忘监控 | 2:09 | [link](https://www.bilibili.com/video/BV1MT8t6TEaB) |
+| 2291 | - | - | 【训练踩坑】token level mean vs sequence level sum：一个除法决定训练稳定还是崩溃 | 2:37 | [link](https://www.bilibili.com/video/BV1qNbE6XEfw) |
+| 2292 | - | - | 【训练调试】可复现性详解：cuDNN、DataLoader 与分布式浮点误差三大随机源 | 2:55 | [link](https://www.bilibili.com/video/BV1iMbE6DEbj) |
+| 2293 | - | - | 【训练诊断】train vs val loss：过拟合、欠拟合的判断标准与量化指标 | 2:41 | [link](https://www.bilibili.com/video/BV1RTbE6HEkW) |
+| 2294 | - | - | 【训练监控】除了 loss 还必须看的五个指标：grad norm、PPL、MFU、学习率、吞吐量 | 3:12 | [link](https://www.bilibili.com/video/BV1zwbE6REWX) |
+| 2295 | - | - | 【持续学习】三种技术路线：经验回放、EWC 与渐进式网络（LoRA adapter） | 1:59 | [link](https://www.bilibili.com/video/BV17pb76pEuR) |
+| 2296 | - | - | 【训练监控】梯度范数多大算正常？基线建立与三种预警阈值设法 | 2:38 | [link](https://www.bilibili.com/video/BV1Urb76uETw) |
+| 2297 | - | - | 【训练监控】WandB 与 TensorBoard 选型 + 必须记录的六大指标 | 2:45 | [link](https://www.bilibili.com/video/BV1gobj6gE67) |
+| 2298 | - | - | 【训练排障】变长 SFT 开梯度累积，loss 为什么会系统性偏高？HF Trainer 存在两年的归一化 bug | 3:28 | [link](https://www.bilibili.com/video/BV1LReh6iES9) |
+| 2299 | - | - | 【后训练面试】为什么 RL 比 SFT 更不容易遗忘？陈丹琦组消融：关键是 on-policy 数据而不是 KL | 3:35 | [link](https://www.bilibili.com/video/BV1oUeh6zEr8) |
+| 2300 | - | - | 【训练排障】训练末期 grad norm 为什么反而上升？weight decay 与 LR 衰减的耦合，AdamC 一行修正 | 3:58 | [link](https://www.bilibili.com/video/BV1mMea6dEtA) |
+| 2301 | - | - | 强化学习中的熵坍塌 | 2:46 | [link](https://www.bilibili.com/video/BV1qY9NBCEo2) |
+| 2302 | - | - | 【面试高频】什么是熵坍塌和 Reward Hacking？它们的关系与解决办法 | 3:13 | [link](https://www.bilibili.com/video/BV1j1M36UEP1) |
+| 2303 | - | - | 【面试高频】什么是 Rollout？RL 训练的经验采样，四步流程 + 为什么是头号瓶颈 | 3:11 | [link](https://www.bilibili.com/video/BV14rNH6pEvw) |
+| 2304 | - | - | 【面试进阶】熵坍塌为什么发生？又如何解决？从协方差机制到 Clip-Higher | 3:20 | [link](https://www.bilibili.com/video/BV1rKKx6dEjc) |
+| 2305 | - | - | 【RLHF】KL 惩罚系数 β 怎么调？太小 Reward Hacking，太大学不动 | 4:07 | [link](https://www.bilibili.com/video/BV1ck3R6pE2G) |
+| 2306 | - | - | 【RL 工程】RLEP 经验回放：把高质量 rollout 存进 buffer 反复利用 | 1:03 | [link](https://www.bilibili.com/video/BV1fK8S6jE8G) |
+| 2307 | - | - | 【RLHF 调参】PPO 三大超参详解：clip range、KL coefficient、GAE lambda | 3:13 | [link](https://www.bilibili.com/video/BV1w9b76wE6Z) |
+| 2308 | - | - | 【RL 工程】batch 组织策略：难度分布、类型平衡与 rollout 数量 | 1:50 | [link](https://www.bilibili.com/video/BV1Kmb76KEqu) |
+| 2309 | - | - | 【RL 调参】entropy bonus 详解：系数怎么设、衰减调度怎么做、熵坍缩怎么救 | 3:16 | [link](https://www.bilibili.com/video/BV1Tmb76KEFh) |
+| 2310 | - | - | 【RL 工程】rollout 是 RL 训练的瓶颈：vLLM 加速与异步训练详解 | 3:14 | [link](https://www.bilibili.com/video/BV1N1b76qEif) |
+| 2311 | - | - | 【RLHF 监控】target KL 设置与 KL 曲线诊断 | 2:01 | [link](https://www.bilibili.com/video/BV12yb76TEzJ) |
+| 2312 | - | - | 【RL 基础】探索与利用的平衡：epsilon-greedy、UCB、entropy bonus 与好奇心驱动 | 1:48 | [link](https://www.bilibili.com/video/BV1UBb763E1D) |
+| 2313 | - | - | 【RL 调参】rollout 采样温度：让 group 内有区分度才有训练信号 | 2:35 | [link](https://www.bilibili.com/video/BV1DBb763EHZ) |
+| 2314 | - | - | 【RL 加速】用投机解码给 rollout 提速：draft 模型选择与命中率优化 | 1:47 | [link](https://www.bilibili.com/video/BV1KTb76YELi) |
+| 2315 | - | - | 【异步 RL】PPO-EWMA：通过参数滑动平均改进 old logits 缺失问题，重要性比为什么要拆成两项 | 3:39 | [link](https://www.bilibili.com/video/BV1BVeY6GEwD) |
+| 2316 | - | - | 【推理 Infra】Batch 不变内核：通过固定归约顺序消除大模型推理的不确定性，RL 训推 KL 归零 | 3:27 | [link](https://www.bilibili.com/video/BV173eY6CESH) |
+| 2317 | - | - | 【Agentic RL 复盘】GPT-OSS 做 RL 为什么 KL 一开训就爆炸？MoE 路由、attention sink 与显存三个坑 | 3:37 | [link](https://www.bilibili.com/video/BV1VpeY6KEtn) |
+| 2318 | - | - | 【MoE × RL】R3：通过重放推理时的专家路由，改进 MoE 做 RL 时训推路由不一致导致的崩溃 #大会员10周年 | 4:32 | [link](https://www.bilibili.com/video/BV1UTea64E41) |
+| 2319 | - | - | 【RL 训练稳定性】训推不一致为什么是优化问题而不是精度问题？按回答长度激增触发学习率减半 | 3:51 | [link](https://www.bilibili.com/video/BV1h1ea6hEhW) |
+| 2320 | - | - | 【RL 长训练】ProRL：通过验证停滞时重置参考策略，改进 RL 训几百步就停滞的问题 | 3:20 | [link](https://www.bilibili.com/video/BV1akea6YEjg) |
+| 2321 | - | - | 【RL 训练】RL 的 batch 越大训练越快吗？√B 学习率缩放与「吞吐增益 > 样本惩罚」决策不等式 | 3:17 | [link](https://www.bilibili.com/video/BV1HceY6nEUr) |
+| 2322 | - | - | 【RL 数据准备】RL 训练数据的难度怎么定？待训模型跑 8 次筛题、镜像 J 形分布、通过率拉回 50% | 3:41 | [link](https://www.bilibili.com/video/BV1rWea61Erm) |
+| 2323 | - | - | 【RL 排障】RL 后期熵为什么会突然暴涨？正负样本不对称与 token 级熵流失衡，常规旋钮为何无效 | 3:04 | [link](https://www.bilibili.com/video/BV1ppea67Eni) |
+| 2324 | - | - | 【RLVR 多样性】Uniqueness-Aware RL：通过按解题策略聚类加权优势，改进 RLVR 解题策略单一化的坍缩问题 | 2:58 | [link](https://www.bilibili.com/video/BV1rpea6jELJ) |
+| 2325 | - | - | 【长 CoT RL】max response length 该分阶段放开还是一步到位？DeepScaleR、Skywork-OR1 与 Polaris 反例 | 3:35 | [link](https://www.bilibili.com/video/BV12Vea6pEBV) |
+| 2326 | - | - | 【RL 前沿】BroRL：通过把每题 rollout 从 16 加到 512 改进 RL 训练饱和的问题（NVIDIA） | 4:25 | [link](https://www.bilibili.com/video/BV1f4ea6CETH) |
+| 2327 | - | - | 【RL 训练动力学】GRPO 的训练曲线能预测吗？用阻尼振子解释动量、陈旧度与 group size | 4:39 | [link](https://www.bilibili.com/video/BV1RZeh6YETk) |
+| 2328 | - | - | 【RL 系统】APRIL：通过 partial rollout 改进同步 RL 的长尾等待，多发一倍、够了就停、没写完续写 | 3:57 | [link](https://www.bilibili.com/video/BV1jDeh6uEYy) |
+| 2329 | - | - | 【RL 省显存】QeRL：4-bit 量化噪声为什么让 RL 探索更好？32B 模型单卡 H100 跑 GRPO | 4:23 | [link](https://www.bilibili.com/video/BV1ZUeh6zECH) |
+| 2330 | - | - | 【RL 超参】RL 的学习率为什么比 SFT 小 10 倍？1e-5 断崖式崩溃、JustRL 恒定 1e-6 与 LoRA 例外 | 4:38 | [link](https://www.bilibili.com/video/BV1R9eh6KEMN) |
+| 2331 | - | - | 【RLVR 多样性】多样性坍塌发生在哪？集中在开头几个 token，只插值第 20 到 28 层就能找回 37% 覆盖 | 5:04 | [link](https://www.bilibili.com/video/BV1LQeh6BE1J) |
+| 2332 | - | - | 【RL 训练】LLMZero：通过 Agent 逐 checkpoint 诊断与树搜索改进 RL 超参的固定日程问题 | 3:25 | [link](https://www.bilibili.com/video/BV1dQeh6qEJJ) |
+| 2333 | - | - | 【面试高频】BLEU 与 ROUGE 讲透：精确率 vs 召回率、简短惩罚与最长公共子序列 | 3:25 | [link](https://www.bilibili.com/video/BV1X9No6cEVf) |
+| 2334 | - | - | 【评测原理】pass@k 怎么推导计算：无偏估计公式 1−C(n−c,k)/C(n,k)，有偏 vs 无偏 | 3:13 | [link](https://www.bilibili.com/video/BV1DMK46VEAW) |
+| 2335 | - | - | 【跑分黑箱】GSM8K 数据污染：benchmark 过拟合、n-gram 重叠检测、记忆探测 | 3:12 | [link](https://www.bilibili.com/video/BV1PzKx6PEo3) |
+| 2336 | - | - | 【大模型评估】Elo 评分与 Bradley-Terry：Chatbot Arena 排名系统讲透 | 4:22 | [link](https://www.bilibili.com/video/BV17U3R6EENL) |
+| 2337 | - | - | 【MT-Bench 实测】LLM-as-Judge 的四大偏差：位置/冗长/自我偏好/风格 | 4:10 | [link](https://www.bilibili.com/video/BV1f13R6JEfP) |
+| 2338 | - | - | 【大模型评估】MMLU 分数有水分？57 个学科的评估细节、三大坑与改进版 | 4:13 | [link](https://www.bilibili.com/video/BV1e8826PEiP) |
+| 2339 | - | - | 【上线必修】压力测试六维度：超长、空输入、特殊字符、多语言、对抗与重复 | 2:09 | [link](https://www.bilibili.com/video/BV1PUb76vEkx) |
+| 2340 | - | - | 【训练工程】评测频率怎么定？proxy 高频看趋势、完整低频做决策，兼谈数据污染 | 2:56 | [link](https://www.bilibili.com/video/BV1FZb76bEW8) |
+| 2341 | - | - | 【评测陷阱】benchmark 分数为什么会骗你？数据泄露与过拟合的检测方法 | 2:08 | [link](https://www.bilibili.com/video/BV1eab76jEkY) |
+| 2342 | - | - | 【评测可信度】数据污染的检测与清洗：n-gram、embedding 与 PPL 三重检测 | 2:04 | [link](https://www.bilibili.com/video/BV1mrb76uEDc) |
+| 2343 | - | - | 【RL 面试】RL 涨分是真学会还是在背题？Qwen 数学基准污染、记忆锚点电路与模型任务对齐度 | 5:11 | [link](https://www.bilibili.com/video/BV1R9eh6KEhk) |
+| 2344 | - | - | 【RLHF】RM 分数涨人类却摇头？Goodhart 定律与 Reward Overoptimization 讲透 | 3:56 | [link](https://www.bilibili.com/video/BV1RX3R6yEh3) |
+| 2345 | - | - | 【RLHF】为什么 ChatGPT 越训话越多？Length Bias 的来龙去脉 | 4:36 | [link](https://www.bilibili.com/video/BV1J23R6SE52) |
+| 2346 | - | - | 【RLHF】Reward Model Ensemble：一个 RM 易被骗，K 个 RM 投票才公正 | 4:15 | [link](https://www.bilibili.com/video/BV15R3R65E2J) |
+| 2347 | - | - | 【大模型对齐】Self-Rewarding LM：不要 Reward Model，让 LLM 自己当裁判 | 4:19 | [link](https://www.bilibili.com/video/BV1XZ3R63EYU) |
+| 2348 | - | - | 【面试高频】PRM vs ORM：过程奖励为什么碾压结果奖励？一次讲透 | 3:24 | [link](https://www.bilibili.com/video/BV1UUua6wE44) |
+| 2349 | - | - | 【对齐前沿】检测到模型作弊，为什么不该丢弃整条 rollout？GLM-5.2 在线守卫详解 | 2:51 | [link](https://www.bilibili.com/video/BV1A9826mEDt) |
+| 2350 | - | - | 【推理 RL】奖励稀疏问题详解：奖励塑形、课程学习、好奇心驱动与 PRM | 2:53 | [link](https://www.bilibili.com/video/BV1Lg8S6yE84) |
+| 2351 | - | - | 【面试高频】规则奖励 vs 奖励模型：两种奖励来源的优劣与选择策略 | 1:54 | [link](https://www.bilibili.com/video/BV1Sx8S6YESV) |
+| 2352 | - | - | 【Yuan3.0】RIRM + RAPO：用负奖励改进推理模型答对后仍继续反思的浪费 | 2:47 | [link](https://www.bilibili.com/video/BV1LX8462E9d) |
+| 2353 | - | - | 【Reasoning RL】RLVR 数据准备全流程：格式、冷启动、反思 token 与课程学习 | 3:02 | [link](https://www.bilibili.com/video/BV1uob56aEMT) |
+| 2354 | - | - | 【对齐必修】reward hacking 详解：Goodhart 定律与五种实用防御手段 | 3:15 | [link](https://www.bilibili.com/video/BV16Rb768EZo) |
+| 2355 | - | - | 【RL 工程】reward 归一化详解：running mean-std、batch 归一化与三个常见坑 | 2:14 | [link](https://www.bilibili.com/video/BV1CDb76AEk8) |
+| 2356 | - | - | 【推理 RL】Cliff：通过标注第一处出错改进 GRPO 结果奖励过粗的问题，λ 为什么必须设 0 | 3:24 | [link](https://www.bilibili.com/video/BV1nPeY6EEQq) |
+| 2357 | - | - | 【RL 奖励设计】RLVR 该不该给格式奖励？FrameThinker 消融与 Open-Reasoner-Zero 无格式分实践 | 4:04 | [link](https://www.bilibili.com/video/BV1V7eY6zEeZ) |
+| 2358 | - | - | 【RL 奖励】探针裁判：从 1.7B 小模型隐藏层读 rubric 判断，为什么能超过 8B 生成式裁判 | 3:27 | [link](https://www.bilibili.com/video/BV15JeY6MEnz) |
+| 2359 | - | - | 【RLVR 数据】RLVE：通过程序化生成、难度自适应的可验证环境，改进 RL 静态题库的信号衰减问题 | 3:11 | [link](https://www.bilibili.com/video/BV1Yrea6PE1R) |
+| 2360 | - | - | 【Agent 安全】为什么 RL 后训练的 Agent 更爱作弊？同基座作弊率 23 倍，环境加固砍掉 87.7% | 4:30 | [link](https://www.bilibili.com/video/BV1sdea69ELG) |
+| 2361 | - | - | 【RL 奖励】没有标准答案的任务怎么做 RL？给裁判一份参考回答，比 SFT 蒸馏高 20 分 | 3:07 | [link](https://www.bilibili.com/video/BV1tSea6ZEQm) |
+| 2362 | - | - | 【RL 前沿】VerIF：用代码校验硬约束、推理模型判软约束，改进指令遵循 RL 的验证难题，IFEval 68.4→84.5 | 3:27 | [link](https://www.bilibili.com/video/BV1vYea6zEDe) |
+| 2363 | - | - | 【RLVR 工程】训练前为什么要先 fuzz 你的 verifier？93% 判卷失败来自空格标点、版本间半数判法相反 | 3:04 | [link](https://www.bilibili.com/video/BV1qaea6gE6K) |
+| 2364 | - | - | 【AI 安全】为什么不能把思维链监控写进 RL 奖励？混淆式作弊、反馈外溢与可监控性税 | 4:34 | [link](https://www.bilibili.com/video/BV1B4ea6CES3) |
+| 2365 | - | - | 【RLVR 面试】奖励随机错 40% 为什么 RL 还能训？看训练奖励饱和速度判断模型在学还是在背 | 4:50 | [link](https://www.bilibili.com/video/BV1Xoeh6PEzc) |
+| 2366 | - | - | 【RL 奖励】LLM 裁判为什么会被一个 token 骗过？万能钥匙攻击、Master-RM 与 rubric dropout | 5:09 | [link](https://www.bilibili.com/video/BV15Zeh6eEBg) |
+| 2367 | - | - | 【大模型训练】Scaling Law 到底是什么原理？从幂律直线到 Chinchilla 黄金配比全解析 | 3:36 | [link](https://www.bilibili.com/video/BV1ECTj6YEyT) |
+| 2368 | - | - | 【面试必考】大模型为什么很少用Dropout？从过拟合讲到单epoch时代，config考古实锤 | 3:56 | [link](https://www.bilibili.com/video/BV1YhT46HEhM) |
+| 2369 | - | - | 【面试高频】训练算力 6ND 公式详解：前向 2N / 反向 4N 怎么来的？MoE 激活参数与 Chinchilla 一并讲透 | 3:28 | [link](https://www.bilibili.com/video/BV1jzNa6eEom) |
+| 2370 | - | - | 【面试高频】训练算力 6ND 公式详解：前向 2N / 反向 4N 怎么来的？MoE 激活参数与 Chinchilla 一并讲透 | 3:28 | [link](https://www.bilibili.com/video/BV1eTKM6wEx6) |
+| 2371 | - | - | 【大模型基础】预训练为什么只做「预测下一个词」就能学到知识？兼谈曝光偏差 | 3:33 | [link](https://www.bilibili.com/video/BV1RL8S6gEDV) |
+| 2372 | - | - | 【训练常识】大模型预训练为什么只跑 1 个 epoch？三个原因与什么时候可以多跑 | 2:44 | [link](https://www.bilibili.com/video/BV1vR846LEHM) |
+| 2373 | - | - | 【垂域实操】继续预训练的数据配比与遗忘防御：D-CPT Law 与三招工程手段 | 3:16 | [link](https://www.bilibili.com/video/BV1T38t6eEtb) |
+| 2374 | - | - | 【训练技巧】大模型预训练为什么不用 Dropout？三个副作用与替代的正则化机制 | 2:48 | [link](https://www.bilibili.com/video/BV1xY8468Evd) |
+| 2375 | - | - | 【训练技巧】Label Smoothing 在大模型上为什么基本不用？ | 1:52 | [link](https://www.bilibili.com/video/BV1cVbL6DEHz) |
+| 2376 | - | - | 【训练技巧】早停配置详解：patience、验证集选择与预训练为何不用早停 | 1:45 | [link](https://www.bilibili.com/video/BV17Wb76QEma) |
+| 2377 | - | - | 【训练配置】序列长度怎么选？O(n²) 成本、主流演进与分阶段扩展 | 2:33 | [link](https://www.bilibili.com/video/BV1Sib76kEZk) |
+| 2378 | - | - | 【预训练面试】大模型真的不该用 Dropout 吗？层级 Dropout 配 1/ρ 缩放，8.2B 少用 25% 训练算力（Cerebras） | 4:19 | [link](https://www.bilibili.com/video/BV1y7ea6SEe6) |
+| 2379 | - | - | 【ICML 2025】CPT Scaling Law：用分布偏移项与退火面积预测继续预训练的 loss 曲线 | 4:24 | [link](https://www.bilibili.com/video/BV1Rvea6MEhE) |
+| 2380 | - | - | 【预训练前沿】专用预训练 SPT：领域数据混进预训练，为什么 1B 能打赢微调的 3B | 4:17 | [link](https://www.bilibili.com/video/BV1Zbea6GEq7) |
+| 2381 | - | - | 【ICLR 2026】数据重复训练，决定过拟合的是次数还是间隔？记忆窗口与 190 个 epoch | 4:10 | [link](https://www.bilibili.com/video/BV1XFea6wEqq) |
+| 2382 | - | - | 【推理 RL】OctoThinker：通过中段训练补推理语料，改进 Llama 做 RL 时长度失控、不涨分的问题 | 3:51 | [link](https://www.bilibili.com/video/BV19Fea6wEg4) |
+| 2383 | - | - | 【面试高频】什么是 Checkpoint？梯度/激活检查点：大模型省显存的救命技巧 | 4:23 | [link](https://www.bilibili.com/video/BV1dmM36EESX) |
+| 2384 | - | - | 【面试进阶】张量并行为什么先列切再行切？MLP 的切分秘密全在 GELU | 3:22 | [link](https://www.bilibili.com/video/BV1nCKW6XEji) |
+| 2385 | - | - | 【面试高频】大模型训练所需显存怎么计算？三大件 + RLHF 讲透 | 2:42 | [link](https://www.bilibili.com/video/BV1R7gD6FEF5) |
+| 2386 | - | - | 【面试高频】一层 Decoder 张量并行需要几次通信？答案 4 次 All-Reduce | 2:34 | [link](https://www.bilibili.com/video/BV1ZXKx6WEnK) |
+| 2387 | - | - | 【面试高频】Scatter/Gather/Reduce/AllReduce 分别是什么？5 个通信原语一张图讲透 | 2:52 | [link](https://www.bilibili.com/video/BV1wCKx6hEoy) |
+| 2388 | - | - | 【面试高频】DeepSpeed 的 3 个 Stage 是什么？ZeRO 逐级切分省显存讲透 | 3:15 | [link](https://www.bilibili.com/video/BV1BuKx69EDn) |
+| 2389 | - | - | 【ZeRO 显存优化】70 亿参数训练要 110G？三刀砍掉 100G 冗余 | 4:04 | [link](https://www.bilibili.com/video/BV13tgX6cEYZ) |
+| 2390 | - | - | 【分布式训练收官】序列并行 × 专家并行：百万 token 与上千专家的解法 | 3:44 | [link](https://www.bilibili.com/video/BV1VxgX6aEz8) |
+| 2391 | - | - | 【Megatron 张量并行】一层都装不下？把权重矩阵劈开算 —— 4 次 AllReduce 讲透 | 3:54 | [link](https://www.bilibili.com/video/BV1GxgX6aELP) |
+| 2392 | - | - | 【Ring AllReduce】打破参数服务器瓶颈：PyTorch DDP 的底层核心 | 4:14 | [link](https://www.bilibili.com/video/BV1Qggd6uE9u) |
+| 2393 | - | - | 【流水线并行】显卡摸鱼的元凶：GPipe 挤气泡 vs PipeDream 1F1B | 4:11 | [link](https://www.bilibili.com/video/BV15WgR6rEfr) |
+| 2394 | - | - | 【训练工程】断点续训详解：为什么恢复权重远远不够 | 0:53 | [link](https://www.bilibili.com/video/BV1UB826dEuV) |
+| 2395 | - | - | 【分布式训练】通信瓶颈详解：为什么多节点训练卡在网络而不是算力 | 1:03 | [link](https://www.bilibili.com/video/BV1FF8m6CEdp) |
+| 2396 | - | - | 【训练工程】大规模训练容错：Flash Checkpoint、DLRover 与 checkpoint 频率权衡 | 1:02 | [link](https://www.bilibili.com/video/BV1H58265EA1) |
+| 2397 | - | - | 【训练效率】MFU 和 GPU 利用率的区别在哪里？兼谈 MFU 与 HFU | 3:13 | [link](https://www.bilibili.com/video/BV1Vh826YExp) |
+| 2398 | - | - | 【RLHF 工程】PPO 训练显存爆炸怎么办？四模型驻留、offload 与稳定性调参 | 1:58 | [link](https://www.bilibili.com/video/BV15V8S6kEkq) |
+| 2399 | - | - | 【显存必修】训练显存花在哪？缩 batch、梯度检查点、ZeRO、LoRA 四级省显存阶梯 | 3:13 | [link](https://www.bilibili.com/video/BV15Q8467EdP) |
+| 2400 | - | - | 【显存优化】激活检查点选层策略：Uniform、Selective 与根号 n 法则 | 1:51 | [link](https://www.bilibili.com/video/BV1xg8t6NEQW) |
+| 2401 | - | - | 【混合精度】BF16 / FP16 / FP8 选型决策树：尾数指数位数决定一切 | 2:19 | [link](https://www.bilibili.com/video/BV1NV8t6AEpU) |
+| 2402 | - | - | 【训练加速】FP8 训练实操：E4M3/E5M2 选型、分层策略与 Transformer Engine 配置 | 2:02 | [link](https://www.bilibili.com/video/BV1D9b56eEv4) |
+| 2403 | - | - | 【训练工程】GPU 利用率周期性归零：IO 瓶颈的定位与优化 | 3:14 | [link](https://www.bilibili.com/video/BV1xfb56cEdo) |
+| 2404 | - | - | 【混合精度】Loss Scaling 与 GradScaler 详解：FP16 下溢怎么救，BF16 为何不用 | 2:58 | [link](https://www.bilibili.com/video/BV1JjbL6UEEe) |
+| 2405 | - | - | 【DeepSpeed 配置】ZeRO Stage 怎么选、offload 怎么开：config.json 手把手 | 2:15 | [link](https://www.bilibili.com/video/BV1WTbL6REnE) |
+| 2406 | - | - | 【分布式必修】并行策略选型决策树：DDP、ZeRO、张量并行、流水线并行 | 3:05 | [link](https://www.bilibili.com/video/BV1w9b76wE1c) |
+| 2407 | - | - | 【性能分析】给训练做体检：PyTorch Profiler 与 nsys 的用法与瓶颈定位 | 2:55 | [link](https://www.bilibili.com/video/BV1eMbE6DEWh) |
+| 2408 | - | - | 【训练效率】长度分桶策略：padding 浪费 98% 是怎么发生的 | 2:06 | [link](https://www.bilibili.com/video/BV1dxb76JEjP) |
+| 2409 | - | - | 【分布式训练】同步 vs 异步梯度更新：staleness 与 99% 选同步的理由 | 1:45 | [link](https://www.bilibili.com/video/BV1Uzb766EtP) |
+| 2410 | - | - | 【训练效率】序列 Packing 实现详解：装箱算法、cu_seqlens 与 block diagonal mask | 2:10 | [link](https://www.bilibili.com/video/BV1KPb76vEWq) |
+| 2411 | - | - | 【训练效率】varlen attention 配置详解：cu_seqlens、position_ids 与 packing 的配套关系 | 1:55 | [link](https://www.bilibili.com/video/BV1MZbj6zEeK) |
+| 2412 | - | - | 【混合精度面试】纯 bf16 训练为什么会停滞？相对更新小于 0.39% 就被舍入吞掉 | 4:30 | [link](https://www.bilibili.com/video/BV1viea6qEhh) |
+| 2413 | - | - | 【训练显存】大词表训练时 logits 为什么吃掉 89% 显存？Cut Cross-Entropy 与 Liger Kernel 讲透 | 4:12 | [link](https://www.bilibili.com/video/BV19Reh6vEk5) |
+| 2414 | - | - | 【面试必考】大模型Agent的Function Calling怎么设计更稳定？约束解码/工具检索/校验重试三层拆解 | 4:23 | [link](https://www.bilibili.com/video/BV14aMP6jEj3) |
+| 2415 | - | - | 【面试前沿】大模型Agentic RL最新方向到底是什么？从GLM/Qwen看RL的下半场 | 5:57 | [link](https://www.bilibili.com/video/BV1HcMP6qEfQ) |
+| 2416 | - | - | 【面试前沿】Agentic RL 中的行为崩塌到底是什么？从 Search-R1 复现看行为相变 | 5:00 | [link](https://www.bilibili.com/video/BV1vNMu6gEkG) |
+| 2417 | - | - | 【Agent 工程】工具调用失败时，怎么保证 Agent 不死循环或乱回答？ | 5:42 | [link](https://www.bilibili.com/video/BV1oZT161Ez4) |
+| 2418 | - | - | 【论文精读】35B 打平万亿参数？该 Scale 的是轨迹不是参数 | 4:26 | [link](https://www.bilibili.com/video/BV1GrMx6SE63) |
+| 2419 | - | - | 【论文精读】Agent 最缺的能力是收手？28000 任务实测｜Agentic Abstention | 3:31 | [link](https://www.bilibili.com/video/BV1cHMx6YEXj) |
+| 2420 | - | - | 【面试高频】MCP 与 Skills 有什么区别？连接协议 vs 行为规范，附协同关系与省 token 原理 | 3:16 | [link](https://www.bilibili.com/video/BV14zNH69EYY) |
+| 2421 | - | - | 【Agent 设计模式】Reflexion：语言化反思+记忆，不改参数从失败中迭代改进 | 3:22 | [link](https://www.bilibili.com/video/BV1SMKs6vEwe) |
+| 2422 | - | - | 【强化学习第一课】MDP 与贝尔曼方程：五要素、回报、价值函数、价值迭代 | 3:31 | [link](https://www.bilibili.com/video/BV1SqKT6QERp) |
+| 2423 | - | - | 【Agent 范式】Plan-and-Execute vs ReAct：先规划再执行，长任务为什么要先拆 | 3:25 | [link](https://www.bilibili.com/video/BV1NqKW6oEEQ) |
+| 2424 | - | - | 【LLM Agent】LATS：把蒙特卡洛树搜索搬进 Agent，比 ReAct 强 20-30% | 4:41 | [link](https://www.bilibili.com/video/BV1wk3R6pEKs) |
+| 2425 | - | - | 【LLM 工具使用】Toolformer 讲透：让模型自监督学会"何时调工具"，零人工标注 | 4:55 | [link](https://www.bilibili.com/video/BV1e63Z6nECL) |
+| 2426 | - | - | 【Agent 工程化】约四成 Agent 项目失败：五道鸿沟与系统工程化四板斧 | 2:51 | [link](https://www.bilibili.com/video/BV1NS826nEDS) |
+| 2427 | - | - | 【Agent 前沿】Agent-Omit：通过省略思考与观察改进多轮 Agent 的上下文膨胀问题 | 3:01 | [link](https://www.bilibili.com/video/BV1JMeY61EcG) |
+| 2428 | - | - | 【Agentic RL】River：通过过滤劣质合成环境改进终端 Agent RL 的奖励质量，不到 30% 的环境增益翻倍 | 2:59 | [link](https://www.bilibili.com/video/BV1rNeY6mE54) |
+| 2429 | - | - | 【Agent RL】OTC-PO：把工具生产率写进奖励，为什么能让工具调用减 68.3% 而正确率不变 | 3:03 | [link](https://www.bilibili.com/video/BV1bUea6bE1M) |
+| 2430 | - | - | 【Agent RL】长程工具 Agent 的 RL 配方怎么定？1K 条 4:3:3 数据、按模型大小配奖励、工具故障率压到 5% 以下 | 3:23 | [link](https://www.bilibili.com/video/BV1tQea64E5C) |
+| 2431 | - | - | 【Agent RL】CompactionRL：通过把写摘要纳入 RL 训练，改进长程 Agent 的上下文压缩问题 | 4:24 | [link](https://www.bilibili.com/video/BV1y5ea6QEnz) |
+| 2432 | - | - | 【Agent 训练】DART-SD：多轮工具调用是菱形不是链，只在第一个断点之后算 loss，BFCL 多轮 57.38 对 48.81 | 4:43 | [link](https://www.bilibili.com/video/BV115ea6QEuR) |
+| 2433 | - | - | 【Agent RL】EnvHarness：通过围绕策略弱点改写环境动态，改进 Agent RL 的环境饱和问题（HF 518 赞） | 4:28 | [link](https://www.bilibili.com/video/BV1Cjea6nEUc) |
+| 2434 | - | - | 【Agent RL】harness 原生 RL：在模型 API 边界记 token，训练与部署用同一套脚手架 | 4:33 | [link](https://www.bilibili.com/video/BV11jea6nEaK) |
+| 2435 | - | - | 【Agent RL】多轮交互 RL 为什么学到的是裁判偏好？ARC 按策略分组 τ-airline +12.67，FACA 用户反应奖励 +10.22 | 4:52 | [link](https://www.bilibili.com/video/BV1rxea65EFj) |
+| 2436 | - | - | 【Agent RL 面试】多轮 Agent RL 里工具返回的 token 为什么要 mask？loss、KL、重要性比三处都要排 | 3:59 | [link](https://www.bilibili.com/video/BV1B8ea6rEc7) |
+| 2437 | - | - | 【RL 前沿】不用反向传播能训大模型 Agent 吗？进化策略与 GRPO 的方差、显存与 pass@k 对比 | 4:38 | [link](https://www.bilibili.com/video/BV1zbea6GEF9) |
+| 2438 | - | - | 【大模型训练】同策略蒸馏 On-Policy Distillation：AIME 74.4 反超 RL，算力只要 1/10 | 3:30 | [link](https://www.bilibili.com/video/BV16tTk6zE7N) |
+| 2439 | - | - | 【面试前沿】OPD 的 reward 设计合理吗？从 log 无界到 PowerOPD 幂变换 | 6:09 | [link](https://www.bilibili.com/video/BV1DtTC6tEy4) |
+| 2440 | - | - | 【论文精读】蒸馏也会学出假实力？DOPD 揭穿特权错觉｜OPD 系列 | 4:30 | [link](https://www.bilibili.com/video/BV1AHMx6YEwW) |
+| 2441 | - | - | 【后训练前沿】什么是 On-Policy Distillation？取 SFT 与 RL 之长（reverse KL 详解） | 3:58 | [link](https://www.bilibili.com/video/BV1BnMh6BEMz) |
+| 2442 | - | - | 【模型压缩经典】知识蒸馏 KD：软标签、暗知识、温度、KL+CE 双损失 | 3:12 | [link](https://www.bilibili.com/video/BV1VcKs63Eo5) |
+| 2443 | - | - | 【蒸馏细节】温度系数讲人话：T 在软化什么、为什么蒸馏 loss 要乘 T² 补偿 | 2:58 | [link](https://www.bilibili.com/video/BV1dXKW61EpT) |
+| 2444 | - | - | 【反直觉】集成、蒸馏、自蒸馏三个秘密：多视角假设，为什么自蒸馏也能涨点 | 3:28 | [link](https://www.bilibili.com/video/BV1UgKs6PE4p) |
+| 2445 | - | - | 【Alignment Tax】RLHF 让模型变乖，也让它变笨 — PPO-ptx 解法详解 | 3:52 | [link](https://www.bilibili.com/video/BV1cH3d6dETE) |
+| 2446 | - | - | 【大模型对齐】1952 年的公式撑起 ChatGPT：Bradley-Terry 模型讲透 | 3:45 | [link](https://www.bilibili.com/video/BV1iS3R6mEdV) |
+| 2447 | - | - | 【LLaMA 3 对齐】Iterative DPO：让模型自我改进，PPO 效果的 1/10 成本 | 3:48 | [link](https://www.bilibili.com/video/BV1JC3R6QE5N) |
+| 2448 | - | - | 【LLaMA 3 的选择】Online RLHF vs Offline RLHF：在线交互与静态数据的取舍 | 4:56 | [link](https://www.bilibili.com/video/BV1Gc3d6gEDo) |
+| 2449 | - | - | 【RLHF】RM 损失函数为什么用 sigmoid 差值?Pairwise Ranking 讲透 | 4:35 | [link](https://www.bilibili.com/video/BV1UN3d6iErs) |
+| 2450 | - | - | 【LLM 对齐】RLHF 三阶段：SFT → RM → PPO 是怎么串起来的？ | 4:33 | [link](https://www.bilibili.com/video/BV1Qf3R66E8c) |
+| 2451 | - | - | 【RLHF】Reward Model Calibration：RM 分数到底能不能信？0.2 差距的真实含义 | 4:54 | [link](https://www.bilibili.com/video/BV1GZ3R6GEmJ) |
+| 2452 | - | - | 【面试高频】一次讲透宪法AI与RLAIF：大模型如何用AI反馈替代人类标注 | 4:03 | [link](https://www.bilibili.com/video/BV1iLuY6CESB) |
+| 2453 | - | - | 【面试高频】DPO 变体全家桶：SimPO/KTO/ORPO/IPO 各改了什么、怎么选？ | 3:18 | [link](https://www.bilibili.com/video/BV1zKuY6SEhi) |
+| 2454 | - | - | 【面试高频】生成式奖励模型GRM全解：会思考的考官，让奖励不再黑箱 | 3:36 | [link](https://www.bilibili.com/video/BV1zKuY6SEqJ) |
+| 2455 | - | - | 【面试高频】不用成对偏好数据怎么做对齐？KTO 把前景理论塞进训练目标，损失厌恶一战封神 | 3:41 | [link](https://www.bilibili.com/video/BV1zMuY6EEZD) |
+| 2456 | - | - | 【面试高频】SimPO vs DPO：扔掉参考模型，显存省一半还更强？ | 3:22 | [link](https://www.bilibili.com/video/BV196ua6qELh) |
+| 2457 | - | - | 【对齐踩坑】DPO 的 loss 一直降，模型为什么反而变差？隐式奖励的作弊通道 | 2:52 | [link](https://www.bilibili.com/video/BV1AX826EEgv) |
+| 2458 | - | - | 【DPO 实操】偏好数据怎么构造？三种生产方式、四个质量陷阱与完整流程 | 3:11 | [link](https://www.bilibili.com/video/BV1PD826SEAJ) |
+| 2459 | - | - | 【RLHF 基础】奖励模型是怎么训练出来的？用排序代替打分的成对比较损失 | 2:36 | [link](https://www.bilibili.com/video/BV17T8S62EnA) |
+| 2460 | - | - | 【DPO 原理】reference model 为什么不能丢？KL 约束的数学体现 | 2:48 | [link](https://www.bilibili.com/video/BV1uN8t6zEwx) |
+| 2461 | - | - | 【蒸馏实操】推理能力蒸馏三法：CoT 数据、on-policy 与 SFT + RLVR | 1:59 | [link](https://www.bilibili.com/video/BV1cob76FERQ) |
+| 2462 | - | - | 【DPO 调参】beta 参数详解：物理意义、两侧失效表现与经验值 | 2:41 | [link](https://www.bilibili.com/video/BV1dxb76JEVc) |
+| 2463 | - | - | 【OPD 系列 05】Distilled RL：通过让老师重分配学生梯度，改进 OPD 的师生差距两难 | 3:57 | [link](https://www.bilibili.com/video/BV1CweY6SENu) |
+| 2464 | - | - | 【OPD 系列】MOPD：用多教师在线蒸馏改进多域 RL 能力融合的跷跷板问题，Open-MOPD 从 35.6% 修到 83.4% | 3:29 | [link](https://www.bilibili.com/video/BV1hyea6wELy) |
+| 2465 | - | - | 【OPD 系列】在线蒸馏需要多少数据？为什么 8 道难题就能追平 1.7 万条，驱动收益的是思维链长度 | 3:13 | [link](https://www.bilibili.com/video/BV1yZea6pEVy) |
+| 2466 | - | - | 【在线蒸馏】OPSA：通过压低学生自身低概率 token 改进 OPD 的老师噪声问题，不要老师 AIME24 +35 | 3:56 | [link](https://www.bilibili.com/video/BV1rWea61EUz) |
+| 2467 | - | - | 【对齐面试】Likelihood Displacement：为什么 DPO 越训 chosen 的概率越低？安全 DPO 拒答率反降 55% | 3:34 | [link](https://www.bilibili.com/video/BV1ivea6MEGr) |
+| 2468 | - | - | 【面试高频】权重初始化 0.02 的由来：Xavier/He、残差流与小初始化，为什么不是随便设的 | 3:57 | [link](https://www.bilibili.com/video/BV17BNa6NEDc) |
+| 2469 | - | - | 【面试高频】学习率 Warmup 为什么重要：损失面陡峭 + Adam 二阶矩不准，不加会怎样 | 3:19 | [link](https://www.bilibili.com/video/BV1F5Kj68Ecy) |
+| 2470 | - | - | 【面试高频】学习率 Warmup 为什么重要：损失面陡峭 + Adam 二阶矩不准，不加会怎样 | 3:19 | [link](https://www.bilibili.com/video/BV1qcKM6KEDe) |
+| 2471 | - | - | 【面试进阶】Muon 优化器凭什么取代 AdamW？只存动量、显存减半，还收敛更快 | 3:44 | [link](https://www.bilibili.com/video/BV1LLKx6SEkQ) |
+| 2472 | - | - | 【大模型优化器】Adam 统治 10 年，三个新挑战者正在分庭抗礼——Lion/Sophia/Adafactor 讲透 | 3:54 | [link](https://www.bilibili.com/video/BV1F13R6nEAV) |
+| 2473 | - | - | 【面试进阶】μTransfer原理详解：小模型调超参如何零样本迁移到大模型 | 3:49 | [link](https://www.bilibili.com/video/BV1ftua61Ezc) |
+| 2474 | - | - | 【面试高频】WSD 学习率调度凭什么能随时停？三段式拆解+省算力套路 | 3:41 | [link](https://www.bilibili.com/video/BV1P5ua6xErX) |
+| 2475 | - | - | 【训练技巧】梯度累积 vs 真大 batch：三个不等价的地方与实操建议 | 1:01 | [link](https://www.bilibili.com/video/BV1w9826mEYd) |
+| 2476 | - | - | 【训练必修】大模型学习率怎么选？LR Range Test、warmup 与 cosine decay 实操 | 2:25 | [link](https://www.bilibili.com/video/BV13i826FEjB) |
+| 2477 | - | - | 【优化器】Spike-Aware Adam：loss 尖峰之后动量 buffer 的残留问题 | 0:58 | [link](https://www.bilibili.com/video/BV15Z846VE3Y) |
+| 2478 | - | - | 【训练调参】Batch size 怎么选？Critical Batch Size 与线性缩放规则详解 | 3:07 | [link](https://www.bilibili.com/video/BV1TM8t6iEFL) |
+| 2479 | - | - | 【训练技巧】学习率衰减策略对比：cosine、linear 与 WSD 的适用场景 | 2:09 | [link](https://www.bilibili.com/video/BV1uP8t6uEud) |
+| 2480 | - | - | 【科学调参】梯度噪声尺度：用一百步小实验算出最优 batch size | 2:03 | [link](https://www.bilibili.com/video/BV1bfb56cENP) |
+| 2481 | - | - | 【调参工具】LR Finder 详解：怎么画、怎么读、怎么和 warmup 配合 | 2:58 | [link](https://www.bilibili.com/video/BV1fLbL6EEFL) |
+| 2482 | - | - | 【多任务训练】loss 权重平衡三法：手动调权、不确定性加权与 GradNorm | 1:49 | [link](https://www.bilibili.com/video/BV1cgbL6XEYc) |
+| 2483 | - | - | 【调参细节】warmup 步数详解：比例怎么定、做错了会怎样、怎么监控 | 2:26 | [link](https://www.bilibili.com/video/BV1qcbE6xEoL) |
+| 2484 | - | - | 【优化器】Weight Decay 详解：系数怎么选、为什么 AdamW 的解耦这么关键 | 2:02 | [link](https://www.bilibili.com/video/BV1ebb76EEYc) |
+| 2485 | - | - | 【训练细节】初始化标准差 0.02 的由来：从方差不变推导到实践修正 | 2:39 | [link](https://www.bilibili.com/video/BV1dbb767EV5) |
+| 2486 | - | - | 【优化器面试】大模型 Adam 的 β₂ 为什么是 0.95 而不是 0.999？记忆 20 步 vs 1000 步 | 4:12 | [link](https://www.bilibili.com/video/BV1Zaea6gE8C) |
+| 2487 | - | - | 【面试高频】大模型的 badcase 如何解决？从便宜到贵的解决顺序 | 2:44 | [link](https://www.bilibili.com/video/BV1YsKx6CEJq) |
+| 2488 | - | - | 【面试高频】模型合并 TIES 与 DARE 原理全拆解：任务向量加减法如何缝合大模型 | 3:54 | [link](https://www.bilibili.com/video/BV1Z8ua65E9h) |
+| 2489 | - | - | 【DeepSeek R1】R1 是怎么训练出来的？四阶段配方：RL 涌现、冷启动、拒绝采样、蒸馏 | 3:25 | [link](https://www.bilibili.com/video/BV1RL8S6gECS) |
+| 2490 | - | - | 【全景图】大模型训练 pipeline 设计：PT、SFT、偏好对齐与 PAFT 并行范式 | 3:18 | [link](https://www.bilibili.com/video/BV1zwbE6REjt) |
+| 2491 | - | - | 【零成本提升】Model Soup 详解：权重平均为什么有效、三种炖法怎么选 | 1:55 | [link](https://www.bilibili.com/video/BV1Qvb76VEQi) |
+| 2492 | - | - | 【后训练工程】BCIT：通过绑定来源上下文与小预算试跑，改进后训练配方跨基座复用的有害迁移问题 | 3:48 | [link](https://www.bilibili.com/video/BV1ijeY6gELo) |
+| 2493 | - | - | 【企业后训练】线上流量怎么变成后训练？T-Tech 三个 GRPO 专家各撞一种作弊与两段 SLERP 合并，32B 超过 235B | 3:49 | [link](https://www.bilibili.com/video/BV1eBea6KEWE) |
+| 2494 | - | - | 【后训练】Self-Routing：通过按对错与置信度把样本分到四条路，改进后训练用单一算法的浪费 | 3:29 | [link](https://www.bilibili.com/video/BV14Xea6dE8q) |
+| 2495 | - | - | 【后训练方法论】训练的中间阶段该怎么评估？RL 前分最低的 Mixed SFT，RL 后打败 next-chunk RL | 4:22 | [link](https://www.bilibili.com/video/BV1iYea6zEvS) |
+| 2496 | - | - | 【数据工程刚需】预训练数据清洗全流程：抽正文、质量过滤、去重、数据配比 | 4:04 | [link](https://www.bilibili.com/video/BV1QNK46LEea) |
+| 2497 | - | - | 【数据工程硬核】数据去重 MinHash / SimHash：Jaccard、LSH 分桶、汉明距离 | 3:47 | [link](https://www.bilibili.com/video/BV1EdKx6pEuH) |
+| 2498 | - | - | 【数据为王】FineWeb：15T token 数据集怎么筛出来的，消融驱动、FineWeb-Edu | 3:32 | [link](https://www.bilibili.com/video/BV127K46TEyc) |
+| 2499 | - | - | 【RLHF】Anthropic HH 数据集：Helpful 和 Harmless 是怎么标注的？ | 4:00 | [link](https://www.bilibili.com/video/BV1oQ3R6LEgz) |
+| 2500 | - | - | 【数据工程】Phi-2：Textbooks Are All You Need——2.7B 打赢 70B，质量胜过规模 | 3:35 | [link](https://www.bilibili.com/video/BV1SP3d6TE81) |
+| 2501 | - | - | 【训练技巧】课程学习工程实现：难度评估、课程设计与 pacing 控制 | 2:08 | [link](https://www.bilibili.com/video/BV1uw8t66Eo2) |
+| 2502 | - | - | 【数据工程】文本数据增强三法：回译、改写与 GPT-4 生成的适用场景 | 1:55 | [link](https://www.bilibili.com/video/BV1MT8t6TEwW) |
+| 2503 | - | - | 【IFT 数据】Self-Instruct 与 Evol-Instruct：指令微调数据的构造与三层过滤 | 2:02 | [link](https://www.bilibili.com/video/BV1fVbL6SECM) |
+| 2504 | - | - | 【数据工程】合成数据完整 pipeline：Self-Instruct、Evol-Instruct 与四步质量控制 | 1:52 | [link](https://www.bilibili.com/video/BV1qNbE6XEU2) |
+| 2505 | - | - | 【数据工程】标注质量控制：流程、Cohen Kappa 一致性检验与五个质控手段 | 2:10 | [link](https://www.bilibili.com/video/BV1L4b76SEAd) |
+| 2506 | - | - | 【数据配比】代码与数学数据加多少？20%~40% 最优区间与梯度实验结论 | 2:51 | [link](https://www.bilibili.com/video/BV198b762Euk) |
+| 2507 | - | - | 【数据工程】数据去重实操：MinHash、LSH 分桶与亿级数据并行处理 | 2:07 | [link](https://www.bilibili.com/video/BV1Zpb76HEeu) |
+| 2508 | - | - | 【数据工程】数据不均衡详解：五步诊断、三种解法与主流模型配比 | 2:09 | [link](https://www.bilibili.com/video/BV1onb76XEqP) |
+| 2509 | - | - | 【中文大模型】中英数据配比：1T 纯中文 vs 2T 混合的实验结论与跨语言迁移 | 2:43 | [link](https://www.bilibili.com/video/BV1QYb76yEBu) |
+| 2510 | - | - | 【数据质量】SFT 数据自动筛选：GPT-4 打分、PPL 检测与 embedding 聚类 | 1:47 | [link](https://www.bilibili.com/video/BV1xPb76vEzd) |
+| 2511 | - | - | 【数据工程】预训练数据配比：主流模型参考、DoReMi 与消融实验 | 1:53 | [link](https://www.bilibili.com/video/BV1TKb76PEcu) |
+| 2512 | - | - | 【RL 数据配比】数学、代码、表格混训 RL，哪些域能跨域迁移、哪些必须专训？Guru 六域实验与 CARE-RL、TAC | 3:45 | [link](https://www.bilibili.com/video/BV1yVea6pE2L) |
+| 2513 | - | - | QwenVL到Qwen3.5技术改进 | 3:36 | [link](https://www.bilibili.com/video/BV1GpXaBGEoE) |
+| 2514 | - | - | 【文生图地基】DDPM 扩散模型原理：前向加噪、反向去噪，为什么 loss 化简成预测噪声 | 3:36 | [link](https://www.bilibili.com/video/BV1qyNo6TEN1) |
+| 2515 | - | - | 【扩散加速】DDIM 采样原理：非马尔可夫、确定性采样，50 步媲美 1000 步不用重训 | 1:07 | [link](https://www.bilibili.com/video/BV1ikNo6BEkC) |
+| 2516 | - | - | 【扩散进阶】Score/SDE 统一视角：分数场、Langevin 采样，DDPM 与分数匹配的统一 | 3:42 | [link](https://www.bilibili.com/video/BV1ikNo6BE9h) |
+| 2517 | - | - | 【文生图必调】Classifier-Free Guidance 原理：一个系数如何权衡真实感与多样性 | 3:21 | [link](https://www.bilibili.com/video/BV1qkNo6BEzF) |
+| 2518 | - | - | 【多模态第一课】CLIP 原理：图文对比预训练、InfoNCE、zero-shot 分类 | 3:29 | [link](https://www.bilibili.com/video/BV1YGKM6ZEuh) |
+| 2519 | - | - | 【多模态】BLIP-2 的 Q-Former：可学习 query、cross-attention，桥接冻结视觉与 LLM | 3:24 | [link](https://www.bilibili.com/video/BV1Y3KM6bEjj) |
+| 2520 | - | - | 【多模态】LLaVA 视觉对齐：CLIP ViT、Projector 投影层、两阶段训练 | 3:32 | [link](https://www.bilibili.com/video/BV1SzKT6nEPj) |
+| 2521 | - | - | 【多模态】视觉编码器盘点：Patch、ViT、Projector，各家 VLM 视觉塔对比 | 3:39 | [link](https://www.bilibili.com/video/BV1MzKT6HESr) |
+| 2522 | - | - | 【语音合成】VITS 端到端 TTS：变分推断、归一化流、对抗训练，一步合成语音 | 3:33 | [link](https://www.bilibili.com/video/BV1QwKs6zEhi) |
+| 2523 | - | - | 【语音大模型地基】音频 Tokenizer：VQ-VAE、RVQ 残差量化，语音怎么离散化成 token | 3:50 | [link](https://www.bilibili.com/video/BV1jdKW6yEgH) |
+| 2524 | - | - | 【文生图全流程】Stable Diffusion 原理：潜空间扩散、CLIP、U-Net、cross-attention | 3:35 | [link](https://www.bilibili.com/video/BV123Ks6YEfb) |
+| 2525 | - | - | 【Sora 同款骨干】DiT 原理：patchify、adaLN-Zero，Transformer 取代 U-Net | 3:09 | [link](https://www.bilibili.com/video/BV1uTKs6TE4B) |
+| 2526 | - | - | 【文生图最新范式】Flow Matching / Rectified Flow：向量场、拉直路径，SD3/FLUX 同款 | 3:40 | [link](https://www.bilibili.com/video/BV1mYKW68Esk) |
+| 2527 | - | - | 【语音大模型入门】Whisper 原理：弱监督 68 万小时、encoder-decoder、特殊 token 多任务 | 3:00 | [link](https://www.bilibili.com/video/BV1qYKs6EEBj) |
+| 2528 | - | - | 【生成基石】VAE 变分自编码器：ELBO 推导、重参数化、KL 正则的作用 | 3:58 | [link](https://www.bilibili.com/video/BV1U5K46uEJN) |
+| 2529 | - | - | 【扩散进阶】扩散的数学=分层 VAE：x₀/噪声/分数 三种预测目标为什么等价 | 3:42 | [link](https://www.bilibili.com/video/BV1nPKW6JEJy) |
+| 2530 | - | - | 【面试高频】多模态早融合 vs 后融合：Chameleon 凭什么把图文从头一起训 | 3:29 | [link](https://www.bilibili.com/video/BV1iLuY6CEX1) |
+| 2531 | - | - | 【面试高频】NaViT 原生任意分辨率 + Patch n' Pack：视觉大模型为什么不再把图片压成方块？ | 3:14 | [link](https://www.bilibili.com/video/BV1oYua6GERd) |
+| 2532 | - | - | 【面试高频】多模态大模型又慢又贵？视觉Token压缩 ToMe / FastV 两招讲透 | 3:37 | [link](https://www.bilibili.com/video/BV1Kuua6fEf3) |
+| 2533 | - | - | 【AIGC 加速】一致性模型为什么能一步出图？从去噪轨迹讲到 LCM-LoRA | 2:34 | [link](https://www.bilibili.com/video/BV1mC826sEre) |
+| 2534 | - | - | 【前沿架构】扩散语言模型为什么能一次并行吐出一整句？离散扩散原理详解 | 2:20 | [link](https://www.bilibili.com/video/BV1fF8m6kEiA) |
+| 2535 | - | - | 【多模态】Google 用 sigmoid 替代 softmax——SigLIP vs CLIP 讲透 | 4:23 | [link](https://www.bilibili.com/video/BV1GZ846VETv) |
+| 2536 | - | - | 【多模态基石】ViT 视觉 Transformer：把图像切成 patch，Transformer 也能做视觉 | 4:48 | [link](https://www.bilibili.com/video/BV1VR846LEY6) |
+| 2537 | - | - | 【多模态面试】VLM 微调要不要解冻视觉编码器？只训 ViT 感知涨分、MMMU 可能下降，按任务来定 | 3:18 | [link](https://www.bilibili.com/video/BV1CJea6EEXs) |
+| 2538 | - | - | 【大模型训练】GLM-5.2 为什么放弃 GRPO 换回 critic-based PPO？三个隐性假设崩塌全解析 | 4:06 | [link](https://www.bilibili.com/video/BV1qSTr6vEys) |
+| 2539 | - | - | 【大模型训练】从概率模型看 SFT 和 RL 的区别：正向 KL vs 反向 KL 完整推导 | 3:21 | [link](https://www.bilibili.com/video/BV1rKTn65E9V) |
+| 2540 | - | - | 【面试必考】GRPO、DAPO、GSPO三代强化学习算法，到底改了什么？从PPO讲起 | 5:04 | [link](https://www.bilibili.com/video/BV1oRMP6hE7f) |
+| 2541 | - | - | 【面试高频】RLHF 优化算法进化史：PPO / DPO / GRPO / DAPO / GSPO 一次串清楚 | 3:15 | [link](https://www.bilibili.com/video/BV1qnMh6BEoZ) |
+| 2542 | - | - | 【面试必考】PPO 到底在裁剪什么？从策略梯度的坑到那条安全带｜强化学习零基础 | 3:28 | [link](https://www.bilibili.com/video/BV1qnMh6BEx1) |
+| 2543 | - | - | 【面试高频】KL 散度计算的三种近似方法？K1/K2/K3 一次讲透 | 2:39 | [link](https://www.bilibili.com/video/BV11jMt6yED7) |
+| 2544 | - | - | 【RLHF 面试高频】GRPO 比 PPO 做了什么改进？一刀砍掉 Critic 省显存 | 2:46 | [link](https://www.bilibili.com/video/BV1iJMh6uERR) |
+| 2545 | - | - | 【强化学习面试高频】GRPO 的损失为什么开始时是 0？两部分同时归零 | 2:45 | [link](https://www.bilibili.com/video/BV1imM36EEqD) |
+| 2546 | - | - | 【面试进阶】GRPO 用旧策略数据，为什么还叫 on-policy？一个打篮球的例子讲透 | 3:09 | [link](https://www.bilibili.com/video/BV1fJNA69EFy) |
+| 2547 | - | - | 【面试进阶】什么是重要性采样？为什么 token 级的损失难以收敛？「猫喜欢鱼」讲透 | 3:30 | [link](https://www.bilibili.com/video/BV1HENA6xEpB) |
+| 2548 | - | - | 【强化学习】策略梯度定理：log-derivative 技巧、REINFORCE，怎么对随机采样求梯度 | 3:47 | [link](https://www.bilibili.com/video/BV1LVKW6VEEy) |
+| 2549 | - | - | 【面试陷阱】GRPO 里被 clip 的 token 反向有没有梯度？用 torch.clamp 一跑就懂 | 2:46 | [link](https://www.bilibili.com/video/BV1HmKx6ZEyX) |
+| 2550 | - | - | 【面试高频】ReMax：PPO 的轻量替代，砍 Critic 用 greedy 解码当 baseline | 3:26 | [link](https://www.bilibili.com/video/BV1gYgR6vEt4) |
+| 2551 | - | - | 【RLOO 讲透】REINFORCE Leave-One-Out：不要 Critic、不要 greedy 假想敌，同组 response 互卷就够了 | 4:04 | [link](https://www.bilibili.com/video/BV13agR6KEDw) |
+| 2552 | - | - | 【PPO 工程】π_θ/π_θ_old 是怎么算的？token-level log prob 的 3 个工程坑 | 4:40 | [link](https://www.bilibili.com/video/BV1Dw3d6BEYP) |
+| 2553 | - | - | 【PPO 工程精华】importance sampling ratio + clip：同一 batch 训 4 epoch 的秘密 | 4:36 | [link](https://www.bilibili.com/video/BV1DP3d6TED7) |
+| 2554 | - | - | 【RLHF】Reference Model 是干嘛的？为什么 PPO 离不开这个"躺平"的模型 | 4:28 | [link](https://www.bilibili.com/video/BV1Xd3R6kEdU) |
+| 2555 | - | - | 【概率视角】SFT 和 RLHF 竟是同一枚硬币的两面：正向 KL vs 反向 KL | 4:26 | [link](https://www.bilibili.com/video/BV1er3Z6SEcf) |
+| 2556 | - | - | 【RLHF 理论基础】Token-level MDP：LLM 的 state 和 action 到底是什么？ | 4:08 | [link](https://www.bilibili.com/video/BV1R63Z6nEeD) |
+| 2557 | - | - | 【2025 RL 前沿】ASPO：通过重要性比率翻转改进 GRPO 的熵崩塌问题 | 3:23 | [link](https://www.bilibili.com/video/BV1WS826nEh5) |
+| 2558 | - | - | 【RL 进阶】DAPO 动态采样：通过过滤全对全错组改进 GRPO 的零梯度浪费 | 2:47 | [link](https://www.bilibili.com/video/BV1rf8265Eg4) |
+| 2559 | - | - | 【RL 进阶】DAPO：通过 token 级归一化改进 GRPO 长答案被稀释的问题 | 2:31 | [link](https://www.bilibili.com/video/BV1Ff8265E3j) |
+| 2560 | - | - | 【RL 进阶】GSPO：通过序列级重要性比率改进 PPO/GRPO 的逐 token 方差问题 | 2:41 | [link](https://www.bilibili.com/video/BV1Bn826gEWs) |
+| 2561 | - | - | 【RLHF 基础】PPO 的 clip 为什么只在一半情况下才生效？不对称四象限详解 | 3:21 | [link](https://www.bilibili.com/video/BV1RG8S6GEhk) |
+| 2562 | - | - | 【RLHF 基础】PPO 的奖励为什么只在最后一个 token 才发？逐 token 算账拆解 | 2:41 | [link](https://www.bilibili.com/video/BV1RG8S6GEoq) |
+| 2563 | - | - | 【RLHF 基础】PPO 为什么需要四个模型？演员、评论家、奖励、参考各自的作用 | 2:59 | [link](https://www.bilibili.com/video/BV1og8S6CE26) |
+| 2564 | - | - | 【RLHF 深入】critic value function 详解：为什么难训准、GAE 怎么补、GRPO 怎么砍 | 3:08 | [link](https://www.bilibili.com/video/BV1uP8t6uE9J) |
+| 2565 | - | - | 【RL 原理】credit assignment 与 GRPO 的 advantage 分配机制 | 1:42 | [link](https://www.bilibili.com/video/BV1PTb76YEVw) |
+| 2566 | - | - | 【RL 前沿】SIGNBALANCE：通过保号与全局尺度改进 GRPO 给蒙对答案发高奖励的问题，附 DA3PO 难题错误放大 | 4:26 | [link](https://www.bilibili.com/video/BV1nNeY6mEGC) |
+| 2567 | - | - | 【RL 面试新题】k3 估计器是无偏的，为什么 KL 项的梯度却是有偏的？放奖励与放 loss 的区别 | 3:27 | [link](https://www.bilibili.com/video/BV1GxeY6PEVi) |
+| 2568 | - | - | 【RL 前沿】μ-GRPO：放宽 clip 加负优势否决，GRPO 用 250 倍陈旧的数据为什么不崩 | 3:51 | [link](https://www.bilibili.com/video/BV1aWeY6vEpH) |
+| 2569 | - | - | 【GRPO 进阶】OraRL：通过解耦策略基线与标准答案增益，改进 GRPO 塞入标准答案时的优势反转问题 | 4:21 | [link](https://www.bilibili.com/video/BV1hyea6wEyV) |
+| 2570 | - | - | 【RL 前沿】VAPO：通过 value 预训练与解耦 GAE 改进长思维链上 critic 训不准的问题（字节 Seed） | 3:30 | [link](https://www.bilibili.com/video/BV1rnea6mE4y) |
+| 2571 | - | - | 【面试高频】大模型能过律考却算不对六位数乘法：分词错位+进位是未来信息+概率≠确定+调工具 | 3:17 | [link](https://www.bilibili.com/video/BV1azNU6BEpK) |
+| 2572 | - | - | 【面试高频】In-Context Learning 机理：贝叶斯任务定位，为什么乱标签也能 work | 3:24 | [link](https://www.bilibili.com/video/BV1F5Kj68EPG) |
+| 2573 | - | - | 【面试高频】涌现能力之争：是真的突现，还是度量假象？精确匹配 vs 平滑指标 | 4:05 | [link](https://www.bilibili.com/video/BV1B5Kj6bEGF) |
+| 2574 | - | - | 【可解释性】激活导向详解：不改一个权重，用一个方向向量控制模型性格 | 2:48 | [link](https://www.bilibili.com/video/BV1ty8269ExR) |
+| 2575 | - | - | 【范式反思】自回归的三个根本局限：滚雪球错误、无法全局规划、曝光偏差 | 2:55 | [link](https://www.bilibili.com/video/BV1g68264E7h) |
+| 2576 | - | - | 【反直觉现象】Grokking 延迟泛化：模型"背完答案"后突然"开窍"，挑战早停智慧 | 3:34 | [link](https://www.bilibili.com/video/BV1Jn826gEKr) |
+| 2577 | - | - | 【认知盲区】大模型为什么算不对多位数乘法？三重根因与逆序输入解法 | 2:52 | [link](https://www.bilibili.com/video/BV1rE826rEF6) |
+| 2578 | - | - | 【AI 安全】大模型水印是怎么做的？绿名单方案详解：γ 切名单、δ 加分数、z 做检验 | 3:31 | [link](https://www.bilibili.com/video/BV1J7826GEU2) |
+| 2579 | - | - | 【可解释性】Logit Lens 详解：把每一层的残差解码成词，看答案如何逐层结晶 | 2:17 | [link](https://www.bilibili.com/video/BV1Ye826hEBW) |
+| 2580 | - | - | 【AI 安全】机器遗忘详解：梯度上升、RMU、NPO 三种让大模型选择性失忆的方法 | 2:05 | [link](https://www.bilibili.com/video/BV15t826vEUA) |
+| 2581 | - | - | 【可解释性】SAE 稀疏自编码器详解：用 L1 约束把多义神经元拆成单义特征 | 2:58 | [link](https://www.bilibili.com/video/BV1ux8S6eEc4) |
+| 2582 | - | - | 【认知盲区】大模型数不清 strawberry 的 r、算不对乘法，根因都在 tokenizer | 3:52 | [link](https://www.bilibili.com/video/BV1hc8t63EKR) |
+| 2583 | - | - | 【训练诊断】用 Logit Lens 看训练到底改善了什么：中间层表示 vs 输出映射 | 2:26 | [link](https://www.bilibili.com/video/BV1cGbL6HEzH) |
+| 2584 | - | - | 【AI 安全】红队测试实操：四种攻击手法、安全分类器与 RLHF 安全对齐 | 1:54 | [link](https://www.bilibili.com/video/BV1CDb76AEB8) |
+| 2585 | - | - | 【RL 面试】RL 微调的幻觉税：为什么 RFT 之后模型对无解题不再拒答？混 10% 无解题 SUM 就能修回来 | 3:15 | [link](https://www.bilibili.com/video/BV1xXea6dECx) |
+| 2586 | - | - | 【面试高频】如何理解 MoE 网络？Router 怎么实现？ | 2:38 | [link](https://www.bilibili.com/video/BV15XMp6yEzV) |
+| 2587 | - | - | 【面试高频】MoE 架构相比 Dense 有什么好处？一个最小例子把计算量算清楚 | 3:35 | [link](https://www.bilibili.com/video/BV1TTMW6NEqk) |
+| 2588 | - | - | 【手撕代码】MoE 设备受限路由怎么写？一招锁死跨卡通信（华为面试真题 / DeepSeek-V2） | 3:09 | [link](https://www.bilibili.com/video/BV1AkKx6wEXL) |
+| 2589 | - | - | 【面试进阶】如何计算 sequence 粒度的负载均衡损失？MoE 专家忙闲不均怎么纠偏 | 3:30 | [link](https://www.bilibili.com/video/BV157gD6FE3J) |
+| 2590 | - | - | 【MoE 架构】DeepseekMoE 细粒度 + 共享专家：凭什么比标准 MoE 强 10-15%？ | 4:14 | [link](https://www.bilibili.com/video/BV1oS3R62ESL) |
+| 2591 | - | - | 【面试高频】DeepSeek 删掉辅助损失，MoE 反而更均衡？无辅助损失负载均衡一次讲透 | 3:15 | [link](https://www.bilibili.com/video/BV11dua64ECo) |
+| 2592 | - | - | 【面试高频】Mixture-of-Depths：让 token 学会跳层，Transformer 算力省一半还不掉点 | 3:17 | [link](https://www.bilibili.com/video/BV19qua6zExA) |
+| 2593 | - | - | 【Kimi K3】Stable LatentMoE：用三件套改进万亿 MoE 的训练崩溃 | 2:48 | [link](https://www.bilibili.com/video/BV1kL826CETq) |
+| 2594 | - | - | 【架构】Mixture of Depths 详解：深度方向的稀疏，与 MoE 有何不同 | 2:17 | [link](https://www.bilibili.com/video/BV1WTbL6REiT) |
+| 2595 | - | - | 【MoE 训练】专家忙闲不均怎么治？aux loss 调参与 DeepSeek-V3 动态偏置 | 3:14 | [link](https://www.bilibili.com/video/BV1kKbL6xEm1) |
+| 2596 | - | - | 【MoE 训练】从零训练完整流程：专家初始化、router 设置与训练 schedule | 1:48 | [link](https://www.bilibili.com/video/BV1Qvb76VE4D) |
+| 2597 | - | - | 【面试前沿】大模型深度思考的自主切换是怎么实现的？不确定性 / 决策器 / 多阶段 RL | 3:15 | [link](https://www.bilibili.com/video/BV1bGMt67E7J) |
+| 2598 | - | - | 【面试高频】Zero/One/Few-shot 与 In-Context Learning：GPT-3 为什么是 few-shot learner | 3:36 | [link](https://www.bilibili.com/video/BV1FVKj6cEz6) |
+| 2599 | - | - | 【面试高频】思维草稿Chain-of-Draft：一句提示词让大模型少写80%token，正确率几乎不掉 | 3:19 | [link](https://www.bilibili.com/video/BV1q3uY6jEYg) |
+| 2600 | - | - | 【面试高频】思维图GoT讲透：链→树→图演进+聚合/回环+三大思维变换，质量涨六成还更省钱 | 3:14 | [link](https://www.bilibili.com/video/BV1nNuY6HEF4) |
+| 2601 | - | - | 【面试高频】推理模型的显式思考真的必要吗？NoThinking 跳过思考反而更省更快 | 3:20 | [link](https://www.bilibili.com/video/BV1dYua6GEBn) |
+| 2602 | - | - | 【面试高频】推理模型越想越歪？ParaThinker并行思考，打破长思维链的隧道视野 | 3:41 | [link](https://www.bilibili.com/video/BV1dhua6CEmV) |
+| 2603 | - | - | 【面试高频】Quiet-STaR 原理拆解：每个 token 前先默想，推理能力自己长出来 | 3:18 | [link](https://www.bilibili.com/video/BV1U2ua6YEr4) |
+| 2604 | - | - | 【面试高频】一张图讲透推理型大模型：推理时计算/PRM/搜索/自我进化 四根支柱 | 3:34 | [link](https://www.bilibili.com/video/BV1mQua6FEf9) |
+| 2605 | - | - | 【面试高频】7B小模型自进化超o1？rStar-Math三件套(代码CoT+MCTS+过程偏好模型)一次讲透 | 3:31 | [link](https://www.bilibili.com/video/BV1tSua6aEHu) |
+| 2606 | - | - | 【面试高频】大模型自我精炼Self-Refine：同一个模型自己批评自己，零训练提升输出质量 | 3:39 | [link](https://www.bilibili.com/video/BV1Gkua6TEHE) |
+| 2607 | - | - | 【面试高频】测试时算力 Test-Time Compute：为什么 o1 多想一会儿就变强？四招讲透 | 3:33 | [link](https://www.bilibili.com/video/BV1QCua6vEv2) |
+| 2608 | - | - | 【面试高频】思维链一条道走到黑？思维树ToT让大模型学会回溯，正确率从4%飙到74% | 3:11 | [link](https://www.bilibili.com/video/BV1T3ua6tEjt) |
+| 2609 | - | - | 【推理增强】自洽性采样详解：为什么多想几遍取多数票能涨点 | 1:50 | [link](https://www.bilibili.com/video/BV1gs8S6NEtr) |
+| 2610 | - | - | 【推理增强】Best-of-N 采样详解：四种挑选方法与 RFT 的衔接 | 2:17 | [link](https://www.bilibili.com/video/BV1Qab76LEvu) |
+| 2611 | - | - | 大模型面试：为什么现在的大模型都是Decoder-Only架构？ | 3:41 | [link](https://www.bilibili.com/video/BV1uiXmBUEfp) |
+| 2612 | - | - | 【面试必考】LayerNorm为什么被RMSNorm全面取代？从0讲透归一化+手撕LLaMA同款代码 | 4:29 | [link](https://www.bilibili.com/video/BV1owTx6pEqM) |
+| 2613 | - | - | 【面试高频】请介绍 BERT 的流程：五大部件 + 预训练全讲透 | 2:45 | [link](https://www.bilibili.com/video/BV1SGMt67EEq) |
+| 2614 | - | - | 【面试高频】Qwen 从 1 到 3 每个版本改了什么？一条线讲透六代改进点 | 3:20 | [link](https://www.bilibili.com/video/BV1KjMt6yE6h) |
+| 2615 | - | - | 【面试高频】BERT 与 LSTM 有什么不同？结构 / 并行 / 双向 / 预训练四维度对比 | 3:11 | [link](https://www.bilibili.com/video/BV1KMMW6eEnp) |
+| 2616 | - | - | 【面试高频】Encoder-Only 和 Decoder-Only 建模有何区别？BERT 与 GPT 的分水岭 | 2:41 | [link](https://www.bilibili.com/video/BV1HLNA6tEX9) |
+| 2617 | - | - | 【面试高频】Engram 以存储换算力：确定性哈希查表的先天记忆，O(1) 取语义，NIAH 84→97 | 4:15 | [link](https://www.bilibili.com/video/BV17MNS6UEhc) |
+| 2618 | - | - | 【面试高频】Kimi AttnRes：把残差升级成对历史层的注意力，伪查询+块级检索，N≈8 延迟<2% | 4:13 | [link](https://www.bilibili.com/video/BV1LVNS6LEHX) |
+| 2619 | - | - | 【面试高频】SwiGLU 激活函数：GLU 门控 × Swish，为何取代 ReLU/GELU 成大模型 FFN 标配 | 4:17 | [link](https://www.bilibili.com/video/BV1i3NS62E68) |
+| 2620 | - | - | 【面试高频】weight tying 详解：输入输出 Embedding 为什么共享？转置关系 / 省参数 / GPT-2 与 LLaMA 的取舍 | 3:44 | [link](https://www.bilibili.com/video/BV151Na68EcR) |
+| 2621 | - | - | 【面试高频】BPE 分词详解：中文为什么比英文更费 Token？子词 / 字节级 / WordPiece / Unigram 全讲透 | 3:25 | [link](https://www.bilibili.com/video/BV1uUN86SEHs) |
+| 2622 | - | - | 【面试高频】Word2Vec 词向量详解：CBOW / Skip-gram / 负采样，为什么它是 Embedding 的祖师爷 | 3:49 | [link](https://www.bilibili.com/video/BV1hmN86nEVC) |
+| 2623 | - | - | 【面试高频】Transformer FFN 详解：为什么先升维 4 倍再降回？升维 / 降维 / 残差 / SwiGLU 2.67 倍全讲透 | 3:23 | [link](https://www.bilibili.com/video/BV14LN86GEG1) |
+| 2624 | - | - | 【面试高频】7B 参数量怎么手算？12Ld²+Vd 公式详解，词嵌入 / 注意力 / FFN 逐块拆解 | 3:17 | [link](https://www.bilibili.com/video/BV1jiNa6iECe) |
+| 2625 | - | - | 【面试高频】残差连接为什么重要：退化问题、梯度高速路，与 Transformer 的残差流 | 3:22 | [link](https://www.bilibili.com/video/BV1SXNa6RE4J) |
+| 2626 | - | - | 【面试高频】RNN vs CNN vs Transformer：并行能力与长程依赖两把尺子讲透 | 3:37 | [link](https://www.bilibili.com/video/BV1q7Kj64EcD) |
+| 2627 | - | - | 【面试高频】Embedding 到底是什么、为什么乘 √d_model：查找表、位置编码与数值量级 | 3:42 | [link](https://www.bilibili.com/video/BV1qyNo6TESa) |
+| 2628 | - | - | 【面试高频】7B 参数量怎么手算？12Ld²+Vd 公式详解，词嵌入 / 注意力 / FFN 逐块拆解 | 3:17 | [link](https://www.bilibili.com/video/BV1BwKM6vEGs) |
+| 2629 | - | - | 【面试高频】weight tying 详解：输入输出 Embedding 为什么共享？转置关系 / 省参数 / GPT-2 与 LLaMA 的取舍 | 3:44 | [link](https://www.bilibili.com/video/BV1BZKT6MEmC) |
+| 2630 | - | - | 【面试高频】BatchNorm 与 LayerNorm 的区别：为什么 Transformer 只用 LayerNorm？ | 3:00 | [link](https://www.bilibili.com/video/BV1j7gD6cE75) |
+| 2631 | - | - | 【大模型架构】RetNet 讲透：微软的 Transformer 杀手，训练并行 + 推理 O(1) | 3:54 | [link](https://www.bilibili.com/video/BV1RR3R6VEn7) |
+| 2632 | - | - | 【面试高频】扔掉分词器！Byte Latent Transformer 用字节熵动态切 patch 全解析 | 4:03 | [link](https://www.bilibili.com/video/BV1oGuY61EFH) |
+| 2633 | - | - | 【面试高频】Mamba+注意力+MoE三合一，Jamba如何把25万字塞进单张显卡？混合架构原理拆解 | 3:18 | [link](https://www.bilibili.com/video/BV1zuuY6mEqQ) |
+| 2634 | - | - | 【面试高频】Titans：让大模型在推理时学会长期记忆，注意力+神经记忆到底怎么融合？ | 3:23 | [link](https://www.bilibili.com/video/BV1DCua6vEpr) |
+| 2635 | - | - | 【面试进阶】大模型新结构TTT层：处理一条序列=训练一个小模型，线性复杂度+恒定内存扛长文本 | 3:36 | [link](https://www.bilibili.com/video/BV1Muua6fEpa) |
+| 2636 | - | - | 【Kimi 新架构】Attention Residuals：用深度方向 softmax 改进残差连接的等权相加问题 | 3:51 | [link](https://www.bilibili.com/video/BV1Nm826QELP) |
+| 2637 | - | - | 【面试高频】SwiGLU 的中间层维度为什么是 8/3·d？从参数量守恒一步步推导 | 2:41 | [link](https://www.bilibili.com/video/BV1Qc8t63EsP) |
+| 2638 | - | - | 【架构辩论】Transformer 会被取代吗？三个致命伤，取代派/改良派/共存派三种解法 | 3:54 | [link](https://www.bilibili.com/video/BV1jS846SETu) |
+| 2639 | - | - | 【训练第一步】tokenizer 词表设计：vocab size、中英混合与 Byte-level BPE | 3:18 | [link](https://www.bilibili.com/video/BV1BPbE6WELv) |
+| 2640 | - | - | 【模型压缩】模型剪枝原理：结构化 vs 非结构化、按幅度剪、剪枝+微调 | 3:37 | [link](https://www.bilibili.com/video/BV14eKW6fENJ) |
+| 2641 | - | - | 【顶会最佳论文】彩票假设：稀疏子网、重置回初始化，为什么小子网能单独达标 | 3:37 | [link](https://www.bilibili.com/video/BV1w6KW6RENb) |
+| 2642 | - | - | 【LLM 剪枝】SparseGPT / Wanda：一次性剪枝不重训，按权重×激活选，公式讲透 | 3:39 | [link](https://www.bilibili.com/video/BV1qgKW6LEDW) |
+| 2643 | - | - | 【面试高频】BitNet b1.58 全解：权重只用-1/0/1，乘法变加法，省电71倍还不掉点 | 3:37 | [link](https://www.bilibili.com/video/BV1iGuY61EDX) |
+| 2644 | - | - | 【面试高频】大模型四位量化为什么总崩？旋转量化一招治激活离群点 | 3:41 | [link](https://www.bilibili.com/video/BV1mQua6FEAN) |
+| 2645 | - | - | 【量化必修】离群激活详解：为什么清零 99% 的激活模型还活着，动几个大的就崩 | 1:59 | [link](https://www.bilibili.com/video/BV1vt826vEKv) |
+| 2646 | - | - | 【量化部署】QAT vs PTQ：fake quantization、直通估计器与选型标准 | 2:35 | [link](https://www.bilibili.com/video/BV1pQb76YE6q) |
+| 2647 | - | - | 大模型KV Cache原理详解 | 1:51 | [link](https://www.bilibili.com/video/BV12fXyBKEor) |
+| 2648 | - | - | 图解大模型缓存 KV Cache的原理 | 3:27 | [link](https://www.bilibili.com/video/BV1yy5o6zELy) |
+| 2649 | - | - | 【大模型加速】推测解码 Speculative Decoding 原理详解：从草稿验证到拒绝采样 | 3:31 | [link](https://www.bilibili.com/video/BV1CsTv6tEDU) |
+| 2650 | - | - | 【大模型推理】内存墙 Memory-Bound 到底是什么？H100 算力利用率不足 1% 的真相 | 3:28 | [link](https://www.bilibili.com/video/BV1euTj6dEqX) |
+| 2651 | - | - | 【推理优化】PagedAttention：显存浪费 60-80% 怎么救｜vLLM 核心技术 | 4:16 | [link](https://www.bilibili.com/video/BV1AHMx6YEAm) |
+| 2652 | - | - | 【面试高频】温度·Top-K·Top-P 到底动了什么？解码采样一次讲透 | 3:34 | [link](https://www.bilibili.com/video/BV1cHMx6YE8i) |
+| 2653 | - | - | 【面试高频】推理过程中的 KV Cache 怎么估算？从原理到 Qwen/DeepSeek 实算 | 4:55 | [link](https://www.bilibili.com/video/BV1KTMW6NE9t) |
+| 2654 | - | - | 【面试高频】大模型推理占用的显存怎么计算？一个公式秒算 | 2:44 | [link](https://www.bilibili.com/video/BV1VsNH6PECF) |
+| 2655 | - | - | 【面试高频】现在大模型为什么都用 left padding？一句话讲透 | 2:33 | [link](https://www.bilibili.com/video/BV1CyNH6nEXF) |
+| 2656 | - | - | 【面试高频】MTP 多 Token 预测：一次预测多个未来字 + 投机解码，步数砍半提速 1.8× | 3:43 | [link](https://www.bilibili.com/video/BV1EoNg6kERe) |
+| 2657 | - | - | 【面试高频】解码策略详解：贪心 / Beam Search / 采样怎么选？束宽、Top-K、Top-P 核采样全讲透 | 3:15 | [link](https://www.bilibili.com/video/BV1LyNa6cELQ) |
+| 2658 | - | - | 【面试高频】解码策略详解：贪心 / Beam Search / 采样怎么选？束宽、Top-K、Top-P 核采样全讲透 | 3:15 | [link](https://www.bilibili.com/video/BV1FdKT66EAS) |
+| 2659 | - | - | 【推理优化】Chunked Prefill：8000 token prompt 一进，Decode 集体卡 1 秒？ | 4:27 | [link](https://www.bilibili.com/video/BV1jWgR6rEK9) |
+| 2660 | - | - | 【大模型推理】Continuous Batching：同样 8 张卡，凭啥 vLLM 比 HF 快 24 倍？ | 4:22 | [link](https://www.bilibili.com/video/BV1jpgR6GEM1) |
+| 2661 | - | - | 【大模型推理】Continuous Batching：同样 8 张卡，凭啥 vLLM 比 HF 快 24 倍？ | 4:22 | [link](https://www.bilibili.com/video/BV1ipgR6GE1K) |
+| 2662 | - | - | 【LLM 推理】PD 分离部署：Mooncake / DistServe / Splitwise 三家方案讲透 | 3:27 | [link](https://www.bilibili.com/video/BV1J7gR61EgA) |
+| 2663 | - | - | 【LLM 推理】Prefill vs Decode：一个拼算力一个拼带宽，推理框架的灵魂 | 4:03 | [link](https://www.bilibili.com/video/BV1JjgR6jEgH) |
+| 2664 | - | - | 【LLM 推理优化】RadixAttention：SGLang 的招牌技术，一棵 Radix Tree 让吞吐提升 2-5× | 4:40 | [link](https://www.bilibili.com/video/BV1gYgR6vEas) |
+| 2665 | - | - | 【推理优化】7B 在 H100 上理论极限 TPS 是多少？从 HBM 带宽推公式 | 4:47 | [link](https://www.bilibili.com/video/BV1e4gR6zEfR) |
+| 2666 | - | - | 【LLM 推理】TTFT vs ITL：推理体验的两个 SLO，优化路径完全不同 | 4:55 | [link](https://www.bilibili.com/video/BV1VxgR6gEmj) |
+| 2667 | - | - | 【面试高频】KV缓存驱逐：H2O与SnapKV，95%的KV都在陪跑 | 3:26 | [link](https://www.bilibili.com/video/BV1Liua63EZG) |
+| 2668 | - | - | 【面试进阶】Lookahead Decoding：把大模型解码看成解方程，雅可比并行无损加速 | 3:31 | [link](https://www.bilibili.com/video/BV1Reua6rEkb) |
+| 2669 | - | - | 【面试高频】美杜莎解码：多解码头+树注意力，一次前向验证一整棵候选树 | 3:10 | [link](https://www.bilibili.com/video/BV1Vzua6uEKE) |
+| 2670 | - | - | 【面试高频】DeepSeek V3 招牌 MTP 多 token 预测全解：训练当辅助任务、推理当投机解码加速器 | 3:38 | [link](https://www.bilibili.com/video/BV1o8ua65EdB) |
+| 2671 | - | - | 【面试高频】自投机解码：不加显存，大模型推理怎么白捡两倍加速？ | 3:18 | [link](https://www.bilibili.com/video/BV1V6ua6BEnX) |
+| 2672 | - | - | 【Agent 必修】约束解码怎么保证模型只吐合法 JSON？FSM/PDA 与 logit 屏蔽详解 | 2:40 | [link](https://www.bilibili.com/video/BV1bC826sEMX) |
+| 2673 | - | - | 【推理必修】温度、Top-K、Top-P 的区别在哪里？兼谈贪心与束搜索 | 3:08 | [link](https://www.bilibili.com/video/BV1co8261ERi) |
+| 2674 | - | - | 【推理调参】温度、Top-P、Top-K 该按什么顺序调？为什么不能同时拉满 | 3:51 | [link](https://www.bilibili.com/video/BV1Ew8m6GEeG) |
+| 2675 | - | - | 【推理优化】KV Cache 为什么只缓存 K 和 V，从不缓存 Q？注意力的根本不对称 | 3:44 | [link](https://www.bilibili.com/video/BV1JL826CEQK) |
+| 2676 | - | - | 【推理加速】Medusa 多解码头讲透：一次预测 k 个 token，无需草稿模型的内嵌方案 | 4:03 | [link](https://www.bilibili.com/video/BV1j4826KEUb) |
+| 2677 | - | - | 【推理调参】存在惩罚和频率惩罚的区别在哪里？两个治复读旋钮讲透 | 3:37 | [link](https://www.bilibili.com/video/BV1e8826PEYT) |
+| 2678 | - | - | 【推理架构】Prefill 与 Decode 为什么差 140 倍？PD 分离架构的由来 | 3:37 | [link](https://www.bilibili.com/video/BV1Xj8S6zEe1) |
+| 2679 | - | - | 【推理踩坑】训练 right padding、推理 left padding：搞混就是 silent bug | 1:51 | [link](https://www.bilibili.com/video/BV1cubL6WEQi) |
+| 2680 | - | - | 【面试必考】RoPE位置编码到底是什么？从0手撕Qwen3源码，代码和公式竟然对不上!? | 4:26 | [link](https://www.bilibili.com/video/BV1gLTx6CEHx) |
+| 2681 | - | - | 【手撕代码】Multi-Head Attention 多头注意力怎么写（接上期自注意力） | 3:46 | [link](https://www.bilibili.com/video/BV1imM36EETx) |
+| 2682 | - | - | 【面试高频】Softmax 前为什么要除以根号 d？含完整数学推导 | 2:39 | [link](https://www.bilibili.com/video/BV1cJNA6REKc) |
+| 2683 | - | - | 【面试高频】Encoder 和 Decoder 中的 Mask 有什么不同？两层掩码一次讲透 | 2:57 | [link](https://www.bilibili.com/video/BV1cENA6xEtb) |
+| 2684 | - | - | 【面试高频】DeepSeek NSA 原生稀疏注意力：压缩+选择+滑窗，长文本解码快 11 倍还反超全注意力 | 3:58 | [link](https://www.bilibili.com/video/BV1YKN36iEBs) |
+| 2685 | - | - | 【面试高频】YaRN 长度外推：RoPE 高频外推低频内插 + 注意力温度，4k→128k 几乎零成本 | 3:42 | [link](https://www.bilibili.com/video/BV1RNN36TEva) |
+| 2686 | - | - | 【面试高频】DCA 双块注意力：块内/块间/相邻块 + 位置重映射封顶，零训练扩到百万上下文 | 3:29 | [link](https://www.bilibili.com/video/BV1zdNg6VEsk) |
+| 2687 | - | - | 【面试高频】DeepSeek DSA 稀疏注意力：闪电索引器选 top-2048，真正省的是访存而非 FLOPs | 3:37 | [link](https://www.bilibili.com/video/BV1LFN366ER5) |
+| 2688 | - | - | 【面试高频】门控注意力：SDPA 输出后加 Sigmoid 门，强稀疏+破低秩+去 attention-sink，只多 1% 参数 | 3:58 | [link](https://www.bilibili.com/video/BV1jgNS67EsS) |
+| 2689 | - | - | 【面试高频】注意力为什么是 O(n²)？n×n 矩阵、显存爆炸与上下文长度的真相 | 3:25 | [link](https://www.bilibili.com/video/BV16VKj6FEA8) |
+| 2690 | - | - | 【手撕代码】softmax / safe softmax / online softmax：从会溢出到一遍算完（FlashAttention 核心） | 3:40 | [link](https://www.bilibili.com/video/BV1ETKW67EXG) |
+| 2691 | - | - | 【RoPE 之后必问】长度外推：训短推长为什么崩，ALiBi/PI/NTK/YaRN 方法全景 | 3:13 | [link](https://www.bilibili.com/video/BV13pKW6TECw) |
+| 2692 | - | - | 【长文本扩展】位置插值 PI → NTK-aware → YaRN：怎么把 32K 免训练扩到 128K | 3:47 | [link](https://www.bilibili.com/video/BV1uxKW6NE7B) |
+| 2693 | - | - | 【面试综述题】高效 Transformer 四大流派：稀疏、低秩、核化、可逆，一张图看懂 | 3:26 | [link](https://www.bilibili.com/video/BV15jKW63E8e) |
+| 2694 | - | - | 【线性注意力】Linformer & Performer：低秩投影、核化+结合律，O(n²) 降到 O(n) | 3:21 | [link](https://www.bilibili.com/video/BV1GJKW6uEEH) |
+| 2695 | - | - | 【稀疏注意力】Longformer & BigBird：滑动窗口、全局、随机注意力，O(n²) 降到 O(n) | 3:31 | [link](https://www.bilibili.com/video/BV19wK467EJE) |
+| 2696 | - | - | 【手撕代码】self-attention 自注意力：一个公式讲透 Transformer 的心脏 | 3:24 | [link](https://www.bilibili.com/video/BV1d7gD6FEUe) |
+| 2697 | - | - | 【面试高频】MQA 和 GQA：把 KV 头砍到 8 组为什么效果不掉？｜注意力演化 MHA→MQA→GQA→MLA | 3:22 | [link](https://www.bilibili.com/video/BV1tiKx6KE8v) |
+| 2698 | - | - | 【手撕代码】RoPE 旋转位置编码：为什么点积只看相对距离？一个视频讲透 | 3:22 | [link](https://www.bilibili.com/video/BV1gigR6YEiz) |
+| 2699 | - | - | 【大模型数值稳定性】Safe Softmax：一行 exp(100) 让模型崩溃，FlashAttention 的数学基石 | 4:14 | [link](https://www.bilibili.com/video/BV1bigR6YEpq) |
+| 2700 | - | - | 【位置编码】ALiBi 注意力线性偏置：不存位置向量，反而比 RoPE 外推更好？ | 4:05 | [link](https://www.bilibili.com/video/BV1zW3d6WE9z) |
+| 2701 | - | - | 【面试高频】删掉开头几个 token 大模型当场崩盘？一图看透 Attention Sink 与 StreamingLLM | 2:55 | [link](https://www.bilibili.com/video/BV1youa6dEug) |
+| 2702 | - | - | 【面试高频】M-RoPE 多模态位置编码全解：一套 RoPE 如何通吃文字图片视频 | 4:11 | [link](https://www.bilibili.com/video/BV1Xzua6MEe2) |
+| 2703 | - | - | 【面试高频】滑动窗口注意力一次讲透：平方级降到线性，小窗口为何能看穿13万token | 3:36 | [link](https://www.bilibili.com/video/BV1D1ua6PErD) |
+| 2704 | - | - | 【NeurIPS 2025 最佳论文】Gated Attention：用 head 级 sigmoid 门改进注意力的线性聚合与 attention sink | 2:56 | [link](https://www.bilibili.com/video/BV1cd826jEGT) |
+| 2705 | - | - | 【线性注意力】Linear Attention 讲透：核函数替代 softmax，O(n²) 降到 O(n) | 4:57 | [link](https://www.bilibili.com/video/BV1JE826rEVe) |
+| 2706 | - | - | 【长文本】LongRoPE 讲透：把 4K 上下文扩到 2048K，非均匀插值 vs 均匀插值 | 4:23 | [link](https://www.bilibili.com/video/BV13e826hE9X) |
+| 2707 | - | - | 【长上下文】Lost in the Middle 详解：答案放中间为什么就找不到了？兼谈 RAG 重排 | 3:28 | [link](https://www.bilibili.com/video/BV1hi826FEwT) |
+| 2708 | - | - | 【大模型推理】StreamingLLM 讲透：保留 4 个 sink token 让模型记住无限长对话 | 3:31 | [link](https://www.bilibili.com/video/BV1Rd846yETR) |
+| 2709 | - | - | 【长文本】attention sink 详解：成因、后果与 StreamingLLM 的解法 | 2:19 | [link](https://www.bilibili.com/video/BV1Tg8t6NE6U) |
+| 2710 | - | - | 【长文本】4K 扩到 128K：PI、NTK-aware、YaRN 三种外推方法与分阶段训练 | 3:04 | [link](https://www.bilibili.com/video/BV1JjbL6UEPF) |
+| 2711 | - | - | 【面试高频】BM25 相比 TF-IDF 做了什么改进？非线性饱和 + 长度归一化全解析 | 3:09 | [link](https://www.bilibili.com/video/BV1uGMt67Eig) |
+| 2712 | - | - | 【RAG 地基】向量数据库索引 HNSW / IVF-PQ：多层图导航、聚类分桶、乘积量化 | 4:05 | [link](https://www.bilibili.com/video/BV1EQKW67EgT) |
+| 2713 | - | - | 【RAG】HyDE 讲透：先让 LLM"瞎编"答案，再用它去检索真实文档 | 3:43 | [link](https://www.bilibili.com/video/BV1vQ3R6jEds) |
+| 2714 | - | - | 【面试高频】CRAG 纠错式检索增强：给 RAG 加一道质检，三档纠错让大模型不再胡说 | 3:29 | [link](https://www.bilibili.com/video/BV1v5uY65EXS) |
+| 2715 | - | - | 【面试高频】GraphRAG 原理拆解：先建图谱再分社区，RAG 终于能答全局问题了 | 3:16 | [link](https://www.bilibili.com/video/BV1zuuY6mEyK) |
+| 2716 | - | - | 【面试高频】Late Chunking：调换切块和编码顺序，RAG检索质量的零成本提升 | 3:23 | [link](https://www.bilibili.com/video/BV1Liua63ER5) |
+| 2717 | - | - | 【面试高频】Self-RAG 四种反思 token 全拆解：按需检索 + 批判资料 + 拦截幻觉 | 3:18 | [link](https://www.bilibili.com/video/BV1MSua6aEi6) |
+| 2718 | - | - | 【RAG 必修】余弦相似度的维度灾难：为什么检索结果全挤在 0.9 附近 | 3:22 | [link](https://www.bilibili.com/video/BV1Sr826dExM) |
+| 2719 | - | - | 【RAG 实操】检索器与生成器的微调 pipeline：对比学习、上下文利用与联合训练 | 1:45 | [link](https://www.bilibili.com/video/BV1ZT8S61E3b) |
+| 2720 | - | - | 【RAG 实操】embedding 模型微调：对比学习、InfoNCE 与难负样本挖掘 | 2:05 | [link](https://www.bilibili.com/video/BV1WY8468EbL) |
+| 2721 | - | - | 我Vibe Coding做的游戏，上架Steam了【B站AI创造公开赛】 | 11:34 | [link](https://www.bilibili.com/video/BV1MPMd64EiD) |
+| 2722 | - | - | 《群侠传：幸存者》47分钟完整实机演示+开发者全程解说【B站AI创造公开赛】 | 47:55 | [link](https://www.bilibili.com/video/BV1S9uw6jE12) |
+| 2723 | - | - | 《群侠传：幸存者》开场CG：幸而存生，何处是江湖？ | 1:44 | [link](https://www.bilibili.com/video/BV1j1uB6bEYZ) |
+| 2724 | - | - | 上架三周，好评如潮，谢谢你玩我用AI做的游戏。 | 7:02 | [link](https://www.bilibili.com/video/BV1eCbA6rEZV) |
+| 2725 | - | - | 【2025最新版】B站第一套系统的AI绘画课！零基础学会Stable Diffusion，这绝对是你看过的最容易上手的AI绘画教程 / SD WebUI系列课 | 18:15 | [link](https://www.bilibili.com/video/BV1VXYszZEvD) |
+| 2726 | - | - | 从零开始认识SD模型体系：版本、功能、风格和获取渠道——如何选择合适的AI绘图模型？｜AI绘画+SD WebUI零基础入门系列教程（2025最新版） | 22:45 | [link](https://www.bilibili.com/video/BV1YdYszoEcj) |
+| 2727 | - | - | Stable Diffusion提示词全方位解析：两大书写逻辑+两个绝妙技巧，小白也能快速学会写Prompt！｜AI绘画+SD WebUI零基础入门系列教程 | 24:07 | [link](https://www.bilibili.com/video/BV15RYszbEWd) |
+| 2728 | - | - | 一个视频，理清Stable Diffusion所有参数的调节方式，自由掌控出图效果！｜AI绘画+SD WebUI零基础入门系列教程（2025最新版） | 15:57 | [link](https://www.bilibili.com/video/BV1B1YszeEaW) |
+| 2729 | - | - | 一键“复刻”世界名画！Stable Diffusion图生图技巧详细解析｜AI绘画+SD WebUI零基础入门系列教程（2025最新版） | 10:04 | [link](https://www.bilibili.com/video/BV1qUYszaEKd) |
+| 2730 | - | - | 拒绝低质量出图！提高AI绘画分辨率，就靠高分辨率修复了！/ SD WebUI高清修复优化细节无损放大教程 · AI绘图零基础入门系列教程（2025最新版） | 13:35 | [link](https://www.bilibili.com/video/BV1T7eLzdETo) |
+| 2731 | - | - | 低显存也能跑高清大图！Stable Diffusion放大脚本+附加功能算法放大教程，轻松输出2K级分辨率！ AI绘画零基础入门系列教程（2025最新版） | 12:16 | [link](https://www.bilibili.com/video/BV1MweEzeEa4) |
+| 2732 | - | - | AI绘画的救星！定向修改画面，手把手教你玩转SD局部重绘！ Stable Diffusion WebUI重绘功能详解 · AI绘画零基础入门系列教程（2025最 | 18:32 | [link](https://www.bilibili.com/video/BV1CGeEzdEP3) |
+| 2733 | - | - | 一个视频，讲明白AI绘画里的2种附加网络模型！LoRA、Embedding分别是什么？怎么用？Stable Diffusion WebUI零基础入门系列教程 | 10:17 | [link](https://www.bilibili.com/video/BV1gnaEzeEiU) |
+| 2734 | - | - | Embedding模型的5种用法，懂了才是真高手！Stable Diffusion附加网络模型解析 · AI绘画零基础入门系列教程 | 12:39 | [link](https://www.bilibili.com/video/BV1mxaEzFEWp) |
+| 2735 | - | - | LoRA模型的4大分类与实用姿势，一次性讲明白！Stable Diffusion附加网络模型解析 · AI绘画零基础入门系列教程 | 19:08 | [link](https://www.bilibili.com/video/BV1UMaHzuEmy) |
+| 2736 | - | - | 一个视频搞定10大Stable Diffusion插件：提示词翻译反推+放大修复+抠图重绘！SD WebUI扩展插件专题 · AI绘画零基础入门教程 | 57:44 | [link](https://www.bilibili.com/video/BV1D2pEzVENY) |
+| 2737 | - | - | 一口气了解10种ControlNet！原理+应用，全方位解析Stable Diffusion控制网！SD WebUI扩展插件专题 · AI绘画零基础入门教程 | 50:18 | [link](https://www.bilibili.com/video/BV1pwpJzAEr8) |
+| 2738 | - | - | ComfyUI全球爆红，AI绘画进入“工作流时代”？做最好懂的Comfy UI入门教程：Stable Diffusion专业节点式界面新手教学 | 23:36 | [link](https://www.bilibili.com/video/BV1D7421N7xN) |
+| 2739 | - | - | 史诗级更新！ComfyUI“改头换面”，晚一秒更新都是浪费！全新界面、功能与海量体验优化，10分钟带你速览新版本所有操作技巧！（附整合包下载地址） | 11:44 | [link](https://www.bilibili.com/video/BV1X8xFeCERn) |
+| 2740 | - | - | 让Comfy UI“无所不能”的秘密——自定义节点！ComfyUI零基础入门教程系列：自定义节点的安装与使用，用ComfyUI Manager一键安装缺失工作流 | 18:49 | [link](https://www.bilibili.com/video/BV1pZ421b7t7) |
+| 2741 | - | - | ComfyUI“不好用”？这期视频，帮你找到最正确的入门姿势！全面掌握高清修复+重绘+LoRA+ControlNet，无缝丝滑上手SD Comfy UI教程 | 37:09 | [link](https://www.bilibili.com/video/BV1ab42187er) |
+| 2742 | - | - | 小白也能听懂的ComfyUI工作流搭建教程！节点连线整理技巧+复杂工作流解构 / AI绘画和SD应用落地的最佳载体！从思路到实操，一口气讲明白！ | 38:03 | [link](https://www.bilibili.com/video/BV19f421q7EU) |
+| 2743 | - | - | 太爽了！AI绘画全面进化：懂中文、会做中文设计，还开源免费！Qwen Image+Edit模型零基础教程，一个视频讲清楚全部应用 / 附Comfy UI工作流 | 8:34 | [link](https://www.bilibili.com/video/BV11SabzWEUZ) |
+| 2744 | - | - | 一口气了解FLUX.1：AI生图的“新王”，凭什么震惊世界？FLUX模型使用教程，基本用法到进阶应用，一网打尽！（含SD Forge与ComfyUI整合包） | 20:45 | [link](https://www.bilibili.com/video/BV1UytNexEUk) |
+| 2745 | - | - | 取代PS，颠覆AI绘画的新神器？FLUX Kontext零基础上手教程：一句话搞定图像编辑！无缝修图、改文字、换背景 / 含ComfyUI工作流 | 19:27 | [link](https://www.bilibili.com/video/BV1vYKVzfEYB) |
+| 2746 | - | - | 开源+免费！这个AI彻底改变了美工和设计！FLUX Kontext Dev本地安装与使用教程：最强一致性图像编辑模型！ / 含模型下载与ComfyUI工作流 | 10:11 | [link](https://www.bilibili.com/video/BV1P8KyzAEQ6) |
+| 2747 | - | - | 关于Stable Diffusion 3.5，这个视频有你需要知道的一切：免费可商用，和Flux比谁强？ / SD3.5使用教程，含ComfyUI工作流与整合包 | 18:44 | [link](https://www.bilibili.com/video/BV1XCmyYME4c) |
+| 2748 | - | - | 8倍加速，低配福音！笔记本跑出“4090级”速度？AI绘图门槛大幅降低，ComfyUI Nunchaku节点详解，四位量化的FLUX模型究竟有多快？/ 含工作流 | 12:37 | [link](https://www.bilibili.com/video/BV16WKwzTExU) |
+| 2749 | - | - | 一句话修出创意大片，摄影界的“ChatGPT”有多强？零基础小白也能玩的AI摄影生成器，超能画布入门教程，AI绘画应用实践 | 13:11 | [link](https://www.bilibili.com/video/BV1xC411H7NH) |
+| 2750 | - | - | 重磅黑科技！让照片“开口说话”，这项AI技术终于可以用了！阿里EMO正式开放，一键同步音频表情、眼神、嘴型，还能唱歌、RAP？新一代AI“数字人”使用教程 | 3:04 | [link](https://www.bilibili.com/video/BV1AF4m1A7kX) |
+| 2751 | - | - | 可能是全世界最会做设计的AI！3秒一张海报，文案全自动排版，还能做Logo和UI！Ideogram2.0使用教程：最强平面设计大模型，连FLUX都“甘拜下风”！ | 17:23 | [link](https://www.bilibili.com/video/BV1De2uYeEtK) |
+| 2752 | - | - | 如何将ComfyUI工作流变成月入$1000的AI图像“App”（零代码）/ ShellAgent入门教程 · AI Agent Bot手把手搭建教学 | 22:54 | [link](https://www.bilibili.com/video/BV16qQRYoE1r) |
+| 2753 | - | - | 用嘴改图的AI神器！效率秒杀Photoshop，“开源版”GPT4o来了？ICEdit实测与教程：通过FLUX Fill实现定向编辑 / 含ComfyUI工作流 | 8:55 | [link](https://www.bilibili.com/video/BV1bNEvzrEn1) |
+| 2754 | - | - | 二次元角色“穿越”现实世界，5种整活玩法，这个AI太强了！Vidu Q1参考生视频教程：AI动画/视频生成如何保证人物角色一致性？ | 5:02 | [link](https://www.bilibili.com/video/BV1vv32zNERc) |
+| 2755 | - | - | 一句话搞定全套海报+Logo全案+电商合成图！星流Agent全方位使用教程 / Lovart“中文版”开放使用！无需邀请码！ | 19:33 | [link](https://www.bilibili.com/video/BV1Eb8XzuEqC) |
+| 2756 | - | - | 0代码开发AI应用，一句话生成完整App！ShellAgent 2.0使用教程：全球首个“Text 2 App”工具，靠自然语言做完全套开发工作？ | 5:51 | [link](https://www.bilibili.com/video/BV1yNt3zdEHu) |
+| 2757 | - | - | 0 基础 22 分钟速通大模型应用：无痛学会DeepSeek+ChatGPT+一切AI对话软件，我为你总结了这四大“必备场景”—— | 22:31 | [link](https://www.bilibili.com/video/BV1J5TfzYEuk) |
+| 2758 | - | - | 拳打PS Beta，SD Web UI最强“替代品”，Invoke AI竟然这么好用！开源免费可商用，内附安装教程与基本操作指南！/ AI绘画入门教程 | 16:22 | [link](https://www.bilibili.com/video/BV1xc411M7hp) |
+| 2759 | - | - | 超详细云端部署Stable Diffusion教程！100%还原本地操作，免费试用3个月，自由切换模型、扩展，阿里云的函数计算太香了！/ 在线安装Web UI | 19:19 | [link](https://www.bilibili.com/video/BV19u411x7Bk) |
+| 2760 | - | - | 一口气实测SD+FLUX+DeepSeek，RTX 50系显卡AI绘图/视频/LLM性能全方位测试！—— 5070Ti&70&80&5090D AIGC速度测评 | 15:00 | [link](https://www.bilibili.com/video/BV1av9oY9Ez2) |
+| 2761 | - | - | 1秒6张图，比4090快1.5倍？5090 D & 5080 AI画图速度测评 /  RTX 50系显卡上手体验 / Stable Diffusion/FLUX | 10:35 | [link](https://www.bilibili.com/video/BV1vCFLefE94) |
+| 2762 | - | - | 首个40系SUPER显卡“AI评测”：速度提升50%？生成视频也很快！Stable Diffusion 绘画 & SVD动画性能实测 70S/70TiS/80S | 10:51 | [link](https://www.bilibili.com/video/BV1Yx4y1Z7xk) |
+| 2763 | - | - | AI绘画的“显存杀手”？5块全新40系显卡怒测“最强开源大模型”——Stable Diffusion XL效率测试&使用技巧，SDXL低显存Web UI优化指南 | 14:57 | [link](https://www.bilibili.com/video/BV1MG411R7XQ) |
+| 2764 | - | - | 显卡速度翻3倍，AI绘画进入“秒速时代”？Stable Diffusion究极加速插件，NVIDIA TensorRT扩展安装与使用全方位教程 | 16:11 | [link](https://www.bilibili.com/video/BV1Lv411F7Rr) |
+| 2765 | - | - | 国产显卡到底能不能跑AI？摩尔线程MTT S4000 GPU“云”实测，ComfyUI / SD / 混元3D都能用！ | 7:55 | [link](https://www.bilibili.com/video/BV11buJzqEm9) |
+| 2766 | - | - | 大概是站内第一个SORA系统实操教程：SORA全功能讲解+分析！【OpenAI发布全新视频生成模型】 | 14:15 | [link](https://www.bilibili.com/video/BV1HZqkYREmx) |
+| 2767 | - | - | 一口气入门AI视频：3大主流路径与30个热门工具，全面分析AI做视频的各种技巧！/  AI视频生成入门教程&软件盘点：图生视频、转绘、二创拥抱整活、数字人 … | 12:58 | [link](https://www.bilibili.com/video/BV1mJyTYEEPT) |
+| 2768 | - | - | 一线艺术家的AI短片工作流揭秘：“大佬”们这样用AI做视频！如何制作一个“商业级”的AI生成品牌宣传片？/ 七彩虹iGame Ultra Family主机 | 14:15 | [link](https://www.bilibili.com/video/BV1F8zBYLEKp) |
+| 2769 | - | - | 最强免费AI视频模型，颠覆后期剪辑素材行业！一张图生成视频空镜，Stable Video Diffusion（SVD）零基础上手使用教学 ComfyUI工作流 | 16:14 | [link](https://www.bilibili.com/video/BV1iZ421t7Ax) |
+| 2770 | - | - | AI视频时代的“开源先驱”：Sora来之前，你可以先掌握这些——AnimateDiff动画插件全方位教学，制作丝滑流畅动图！Stable Diffusion应用 | 18:11 | [link](https://www.bilibili.com/video/BV1zS421A7PG) |
+| 2771 | - | - | Deforum AI视频生成入门教程：打造过亿播放的爆款短视频，20分钟学会Stable Diffusion“瞬息全宇宙”！AI空间运镜无限穿越动画生成 | 19:51 | [link](https://www.bilibili.com/video/BV1Fy421v7SB) |
+| 2772 | - | - | 15分钟入门AI动画！Mov2Mov零基础教学，用Stable Diffusion生成酷炫逐帧重绘动画短视频，开启低成本动画时代 / 扩展插件教程 | 16:48 | [link](https://www.bilibili.com/video/BV1Su411b7Nm) |
+| 2773 | - | - | 10倍效率，打造无闪烁丝滑AI动画！EbSynth插件全流程操作解析与原理分析，超智能的“补帧”动画制作揭秘！/ Stable Diffusion扩展插件教程 | 18:35 | [link](https://www.bilibili.com/video/BV1uX4y1H7U3) |
+| 2774 | - | - | 可能是目前最适合小白的AI视频工具：免费、不限次数，一键扩写脚本，还能自动“配音”？阿里通义万相模型测评 / AI做视频的软件工具入门教程 | 6:38 | [link](https://www.bilibili.com/video/BV1M9tnevEBh) |
+| 2775 | - | - | 2天用AI做完一个“商业级"广告？5090D首发宣传片“AI版”工作流分享！ / AIGC短片幕后分享 & AI生成视频教程 / 华硕RTX 5090D显卡 | 10:24 | [link](https://www.bilibili.com/video/BV1RkfEYAEyj) |
+| 2776 | - | - | 全站首个【教程】工作流分享！百万播放的系列课是如何诞生的？策划剪辑视频后期全流程揭秘，学AI绘画一定看过这套Stable Diffusion入门课—— | 15:33 | [link](https://www.bilibili.com/video/BV14X4y1p7A9) |
+| 2777 | - | - | 8年设计师，聊聊AI是怎么把我“取代”的：创意工作者如何面对AI浪潮？经历分享与职业建议 / ProArt创艺国度校园行分享记录 | 10:43 | [link](https://www.bilibili.com/video/BV1TR1aYxEYM) |
+| 2778 | - | - | 我一臭打游戏的，AI革命和我有啥关系？ | 13:42 | [link](https://www.bilibili.com/video/BV1Ai421a7ns) |
+| 2779 | - | - | 全 世 界 都 在 学 A I 绘 画 —— | 5:57 | [link](https://www.bilibili.com/video/BV16u411j7u3) |
+| 2780 | - | - | 我在WAIC见到了马斯克和Stable Diffusion的创始人！聊大模型、AI应用的未来、AI焦虑？探秘2023世界人工智能大会—— | 7:17 | [link](https://www.bilibili.com/video/BV1rh4y1f7XJ) |
+| 2781 | - | - | B站第一套系统的AI绘画课！零基础学会Stable Diffusion，这绝对是你看过的最容易上手的AI绘画教程 / SD WebUI 保姆级攻略 | 17:53 | [link](https://www.bilibili.com/video/BV1As4y127HW) |
+| 2782 | - | - | 20分钟搞懂Prompt与参数设置，你的AI绘画“咒语”学明白了吗？ / 零基础入门Stable Diffusion·保姆级新手教程 / Prompt关键词教学 | 19:02 | [link](https://www.bilibili.com/video/BV12X4y1r7QB) |
+| 2783 | - | - | 打破次元壁！用AI“重绘”照片和CG，效果惊艳到我了—— / Stable Diffusion图生图零基础入门·保姆级新手教程 / AI漫画特效&赛博Coser | 11:53 | [link](https://www.bilibili.com/video/BV1Lh411u7vs) |
+| 2784 | - | - | AI绘画模型新手包！“画风”自由切换，有哪些你不知道的模型使用技巧？ / 零基础入门Stable Diffusion的保姆级新手教程 / SD模型下载方式与推荐 | 17:06 | [link](https://www.bilibili.com/video/BV1Us4y117Rg) |
+| 2785 | - | - | 拒绝低质量出图！3种快速提高AI绘画分辨率的方式，十分钟讲完！/ StableDiffusion WebUI 保姆级攻略·高清修复优化细节无损放大教程 | 11:57 | [link](https://www.bilibili.com/video/BV11m4y12727) |
+| 2786 | - | - | Embeddings是啥？怎么用？三大AI绘画高级模型概念解析，懂了才是真高手！/ StableDiffusion保姆级教程·模型原理解析及应用 | 13:50 | [link](https://www.bilibili.com/video/BV1th4y1p7fH) |
+| 2787 | - | - | AI绘画的救星！定向修手修脸，手把手教你玩转局部重绘！/ StableDiffusion WebUI 保姆级教程·inPainting功能详解·含PS操作 | 15:23 | [link](https://www.bilibili.com/video/BV1uL411e7Uk) |
+| 2788 | - | - | 新手入门：如何在SD里安装扩展插件？ / StableDiffusion教程 拓展（Extensions）的安装与应用 | 3:37 | [link](https://www.bilibili.com/video/BV1hz4y1a76M) |
+| 2789 | - | - | LoRA从原理到实践，零基础打造赛博Coser、一键更换服饰，无所不能！5大应用方向剖析 & 保姆级讲解！Stable Diffusion AI绘画 | 24:28 | [link](https://www.bilibili.com/video/BV1nL411B7XT) |
+| 2790 | - | - | 30分钟零基础掌握ControlNet！绝对是你看过最好懂的控制网原理分析 / 基本操作、插件安装与5大模型应用 · Stable Diffusion教程 | 30:01 | [link](https://www.bilibili.com/video/BV1Ds4y1e7ZB) |
+| 2791 | - | - | Multi Diffusion + Tiled VAE + ControlNet Tile模型，低显存打造AI绘画超高清6K分辨率体验！SD扩展插件教程 | 16:21 | [link](https://www.bilibili.com/video/BV1Su4y1d7Dp) |
+| 2792 | - | - | “牛逼”的教程来了！一次学会AI二维码+艺术字+光影光效+创意Logo生成，绝对是B站最详细的Stable Diffusion特效设计流程教学！AI绘画进阶应用 | 16:56 | [link](https://www.bilibili.com/video/BV1gX4y1J7ei) |
+| 2793 | - | - | AI打开新世界大门！立绘一键“真人化”，还能换皮肤！ControlNet LineArt 线稿上色+换装换背景，Stable Diffusion系统教程 | 15:41 | [link](https://www.bilibili.com/video/BV1oB4y1R7Ms) |
+| 2794 | - | - | AI再进化，这次竟然学会摄影了！一秒生成胶片风、拍立得，还能智能“修脸”！Stable Diffusion AI绘画真实系人像模型+LoRA推荐 | 12:42 | [link](https://www.bilibili.com/video/BV1DP41167bZ) |
+| 2795 | - | - | 我用AI修复了50年前的亚运会老照片！Stable Diffusion智能上色+高清修复教程！StableSR + ControlNetTile&Recolor | 20:30 | [link](https://www.bilibili.com/video/BV1mm4y1575y) |
+| 2796 | - | - | 一秒打通PS+SD！AI功能免费“平替”，还支持ControlNet？Auto Stable Diffusion Photoshop插件教程，释放轻薄本AI潜力 | 16:50 | [link](https://www.bilibili.com/video/BV1Zj411h7od) |
+| 2797 | - | - | AI一键调光布景，这个开源神器改变了摄影和设计！IC-Light教程，全自动融图调色，附一键包+ComfyUI工作流+SD Forge插件 / 华硕天选Air | 14:32 | [link](https://www.bilibili.com/video/BV1Yy411e7y1) |
+| 2798 | - | - | 5秒生成一张分图层AI素材，“抠图”已成过去式？设计师的免费PNG“素材库”！ControlNet作者新作，Layer Diffusion生成免抠AI绘图素材！ | 15:56 | [link](https://www.bilibili.com/video/BV1Xq421F7Ny) |
+| 2799 | - | - | 8张照片训练个人LoRA，一分钱不花打造“AI写真”？Stable Diffusion EasyPhoto扩展插件教程，轻松训练AI绘画人脸模型 | 18:49 | [link](https://www.bilibili.com/video/BV1b8411k7fb) |
+| 2800 | - | - | 靠AI开一家服装店？超详细AI衣服款式设计+“AI模特”换装教程 / Stable Diffusion商业落地实践&男女装电商应用，一秒生成“摄影级”产品图 | 21:00 | [link](https://www.bilibili.com/video/BV1994y1W7Tg) |
+| 2801 | - | - | 一流模型！10个高手都在用的二次元插画绘画风大模型推荐，内附模型下载渠道与出图参数提示词关键词模版 / AI绘画 · StableDiffusion | 13:13 | [link](https://www.bilibili.com/video/BV1Us4y1M7x4) |
+| 2802 | - | - | 关于SDXL 1.0，这个视频里有你想知道的全部 / 15分钟全面解读，AI绘画即将迎来“新时代”？Stable Diffusion XL大模型安装及使用教程 | 15:06 | [link](https://www.bilibili.com/video/BV1TM4y1p7RJ) |
+| 2803 | - | - | 手稿变动画，AI生成3D贴图，艺术家手里的Stable Diffusion把我惊呆了！SD进阶工作流分享，强势辅助插画线稿上色+Blender建模！ | 11:58 | [link](https://www.bilibili.com/video/BV1ma4y1z7Cs) |
+| 2804 | - | - | B站第一套系统的AI绘画模型训练课程！零基础入门“炼丹”，制作属于你的SD模型！模型微调（Dreambooth、LoRA、Embedding）原理分析教学 | 23:19 | [link](https://www.bilibili.com/video/BV1TK411v7Jw) |
+| 2805 | - | - | 60分钟速通LORA训练！绝对是你看过最好懂的AI绘画模型训练教程！StableDiffusion超详细训练原理讲解+实操教学，LORA参数详解与训练集处理技巧 | 62:28 | [link](https://www.bilibili.com/video/BV16e411e7Zx) |
+| 2806 | - | - | 照片发光了！超详细的PS光感设计教程：一个“发光”小技巧，让你的设计不再普通 / PS视觉合成教程，照片修图后期讲解！ | 16:47 | [link](https://www.bilibili.com/video/BV1tq4y1P7Nk) |
+| 2807 | - | - | 无需3D建模，用PS制作一个梦幻宇宙星球，简单几步就能搞定 / Photoshop视觉合成教程系列 | 19:14 | [link](https://www.bilibili.com/video/BV1JL4y1W7At) |
+| 2808 | - | - | 视觉效果拉满！这个PS教程，教你轻松设计“赛博朋克”的科幻光环效果！（适合海报设计/摄影后期修图）/ Photoshop视觉合成系列设计课 | 18:57 | [link](https://www.bilibili.com/video/BV1844y1a7ty) |
+| 2809 | - | - | 用AI制作一个酷炫的三维文字环绕效果（科幻感光环合成补充教程） /  PS视觉合成系列 For 平面设计 & 摄影后期修图 By Nenly | 8:58 | [link](https://www.bilibili.com/video/BV1LR4y1W7Zm) |
+| 2810 | - | - | 使用Photoshop，为你的照片添加闪亮的夜景光斑效果 / PS设计课：视觉合成系列教程（适用于海报设计、摄影后期修图等） | 10:25 | [link](https://www.bilibili.com/video/BV1hg411w7k3) |
+| 2811 | - | - | 用PS设计梦幻的后期夜景光照效果（补充教程）/ PS设计课：视觉合成系列教程（适用于海报设计、摄影后期修图等） | 11:14 | [link](https://www.bilibili.com/video/BV1nq4y127LN) |
+| 2812 | - | - | PS合成技巧：在高速公路上划船的“秘笈”！巧妙融合马路与水面—— / Photoshop视觉合成系列 | 3:13 | [link](https://www.bilibili.com/video/BV1Yr4y1J7MR) |
+| 2813 | - | - | 如何利用PS制作漫画风人像手绘效果？ / 3分钟PS小技巧 | 3:17 | [link](https://www.bilibili.com/video/BV11V411n75u) |
+| 2814 | - | - | 文字消失术！如何用PS制作酷炫的文字粒子消散效果？/ 设计案例教程 Daily Poster 海报设计第2期 | 15:20 | [link](https://www.bilibili.com/video/BV1wA411A7uN) |
+| 2815 | - | - | 三步，用PS制作一个立体金属文字，十分钟一定能让你学会 / Photoshop文字设计教程 | 13:23 | [link](https://www.bilibili.com/video/BV113411i76R) |
+| 2816 | - | - | 这么甜的文字设计，是我能用PS做出来的吗？不用怀疑，三步搞定一个“果冻文字”，你上你也行 / 字体效果设计系列，Photoshop教程，设计公开课 | 15:49 | [link](https://www.bilibili.com/video/BV1934y1S75B) |
+| 2817 | - | - | 太酷炫了！用PS打造一个霓虹灯文字效果，这个教程15分钟一定能教会你 / Photoshop技巧教学，字效设计系列 & 视觉设计 | 17:23 | [link](https://www.bilibili.com/video/BV1bq4y1K79B) |
+| 2818 | - | - | 全自动操作，三步实现“故障风”的PS文字效果，你能做到吗？（内附Photoshop源文件，可一键替换文字内容） | 17:21 | [link](https://www.bilibili.com/video/BV1n44y1t768) |
+| 2819 | - | - | PS教程：制作一个可口又可爱的“曲奇饼干”文字效果，简单清晰，你也能学会 / Photoshop字效设计系列，平面海报设计 | 16:47 | [link](https://www.bilibili.com/video/BV1wq4y157zm) |
+| 2820 | - | - | 用PS一键生成3D透视立体文字，十分钟教程，五分钟操作 / Photoshop字体效果设计系列 | 11:56 | [link](https://www.bilibili.com/video/BV1bR4y1t7Yn) |
+| 2821 | - | - | 用PS制作一个炫彩油漆笔刷字，这是为你准备的详细教程—— / Photoshop字体效果设计系列 | 16:37 | [link](https://www.bilibili.com/video/BV1Aq4y1r7qb) |
+| 2822 | - | - | PS教程：我的文字设计是用雪“堆”起来的，你的呢？这个“冰雪文字”，超适合你的圣诞海报设计 —— Photoshop字体效果设计课 | 15:05 | [link](https://www.bilibili.com/video/BV1iY411p75L) |
+| 2823 | - | - | PS教程来了！超酷炫的迷幻流体渐变文字，10分钟教你学会搞定！潮到爆炸的“酸性”风，少不了这个设计—— / PS字体效果系列免费教程 | 12:01 | [link](https://www.bilibili.com/video/BV1GF411i77d) |
+| 2824 | - | - | PS教程：三步打造潮到爆炸的酸性镀铬文字效果设计！适用于酷炫的海报、视觉设计 / Photoshop字体效果设计系列 By Nenly | 9:47 | [link](https://www.bilibili.com/video/BV1Yr4y1B7AP) |
+| 2825 | - | - | 酸性热成像风格文字设计，用PS三步搞定 / Photoshop字体设计系列课 / 酸性潮流设计 / 适用于海报、视觉设计 | 4:49 | [link](https://www.bilibili.com/video/BV1k541127TE) |
+| 2826 | - | - | 游戏秒变“8-Bit”像素风？这两个方法，你该学起来了！一期复古像素风PS视觉设计效果教程（适用于插画、摄影、后期） / Photoshop视觉设计课 | 12:41 | [link](https://www.bilibili.com/video/BV1Ve4y1X7CL) |
+| 2827 | - | - | PS教程：设计三步变“燃”，从图层样式和混合模式开始 —— Photoshop字体效果设计系列课 / 适用于海报设计、特效制作 | 8:00 | [link](https://www.bilibili.com/video/BV19a411Y7pq) |
+| 2828 | - | - | 【PS教程】你要的小清新，靠植物的神奇“穿插”来实现—— / Photoshop视觉设计系列 / 文艺风海报标题设计 | 7:43 | [link](https://www.bilibili.com/video/BV1B94y11764) |
+| 2829 | - | - | 酷炫、高级的魔法烟雾效果，用PS两步轻松搞定 / Photoshop视觉设计系列 / 适用于海报主视觉 & 字体设计等 | 7:05 | [link](https://www.bilibili.com/video/BV1nN4y1j7QJ) |
+| 2830 | - | - | 设计怎么“找素材”？适合新手的素材搜索“2步法”，高效收获对口的设计素材——（素材搜索教程，内附各类型素材网站推荐） | 5:59 | [link](https://www.bilibili.com/video/BV1Qq4y1h7YH) |
+| 2831 | - | - | 第1课：新手上路，如何挑选适合自己的PS软件版本？ / Photoshop百科全书 · PS教程系列公开课 · 零基础入门学设计 | 3:46 | [link](https://www.bilibili.com/video/BV1xT4y1S7CK) |
+| 2832 | - | - | 第2课：新手必看！如何获取最新版本的PS软件资源？（内附2022版安装包地址）/ Photoshop百科全书 · PS教程系列公开课 · 零基础入门学设计 | 2:35 | [link](https://www.bilibili.com/video/BV11q4y1479F) |
+| 2833 | - | - | 一秒修复照片！移除人像、修补裂痕、去除污渍，PS自带的这四大“黑科技”工具，99%的人都没打开用过—— / Photoshop百科全书 · PS教程系列公开课 | 5:23 | [link](https://www.bilibili.com/video/BV1Xr4y1B7J6) |
+| 2834 | - | - | 用PS，在云端与超级月亮共舞  /  Photoshop视觉合成流程拆解 · 第001期（三连过百出教程） | 2:25 | [link](https://www.bilibili.com/video/BV1sS4y1e78q) |
+| 2835 | - | - | PS深度映射，打造酷炫的星空螺旋视觉效果 / Photoshop教程，设计过程快放 & 作品展示 | 0:43 | [link](https://www.bilibili.com/video/BV1ev411Y7dA) |
+| 2836 | - | - | 如何用PS设计一个“饼干字”标题？展示一下操作流程 / Photoshop教学设计流程快放 | 1:01 | [link](https://www.bilibili.com/video/BV14A411K7ox) |
+| 2837 | - | - | PS视觉合成效果教程：如何设计一只瓶中的鲸鱼？设计全过程展示—— | 1:02 | [link](https://www.bilibili.com/video/BV1ZX4y1G7D7) |
+| 2838 | - | - | 用PS设计一张“月球表面”质感的海报，没有素材，自己动手做 / PS设计过程快放 & 作品展示 | 4:49 | [link](https://www.bilibili.com/video/BV1Mf4y167GS) |
+| 2839 | - | - | PS置换滤镜设计人脸文字海报，超级有艺术感的设计手法！（全流程展示） | 0:54 | [link](https://www.bilibili.com/video/BV1Hy4y1a7eb) |
+| 2840 | - | - | 如何用PS制作一个创意“传送门”？设计全过程来了 / Photoshop视觉合成教程 | 9:04 | [link](https://www.bilibili.com/video/BV1qA411M7Yi) |
+| 2841 | - | - | 如何用PS制作一张酷炫的渐变Photoshop人像海报？模仿练习——视觉与版式设计 / Daily Poster | 10:00 | [link](https://www.bilibili.com/video/BV183411q7hp) |
+| 2842 | - | - | 1986卫报广告：《视角》The Guardian's 1986 'Points of view' advert | 0:30 | [link](https://www.bilibili.com/video/BV1Er421L7ac) |
+| 2843 | - | - | 判断英语权重的正确逻辑 | 5:49 | [link](https://www.bilibili.com/video/BV1MBao6xE3Q) |
+| 2844 | - | - | 晶格玻尔兹曼方法LBM01-宏观，微观，介观 | 14:52 | [link](https://www.bilibili.com/video/BV192SDBoEnu) |
+| 2845 | - | - | 晶格玻尔兹曼方法LBM02-连续介质流体力学复习 | 27:17 | [link](https://www.bilibili.com/video/BV1U9dJBVE3s) |
+| 2846 | - | - | 晶格玻尔兹曼方法LBM03-玻尔兹曼方程 | 25:36 | [link](https://www.bilibili.com/video/BV1sGocBpEZJ) |
+| 2847 | - | - | 晶格玻尔兹曼方法LBM04-分布函数的矩 | 16:08 | [link](https://www.bilibili.com/video/BV1DwRCBGE4H) |
+| 2848 | - | - | 晶格玻尔兹曼方法LBM05-从玻尔兹曼方程推导宏观方程 | 30:17 | [link](https://www.bilibili.com/video/BV1HhR4BEETQ) |
+| 2849 | - | - | 晶格玻尔兹曼方法LBM06-BGK近似，局部平衡分布函数 | 25:22 | [link](https://www.bilibili.com/video/BV1qsVF6AEbr) |
+| 2850 | - | - | 晶格玻尔兹曼方法LBM07-局部平衡分布函数的矩 | 46:07 | [link](https://www.bilibili.com/video/BV1PFJH6pEmZ) |
+| 2851 | - | - | 晶格玻尔兹曼方法08-从BE恢复NSE | 38:27 | [link](https://www.bilibili.com/video/BV1iP756mEdR) |
+| 2852 | - | - | 特征值与特征向量01-基本知识复习 | 10:49 | [link](https://www.bilibili.com/video/BV1mKNTzFEmY) |
+| 2853 | - | - | 行列式01-行列式计算1 | 14:20 | [link](https://www.bilibili.com/video/BV1W9c5ziERw) |
+| 2854 | - | - | 线性映射01-基本知识复习与简单练习 | 12:11 | [link](https://www.bilibili.com/video/BV1Pui2B8EhV) |
+| 2855 | - | - | 行空间01-寻找子空间的基1 | 18:16 | [link](https://www.bilibili.com/video/BV15kiuBGEas) |
+| 2856 | - | - | 向量空间的基01-基本知识复习与简单练习 | 15:11 | [link](https://www.bilibili.com/video/BV1RQBUBxEMn) |
+| 2857 | - | - | 向量空间01-基本知识复习 | 8:49 | [link](https://www.bilibili.com/video/BV1SPUSBCErf) |
+| 2858 | - | - | 初等矩阵与可逆矩阵01-基本知识复习与简单练习 | 14:14 | [link](https://www.bilibili.com/video/BV14F1sBbEh4) |
+| 2859 | - | - | 线性方程组01-基本知识复习 | 11:38 | [link](https://www.bilibili.com/video/BV1N7ymBpENU) |
+| 2860 | - | - | 矩阵01-对称与反对称 | 17:05 | [link](https://www.bilibili.com/video/BV12JsqzhER1) |
+| 2861 | - | - | 复数与多项式01-基本运算性质 | 21:21 | [link](https://www.bilibili.com/video/BV1TZ4BzGEQk) |
+| 2862 | - | - | 域01-判断域1 | 36:18 | [link](https://www.bilibili.com/video/BV1e94JzwEgM) |
+| 2863 | - | - | 【淅沥橙基础数学精品】线性代数A（已完结） | 1750:32 | [link](https://www.bilibili.com/video/BV1HB4gzHE9o) |
+| 2864 | - | - | 数学分析一第1课-基本概念和简介 | 131:53 | [link](https://www.bilibili.com/video/BV1doPPzeEY5) |
+| 2865 | - | - | 数学分析一第2课-数列的极限性质 | 119:55 | [link](https://www.bilibili.com/video/BV1qRwAzFEdm) |
+| 2866 | - | - | 数学分析一第3课-数列审敛 | 175:28 | [link](https://www.bilibili.com/video/BV1BbA7zME5F) |
+| 2867 | - | - | 数学分析一第4课-子数列 | 174:39 | [link](https://www.bilibili.com/video/BV1NaX8BtEgL) |
+| 2868 | - | - | 数学分析一第5课-拓扑学简介，函数简介 | 180:55 | [link](https://www.bilibili.com/video/BV1CGS9BmEXD) |
+| 2869 | - | - | 数学分析一第6课-函数的极限 | 175:19 | [link](https://www.bilibili.com/video/BV1sf5y6rEmM) |
+| 2870 | - | - | 数学分析一第7课-连续函数 | 158:28 | [link](https://www.bilibili.com/video/BV1yhLw69Ese) |
+| 2871 | - | - | 数学分析一第8课-导数 | 145:05 | [link](https://www.bilibili.com/video/BV1ZuEm6jEDR) |
+| 2872 | - | - | 常微分方程ODE新版（一）：一阶方程 | 302:14 | [link](https://www.bilibili.com/video/BV1tCPpe2E7E) |
+| 2873 | - | - | 常微分方程ODE练习一：一阶方程 | 216:13 | [link](https://www.bilibili.com/video/BV12qotY6E55) |
+| 2874 | - | - | 常微分方程ODE02：n阶线性齐次方程的基本性质 | 101:54 | [link](https://www.bilibili.com/video/BV1hMRUYPEqA) |
+| 2875 | - | - | 常微分方程ODE03: 降阶法 | 41:02 | [link](https://www.bilibili.com/video/BV11hdSYcEjF) |
+| 2876 | - | - | 常微分方程ODE04：n阶线性常系数齐次方程 | 67:57 | [link](https://www.bilibili.com/video/BV1ni5EzrE7T) |
+| 2877 | - | - | 常微分方程ODE05: n阶线性常系数非齐次方程的待定系数法 | 104:42 | [link](https://www.bilibili.com/video/BV1nrGkzBEmm) |
+| 2878 | - | - | 常微分方程ODE06: 振子与共振 | 96:45 | [link](https://www.bilibili.com/video/BV1vqJez9Ehf) |
+| 2879 | - | - | 常微分方程ODE07: Euler方程 | 53:43 | [link](https://www.bilibili.com/video/BV1hZj9zcEAy) |
+| 2880 | - | - | 常微分方程ODE08: n阶线性非齐次方程：常数变易法 | 74:17 | [link](https://www.bilibili.com/video/BV1m6NxzUEMi) |
+| 2881 | - | - | 常微分方程ODE09: 一阶线性方程组简介 | 71:11 | [link](https://www.bilibili.com/video/BV132gHzoEPx) |
+| 2882 | - | - | 常微分方程ODE10: 求解一阶线性常系数方程组 | 129:01 | [link](https://www.bilibili.com/video/BV1MshAzQEBB) |
+| 2883 | - | - | ODE11-求解一阶线性常系数方程组练习 | 57:35 | [link](https://www.bilibili.com/video/BV1fehhzEEZ6) |
+| 2884 | - | - | ODE12-线性非齐次方程组 | 36:45 | [link](https://www.bilibili.com/video/BV1qyHnzbE6S) |
+| 2885 | - | - | 傅里叶级数和积分变换（一）：傅里叶级数 | 519:50 | [link](https://www.bilibili.com/video/BV1Nm4y1F7eW) |
+| 2886 | - | - | 傅里叶级数和积分变换（二）：傅里叶变换和拉普拉斯变换基础 | 482:26 | [link](https://www.bilibili.com/video/BV1bAqgYGENQ) |
+| 2887 | - | - | 复变函数新编集版（已完结） | 939:53 | [link](https://www.bilibili.com/video/BV1P44y1873i) |
+| 2888 | - | - | 多相流01-多相流简介和离散相基本性质 | 60:35 | [link](https://www.bilibili.com/video/BV1BS4y1A7Ej) |
+| 2889 | - | - | 多相流02-相间耦合 | 53:08 | [link](https://www.bilibili.com/video/BV16r4y1J74N) |
+| 2890 | - | - | 多相流03-相间耦合续 | 60:00 | [link](https://www.bilibili.com/video/BV1fB4y127xe) |
+| 2891 | - | - | 多相流04-单颗粒方程 | 72:11 | [link](https://www.bilibili.com/video/BV1eY411w7R3) |
+| 2892 | - | - | 多相流05-单颗粒能量守恒 | 46:00 | [link](https://www.bilibili.com/video/BV1fB4y1172k) |
+| 2893 | - | - | 多相流06-质量耦合 | 49:02 | [link](https://www.bilibili.com/video/BV1ER4y1N7fK) |
+| 2894 | - | - | 多相流07-曳力 | 73:33 | [link](https://www.bilibili.com/video/BV1WA4y1Q7A5) |
+| 2895 | - | - | 多相流08-曳力影响因素 | 69:25 | [link](https://www.bilibili.com/video/BV1r3411N7KM) |
+| 2896 | - | - | 多相流09-颗粒其他受力 | 75:37 | [link](https://www.bilibili.com/video/BV1ou411r7d2) |
+| 2897 | - | - | 气液界面流01-表面张力1 | 18:52 | [link](https://www.bilibili.com/video/BV13B4y1W7gM) |
+| 2898 | - | - | 气液界面流02-表面张力2 | 23:43 | [link](https://www.bilibili.com/video/BV1zr4y1M73A) |
+| 2899 | - | - | 气液界面流03-界面描述1 | 25:35 | [link](https://www.bilibili.com/video/BV1nY4y1J7ba) |
+| 2900 | - | - | 气液界面流04-界面描述2 | 35:56 | [link](https://www.bilibili.com/video/BV1CN41127Hy) |
+| 2901 | - | - | 气液界面流05-流动方程1 | 18:03 | [link](https://www.bilibili.com/video/BV1Ax4y1Z7qP) |
+| 2902 | - | - | 气液界面流06-流动方程2 | 21:41 | [link](https://www.bilibili.com/video/BV1NV41157G2) |
+| 2903 | - | - | 多分散多相流1-简介，NDF | 56:20 | [link](https://www.bilibili.com/video/BV1vT4y1y7dj) |
+| 2904 | - | - | 多分散多相流2-细颗粒的PBE | 40:15 | [link](https://www.bilibili.com/video/BV1GS4y157xy) |
+| 2905 | - | - | 多分散多相流3-细颗粒的PBE（续），气固流的KE | 56:14 | [link](https://www.bilibili.com/video/BV1s34y1y7yj) |
+| 2906 | - | - | 动力学01-向量 | 43:43 | [link](https://www.bilibili.com/video/BV1JZ4y1q7Ki) |
+| 2907 | - | - | 动力学02-运动学基础，切法坐标 | 54:43 | [link](https://www.bilibili.com/video/BV1234y157mF) |
+| 2908 | - | - | 动力学03-极坐标 | 52:32 | [link](https://www.bilibili.com/video/BV1qW4y1J7WC) |
+| 2909 | - | - | 动力学04-移动旋转坐标系 | 42:16 | [link](https://www.bilibili.com/video/BV1Ch4y1M71j) |
+| 2910 | - | - | 第二门计算机课-正课（完） | 748:34 | [link](https://www.bilibili.com/video/BV1RD4y1z7dy) |
+| 2911 | - | - | 第二门计算机课之UNIX | 114:15 | [link](https://www.bilibili.com/video/BV15N411F7T4) |
+| 2912 | - | - | 第二门计算机课之C语言（上） | 104:43 | [link](https://www.bilibili.com/video/BV1Mk4y1t7BD) |
+| 2913 | - | - | 第二门计算机课之C语言（下） | 138:40 | [link](https://www.bilibili.com/video/BV1a84y13728) |
+| 2914 | - | - | C++（1）：类 | 174:16 | [link](https://www.bilibili.com/video/BV1Mh4y1d7FN) |
+| 2915 | - | - | C++（2）：异常 | 62:41 | [link](https://www.bilibili.com/video/BV1Qu411p7tM) |
+| 2916 | - | - | C++（3）：OOP | 174:11 | [link](https://www.bilibili.com/video/BV12P411v7QM) |
+| 2917 | - | - | Python（上）：基础 | 123:13 | [link](https://www.bilibili.com/video/BV1eN41167dt) |
+| 2918 | - | - | Python（下）：OOP | 71:31 | [link](https://www.bilibili.com/video/BV1Ch411N7Cx) |
+| 2919 | - | - | 工程数学之格林函数解常微分方程 | 84:38 | [link](https://www.bilibili.com/video/BV1NM411B7PN) |
+| 2920 | - | - | 工程数学之渐进分析/摄动理论基础 | 159:05 | [link](https://www.bilibili.com/video/BV1EG4y1c735) |
+| 2921 | - | - | 湍流/紊流01-湍流基本性质，流体方程1 | 65:14 | [link](https://www.bilibili.com/video/BV1JL411A7cE) |
+| 2922 | - | - | 湍流/紊流02-流体方程2 | 53:09 | [link](https://www.bilibili.com/video/BV1gZ4y187JR) |
+| 2923 | - | - | 湍流/紊流03-统计描述1 | 41:41 | [link](https://www.bilibili.com/video/BV1WB4y1y7Ub) |
+| 2924 | - | - | 湍流/紊流04-统计描述2 | 27:18 | [link](https://www.bilibili.com/video/BV1RA4y1f7jp) |
+| 2925 | - | - | 湍流/紊流05-统计描述3 | 52:20 | [link](https://www.bilibili.com/video/BV1j3411P7h8) |
+| 2926 | - | - | 湍流/紊流06-统计描述4，湍流方程1 | 51:04 | [link](https://www.bilibili.com/video/BV12t4y1x7o7) |
+| 2927 | - | - | 湍流/紊流07-湍流方程2 | 40:55 | [link](https://www.bilibili.com/video/BV1Zr4y1x7cV) |
+| 2928 | - | - | 湍流/紊流08-湍流方程3，湍流尺度1 | 41:36 | [link](https://www.bilibili.com/video/BV1cY411c7Cd) |
+| 2929 | - | - | 湍流/紊流09-湍流尺度2 | 47:38 | [link](https://www.bilibili.com/video/BV1wF411V74G) |
+| 2930 | - | - | 湍流/紊流10-湍流尺度3 | 48:48 | [link](https://www.bilibili.com/video/BV1kY4y1x7zc) |
+| 2931 | - | - | 湍流/紊流11-湍流尺度4 | 42:21 | [link](https://www.bilibili.com/video/BV1Fd4y1o7At) |
+| 2932 | - | - | 湍流/紊流12-湍流尺度5 | 31:16 | [link](https://www.bilibili.com/video/BV1US4y1s7Bg) |
+| 2933 | - | - | 湍流/紊流13-湍流尺度6 | 52:11 | [link](https://www.bilibili.com/video/BV1bB4y157nB) |
+| 2934 | - | - | 拉普拉斯变换基础1 | 64:18 | [link](https://www.bilibili.com/video/BV1rZ4y1o7j4) |
+| 2935 | - | - | 拉普拉斯变换基础2 | 58:26 | [link](https://www.bilibili.com/video/BV1Zr4y1b73G) |
+| 2936 | - | - | 拉普拉斯变换基础3 | 51:16 | [link](https://www.bilibili.com/video/BV1RW4y127C5) |
+| 2937 | - | - | 拉普拉斯变换基础4 | 54:13 | [link](https://www.bilibili.com/video/BV1Lr4y177ga) |
+| 2938 | - | - | 【东方钢琴easy练习】永遠の巫女 | 1:42 | [link](https://www.bilibili.com/video/BV1vK411p7X9) |
+| 2939 | - | - | 【东方钢琴easy练习】遠野の森 | 1:16 | [link](https://www.bilibili.com/video/BV1tA411i7u3) |
+| 2940 | - | - | 【东方钢琴easy练习】妖々夢　～ Snow or Cherry Petal | 1:20 | [link](https://www.bilibili.com/video/BV1nv411q7Td) |
+| 2941 | - | - | 【东方钢琴练习】春色小径 ～ Colorful Path（节选） | 1:28 | [link](https://www.bilibili.com/video/BV1Pq4y1g7Qr) |
+| 2942 | - | - | 【东方钢琴easy练习】神は恵みの雨を降らす ～ Sylphid Dream | 1:43 | [link](https://www.bilibili.com/video/BV1FQ4y1P7ts) |
+| 2943 | - | - | 英文非小说评鉴：《公正》 | 12:41 | [link](https://www.bilibili.com/video/BV17K411V749) |
+| 2944 | - | - | 英文非小说评鉴：《心流》 | 8:55 | [link](https://www.bilibili.com/video/BV1G54y1r7b3) |
+| 2945 | - | - | 多项式1：余式定理，因式定理 | 9:12 | [link](https://www.bilibili.com/video/BV1VZ4y1u75m) |
+| 2946 | - | - | 多项式2：多项式求根 | 15:23 | [link](https://www.bilibili.com/video/BV1e54y1q72f) |
+| 2947 | - | - | 多项式3：多项式求根，韦达定理 | 13:43 | [link](https://www.bilibili.com/video/BV15f4y1R7qE) |
+| 2948 | - | - | 愉快学习的5条建议 | 9:21 | [link](https://www.bilibili.com/video/BV1Pt4y197ua) |
+| 2949 | - | - | 如何在word中打公式？ | 14:15 | [link](https://www.bilibili.com/video/BV1C4411q7LS) |
+| 2950 | - | - | The Willpower Instinct(《自控力》)精读-前言 | 98:54 | [link](https://www.bilibili.com/video/BV1tb41127KK) |
+| 2951 | - | - | The Willpower Instinct(《自控力》)精读-第一章：什么是自控力 | 207:03 | [link](https://www.bilibili.com/video/BV1pb411h7vY) |
+| 2952 | - | - | The Willpower Instinct(《自控力》)精读-第二章：自控力本能 | 259:59 | [link](https://www.bilibili.com/video/BV1xb411v7tm) |
+| 2953 | - | - | The Willpower Instinct(《自控力》)精读-第三章：自控力好似肌肉 | 204:11 | [link](https://www.bilibili.com/video/BV1wb411t7d3) |
+| 2954 | - | - | The Willpower Instinct(《自控力》)精读-第四章：“罪恶许可证” | 210:41 | [link](https://www.bilibili.com/video/BV1jb411L7TY) |
+| 2955 | - | - | The Willpower Instinct（《自控力》）精读第五章：欲望还是幸福？ | 192:58 | [link](https://www.bilibili.com/video/BV114411Y7r7) |
+| 2956 | - | - | The Willpower Instinct（自控力）第六章：What the Hell效应 | 156:18 | [link](https://www.bilibili.com/video/BV16J411A7Z4) |
+| 2957 | - | - | The Willpower Instinct（《自控力》）精读-第七章：卖未来 | 181:44 | [link](https://www.bilibili.com/video/BV1EE411B7Cg) |
+| 2958 | - | - | The Willpower Instinct（《自控力》）精读-第八章：自控力的感染性 | 151:22 | [link](https://www.bilibili.com/video/BV1zJ411Q7UM) |
+| 2959 | - | - | The Willpower Instinct（《自控力》）精读-第9、10章：“不要做”的局限性，结束语 | 156:51 | [link](https://www.bilibili.com/video/BV1YJ411q7k1) |
+| 2960 | - | - | 1_老奶奶学算法---两数之和 | 5:07 | [link](https://www.bilibili.com/video/BV1QeaP6EEiy) |
+| 2961 | - | - | 2_老奶奶学算法---字母异位词分组 | 6:52 | [link](https://www.bilibili.com/video/BV1oHhX6REKo) |
+| 2962 | - | - | 3_老奶奶学算法---最长连续序列 | 7:21 | [link](https://www.bilibili.com/video/BV1MBam6YE1E) |
+| 2963 | - | - | 4_老奶奶学算法---哈希表大总结 | 7:12 | [link](https://www.bilibili.com/video/BV1tram6aEFB) |
+| 2964 | - | - | 1_老奶奶学python---认知新帮手 | 2:24 | [link](https://www.bilibili.com/video/BV1m8uH6eEjE) |
+| 2965 | - | - | 2_老奶奶学python---会装东西的纸箱 | 3:44 | [link](https://www.bilibili.com/video/BV1dbu86TEpC) |
+| 2966 | - | - | 3_老奶奶学python---会开口问的帮手 | 3:16 | [link](https://www.bilibili.com/video/BV122u86REkY) |
+| 2967 | - | - | 4_老奶奶学python---会拿主意的帮手 | 3:42 | [link](https://www.bilibili.com/video/BV1WVu86EE7Q) |
+| 2968 | - | - | 5_老奶奶学python---数一遍与干到收工 | 1:41 | [link](https://www.bilibili.com/video/BV1AVu86EEzE) |
+| 2969 | - | - | 6_老奶奶学python---货架装货 | 1:42 | [link](https://www.bilibili.com/video/BV1AVu86EEX3) |
+| 2970 | - | - | 7_老奶奶学python---纸条的更多招式 | 1:42 | [link](https://www.bilibili.com/video/BV1AVu86EEBV) |
+| 2971 | - | - | 8_老奶奶学python---小本本管货 | 2:01 | [link](https://www.bilibili.com/video/BV1AVu86EEbZ) |
+| 2972 | - | - | 9_老奶奶学python---总结课(一)：会装会想 | 1:44 | [link](https://www.bilibili.com/video/BV1WVu86EEc8) |
+| 2973 | - | - | 10_老奶奶学python---菜谱干货 | 1:54 | [link](https://www.bilibili.com/video/BV1K3uu6FEYy) |
+| 2974 | - | - | 11_老奶奶学python---模具做货 | 2:17 | [link](https://www.bilibili.com/video/BV1x3uu6FEUd) |
+| 2975 | - | - | 12_老奶奶学python---帮手摔倒也不慌 | 2:34 | [link](https://www.bilibili.com/video/BV1x3uu6FEeK) |
+| 2976 | - | - | 13_老奶奶学python---借领居家工具箱 | 2:32 | [link](https://www.bilibili.com/video/BV11guu6fEiq) |
+| 2977 | - | - | 14_老奶奶学python---记账本存档 | 2:36 | [link](https://www.bilibili.com/video/BV11Xtm6JEq9) |
+| 2978 | - | - | 15_老奶奶学python---大总结课：小帮手全能上岗 | 2:40 | [link](https://www.bilibili.com/video/BV1CLuu6xEZ4) |
+| 2979 | - | - | 最优化进阶---线性规划概述 | 61:35 | [link](https://www.bilibili.com/video/BV1o5UEBvENP) |
+| 2980 | - | - | 老奶奶学最优化---线性规划基础 | 7:20 | [link](https://www.bilibili.com/video/BV1Cgg16bEPo) |
+| 2981 | - | - | 老奶奶学最优化---单纯形法 | 6:26 | [link](https://www.bilibili.com/video/BV1Rxge6UE9E) |
+| 2982 | - | - | 老奶奶学最优化---对偶 | 6:09 | [link](https://www.bilibili.com/video/BV19G3u6LEuW) |
+| 2983 | - | - | 老奶奶学最优化---非单纯形法 | 4:55 | [link](https://www.bilibili.com/video/BV1T33G6CETZ) |
+| 2984 | - | - | 老奶奶学最优化---整数规划 | 4:57 | [link](https://www.bilibili.com/video/BV1WT376QEwK) |
+| 2985 | - | - | 写专利的周末 | 1:21 | [link](https://www.bilibili.com/video/BV1kZZ6YBExR) |
+| 2986 | - | - | 循环 | 0:20 | [link](https://www.bilibili.com/video/BV19TVczCESR) |
+| 2987 | - | - | 陈默的一天 | 0:26 | [link](https://www.bilibili.com/video/BV1yAo7BYEK7) |
+| 2988 | - | - | 最近工作 | 1:05 | [link](https://www.bilibili.com/video/BV1BmLP6DEoX) |
+| 2989 | - | - | 视觉主动跟随 | 0:38 | [link](https://www.bilibili.com/video/BV1aKLT6jEgp) |
+| 2990 | - | - | 轮臂视觉主动跟随（注意看机器人头） | 1:21 | [link](https://www.bilibili.com/video/BV1GPLT6mEw4) |
+| 2991 | - | - | 移动星厨 | 2:30 | [link](https://www.bilibili.com/video/BV1guLT65Etu) |
+| 2992 | - | - | 手臂驱动 | 0:28 | [link](https://www.bilibili.com/video/BV1gTLT61Ezi) |
+| 2993 | - | - | 星厨一代 | 2:50 | [link](https://www.bilibili.com/video/BV1VFLT6nEZf) |
+| 2994 | - | - | 全部功能集成 | 1:22 | [link](https://www.bilibili.com/video/BV15ZLK6QErr) |
+| 2995 | - | - | 日常 | 1:21 | [link](https://www.bilibili.com/video/BV1KgEc6cEC4) |
+| 2996 | - | - | 每次付完款就弹出，利用人手抖、消费习惯，消费心理学开通，然后关闭又贼费劲。 | 0:12 | [link](https://www.bilibili.com/video/BV1rWJu6jEZz) |
+| 2997 | - | - | vla 抓取和放置 | 0:53 | [link](https://www.bilibili.com/video/BV1we7x6oE8S) |
+| 2998 | - | - | 劝学 | 0:06 | [link](https://www.bilibili.com/video/BV1EuNJ6iEQF) |
+| 2999 | - | - | 自主作业 | 3:35 | [link](https://www.bilibili.com/video/BV1ubN96DEdj) |
+| 3000 | - | - | 《富爸爸穷爸爸》：财务状态分析图 | 4:16 | [link](https://www.bilibili.com/video/BV14WrGBSEDM) |
+| 3001 | - | - | 最优化基础---基本概念：凸优化、梯度、Jacobi矩阵、Hessian矩阵 | 68:53 | [link](https://www.bilibili.com/video/BV19M4y1n7M3) |
+| 3002 | - | - | 最优化基础---一维搜索(1)：暴力搜索法、区间消去法、黄金分割法和斐波那契法 | 87:17 | [link](https://www.bilibili.com/video/BV1ku411b7iZ) |
+| 3003 | - | - | 最优化基础---一维搜索(2)：二分法，牛顿法和割线法 | 30:49 | [link](https://www.bilibili.com/video/BV1Vh4y1E77d) |
+| 3004 | - | - | 最优化基础---一维搜索(3)：三点二次插值法 | 42:50 | [link](https://www.bilibili.com/video/BV16M4y1x7B8) |
+| 3005 | - | - | 最优化基础---非精确一维搜索：Armijo、Goldstein、Wolfe和强Wolfe条件；回溯法、内插公式和外插公式 | 65:01 | [link](https://www.bilibili.com/video/BV11X4y1E7yd) |
+| 3006 | - | - | 最优化基础---多维无约束优化方法(1)：方向导数和梯度、梯度下降法、最速下降法 | 58:31 | [link](https://www.bilibili.com/video/BV1gu41177ZZ) |
+| 3007 | - | - | 最优化基础---多维无约束优化方法(2)：牛顿法、Levenberg-Marquardt修正和高斯-牛顿法 | 52:35 | [link](https://www.bilibili.com/video/BV1mN4y1X7cP) |
+| 3008 | - | - | 最优化基础---多维无约束优化方法(3)：共轭向量及其性质、共轭方向法的基本原理、扩张子空间定理、共轭梯度法以及非二次型问题中的共轭梯度法 | 87:05 | [link](https://www.bilibili.com/video/BV1xu411T7XW) |
+| 3009 | - | - | 最优化基础---多维无约束优化方法(4)：拟牛顿法的引入、Hesse逆矩阵的近似、秩1修正公式、DFP算法和BFGS算法 | 62:31 | [link](https://www.bilibili.com/video/BV1ki421S7GH) |
+| 3010 | - | - | 非精确一维搜索octave代码实现 | 20:09 | [link](https://www.bilibili.com/video/BV1Di421v7Qq) |
+| 3011 | - | - | 最优化基础---求解线性方程组：概论、最小二乘法 | 14:19 | [link](https://www.bilibili.com/video/BV1ow4m1e7QC) |
+| 3012 | - | - | 最优化基础---求解线性方程组：递推最小二乘法 | 13:21 | [link](https://www.bilibili.com/video/BV1tz42187hd) |
+| 3013 | - | - | 最优化基础---求解线性方程组：最小范数解 | 20:41 | [link](https://www.bilibili.com/video/BV1ff421q7v5) |
+| 3014 | - | - | 最优化基础---求解线性方程组：Kaczmarz算法 | 29:52 | [link](https://www.bilibili.com/video/BV1RmyXYoEF2) |
+| 3015 | - | - | 最优化基础---求解线性方程组：一般意义下的方程组求解 | 22:24 | [link](https://www.bilibili.com/video/BV1zS6pYuEHR) |
+| 3016 | - | - | 一点点说明，2023年10月22日 | 11:21 | [link](https://www.bilibili.com/video/BV1u34y1u7yU) |
+| 3017 | - | - | 导数、梯度、雅可比矩阵、黑塞矩阵 | 1:10 | [link](https://www.bilibili.com/video/BV1iF41117ek) |
+| 3018 | - | - | 二分法、牛顿法、割线法 | 0:49 | [link](https://www.bilibili.com/video/BV1T841167Gn) |
+| 3019 | - | - | 暴力搜索法、区间消去法、黄金分割法、斐波拉契法 | 0:57 | [link](https://www.bilibili.com/video/BV1g94y1z7zu) |
+| 3020 | - | - | 三点二次插值法 | 1:11 | [link](https://www.bilibili.com/video/BV1np4y1L7RM) |
+| 3021 | - | - | Armijo条件、Goldstein条件、Wolfe和强Wolfe条件 | 1:18 | [link](https://www.bilibili.com/video/BV1AP411h7sY) |
+| 3022 | - | - | 方向导数和梯度 | 1:35 | [link](https://www.bilibili.com/video/BV1zj41147Ei) |
+| 3023 | - | - | 牛顿法、LM修正和高斯牛顿法 | 1:13 | [link](https://www.bilibili.com/video/BV1rw4m1S7bN) |
+| 3024 | - | - | 共轭向量、扩张子空间定理和共轭梯度法 | 1:14 | [link](https://www.bilibili.com/video/BV1m7421R7RA) |
+| 3025 | - | - | 拟牛顿法、黑塞矩阵逆矩阵近似、秩1、DFP和BFGS算法 | 1:23 | [link](https://www.bilibili.com/video/BV1Yy411z7Ei) |
+| 3026 | - | - | 【01】AI Infra最详细Profile教程—vllm 实现及优化 | 21:41 | [link](https://www.bilibili.com/video/BV16w316ZEyS) |
+| 3027 | - | - | 【02】vLLM实战项目代码，可秋招可实习用 | 5:04 | [link](https://www.bilibili.com/video/BV1keGP6UED9) |
+| 3028 | - | - | 【03】vllm系列之torch.profiler与compile详解 | 29:12 | [link](https://www.bilibili.com/video/BV1XhM96FEjH) |
+| 3029 | - | - | 手撕vLLM系列[4]：从自回归一路讲到多卡并行，全程附带性能分析与理论讲解 | 15:18 | [link](https://www.bilibili.com/video/BV1W2tn6zEjU) |
+| 3030 | - | - | 手撕vLLM系列[5]: V0版本自回归推理概述 | 8:12 | [link](https://www.bilibili.com/video/BV1kvtW6yEt8) |
+| 3031 | - | - | 手撕vLLM系列【6】：手把手教你vLLM环境搭建 | 8:52 | [link](https://www.bilibili.com/video/BV1Ebe36QEr3) |
+| 3032 | - | - | 手撕vLLM系列【7】：RMSNorm代码实现 | 12:58 | [link](https://www.bilibili.com/video/BV1QEek6fEeq) |
+| 3033 | - | - | 手撕vLLM系列【8】：Rotary 公式详解 | 6:08 | [link](https://www.bilibili.com/video/BV1She26TEeJ) |
+| 3034 | - | - | 手撕vLLM系列【9】：RoPE 50行代码极简实现！ | 19:55 | [link](https://www.bilibili.com/video/BV1eFe16zEBi) |
+| 3035 | - | - | 手撕vLLM系列【10】：Activation激活函数完整实现 | 5:54 | [link](https://www.bilibili.com/video/BV145e16FEBP) |
+| 3036 | - | - | 手撕vLLM系列【11】：Attention 50行代码高效实现 | 14:14 | [link](https://www.bilibili.com/video/BV16qeB6cEJn) |
+| 3037 | - | - | 从零到一：像刷力扣一样手撕100个AI Infra的Kernel算子（CUDA+Triton+Pytorch） | 4:41 | [link](https://www.bilibili.com/video/BV1qhDXBzEbA) |
+| 3038 | - | - | AI Infra的招聘要求以及学习路线 | 5:03 | [link](https://www.bilibili.com/video/BV1qKQGBtEDE) |
+| 3039 | - | - | 手撕AI Infra算子系列3：极速环境配置，20分钟学会！包你完全0报错！ | 20:54 | [link](https://www.bilibili.com/video/BV1VvQ3BSELZ) |
+| 3040 | - | - | 手撕AI Infra算子系列4：CUDA、Triton、Pytorch的前世今生 | 17:45 | [link](https://www.bilibili.com/video/BV147dYBLEi4) |
+| 3041 | - | - | 手撕AI Infra算子系列5：element wise算子详解（CUDA、Triton、Pytorch） | 20:27 | [link](https://www.bilibili.com/video/BV1L6oNBSEGc) |
+| 3042 | - | - | 手撕AI Infra算子系列6：工业级Element Wise是如何实现的？Oneflow详解 | 9:04 | [link](https://www.bilibili.com/video/BV1npovBCE1r) |
+| 3043 | - | - | 手撕AI Infra算子系列7：Matrix Addition详解。 | 11:26 | [link](https://www.bilibili.com/video/BV1PvoeB2E2h) |
+| 3044 | - | - | 手撕AI Infra算子系列8：颜色反转；详解View与Offset | 18:18 | [link](https://www.bilibili.com/video/BV1ono6BJEnt) |
+| 3045 | - | - | 手撕AI Infra算子系列9:Reduce的七种优化方法 | 23:21 | [link](https://www.bilibili.com/video/BV1cJdPBHEK2) |
+| 3046 | - | - | 手撕AI Infra算子系列10：英伟达官方reduce实现详解 | 18:51 | [link](https://www.bilibili.com/video/BV1wc5n6PEhQ) |
+| 3047 | - | - | 手撕AI Infra算子系列11：LeetGPU中的Reduce和Dot Product的代码实现 | 6:53 | [link](https://www.bilibili.com/video/BV1FS536zELn) |
+| 3048 | - | - | 手撕AI Infra算子系列12：Softmax详解+原理+论文+N种优化方法 | 17:39 | [link](https://www.bilibili.com/video/BV1tq5i69Epg) |
+| 3049 | - | - | 手撕AI Infra算子系列13：Scan算子详解+原理+代码+论文 | 12:39 | [link](https://www.bilibili.com/video/BV1K2Gq6SEvQ) |
+| 3050 | - | - | 手撕AI Infra算子系列14：BatchNorm/LayerNorm/RMSNorm理论解析 | 18:43 | [link](https://www.bilibili.com/video/BV1BKG76LEPM) |
+| 3051 | - | - | 手撕AI Infra算子系列15：Norm代码实现 | 24:50 | [link](https://www.bilibili.com/video/BV1fP7j6xEtN) |
+| 3052 | - | - | 手撕AI Infra算子系列16：矩阵乘法 | 26:30 | [link](https://www.bilibili.com/video/BV1c77L6ZE5b) |
+| 3053 | - | - | 手撕AI Infra算子系列18：别再背八股了！Transformer真的是一夜爆火吗？一文带你读懂Transformer的历史脉络！ALL才是论文的核心精华 | 26:11 | [link](https://www.bilibili.com/video/BV195Y16KEcg) |
+| 3054 | - | - | 北邮矩阵论期末复习——复习前的吐槽 | 1:37 | [link](https://www.bilibili.com/video/BV1v8qaBkEy7) |
+| 3055 | - | - | 范数理论 | 19:06 | [link](https://www.bilibili.com/video/BV1R8qaBkERy) |
+| 3056 | - | - | 范数习题 | 16:11 | [link](https://www.bilibili.com/video/BV1v8qaBkEUe) |
+| 3057 | - | - | 线性空间习题 | 17:26 | [link](https://www.bilibili.com/video/BV1njqrBVECz) |
+| 3058 | - | - | 线性空间习题 | 8:17 | [link](https://www.bilibili.com/video/BV1njqrBVE7C) |
+| 3059 | - | - | 北邮矩阵论对角化和Jordan | 14:31 | [link](https://www.bilibili.com/video/BV1Z8BMBEEoW) |
+| 3060 | - | - | 北邮矩阵论线性变换一 | 24:53 | [link](https://www.bilibili.com/video/BV1B8BMBEEbV) |
+| 3061 | - | - | 矩阵分析 | 10:09 | [link](https://www.bilibili.com/video/BV1QivQBpEWe) |
+| 3062 | - | - | 矩阵函数课后习题全讲 | 22:50 | [link](https://www.bilibili.com/video/BV113v9B7EWj) |
+| 3063 | - | - | LDU分解 | 4:42 | [link](https://www.bilibili.com/video/BV1SAv9BXEWE) |
+| 3064 | - | - | LU的Crout分解 | 6:02 | [link](https://www.bilibili.com/video/BV1UAv9BXEfs) |
+| 3065 | - | - | QR分解——施密特法 | 2:29 | [link](https://www.bilibili.com/video/BV1mKv9BDErD) |
+| 3066 | - | - | QR——Given变换 | 7:36 | [link](https://www.bilibili.com/video/BV1rnv9B3Evg) |
+| 3067 | - | - | QR分解——H分解 | 3:39 | [link](https://www.bilibili.com/video/BV13YicBjEYt) |
+| 3068 | - | - | 满秩分解 | 0:41 | [link](https://www.bilibili.com/video/BV1GhicBmEs1) |
+| 3069 | - | - | SVD分解 | 5:38 | [link](https://www.bilibili.com/video/BV1TCicBzEJm) |
+| 3070 | - | - | 广义逆1——投影变换 | 16:55 | [link](https://www.bilibili.com/video/BV1MWifBBEJN) |
+| 3071 | - | - | 广义逆矩阵求解 | 6:23 | [link](https://www.bilibili.com/video/BV1tyiZBNEnd) |
+| 3072 | - | - | 广义逆课后题 | 9:32 | [link](https://www.bilibili.com/video/BV18ziZBBEbm) |
+| 3073 | - | - | 欧式空间 | 6:27 | [link](https://www.bilibili.com/video/BV1VbqTBTEQg) |
+| 3074 | - | - | 欧式空间习题 | 5:38 | [link](https://www.bilibili.com/video/BV1bdqKBfEsC) |
+| 3075 | - | - | 考后碎碎念 | 1:10 | [link](https://www.bilibili.com/video/BV1X8iyBTEw6) |
+| 3076 | - | - | 重生之我学Rust | 20:37 | [link](https://www.bilibili.com/video/BV1ziDWYPEFQ) |
+| 3077 | - | - | 进阶学ES 03-04 ES基于python API实践-2 | 18:37 | [link](https://www.bilibili.com/video/BV12d4y1i7QU) |
+| 3078 | - | - | 《ROS 2机器人开发从入门到实践》 1.4.1 Linux终端基础操作 | 14:20 | [link](https://www.bilibili.com/video/BV1NE421w72J) |
+| 3079 | - | - | 《ROS 2机器人开发从入门到实践》 1.4.2 在Linux中安装软件 | 12:11 | [link](https://www.bilibili.com/video/BV1yr421M7ya) |
+| 3080 | - | - | 《ROS 2机器人开发从入门到实践》 1.4.3 在Linux中编写Python代码 | 14:37 | [link](https://www.bilibili.com/video/BV1vb421J7XZ) |
+| 3081 | - | - | 《ROS 2机器人开发从入门到实践》 1.4.4 在Linux中编写C++代码 | 15:19 | [link](https://www.bilibili.com/video/BV174421S73i) |
+| 3082 | - | - | 《ROS 2机器人开发从入门到实践》8.2.2搭建规划器插件框架（上） | 9:53 | [link](https://www.bilibili.com/video/BV1AdzVYnErk) |
+| 3083 | - | - | 《ROS 2机器人开发从入门到实践》8.2.2搭建规划器插件框架（下） | 8:59 | [link](https://www.bilibili.com/video/BV1EUB9YWERp) |
+| 3084 | - | - | 《ROS 2机器人开发从入门到实践》8.2.3实现自定义规划算法 | 8:27 | [link](https://www.bilibili.com/video/BV1jAzYYtEEH) |
+| 3085 | - | - | 《ROS 2机器人开发从入门到实践》8.2.4配置导航参数并测试 | 5:56 | [link](https://www.bilibili.com/video/BV1EHzpYvEQk) |
+| 3086 | - | - | 《ROS 2机器人开发从入门到实践》8.3.1自定义控制介绍 | 3:29 | [link](https://www.bilibili.com/video/BV1tb6FYsErH) |
+| 3087 | - | - | 《ROS 2机器人开发从入门到实践》8.3.2搭建控制器插件框架 | 12:52 | [link](https://www.bilibili.com/video/BV1HF6uYKEEH) |
+| 3088 | - | - | 《ROS 2机器人开发从入门到实践》8.3.3实现自定义控制算法 | 13:13 | [link](https://www.bilibili.com/video/BV1E8q5YgEo6) |
+| 3089 | - | - | 《ROS 2机器人开发从入门到实践》8.3.4配置导航参数并测试 | 9:38 | [link](https://www.bilibili.com/video/BV1qPqCYSEge) |
+| 3090 | - | - | 《ROS 2机器人开发从入门到实践》第九章 搭建一个实体移动机器人 | 6:17 | [link](https://www.bilibili.com/video/BV13AqZYmEs2) |
+| 3091 | - | - | 《ROS 2机器人开发从入门到实践》9.0.1FishBot两轮差速机器人组装教程 | 14:30 | [link](https://www.bilibili.com/video/BV17KkHYqEcZ) |
+| 3092 | - | - | 《ROS 2机器人开发从入门到实践》9.0.2 FishBot配置助手介绍与安装 | 11:16 | [link](https://www.bilibili.com/video/BV1MQkwYNEi4) |
+| 3093 | - | - | 《ROS 2机器人开发从入门到实践》9.0.3. 主控板固件烧录与配置 | 16:25 | [link](https://www.bilibili.com/video/BV1oAC5YJEdT) |
+| 3094 | - | - | 《ROS 2机器人开发从入门到实践》9.0.4使用ROS2键盘控制FishBot | 9:27 | [link](https://www.bilibili.com/video/BV1PqkdY5Ew8) |
+| 3095 | - | - | 《ROS 2机器人开发从入门到实践》9.0.5 雷达固件烧录及配置 | 11:26 | [link](https://www.bilibili.com/video/BV1GH63YfEq2) |
+| 3096 | - | - | 《ROS 2机器人开发从入门到实践》9.0.6雷达驱动及建图测试 | 8:19 | [link](https://www.bilibili.com/video/BV1HH6HYzErB) |
+| 3097 | - | - | 《ROS 2机器人开发从入门到实践》9.0.7 FishBot-Nav2导航测试 | 5:44 | [link](https://www.bilibili.com/video/BV1ePrFYvEvQ) |
+| 3098 | - | - | 《ROS 2机器人开发从入门到实践》9.1移动机器人系统设计 | 5:00 | [link](https://www.bilibili.com/video/BV1NyFNeEEAh) |
+| 3099 | - | - | 《ROS 2机器人开发从入门到实践》9.2.1开发平台介绍与安装 | 8:18 | [link](https://www.bilibili.com/video/BV1pLf2YxEzv) |
+| 3100 | - | - | 《ROS 2机器人开发从入门到实践》9.2.2 第一个HelloWorld工程 | 8:30 | [link](https://www.bilibili.com/video/BV11cPXeoEfg) |
+| 3101 | - | - | 《ROS 2机器人开发从入门到实践》9.2.3 使用代码点亮LED灯 | 6:03 | [link](https://www.bilibili.com/video/BV1FTNpeKEbG) |
+| 3102 | - | - | 《ROS 2机器人开发从入门到实践》9.2.4 使用超声波测量距离 | 8:46 | [link](https://www.bilibili.com/video/BV18FNbeNEE5) |
+| 3103 | - | - | 《ROS 2机器人开发从入门到实践》9.2.5 使用开源库驱动IMU | 9:47 | [link](https://www.bilibili.com/video/BV1LgN8ejEHG) |
+| 3104 | - | - | 《ROS 2机器人开发从入门到实践》9.3.1 使用开源库驱动多路电机 | 10:03 | [link](https://www.bilibili.com/video/BV1UiNmeHEe1) |
+| 3105 | - | - | 《ROS 2机器人开发从入门到实践》9.3.2 电动机速度测量与转换 | 16:33 | [link](https://www.bilibili.com/video/BV11ZNdeuEge) |
+| 3106 | - | - | 《ROS 2机器人开发从入门到实践》9.3.3 使用PID控制轮子转速 | 29:24 | [link](https://www.bilibili.com/video/BV137KPezEaH) |
+| 3107 | - | - | 《ROS 2机器人开发从入门到实践》9.3.4 运动学正逆解的实现 | 26:55 | [link](https://www.bilibili.com/video/BV1XwKTejE6V) |
+| 3108 | - | - | 《ROS 2机器人开发从入门到实践》9.3.5 机器人里程计计算 | 15:23 | [link](https://www.bilibili.com/video/BV1BJA5eTE9t) |
+| 3109 | - | - | 《ROS 2机器人开发从入门到实践》9.4.1 第一个节点 | 21:54 | [link](https://www.bilibili.com/video/BV1kQAqeCEE9) |
+| 3110 | - | - | 《ROS 2机器人开发从入门到实践》9.4.2 订阅话题控制机器人 | 13:07 | [link](https://www.bilibili.com/video/BV12rPue6EoY) |
+| 3111 | - | - | 《ROS 2机器人开发从入门到实践》9.4.3  发布机器人里程计话题 | 23:01 | [link](https://www.bilibili.com/video/BV15LPxeYEVp) |
+| 3112 | - | - | 《ROS 2机器人开发从入门到实践》9.5.1  驱动并显示雷达点云 | 10:30 | [link](https://www.bilibili.com/video/BV1JnPeewEQ5) |
+| 3113 | - | - | 《ROS 2机器人开发从入门到实践》9.5.2 移动机器人的坐标系框架介绍 | 4:41 | [link](https://www.bilibili.com/video/BV1QmP7eBEz2) |
+| 3114 | - | - | 《ROS 2机器人开发从入门到实践》9.5.3 准备机器人URDF | 8:17 | [link](https://www.bilibili.com/video/BV1Fk9AYnEg2) |
+| 3115 | - | - | 《ROS 2机器人开发从入门到实践》9.5.4 发布里程计TF | 4:56 | [link](https://www.bilibili.com/video/BV1Uq93YRE5T) |
+| 3116 | - | - | 《ROS 2机器人开发从入门到实践》9.5.5 完成机器人建图并保存地图 | 9:00 | [link](https://www.bilibili.com/video/BV1yVXXYbETt) |
+| 3117 | - | - | 《ROS 2机器人开发从入门到实践》9.5.6 完成机器人导航 | 7:27 | [link](https://www.bilibili.com/video/BV12L9hYrEkp) |
+| 3118 | - | - | 《ROS 2机器人开发从入门到实践》10.1.1 QoS策略介绍 | 9:04 | [link](https://www.bilibili.com/video/BV1EK9zYDE1s) |
+| 3119 | - | - | 《ROS 2机器人开发从入门到实践》10.1.2 QoS的兼容性 | 2:24 | [link](https://www.bilibili.com/video/BV1UH9ZYpEs6) |
+| 3120 | - | - | 《ROS 2机器人开发从入门到实践》10.1.3 Python QoS兼容性测试 | 8:13 | [link](https://www.bilibili.com/video/BV17ERKY4E5U) |
+| 3121 | - | - | 《ROS 2机器人开发从入门到实践》10.1.4 C++ QoS兼容性测试 | 6:10 | [link](https://www.bilibili.com/video/BV12m9mY9E8f) |
+| 3122 | - | - | 《ROS 2机器人开发从入门到实践》10.2.1 执行器与回调组介绍 | 6:01 | [link](https://www.bilibili.com/video/BV1ViRHYcEhj) |
+| 3123 | - | - | 《ROS 2机器人开发从入门到实践》10.2.2 在Python中使用回调组 | 9:33 | [link](https://www.bilibili.com/video/BV1sRRYY2Ecc) |
+| 3124 | - | - | 《ROS 2机器人开发从入门到实践》10.2.3 在C++中使用回调组 | 8:33 | [link](https://www.bilibili.com/video/BV17aR5YSE9G) |
+| 3125 | - | - | 《ROS 2机器人开发从入门到实践》10.3.1 生命周期节点介绍 | 9:15 | [link](https://www.bilibili.com/video/BV1pdQGYyEm5) |
+| 3126 | - | - | 《ROS 2机器人开发从入门到实践》10.3.2 在Python中编写生命周期节点 | 9:42 | [link](https://www.bilibili.com/video/BV1R1QnYWEB3) |
+| 3127 | - | - | 《ROS 2机器人开发从入门到实践》10.3.3  在C++中编写生命周期节点 | 6:42 | [link](https://www.bilibili.com/video/BV1CAQ6Y9EvF) |
+| 3128 | - | - | 《ROS 2机器人开发从入门到实践》10.4.1 使用执行器组织多个节点 | 11:37 | [link](https://www.bilibili.com/video/BV11SXTYTEtu) |
+| 3129 | - | - | 《ROS 2机器人开发从入门到实践》10.4.2 使用组件运行组合节点 | 5:54 | [link](https://www.bilibili.com/video/BV153QoYWEpn) |
+| 3130 | - | - | 《ROS 2机器人开发从入门到实践》10.4.3 编写自己的组件 | 6:52 | [link](https://www.bilibili.com/video/BV1BCX6YnEKL) |
+| 3131 | - | - | 《ROS 2机器人开发从入门到实践》10.5.1 消息过滤器介绍 | 1:39 | [link](https://www.bilibili.com/video/BV1bso2YaEDD) |
+| 3132 | - | - | 《ROS 2机器人开发从入门到实践》10.5.2 在Python中同步传感器数据 | 5:36 | [link](https://www.bilibili.com/video/BV12UoeY4EuQ) |
+| 3133 | - | - | 《ROS 2机器人开发从入门到实践》10.5.3 在 C++中同步传感器数据 | 6:44 | [link](https://www.bilibili.com/video/BV1nfoRY3E3t) |
+| 3134 | - | - | 《ROS 2机器人开发从入门到实践》10.6.1 使用不同的DDS进行通信 | 4:55 | [link](https://www.bilibili.com/video/BV1UXZHYFExy) |
+| 3135 | - | - | 《ROS 2机器人开发从入门到实践》10.6.2 配置局域网通信 | 2:29 | [link](https://www.bilibili.com/video/BV1BhfNYPEML) |
+| 3136 | - | - | 《ROS 2机器人开发从入门到实践》10.6.3调整DDS配置 | 3:35 | [link](https://www.bilibili.com/video/BV1bMR2YxExi) |
+| 3137 | - | - | 《ROS 2机器人开发从入门到实践》10.6.4 使用DDS共享内存 | 6:43 | [link](https://www.bilibili.com/video/BV1k5dNYPEdo) |
+| 3138 | - | - | 【鱼香ROS】动手学ROS2/ROS2基础入门到实践教程/小鱼带你手把手学习ROS2 | 595:42 | [link](https://www.bilibili.com/video/BV1gr4y1Q7j5) |
+| 3139 | - | - | 【ROS2硬件控制】1.课程及开发平台介绍 | 4:56 | [link](https://www.bilibili.com/video/BV1po4y1676Q) |
+| 3140 | - | - | 【ROS2硬件控制】2.嵌入式开发从点灯开始 | 5:18 | [link](https://www.bilibili.com/video/BV1UD4y1M745) |
+| 3141 | - | - | 【ROS2硬件控制】3. 什么是单片机MCU，和CPU什么区别 | 7:07 | [link](https://www.bilibili.com/video/BV1hg4y1t7af) |
+| 3142 | - | - | 【ROS2硬件控制】4.细数-微处理器开发平台 | 10:58 | [link](https://www.bilibili.com/video/BV1354y1M7HM) |
+| 3143 | - | - | 【ROS2硬件控制】5. 搭建PlateFormIO开发环境 | 12:51 | [link](https://www.bilibili.com/video/BV1mX4y1U762) |
+| 3144 | - | - | 【ROS2硬件控制】6.PIO工程结构&构建方式 | 10:09 | [link](https://www.bilibili.com/video/BV1QY411B71V) |
+| 3145 | - | - | 【ROS2硬件控制】7.串口输出HelloWorld（上） | 10:35 | [link](https://www.bilibili.com/video/BV1nv4y1L7QJ) |
+| 3146 | - | - | 【ROS2硬件控制】7.串口输出HelloWorld（下） | 8:33 | [link](https://www.bilibili.com/video/BV1yM4y1z73M) |
+| 3147 | - | - | 【ROS2硬件控制】13B.6串口通信-接收实验 | 10:52 | [link](https://www.bilibili.com/video/BV1xk4y1874q) |
+| 3148 | - | - | 【ROS2硬件控制】13G.1 点灯基础-看懂LED驱动电路 | 5:27 | [link](https://www.bilibili.com/video/BV1nv4y1L7G9) |
+| 3149 | - | - | 【ROS2硬件控制】13G.2 完成点灯-GPIO控制 | 17:01 | [link](https://www.bilibili.com/video/BV16m4y1k7xK) |
+| 3150 | - | - | 【ROS2硬件控制】13G.3.学会使用按键-GPIO输入 | 13:19 | [link](https://www.bilibili.com/video/BV11m4y167GK) |
+| 3151 | - | - | 【ROS2硬件控制】13G.4.电池电压测量-学会使用ADC | 19:55 | [link](https://www.bilibili.com/video/BV1fm4y1B7Ur) |
+| 3152 | - | - | 【ROS2硬件控制】13A.1.学会安装第三方开源库 | 8:49 | [link](https://www.bilibili.com/video/BV17k4y1i7Dj) |
+| 3153 | - | - | 【ROS2硬件控制】13A.2.使用开源库驱动IMU | 8:18 | [link](https://www.bilibili.com/video/BV1BL411S7vu) |
+| 3154 | - | - | 【ROS2硬件控制】13A.3.学会面向对象编程-封装IMU驱动（上） | 22:15 | [link](https://www.bilibili.com/video/BV1Tc411W7jT) |
+| 3155 | - | - | 【ROS2硬件控制】13A.3.学会面向对象编程-封装IMU驱动（下） | 17:03 | [link](https://www.bilibili.com/video/BV1mg4y1g7n6) |
+| 3156 | - | - | 【ROS2硬件控制】13A.4.使用开源库驱动OLED | 17:04 | [link](https://www.bilibili.com/video/BV1FN411P7md) |
+| 3157 | - | - | 【ROS2硬件控制】13A.5.通讯协议小课堂-I2C通信 | 13:21 | [link](https://www.bilibili.com/video/BV1ov4y1p799) |
+| 3158 | - | - | 【ROS2硬件控制】13A.6.I2C通信实验-点亮OLEDU | 6:00 | [link](https://www.bilibili.com/video/BV11j411w7W8) |
+| 3159 | - | - | 【ROS2硬件控制】14.MicroROS入门与实践 | 2:52 | [link](https://www.bilibili.com/video/BV15M4y1m7Rq) |
+| 3160 | - | - | 【ROS2硬件控制】14B.1.Micro-ROS介绍与服务安装 | 5:48 | [link](https://www.bilibili.com/video/BV16m4y1q7zC) |
+| 3161 | - | - | 【ROS2硬件控制】14B.2.在单片机上编写ROS2节点 | 25:19 | [link](https://www.bilibili.com/video/BV1gh411E7jU) |
+| 3162 | - | - | 【ROS2硬件控制】14G.1.MicroROS话题订阅-控制LED | 21:29 | [link](https://www.bilibili.com/video/BV1sL411Y7NE) |
+| 3163 | - | - | 【ROS2硬件控制】14G.2.ESP32上实现ROS-话题发布 | 16:46 | [link](https://www.bilibili.com/video/BV1No4y1t7x3) |
+| 3164 | - | - | 14G.3.ESP32上实现ROS-服务通信 | 16:19 | [link](https://www.bilibili.com/video/BV17T411t7Ph) |
+| 3165 | - | - | 14A.1.ESP32上实现ROS2自定义服务接口（上） | 12:54 | [link](https://www.bilibili.com/video/BV1nk4y1L7pz) |
 
 ## Per entry
 
@@ -3158,36 +4892,52 @@ homepage) -- so links points at entry points rather than at each individual pape
   - links: https://cowtransfer.com/s/eec6da6f7dee4c
 - **比大模型快193倍、便宜444倍，TypeSafe Jev到底怎么做到的?｜ AI大模型｜AI Agent｜智能体**
   - [B station](https://www.bilibili.com/video/BV1umah6WEqj)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **AI 说“90% 有把握”，你敢让 Agent 自动执行吗？｜Jev：概率校准与 Agent 决策**
   - [B station](https://www.bilibili.com/video/BV134ph6vEmV)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **《Agent Loop》给AI Agent的一首嘻哈主题曲｜AI工程师跨界做说唱，连动画MV都配齐了【AI MV大赛】**
   - [B station](https://www.bilibili.com/video/BV1QLpw6JE6c)
+  - links: https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **AI Agent 的底层其实就是一个 while 循环？Agent Loop 核心机制完整讲解**
   - [B station](https://www.bilibili.com/video/BV1SGTv6iEmZ)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **AI Agent 为什么会“失忆”？因为上下文才是第一约束｜Agent 工程｜大模型Agent｜Agent Loop**
   - [B station](https://www.bilibili.com/video/BV1DsTn6wEB6)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **AI Agent 为什么停不下来？从 ReAct 到 Copilot，看懂 Agent Loop 终止机制｜AI Agent 的终止机制详解**
   - [B station](https://www.bilibili.com/video/BV14mTb6EEQz)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **Loop Engineering：从 Prompt 到 Agent 循环的范式迁移｜AI Agent 的下一层能力，不是写提示词，而是设计循环**
   - [B station](https://www.bilibili.com/video/BV1rmT16pEfj)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **Agent Loop 即 RL Rollout？从产品循环到强化学习轨迹：理解 Agent RL 的关键入口，AI Agent 训练数据生成机制详解**
   - [B station](https://www.bilibili.com/video/BV1DUTd6aEyv)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **AI会做奥数，却端不稳一杯水：具身智能到底难在哪？**
   - [B station](https://www.bilibili.com/video/BV1nRtn6PEwk)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **会后空翻的机器人，到底是怎么练出来的？你必须了解的从经典控制到强化学习｜AI Agent｜AI 智能体｜大模型强化学习**
   - [B station](https://www.bilibili.com/video/BV1eQtG6PEqm)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **机器人到底怎么学会干活？从模仿学习到具身智能的数据瓶颈**
   - [B station](https://www.bilibili.com/video/BV1bDYt6mEDz)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **一双灵巧手，为什么能卡住整台人形机器人？｜具身智能｜世界模型｜机器人**
   - [B station](https://www.bilibili.com/video/BV12naW6ZENU)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **机器人的 GPT 时刻到了？VLA 大模型离真正好用还有多远｜具身智能｜AI Agent｜强化学习｜大模型**
   - [B station](https://www.bilibili.com/video/BV1UqHL6UEQr)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **DeepSeek V4.1：40层注意力，为什么只存4份KV？｜KV Cache优化详解｜Agent长上下文优化**
   - [B station](https://www.bilibili.com/video/BV1Z5e56ZEmq)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **DeepSeek V4.1：CED架构与KV Cache优化详解**
   - [B station](https://www.bilibili.com/video/BV1xLe36hE65)
+  - links: https://www.bilibili.com/cheese/play/ss556613313 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **DeepSeek Harness：连 Agent Loop 本身都是插件，凭什么？揭秘智能体Runtime设计**
   - [B station](https://www.bilibili.com/video/BV1cJb96cEg2)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **硬核解读 DeepSeek DSpark： 大模型推理快 60%-85%，投机解码的新天花板**
   - [B station](https://www.bilibili.com/video/BV14fTc6TEj7)
 - **DeepSeek多模态凭什么把GPT 5.4拉开：4000万样本+三层奖励+OPD蒸馏，把"框和点"喂进推理链的完整训练秘方**
@@ -3208,14 +4958,19 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1hErZBDEzH)
 - **我开源了一个本地 AI 阅读器：EPUB/PDF 翻译、摘要、问答，Docker 一键部署｜FolioPaw 阅读猫**
   - [B station](https://www.bilibili.com/video/BV1ZH8Z6MERd)
+  - links: https://github.com/TGLTommy/FolioPaw https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **99美元、24小时预售260万美元：这只“小黄鸭”为什么重要？**
   - [B station](https://www.bilibili.com/video/BV1pktD69E9P)
+  - links: https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **MIT最新发现：Agent 泛化能力不在模型，而在 Harness！RLM重新定义大模型后训练**
   - [B station](https://www.bilibili.com/video/BV1EGuZ6XEQC)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **让AI学会“存档”！Kimi K3的5122万个Agent沙箱揭秘：Agent强化学习基础设施到底有多复杂？**
   - [B station](https://www.bilibili.com/video/BV1iXuH6UEd5)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **Agent 的"世界模型"到底是什么? 从第一性原理，讲透它为什么总在同一个坑里栽倒｜AI Agent 深度解析**
   - [B station](https://www.bilibili.com/video/BV1AmNH6EENf)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **Agent 的真正瓶颈不是模型，而是这层 Agent Harness | HarnessX 全景解读**
   - [B station](https://www.bilibili.com/video/BV1Lxj86RECd)
 - **刚发布几天就被美国政府紧急叫停:Claude 最强模型 Fable 5 / Mythos 到底强在哪?**
@@ -3280,18 +5035,25 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1GYbFepEhQ)
 - **Agent为什么难落地？企业级AI Agent落地的5大核心挑战与解决方案｜腾讯、阿里、百度企业级实践深度拆解**
   - [B station](https://www.bilibili.com/video/BV1P3gs6uEbJ)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **你的 Agent 为什么一上线就翻车？模型不是瓶颈，Harness 才是关键！深入理解 Model + Harness 工程架构**
   - [B station](https://www.bilibili.com/video/BV1te8J62ETV)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **企业级 Agent 落地方法论：模型太慢、调用太贵、动作太险，高频业务里的Agent该怎么用？**
   - [B station](https://www.bilibili.com/video/BV12u8z6eEax)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **AI Agent 安全核心：如何给大模型分级授权？三层权限体系详解：分级授权、凭证隔离、签名许可｜企业级 Agent 落地方法论**
   - [B station](https://www.bilibili.com/video/BV1kf8t6hEH8)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **AI Agent会“作弊”？测试全通过，也可能根本没完成任务｜企业级 Agent 落地方法论｜AI Agent｜智能体教程**
   - [B station](https://www.bilibili.com/video/BV1kch56oERd)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **模型再强也救不了 Agent：语义和记忆才是真正的瓶颈｜AI Agent｜AI 大模型｜Agent 记忆**
   - [B station](https://www.bilibili.com/video/BV1ueta67Efx)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604 https://synergyfuture.feishu.cn/wiki/LQKNwhbZDidLj4kTTRWcH7utnic
 - **Claude Code 为什么不会撑爆上下文？深入解析 Agent 上下文压缩与会话恢复机制｜上下文投影、压缩、缓存与会话恢复全过程**
   - [B station](https://www.bilibili.com/video/BV1nJ396JEmC)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **Hermes Agent 记忆架构详解｜四层记忆系统如何持久化？长期事实、完整历史、外部recall，一次讲透**
   - [B station](https://www.bilibili.com/video/BV17KoFBBEqM)
 - **Agent记忆框架怎么选？5大Agent Memory项目工程级横向对比，哪一种才是未来Agent记忆的标准答案**
@@ -3302,14 +5064,19 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1z6SXBzEYh)
 - **Agent 持续学习到底是什么？为什么它用一百次，还像第一次？**
   - [B station](https://www.bilibili.com/video/BV13kKV6CEC7)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **Agent记忆越多越聪明？恰恰相反：真正关键的是这4个动作｜写入、巩固、检索、遗忘的第一性原理｜Agent Continual Learning｜智能体持续学习**
   - [B station](https://www.bilibili.com/video/BV1opKr6FEBC)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **为什么 Agent 不能照搬过去的经验？七要素定义一个合格 Agent Skill｜Agent Continual Learning 系列课程**
   - [B station](https://www.bilibili.com/video/BV1CYKY6nEok)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **Agent 如何持续学习？什么时候必须改模型权重？深入理解 AI Agent 的记忆、Skill 与模型参数更新机制｜Agent 持续学习的四层路由法则**
   - [B station](https://www.bilibili.com/video/BV1ebg16jELx)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **给 Agent 加 Memory 真的会变聪明吗？深入解析 AI 持续学习系统设计｜Agent Continual Learning｜AI Agent｜智能体**
   - [B station](https://www.bilibili.com/video/BV1kvgx66EZi)
+  - links: https://www.tgltommy.com/p/agent-rl（ https://www.bilibili.com/cheese/play/ss842375604
 - **OpenClaw 开源生态全景解读：14 个 AI Agent 项目，从 56 万行到 888KB**
   - [B station](https://www.bilibili.com/video/BV1KpNPzQEZs)
 - **OpenClaw生态16个开源项目深度拆解： AI Agent之间怎么组队协作？从Agent协作到5美元芯片（第二期）**
@@ -3386,6 +5153,7 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV18Z3RzHEkB)
 - **AI Agent开发调试利器！MCP协议实战Anthropic开源的MCP Inspector，可视化测试你的大模型工具！**
   - [B station](https://www.bilibili.com/video/BV1ojGAzHEUa)
+  - links: https://github.com/modelcontextprotocol/inspector https://github.com/modelcontextprotocol/servers https://www.firecrawl.dev/
 - **【硬核科普】3分钟看懂AI搜索核心：文本嵌入与重排序！**
   - [B station](https://www.bilibili.com/video/BV1kp8FzaEzZ)
 - **Qwen3 Embedding模型论文3大创新点详解：刷新MTEB榜单！**
@@ -3446,6 +5214,7 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1yXAzeDELm)
 - **《DeepSeek系统实战：架构·算法·工程·应用》课程简介**
   - [B station](https://www.bilibili.com/video/BV1WfrPB9Ewk)
+  - links: https://www.bilibili.com/cheese/play/ss556613313?csource=private_space_class_null&spm_id_from=333.1387.0.0 https://www.tgltommy.com/p/deepseek
 - **阿里AgentEvolver：Agent如何“自提问-自导航-自归因”实现高效自进化？大模型Agent强化学习提效思路**
   - [B station](https://www.bilibili.com/video/BV1wgqDBuE4b)
 - **AgentEvolver 强化学习+LLM Agent：Self-Questioning 让智能体自己造训练集｜多智能体/工具调用都能用 逆向任务生成**
@@ -3466,6 +5235,7 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV177S4B8EPH)
 - **GAIA项目实战：从0跑通 AWorld！环境搭建 + WebUI/CLI 双模式联调（含Playwright/E2B）Agent智能体教程｜MCP协议｜多模态**
   - [B station](https://www.bilibili.com/video/BV18P2xBzEBc)
+  - links: http://localhost:8000
 - **微软强化学习框架 Agent Lightning 核心方法论深度解读：零代码RL优化AI Agent｜从MDP理论到分层RL算法，无缝接入现有Agent框架**
   - [B station](https://www.bilibili.com/video/BV13qbYzMEpM)
 - **深度拆解Agent Lightning系统架构设计｜分布式训练+核心模块全流程解析｜强化学习｜大模型推理｜智能体教程**
@@ -3500,6 +5270,7 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1Qr43zME4V)
 - **【阿里最新多模态RL框架解析】VRAG-RL研究背景详解：为什么RAG在图文理解上失效？**
   - [B station](https://www.bilibili.com/video/BV1RZ8gzEEQo)
+  - links: https://arxiv.org/abs/2505.22019 https://github.com/Alibaba-NLP/VRAG
 - **【阿里最新多模态RAG+Agent】VRAG-RL方法论全拆解：多专家采样 × 细粒度奖励，刷新多模态RAG新高度！**
   - [B station](https://www.bilibili.com/video/BV1ct8ozxEXx)
 - **【多模态RAG实战】VRAG项目全流程解析：构建视觉增强问答系统（Agent+RAG+Qwen2.5） | 支持图文检索+多轮对话｜智能体搭建｜检索增强生成**
@@ -3908,18 +5679,10 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1AF41117HY)
 - **DeepSpeed-Chat-19-step1_源码解读_模型保存-第2节**
   - [B station](https://www.bilibili.com/video/BV1Eh4y1S79Z)
-- **DeepSpeed-Chat-20-step1_源码解读_模型保存-第3节**
-  - [B station](https://www.bilibili.com/video/BV18h4y1S7Rn)
-- **DeepSpeed-Chat-21-step1_源码解读_模型评估**
-  - [B station](https://www.bilibili.com/video/BV1fZ421E7o9)
-- **DeepSpeed-Chat-22-step1_源码解读_模型推理-第1节**
-  - [B station](https://www.bilibili.com/video/BV1bm421p7GE)
 - **DeepSpeed-Chat-23-step1_源码解读_模型推理-第2节**
   - [B station](https://www.bilibili.com/video/BV1yb421h7PB)
 - **DeepSpeed-Chat-24-step1_源码解读_模型推理-第3节**
   - [B station](https://www.bilibili.com/video/BV1Xb421Y7ga)
-- **DeepSpeed-Chat-25 Step-2-01 简介**
-  - [B station](https://www.bilibili.com/video/BV1Dh4y1S7rG)
 - **DeepSpeed-Chat-26 Step-2 Reward模型微调和评估**
   - [B station](https://www.bilibili.com/video/BV1z14y1i7hv)
 - **Chat-27-step2-源码解读-参数配置和初始化**
@@ -4072,6 +5835,14 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1g24y1h7FK)
 - **01_ES 概念、核心理论部分**
   - [B station](https://www.bilibili.com/video/BV1Ta411q73R)
+- **DeepSpeed-Chat-20-step1_源码解读_模型保存-第3节**
+  - [B station](https://www.bilibili.com/video/BV18h4y1S7Rn)
+- **DeepSpeed-Chat-21-step1_源码解读_模型评估**
+  - [B station](https://www.bilibili.com/video/BV1fZ421E7o9)
+- **DeepSpeed-Chat-22-step1_源码解读_模型推理-第1节**
+  - [B station](https://www.bilibili.com/video/BV1bm421p7GE)
+- **DeepSpeed-Chat-25 Step-2-01 简介**
+  - [B station](https://www.bilibili.com/video/BV1Dh4y1S7rG)
 - **02_ES 基础操作快速入门**
   - [B station](https://www.bilibili.com/video/BV1S5411U754)
 - **03_ES python API基础操作入门**
@@ -4096,8 +5867,6 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1J8411W7f6)
 - **进阶学ES 03-04 ES基于python API实践-1**
   - [B station](https://www.bilibili.com/video/BV1Ce4y1q7Ne)
-- **进阶学ES 03-04 ES基于python API实践-2**
-  - [B station](https://www.bilibili.com/video/BV12d4y1i7QU)
 - **进阶学·ES-04-01 analyzer简介**
   - [B station](https://www.bilibili.com/video/BV1SV4y1L77u)
 - **进阶学·ES-04-02 analyzer应用**
@@ -4534,8 +6303,10 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV14N4y1674J)
 - **ChatGLM3全新消息队列功能介绍！接入先进多角色对话功能！**
   - [B station](https://www.bilibili.com/video/BV1fg4y197xM)
+  - links: https://www.bilibili.com/video/BV14N4y1674J
 - **ChatGLM3全新Function calling功能详解！开启AI Agent之路的最核心功能！**
   - [B station](https://www.bilibili.com/video/BV1K94y157gd)
+  - links: https://www.bilibili.com/video/BV14N4y1674J
 - **如何借助大模型冲击Kaggle金牌？**
   - [B station](https://www.bilibili.com/video/BV1i84y127sB)
 - **自动机器学习建模AI Agent功能架构详解**
@@ -4612,3 +6383,3690 @@ homepage) -- so links points at entry points rather than at each individual pape
   - [B station](https://www.bilibili.com/video/BV1pT411v7gD)
 - **机器学习面试热点问题精讲·Part 5.模型融合篇｜2023冲刺春招算法岗｜面试必考机器学习热点问题｜全原理讲解&附赠标准问答模版**
   - [B station](https://www.bilibili.com/video/BV1c54y1u7DU)
+- **【优化算法】无约束优化-概述**
+  - [B station](https://www.bilibili.com/video/BV1mP411C7ed)
+- **【优化算法】线搜索方法-方向**
+  - [B station](https://www.bilibili.com/video/BV1iX4y1H7Ef)
+- **【优化算法】线搜索方法-步长-精确搜索**
+  - [B station](https://www.bilibili.com/video/BV1H14y1R7Yo)
+- **【优化算法】线搜索方法-步长-非确定性搜索**
+  - [B station](https://www.bilibili.com/video/BV1Gh411P7uw)
+- **【优化算法】线搜索方法-步长-Armijo Condition**
+  - [B station](https://www.bilibili.com/video/BV11N411m75b)
+- **【优化算法】线搜索方法-步长-Glodstein Condition**
+  - [B station](https://www.bilibili.com/video/BV1UF411X7Dh)
+- **【优化算法】线搜索方法-步长-Wolfe Condition**
+  - [B station](https://www.bilibili.com/video/BV1Nz4y1J7Wt)
+- **【优化算法】线搜索方法-收敛性证明**
+  - [B station](https://www.bilibili.com/video/BV1Mh411P7VY)
+- **【优化算法】收敛速度简介**
+  - [B station](https://www.bilibili.com/video/BV1FP411y7kx)
+- **【优化算法】梯度下降法-总体介绍**
+  - [B station](https://www.bilibili.com/video/BV14h4y1E71v)
+- **【优化算法】梯度下降法-基础补充-凸函数vs强凸函数vs严格凸函数（上）**
+  - [B station](https://www.bilibili.com/video/BV1vs4y167rA)
+- **【优化算法】梯度下降法-基础补充-凸函数vs强凸函数vs严格凸函数（下）**
+  - [B station](https://www.bilibili.com/video/BV1Uj411o7XT)
+- **【优化算法】梯度下降法-二次上界**
+  - [B station](https://www.bilibili.com/video/BV1Ek4y1P72N)
+- **【优化算法】梯度下降法-凸函数的收敛性**
+  - [B station](https://www.bilibili.com/video/BV15m4y1n72Q)
+- **【优化算法】梯度下降法-白老爹定理（上）**
+  - [B station](https://www.bilibili.com/video/BV1Tg4y1w7jx)
+- **【优化算法】梯度下降法-白老爹定理（下）**
+  - [B station](https://www.bilibili.com/video/BV1MV4y1h7Va)
+- **【优化算法】梯度下降法-强凸函数的收敛性分析（上）**
+  - [B station](https://www.bilibili.com/video/BV1WW4y1o7aG)
+- **【优化算法】梯度下降法-强凸函数的收敛性分析（下）**
+  - [B station](https://www.bilibili.com/video/BV1mj411Z7br)
+- **【优化算法】经典牛顿法-总体介绍**
+  - [B station](https://www.bilibili.com/video/BV1fX4y1J7jE)
+- **【优化算法】经典牛顿法-收敛性分析**
+  - [B station](https://www.bilibili.com/video/BV1794y1q7Hz)
+- **【强化学习】规划与学习-Dyna Architecture**
+  - [B station](https://www.bilibili.com/video/BV1yT4y1U78Z)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】规划与学习-算力聚焦**
+  - [B station](https://www.bilibili.com/video/BV1ar4y1p7ES)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf-
+- **【强化学习】规划与学习-决策时规划**
+  - [B station](https://www.bilibili.com/video/BV1cY4y1i785)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】规划与学习-蒙特卡洛树搜索 MCTS**
+  - [B station](https://www.bilibili.com/video/BV1s5411D7JT)
+- **【强化学习】策略梯度方法-策略近似**
+  - [B station](https://www.bilibili.com/video/BV1MS4y1r7ta)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】策略梯度方法-策略梯度定理**
+  - [B station](https://www.bilibili.com/video/BV18u411Q76q)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】策略梯度方法-REINFORCE**
+  - [B station](https://www.bilibili.com/video/BV1xb4y1W7Ye)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】策略梯度方法-REINFORCE with Baseline & Actor-Critic**
+  - [B station](https://www.bilibili.com/video/BV1RF411x7oS)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】 时序差分-策略评估**
+  - [B station](https://www.bilibili.com/video/BV1wS4y1F7zn)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】(SARSA) 时序差分-同轨策略TD控制**
+  - [B station](https://www.bilibili.com/video/BV1BS4y1r7cm)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】(Q-Learning) 时序差分-离轨策略TD控制**
+  - [B station](https://www.bilibili.com/video/BV1cZ4y1C7Ma)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】时序差分-期望SARSA**
+  - [B station](https://www.bilibili.com/video/BV15L411T7LM)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】蒙特卡洛方法-前情回顾**
+  - [B station](https://www.bilibili.com/video/BV1rF411J7Mw)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】蒙特卡洛方法-策略评估**
+  - [B station](https://www.bilibili.com/video/BV1vm4y1Z7Ce)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】蒙特卡洛方法-基于试探性出发假设的MC控制**
+  - [B station](https://www.bilibili.com/video/BV1N5411o7QD)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】蒙特卡洛方法-同轨VS离轨**
+  - [B station](https://www.bilibili.com/video/BV1bS4y1C75M)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】 蒙特卡洛方法-同轨策略MC控制**
+  - [B station](https://www.bilibili.com/video/BV1Ju4119794)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】蒙特卡洛方法-离轨策略MC策略评估**
+  - [B station](https://www.bilibili.com/video/BV1EZ4y1R7r4)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **【强化学习】 蒙特卡洛方法-离轨策略评估与控制**
+  - [B station](https://www.bilibili.com/video/BV1sS4y1C7tR)
+  - links: https://pan.baidu.com/s/1K9wWHT0ajxBRUY0iaDVccA http://www.incompleteideas.net/book/RLbook2020.pdf
+- **序言**
+  - [B station](https://www.bilibili.com/video/BV1yk28YUEfs)
+- **2012逻辑选择**
+  - [B station](https://www.bilibili.com/video/BV1sk28YSEXV)
+- **2012论证有效性分析**
+  - [B station](https://www.bilibili.com/video/BV1Nk28YSEY4)
+- **2012论说文**
+  - [B station](https://www.bilibili.com/video/BV1Nk28YSEtg)
+- **2016逻辑选择**
+  - [B station](https://www.bilibili.com/video/BV1demgYjEVD)
+- **2016-26**
+  - [B station](https://www.bilibili.com/video/BV1a4mVYUENE)
+- **2016-27**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEKG)
+- **2016-28**
+  - [B station](https://www.bilibili.com/video/BV1uamVYjERx)
+- **2016-29**
+  - [B station](https://www.bilibili.com/video/BV1bamVYLEoz)
+- **2016-30**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEKx)
+- **2016-31**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEwL)
+- **2016-32**
+  - [B station](https://www.bilibili.com/video/BV18amVYLENz)
+- **2016-33**
+  - [B station](https://www.bilibili.com/video/BV1KZmGYzEsj)
+- **2016-34**
+  - [B station](https://www.bilibili.com/video/BV1bamVYLEoc)
+- **2016-35**
+  - [B station](https://www.bilibili.com/video/BV1bamVYLEoM)
+- **2016-36**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEcz)
+- **2016-37**
+  - [B station](https://www.bilibili.com/video/BV1SamVYLExM)
+- **2016-38**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEwo)
+- **2016-39**
+  - [B station](https://www.bilibili.com/video/BV1SamVYLEiW)
+- **2016-40**
+  - [B station](https://www.bilibili.com/video/BV1bamVYLEZi)
+- **2016-41**
+  - [B station](https://www.bilibili.com/video/BV1bamVYLEZk)
+- **2016-42**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEA5)
+- **2016-43、44**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEPF)
+- **2016-45**
+  - [B station](https://www.bilibili.com/video/BV1bamVYLEfa)
+- **2016-46**
+  - [B station](https://www.bilibili.com/video/BV1gamVYjEwA)
+- **2016-47**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEMk)
+- **2016-48**
+  - [B station](https://www.bilibili.com/video/BV18amVYjEvq)
+- **2016-49**
+  - [B station](https://www.bilibili.com/video/BV1bamVYLEfZ)
+- **2016-50**
+  - [B station](https://www.bilibili.com/video/BV18amVYLEAs)
+- **2016-51**
+  - [B station](https://www.bilibili.com/video/BV1SamVYLEiR)
+- **2016-52、53**
+  - [B station](https://www.bilibili.com/video/BV1SamVYLEtx)
+- **2016-54、55**
+  - [B station](https://www.bilibili.com/video/BV1Q4mVYUEBB)
+- **2016论证有效性分析**
+  - [B station](https://www.bilibili.com/video/BV1mB28YpE6F)
+- **2016论说文**
+  - [B station](https://www.bilibili.com/video/BV1xk28YSEc1)
+- **2019逻辑选择**
+  - [B station](https://www.bilibili.com/video/BV1Nk28YSExk)
+- **2019-26**
+  - [B station](https://www.bilibili.com/video/BV14czXYhEx5)
+- **2019-27**
+  - [B station](https://www.bilibili.com/video/BV12czXYhEDz)
+- **2019-28**
+  - [B station](https://www.bilibili.com/video/BV1KczXYhEQV)
+- **2019-29**
+  - [B station](https://www.bilibili.com/video/BV1xczXYhEXv)
+- **2019-30&31**
+  - [B station](https://www.bilibili.com/video/BV11czXYbEtr)
+- **2019-32**
+  - [B station](https://www.bilibili.com/video/BV1KczXYhEdo)
+- **2019-33**
+  - [B station](https://www.bilibili.com/video/BV1KczXYhEdX)
+- **2019-34**
+  - [B station](https://www.bilibili.com/video/BV1KczXYhEDF)
+- **2019-35**
+  - [B station](https://www.bilibili.com/video/BV1KczXYhEWV)
+- **2019-36**
+  - [B station](https://www.bilibili.com/video/BV1KczXYhERR)
+- **2019-37**
+  - [B station](https://www.bilibili.com/video/BV1TFzXYwEid)
+- **2019-38**
+  - [B station](https://www.bilibili.com/video/BV1TFzXYwEkA)
+- **2019-39**
+  - [B station](https://www.bilibili.com/video/BV14FzXYwEq8)
+- **2019-40**
+  - [B station](https://www.bilibili.com/video/BV14FzXYwEqM)
+- **2019-41**
+  - [B station](https://www.bilibili.com/video/BV14FzXYwEqz)
+- **2019-42**
+  - [B station](https://www.bilibili.com/video/BV1TFzXYwEzG)
+- **2019-43**
+  - [B station](https://www.bilibili.com/video/BV1tFzXYwEAs)
+- **2019-44**
+  - [B station](https://www.bilibili.com/video/BV1TFzXYwEvn)
+- **2019-45**
+  - [B station](https://www.bilibili.com/video/BV1tFzXYwEAd)
+- **2019-46**
+  - [B station](https://www.bilibili.com/video/BV14FzXYwEvw)
+- **2019-47**
+  - [B station](https://www.bilibili.com/video/BV14FzXYwEv1)
+- **2019-48**
+  - [B station](https://www.bilibili.com/video/BV1mFzXYwEP4)
+- **2019-49&50**
+  - [B station](https://www.bilibili.com/video/BV1NPzXYbEtG)
+- **2019-51**
+  - [B station](https://www.bilibili.com/video/BV1NPzXYbE4D)
+- **2019-52**
+  - [B station](https://www.bilibili.com/video/BV11PzXYbEsz)
+- **2019-53**
+  - [B station](https://www.bilibili.com/video/BV1xPzXYbEcm)
+- **2019-54&55**
+  - [B station](https://www.bilibili.com/video/BV1PPzXYbEfV)
+- **2019论证有效性分析**
+  - [B station](https://www.bilibili.com/video/BV1yk28YUEoN)
+- **2019论说文**
+  - [B station](https://www.bilibili.com/video/BV1Nk28YSE8v)
+- **2021逻辑选择**
+  - [B station](https://www.bilibili.com/video/BV1yk28YUERZ)
+- **2021-26**
+  - [B station](https://www.bilibili.com/video/BV1YYzFYZE2e)
+- **2021-27**
+  - [B station](https://www.bilibili.com/video/BV1EszFYNEKF)
+- **2021-28**
+  - [B station](https://www.bilibili.com/video/BV1ZszFYPErU)
+- **2021-29**
+  - [B station](https://www.bilibili.com/video/BV1ZszFYPEaT)
+- **2021-30**
+  - [B station](https://www.bilibili.com/video/BV1BszFYNE8g)
+- **2021-31**
+  - [B station](https://www.bilibili.com/video/BV1BszFYPEuj)
+- **2021-32**
+  - [B station](https://www.bilibili.com/video/BV1EszFYNEwm)
+- **2021-33**
+  - [B station](https://www.bilibili.com/video/BV1BszFYPEMa)
+- **2021-34**
+  - [B station](https://www.bilibili.com/video/BV1ZszFYPEkn)
+- **2021-35**
+  - [B station](https://www.bilibili.com/video/BV15azFY8EYc)
+- **2021-36**
+  - [B station](https://www.bilibili.com/video/BV1eazFYbEbd)
+- **2021-37**
+  - [B station](https://www.bilibili.com/video/BV15azFY8Ea8)
+- **2021-38**
+  - [B station](https://www.bilibili.com/video/BV1eazFYbEhi)
+- **2021-39**
+  - [B station](https://www.bilibili.com/video/BV1RazFYbENG)
+- **2021-40&41**
+  - [B station](https://www.bilibili.com/video/BV15azFY8EtQ)
+- **2021-42**
+  - [B station](https://www.bilibili.com/video/BV1eazFYbEv1)
+- **2021-43**
+  - [B station](https://www.bilibili.com/video/BV1eazFYbEvQ)
+- **2021-44**
+  - [B station](https://www.bilibili.com/video/BV19azFYbEot)
+- **2021-45**
+  - [B station](https://www.bilibili.com/video/BV1eazFYbEan)
+- **2021-46**
+  - [B station](https://www.bilibili.com/video/BV1RazFYbEN1)
+- **2021-47&48**
+  - [B station](https://www.bilibili.com/video/BV1eazFY8EdM)
+- **2021-49**
+  - [B station](https://www.bilibili.com/video/BV1eazFYbEBa)
+- **2021-50**
+  - [B station](https://www.bilibili.com/video/BV1eazFYbEqC)
+- **2021-51**
+  - [B station](https://www.bilibili.com/video/BV19azFYbEo9)
+- **2021-52**
+  - [B station](https://www.bilibili.com/video/BV1eazFY8EdN)
+- **2021-53**
+  - [B station](https://www.bilibili.com/video/BV19YzFYZELZ)
+- **2021-54、55**
+  - [B station](https://www.bilibili.com/video/BV1eYzFYfEu6)
+- **2021论证有效性分析**
+  - [B station](https://www.bilibili.com/video/BV1Nk28YSEbp)
+- **2021论说文**
+  - [B station](https://www.bilibili.com/video/BV1sk28YSER7)
+- **2024逻辑选择**
+  - [B station](https://www.bilibili.com/video/BV11k28YUEFo)
+- **2024-26**
+  - [B station](https://www.bilibili.com/video/BV1W9zFY5EHW)
+- **2024-27**
+  - [B station](https://www.bilibili.com/video/BV1xUzFYmEh6)
+- **2024-28**
+  - [B station](https://www.bilibili.com/video/BV12UzFYmEgy)
+- **2024-28**
+  - [B station](https://www.bilibili.com/video/BV12UzFYmEAM)
+- **2024-29**
+  - [B station](https://www.bilibili.com/video/BV1KUzFYUEhy)
+- **2024-30**
+  - [B station](https://www.bilibili.com/video/BV1xUzFYmEvn)
+- **2024-32**
+  - [B station](https://www.bilibili.com/video/BV1xUzFYmEzG)
+- **2024-33**
+  - [B station](https://www.bilibili.com/video/BV12UzFYmEAf)
+- **2024-34**
+  - [B station](https://www.bilibili.com/video/BV1wozFYVE9k)
+- **2024-35&36**
+  - [B station](https://www.bilibili.com/video/BV1pozFYGEFv)
+- **2024-37**
+  - [B station](https://www.bilibili.com/video/BV1HozFYGEoX)
+- **2024-38**
+  - [B station](https://www.bilibili.com/video/BV1pozFYGEwv)
+- **2024-39**
+  - [B station](https://www.bilibili.com/video/BV1pozFYGEKP)
+- **2024-40**
+  - [B station](https://www.bilibili.com/video/BV1kozFYGExb)
+- **2024-41**
+  - [B station](https://www.bilibili.com/video/BV1kozFYGEir)
+- **2024-42**
+  - [B station](https://www.bilibili.com/video/BV1HozFYGEfV)
+- **2024-43**
+  - [B station](https://www.bilibili.com/video/BV1pozFYGETp)
+- **2024-44**
+  - [B station](https://www.bilibili.com/video/BV1yQzFY1Evo)
+- **2024-45**
+  - [B station](https://www.bilibili.com/video/BV1yQzFY1ECd)
+- **2024-46**
+  - [B station](https://www.bilibili.com/video/BV1kozFYGEBw)
+- **2024-47**
+  - [B station](https://www.bilibili.com/video/BV1kozFYGEqx)
+- **2024-48**
+  - [B station](https://www.bilibili.com/video/BV1HZzFYrE7n)
+- **2024-49**
+  - [B station](https://www.bilibili.com/video/BV1HZzFYrEpN)
+- **2024-50**
+  - [B station](https://www.bilibili.com/video/BV1rZzFYrE12)
+- **2024-51**
+  - [B station](https://www.bilibili.com/video/BV1rZzFYrE2N)
+- **2024-52**
+  - [B station](https://www.bilibili.com/video/BV1HZzFYrEE8)
+- **2024-53**
+  - [B station](https://www.bilibili.com/video/BV1HZzFYrEp7)
+- **2024-54、55**
+  - [B station](https://www.bilibili.com/video/BV1W9zFY5E46)
+- **2024论证有效性分析**
+  - [B station](https://www.bilibili.com/video/BV1xk28YSEA5)
+- **2024论说文**
+  - [B station](https://www.bilibili.com/video/BV1Nk28YSEe8)
+- **0.1三国志曹操传（序章）——何去何从**
+  - [B station](https://www.bilibili.com/video/BV1ym4y1g7r5)
+- **0.2三国志曹操传（序章）——颖川之战**
+  - [B station](https://www.bilibili.com/video/BV1aj411t7ao)
+- **0.3三国志曹操传（序章）——壮志雄心**
+  - [B station](https://www.bilibili.com/video/BV1km4y1g7g1)
+- **1.1三国志曹操传（第一章 霸王诞生）——董卓专权，首倡义兵**
+  - [B station](https://www.bilibili.com/video/BV1Jy4y1N7Lo)
+- **1.2三国志曹操传（第一章 霸王诞生）——汜水关之战**
+  - [B station](https://www.bilibili.com/video/BV1PC4y157fE)
+- **1.3三国志曹操传（第一章 霸王诞生）——军合力不齐，踌躇而雁行**
+  - [B station](https://www.bilibili.com/video/BV12G411m7zu)
+- **1.4三国志曹操传（第一章 霸王诞生）——虎牢关之战**
+  - [B station](https://www.bilibili.com/video/BV1EC4y1577b)
+- **1.5三国志曹操传（第一章 霸王诞生）——播越西迁移，号泣而且行**
+  - [B station](https://www.bilibili.com/video/BV1kw411r7hy)
+- **1.6三国志曹操传（第一章 霸王诞生）——董卓追击战**
+  - [B station](https://www.bilibili.com/video/BV1hh4y1z7s3)
+- **1.7三国志曹操传（第一章 霸王诞生）——盗贼如蚁聚，群雄皆鹰扬**
+  - [B station](https://www.bilibili.com/video/BV1WN4y1y7bE)
+- **1.8三国志曹操传（第一章 霸王诞生）——青州黄巾讨伐战**
+  - [B station](https://www.bilibili.com/video/BV1Rj411s7ST)
+- **1.9三国志曹操传（第一章 霸王诞生）——征讨陶谦，吕布偷袭**
+  - [B station](https://www.bilibili.com/video/BV1wG411U7gs)
+- **1.10三国志曹操传（第一章 霸王诞生）——徐州复仇战**
+  - [B station](https://www.bilibili.com/video/BV1ew411A7rA)
+- **1.11三国志曹操传（第一章 霸王诞生）——放弃进攻，回救濮阳**
+  - [B station](https://www.bilibili.com/video/BV1894y187aY)
+- **1.12三国志曹操传（第一章 霸王诞生）——濮阳之战壹**
+  - [B station](https://www.bilibili.com/video/BV118411k719)
+- **1.13三国志曹操传（第一章 霸王诞生）——似有内应，再战濮阳**
+  - [B station](https://www.bilibili.com/video/BV1ow411k7jm)
+- **1.14三国志曹操传（第一章 霸王诞生）——濮阳之战贰**
+  - [B station](https://www.bilibili.com/video/BV1VG411U7ao)
+- **1.15三国志曹操传（第一章 霸王诞生）——全力以赴，夺回濮阳**
+  - [B station](https://www.bilibili.com/video/BV1w8411C798)
+- **1.16三国志曹操传（第一章 霸王诞生）——濮阳之战叁**
+  - [B station](https://www.bilibili.com/video/BV1ew411A7Sr)
+- **1.17三国志曹操传（第一章 霸王诞生）——奉天子以令不臣**
+  - [B station](https://www.bilibili.com/video/BV1N84y127vB)
+- **1.18三国志曹操传（第一章 霸王诞生）——献帝救出战**
+  - [B station](https://www.bilibili.com/video/BV1384y127E8)
+- **1.19三国志曹操传（第一章 霸王诞生）——一征张绣，得意忘形**
+  - [B station](https://www.bilibili.com/video/BV1Wj411v7zm)
+- **1.20三国志曹操传（第一章 霸王诞生）——张绣讨伐战壹（典韦殒命）**
+  - [B station](https://www.bilibili.com/video/BV1nN4y1C7Fj)
+- **1.21三国志曹操传（第一章 霸王诞生）——张绣讨伐战壹（典韦存活）**
+  - [B station](https://www.bilibili.com/video/BV1gw411X74g)
+- **1.22三国志曹操传（第一章 霸王诞生）——淮南弟称号**
+  - [B station](https://www.bilibili.com/video/BV15H4y1d7eH)
+- **1.23三国志曹操传（第一章 霸王诞生）——袁术讨伐战**
+  - [B station](https://www.bilibili.com/video/BV1Sh4y1q7P4)
+- **1.24三国志曹操传（第一章 霸王诞生）——卷土重来，二征张绣**
+  - [B station](https://www.bilibili.com/video/BV1Jy4y1K7Hh)
+- **1.25三国志曹操传（第一章 霸王诞生）——张绣讨伐战贰**
+  - [B station](https://www.bilibili.com/video/BV1rh4y1q7JF)
+- **1.26三国志曹操传（第一章 霸王诞生）——救援刘备，消灭吕布**
+  - [B station](https://www.bilibili.com/video/BV1Hy4y1K7mT)
+- **1.27三国志曹操传（第一章 霸王诞生）——徐州救援战**
+  - [B station](https://www.bilibili.com/video/BV1ZC4y1G7F1)
+- **1.28三国志曹操传（第一章 霸王诞生）——天寒地冻，围攻下邳**
+  - [B station](https://www.bilibili.com/video/BV1A94y1b7NV)
+- **1.29三国志曹操传（第一章 霸王诞生）——吕布包围战**
+  - [B station](https://www.bilibili.com/video/BV19C4y1G7cC)
+- **1.30三国志曹操传（第一章 霸王诞生）——吕布授首，中原统一**
+  - [B station](https://www.bilibili.com/video/BV1Nh4y1B78f)
+- **2.1三国志曹操传（第二章 河北之争）——放虎归山，张绣来降**
+  - [B station](https://www.bilibili.com/video/BV1Sj411a7J4)
+- **2.2三国志曹操传（第二章 河北之争）——徐州入侵战**
+  - [B station](https://www.bilibili.com/video/BV1LC4y1H7Ye)
+- **2.3三国志曹操传（第二章 河北之争）——身在曹营心在刘**
+  - [B station](https://www.bilibili.com/video/BV1P94y1L7Lh)
+- **2.4三国志曹操传（第二章 河北之争）——白马之战**
+  - [B station](https://www.bilibili.com/video/BV1DN4y167DT)
+- **2.5三国志曹操传（第二章 河北之争）——已斩颜良，待诛文丑**
+  - [B station](https://www.bilibili.com/video/BV1du4y1j7gG)
+- **2.6三国志曹操传（第二章 河北之争）——延津之战**
+  - [B station](https://www.bilibili.com/video/BV11z4y1N7hZ)
+- **2.7三国志曹操传（第二章 河北之争）——送别关羽，直面生死**
+  - [B station](https://www.bilibili.com/video/BV19H4y1z73n)
+- **2.8三国志曹操传（第二章 河北之争）——官渡之战**
+  - [B station](https://www.bilibili.com/video/BV1a94y1G7Pt)
+- **2.9三国志曹操传（第二章 河北之争）——一战功成，袁氏溃败**
+  - [B station](https://www.bilibili.com/video/BV1JG411X7L9)
+- **2.10三国志曹操传（第二章 河北之争）——宜将剩勇追穷寇**
+  - [B station](https://www.bilibili.com/video/BV1DC4y1E7Do)
+- **2.11三国志曹操传（第二章 河北之争）——袁绍殒命，往事如烟**
+  - [B station](https://www.bilibili.com/video/BV1Aw411M7Zx)
+- **2.12三国志曹操传（第二章 河北之争）——忙里偷闲，闪击刘备**
+  - [B station](https://www.bilibili.com/video/BV13Q4y1p7kS)
+- **2.13三国志曹操传（第二章 河北之争）——穰山之战**
+  - [B station](https://www.bilibili.com/video/BV1Ke411R7si)
+- **2.14三国志曹操传（第二章 河北之争）——刘备败逃，再击袁氏**
+  - [B station](https://www.bilibili.com/video/BV1Uu4y1h7CN)
+- **2.15三国志曹操传（第二章 河北之争）——黎阳之战**
+  - [B station](https://www.bilibili.com/video/BV1v94y1G7D5)
+- **2.16三国志曹操传（第二章 河北之争）——一鼓作气，拿下邺城**
+  - [B station](https://www.bilibili.com/video/BV12e411Q7Lm)
+- **2.17三国志曹操传（第二章 河北之争）——邺城之战**
+  - [B station](https://www.bilibili.com/video/BV1TN4y1r7Mj)
+- **2.18三国志曹操传（第二章 河北之争）——兄弟内讧，渔翁得利**
+  - [B station](https://www.bilibili.com/video/BV1uM411Q7Fm)
+- **2.19三国志曹操传（第二章 河北之争）——南皮攻略战**
+  - [B station](https://www.bilibili.com/video/BV1cw411M7qy)
+- **2.20三国志曹操传（第二章 河北之争）——出其不意，奔袭乌丸**
+  - [B station](https://www.bilibili.com/video/BV1n84y197MT)
+- **2.21三国志曹操传（第二章 河北之争）——柳城平定战（郭嘉殒命）**
+  - [B station](https://www.bilibili.com/video/BV1uu4y17732)
+- **2.22三国志曹操传（第二章 河北之争）——柳城平定战（郭嘉存活）**
+  - [B station](https://www.bilibili.com/video/BV1yH4y1z7Le)
+- **2.23三国志曹操传（第二章 河北之争）——袁氏灭亡，北方统一**
+  - [B station](https://www.bilibili.com/video/BV1B94y1G7su)
+- **3.1三国志曹操传（第三章 三国鼎立）——卧龙出山，国士无双**
+  - [B station](https://www.bilibili.com/video/BV1zG411S7h1)
+- **3.2三国志曹操传（第三章 三国鼎立）——博望坡之战**
+  - [B station](https://www.bilibili.com/video/BV1Bv411F7vA)
+- **3.3三国志曹操传（第三章 三国鼎立）——南下灭刘，鲸吞荆州**
+  - [B station](https://www.bilibili.com/video/BV1wC4y1j7Lj)
+- **3.4三国志曹操传（第三章 三国鼎立）——长坂坡之战**
+  - [B station](https://www.bilibili.com/video/BV1Lu4y1b7Hv)
+- **3.5三国志曹操传（第三章 三国鼎立）——孙刘联盟，南北对抗**
+  - [B station](https://www.bilibili.com/video/BV1wG411X7vq)
+- **3.6三国志曹操传（第三章 三国鼎立）——赤壁之战（全灭敌军）**
+  - [B station](https://www.bilibili.com/video/BV1cG411X7C3)
+- **3.7三国志曹操传（第三章 三国鼎立）——赤壁之战（仓皇撤退）**
+  - [B station](https://www.bilibili.com/video/BV17u4y1b7TK)
+- **3.8三国志曹操传（第三章 三国鼎立）——败走华容**
+  - [B station](https://www.bilibili.com/video/BV1ma4y1S76v)
+- **3.9三国志曹操传（第三章 三国鼎立）——赤壁突围战**
+  - [B station](https://www.bilibili.com/video/BV1Uv411F7hj)
+- **3.10三国志曹操传（第三章 三国鼎立）——操撤兵北归，权兵临合肥**
+  - [B station](https://www.bilibili.com/video/BV1ru4y1A7Dy)
+- **3.11三国志曹操传（第三章 三国鼎立）——合肥之战**
+  - [B station](https://www.bilibili.com/video/BV1yQ4y1t7GN)
+- **3.12三国志曹操传（第三章 三国鼎立）——进军关中，消灭马超**
+  - [B station](https://www.bilibili.com/video/BV1dC4y127Ck)
+- **3.13三国志曹操传（第三章 三国鼎立）——马超迎击战**
+  - [B station](https://www.bilibili.com/video/BV16G411S7bH)
+- **3.14三国志曹操传（第三章 三国鼎立）——得寸进尺，剑指汉中**
+  - [B station](https://www.bilibili.com/video/BV19G411S7Di)
+- **3.15三国志曹操传（第三章 三国鼎立）——张鲁讨伐战**
+  - [B station](https://www.bilibili.com/video/BV1bz4y1w7DJ)
+- **3.16三国志曹操传（第三章 三国鼎立）——得陇不望蜀，孙刘再携手**
+  - [B station](https://www.bilibili.com/video/BV1iC4y1274c)
+- **3.17三国志曹操传（第三章 三国鼎立）——逍遥津之战**
+  - [B station](https://www.bilibili.com/video/BV1v94y1n7TU)
+- **3.18三国志曹操传（第三章 三国鼎立）——最后一次南征**
+  - [B station](https://www.bilibili.com/video/BV1Ua4y1m7Rt)
+- **3.19三国志曹操传（第三章 三国鼎立）——濡须口之战**
+  - [B station](https://www.bilibili.com/video/BV1yN411M7wM)
+- **3.20三国志曹操传（第三章 三国鼎立）——势均力敌，鼎足三分**
+  - [B station](https://www.bilibili.com/video/BV1Ug4y1Q7Ji)
+- **4.1三国志曹操传（终章 天下统一）——天下英雄唯使君与操尔**
+  - [B station](https://www.bilibili.com/video/BV1Mz4y1A7bw)
+- **4.2三国志曹操传（终章 天下统一）——定军山之战（全灭敌军）**
+  - [B station](https://www.bilibili.com/video/BV1ej411E7kn)
+- **4.3三国志曹操传（终章 天下统一）——定军山之战（夏侯渊殒命）**
+  - [B station](https://www.bilibili.com/video/BV1qg4y1Q7Zo)
+- **4.4三国志曹操传（终章 天下统一）——最后一次西征**
+  - [B station](https://www.bilibili.com/video/BV17e411Q76b)
+- **4.5三国志曹操传（终章 天下统一）——汉水之战**
+  - [B station](https://www.bilibili.com/video/BV1Wu411F7FM)
+- **4.6三国志曹操传（终章 天下统一）——一生的对手**
+  - [B station](https://www.bilibili.com/video/BV1Lw411N7U1)
+- **4.7三国志曹操传（终章 天下统一）——斜谷之战**
+  - [B station](https://www.bilibili.com/video/BV16b4y1g7kT)
+- **4.8三国志曹操传（终章 天下统一）——水淹七军，威震华夏**
+  - [B station](https://www.bilibili.com/video/BV1Sv411F7tk)
+- **4.9三国志曹操传（终章 天下统一）——樊城救援战（庞德殒命）**
+  - [B station](https://www.bilibili.com/video/BV16b4y1g7VL)
+- **4.10三国志曹操传（终章 天下统一）——忠肝义胆，英雄相惜**
+  - [B station](https://www.bilibili.com/video/BV1eC4y1E7d5)
+- **4.11三国志曹操传（终章 天下统一）——若天命在吾，吾为周文王矣**
+  - [B station](https://www.bilibili.com/video/BV1su4y1b76j)
+- **5.1三国志曹操传（他不知道的事）——英雄的落幕**
+  - [B station](https://www.bilibili.com/video/BV1ZG411S7c6)
+- **5.2三国志曹操传（心中永远的遗憾）——老骥伏枥，志在千里，烈士暮年，壮心不已。山不厌高，海不厌深，周公吐哺，天下归心。**
+  - [B station](https://www.bilibili.com/video/BV1qw411W7iP)
+- **1.2024研究生入学考试数学冲刺阶段考点串讲——导学篇（独孤九剑总章）**
+  - [B station](https://www.bilibili.com/video/BV1Gh4y1676V)
+- **2.1.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性1**
+  - [B station](https://www.bilibili.com/video/BV1AC4y1Z7vV)
+- **2.2.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性2（复合函数例题）**
+  - [B station](https://www.bilibili.com/video/BV1Fz4y1F7Qi)
+- **2.3.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性3（单调性、奇偶性例题）**
+  - [B station](https://www.bilibili.com/video/BV1CC4y1L7mJ)
+- **2.4.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性4（有界性例题）**
+  - [B station](https://www.bilibili.com/video/BV11w411a7BK)
+- **2.5.2024考研高等数学冲刺串讲——函数的有界性、奇偶性、单调性、周期性5（周期性例题）**
+  - [B station](https://www.bilibili.com/video/BV1N94y1a78m)
+- **2.6.2024考研高等数学冲刺串讲——常考函数、参数方程与极坐标方程**
+  - [B station](https://www.bilibili.com/video/BV1wH4y1o7Ds)
+- **2.7.2024考研高等数学冲刺串讲——常考数列与不等式**
+  - [B station](https://www.bilibili.com/video/BV1J8411k79K)
+- **2.8.2024考研高等数学冲刺串讲——常考数列与不等式（1.数学归纳法；2.柯西不等式）**
+  - [B station](https://www.bilibili.com/video/BV178411k7cP)
+- **2.8.2024考研高等数学冲刺串讲——常考数列与不等式（3.常用放缩公式；4.看起来不是不等式的不等式问题）**
+  - [B station](https://www.bilibili.com/video/BV1rj41147ja)
+- **2.8.2024考研高等数学冲刺串讲——常考数列与不等式（5.“经典名菜”品鉴）**
+  - [B station](https://www.bilibili.com/video/BV1Nm4y1g7GJ)
+- **3.1.2024考研高等数学冲刺串讲——极限与连续（考点梳理）**
+  - [B station](https://www.bilibili.com/video/BV14Q4y1s7w7)
+- **3.2.2024考研高等数学冲刺串讲——极限与连续（极限的计算）**
+  - [B station](https://www.bilibili.com/video/BV19u4y1p7Ai)
+- **3.3.2024考研高等数学冲刺串讲——极限与连续（有关极限定义的问题）**
+  - [B station](https://www.bilibili.com/video/BV1bC4y137Bj)
+- **3.4.2024考研高等数学冲刺串讲——极限与连续（夹逼定理与单调有界准则）**
+  - [B station](https://www.bilibili.com/video/BV1HN411s7VY)
+- **3.5.2024考研高等数学冲刺串讲——极限与连续（“经典名菜”品鉴）**
+  - [B station](https://www.bilibili.com/video/BV1ce411X7Z8)
+- **上海交大大模型智能体课程第1讲：初探大模型智能体**
+  - [B station](https://www.bilibili.com/video/BV1UgvYBtEaa)
+- **上海交大大模型智能体课程第2讲：生成式大语言模型**
+  - [B station](https://www.bilibili.com/video/BV1bgvYBtEbk)
+- **上海交大大模型智能体课程第3讲：提示工程**
+  - [B station](https://www.bilibili.com/video/BV1bgvYBtECs)
+- **上海交大大模型智能体课程第4讲：智能体评估**
+  - [B station](https://www.bilibili.com/video/BV1YAvYBAETJ)
+- **上海交大大模型智能体课程第5讲：智能体架构概览**
+  - [B station](https://www.bilibili.com/video/BV1YAvYBAEHH)
+- **上海交大大模型智能体课程第6讲：记忆管理与检索增强**
+  - [B station](https://www.bilibili.com/video/BV1XAvYBAEXS)
+- **上海交大大模型智能体课程第7讲：外部工具调用**
+  - [B station](https://www.bilibili.com/video/BV1VAvYBPEFW)
+- **上海交大大模型智能体课程第8讲：推理、规划和树搜索增强**
+  - [B station](https://www.bilibili.com/video/BV1GAvYBPE9J)
+- **上海交大大模型智能体课程第9讲：指令微调**
+  - [B station](https://www.bilibili.com/video/BV1YAvYBAEET)
+- **上海交大大模型智能体课程第10讲：LoRA微调与模型量化**
+  - [B station](https://www.bilibili.com/video/BV1YAvYBAEcM)
+- **上海交大大模型智能体课程第11讲：针对AI智能体的强化微调**
+  - [B station](https://www.bilibili.com/video/BV1YAvYBAEHU)
+- **上海交大大模型智能体课程第12讲：多模态智能体**
+  - [B station](https://www.bilibili.com/video/BV1XAvYBAEaC)
+- **上海交大大模型智能体课程第13讲：基于大语言模型的多智能体系统**
+  - [B station](https://www.bilibili.com/video/BV1XAvYBAEQw)
+- **上海交大大模型智能体课程第14讲：智能体攻防**
+  - [B station](https://www.bilibili.com/video/BV19cvYBeEWt)
+- **上海交大大模型智能体课程第15讲：智能体通信协议**
+  - [B station](https://www.bilibili.com/video/BV1YcvYBeEpE)
+- **HugWBC：让人形机器人蹦跶起来！**
+  - [B station](https://www.bilibili.com/video/BV13UNGe4Etn)
+  - links: https://hugwbc.github.io/ https://arxiv.org/abs/2502.03206
+- **OmniH2O：人形机器人全身控制遥操作学习框架**
+  - [B station](https://www.bilibili.com/video/BV1Y5KsewEdD)
+  - links: https://omni.human2humanoid.com/ https://arxiv.org/abs/2406.08858
+- **BeamDojo：人形机器人走梅花桩啦！**
+  - [B station](https://www.bilibili.com/video/BV1bAAtexEoB)
+  - links: https://arxiv.org/abs/2502.10363 https://why618188.github.io/beamdojo/
+- **RHINO：让人形机器人学会交互！**
+  - [B station](https://www.bilibili.com/video/BV18AAtexEpk)
+  - links: https://arxiv.org/abs/2502.13134
+- **跨具身人形运动：一脑多形**
+  - [B station](https://www.bilibili.com/video/BV11f8nztEia)
+- **上海交大张伟楠机器学习课程第1讲：机器学习简介I**
+  - [B station](https://www.bilibili.com/video/BV1L5S2Y9ESV)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/1-ml-intro.pdf
+- **上海交大张伟楠强化学习课程第1讲：机器学习简介II**
+  - [B station](https://www.bilibili.com/video/BV16TS2YbE1q)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/1-ml-intro.pdf
+- **上海交大张伟楠机器学习课程第1讲：机器学习简介III**
+  - [B station](https://www.bilibili.com/video/BV1cKS2YFEbC)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/1-ml-intro.pdf
+- **上海交大张伟楠机器学习课程第1讲：机器学习简介IV**
+  - [B station](https://www.bilibili.com/video/BV1fgS2YxEEM)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/1-ml-intro.pdf
+- **上海交大张伟楠机器学习课程第1讲：机器学习简介V**
+  - [B station](https://www.bilibili.com/video/BV1hcUNYtExa)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/1-ml-intro.pdf
+- **上海交大张伟楠机器学习课程第2讲：线性模型I**
+  - [B station](https://www.bilibili.com/video/BV1A4UnYdEG6)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/2-linear-models.pdf
+- **上海交大张伟楠机器学习课程第2讲：线性模型II**
+  - [B station](https://www.bilibili.com/video/BV1p4UnYdEYN)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/2-linear-models.pdf
+- **上海交大张伟楠机器学习课程第2讲：线性模型III**
+  - [B station](https://www.bilibili.com/video/BV1A4UnYdE3b)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/2-linear-models.pdf
+- **上海交大张伟楠机器学习课程第2讲：线性模型IV**
+  - [B station](https://www.bilibili.com/video/BV1p4UnYdErP)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/2-linear-models.pdf
+- **上海交大张伟楠机器学习课程第2讲：线性模型V**
+  - [B station](https://www.bilibili.com/video/BV1A4UnYdET4)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/2-linear-models.pdf
+- **上海交大张伟楠机器学习课程第3讲：K近邻算法与双线性模型I**
+  - [B station](https://www.bilibili.com/video/BV1RiB8Y5Emz)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/3-knn-bilinear.pdf
+- **上海交大张伟楠机器学习课程第3讲：K近邻算法与双线性模型II**
+  - [B station](https://www.bilibili.com/video/BV1ViB8YVERU)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/3-knn-bilinear.pdf
+- **上海交大张伟楠机器学习课程第3讲：K近邻算法与双线性模型III**
+  - [B station](https://www.bilibili.com/video/BV1viB8YLESe)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/3-knn-bilinear.pdf
+- **上海交大张伟楠机器学习课程第4讲：人工神经网络I**
+  - [B station](https://www.bilibili.com/video/BV1zuzxYgEAs)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/4-ann.pdf
+- **上海交大张伟楠机器学习课程第4讲：人工神经网络II**
+  - [B station](https://www.bilibili.com/video/BV1BuzxYgEho)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/4-ann.pdf
+- **上海交大张伟楠机器学习课程第4讲：人工神经网络III**
+  - [B station](https://www.bilibili.com/video/BV1EuzxY3EaY)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/4-ann.pdf
+- **上海交大张伟楠机器学习课程第4讲：人工神经网络IV**
+  - [B station](https://www.bilibili.com/video/BV1r5i1YoEuf)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/4-ann.pdf
+- **上海交大张伟楠机器学习课程第4讲：人工神经网络V**
+  - [B station](https://www.bilibili.com/video/BV165i1YoEQQ)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/4-ann.pdf
+- **上海交大张伟楠机器学习课程第4讲：人工神经网络VI**
+  - [B station](https://www.bilibili.com/video/BV165i1YoEmF)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/4-ann.pdf
+- **上海交大张伟楠机器学习课程第5讲：支持向量机I**
+  - [B station](https://www.bilibili.com/video/BV1QKBFYpE2A)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/5-svm.pdf
+- **上海交大张伟楠机器学习课程第5讲：支持向量机II**
+  - [B station](https://www.bilibili.com/video/BV1XKBFYpE2c)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/5-svm.pdf
+- **上海交大张伟楠机器学习课程第5讲：支持向量机III**
+  - [B station](https://www.bilibili.com/video/BV1XKBFYpEhM)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/5-svm.pdf
+- **上海交大张伟楠机器学习课程第6讲：决策树I**
+  - [B station](https://www.bilibili.com/video/BV1pUkUYXEiQ)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/6-tree-models.pdf
+- **上海交大张伟楠机器学习课程第6讲：决策树II**
+  - [B station](https://www.bilibili.com/video/BV1pUkUYXEHQ)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/6-tree-models.pdf
+- **上海交大张伟楠机器学习课程第6讲：决策树III**
+  - [B station](https://www.bilibili.com/video/BV1pUkUYXE4Q)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/6-tree-models.pdf
+- **上海交大张伟楠机器学习课程第7讲：集成学习与森林模型I**
+  - [B station](https://www.bilibili.com/video/BV17o6eYPEtB)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/7-ensemble.pdf
+- **上海交大张伟楠机器学习课程第7讲：集成学习与森林模型II**
+  - [B station](https://www.bilibili.com/video/BV17o6eYPEb3)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/7-ensemble.pdf
+- **上海交大张伟楠机器学习课程第7讲：集成学习与森林模型III**
+  - [B station](https://www.bilibili.com/video/BV1nU6eYzExT)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/7-ensemble.pdf
+- **上海交大张伟楠机器学习课程第8讲：概率图模型I**
+  - [B station](https://www.bilibili.com/video/BV1NNrgY1EWF)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/8-pgm.pdf
+- **上海交大张伟楠机器学习课程第8讲：概率图模型II**
+  - [B station](https://www.bilibili.com/video/BV11NrgYyEGH)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/8-pgm.pdf
+- **上海交大张伟楠机器学习课程第8讲：概率图模型III**
+  - [B station](https://www.bilibili.com/video/BV1yNrgYyEr3)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/8-pgm.pdf
+- **上海交大张伟楠机器学习课程第9讲：无监督学习I**
+  - [B station](https://www.bilibili.com/video/BV1ancNeZEXt)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/9-unsupervised.pdf
+- **上海交大张伟楠机器学习课程第9讲：无监督学习II**
+  - [B station](https://www.bilibili.com/video/BV1ancNeZE2Y)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/9-unsupervised.pdf
+- **上海交大张伟楠机器学习课程第9讲：无监督学习III**
+  - [B station](https://www.bilibili.com/video/BV1GncNeZEpS)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/9-unsupervised.pdf
+- **上海交大张伟楠机器学习课程第9讲：无监督学习IV**
+  - [B station](https://www.bilibili.com/video/BV1HowkeQEzS)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/9-unsupervised.pdf
+- **上海交大张伟楠机器学习课程第9讲：无监督学习V**
+  - [B station](https://www.bilibili.com/video/BV1powkeQENk)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/9-unsupervised.pdf
+- **上海交大张伟楠机器学习课程第10讲：学习理论与模型选择I**
+  - [B station](https://www.bilibili.com/video/BV1jpFNeYEdS)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/10-ltms.pdf
+- **上海交大张伟楠机器学习课程第10讲：学习理论与模型选择II**
+  - [B station](https://www.bilibili.com/video/BV17pFNeYET2)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/10-ltms.pdf
+- **上海交大张伟楠机器学习课程第10讲：学习理论与模型选择III**
+  - [B station](https://www.bilibili.com/video/BV17HFNePEzX)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/10-ltms.pdf
+- **上海交大张伟楠机器学习课程第11讲：迁移、多任务、元学习I**
+  - [B station](https://www.bilibili.com/video/BV1sHfzYMETB)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/11-multitask-meta.pdf
+- **上海交大张伟楠机器学习课程第11讲：迁移、多任务、元学习II**
+  - [B station](https://www.bilibili.com/video/BV1sHfzYMEJH)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/11-multitask-meta.pdf
+- **上海交大张伟楠机器学习课程第11讲：迁移、多任务、元学习III**
+  - [B station](https://www.bilibili.com/video/BV1yHfzYMEya)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/11-multitask-meta.pdf
+- **上海交大张伟楠机器学习课程第12讲：机器学习前沿话题漫谈**
+  - [B station](https://www.bilibili.com/video/BV1tVfzYCERh)
+  - links: https://wnzhang.net/teaching/sjtu-ml-2024/index.html https://wnzhang.net/teaching/sjtu-ml-2024/slides/11-multitask-meta.pdf
+- **RLChina 2024 | 3小时强化学习入门课程-上**
+  - [B station](https://www.bilibili.com/video/BV1yFm1Y4Evf)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/slides/rl-turorial-3h-rlchina2024.pdf
+- **RLChina 2024 | 3小时强化学习入门课程-下**
+  - [B station](https://www.bilibili.com/video/BV1yFm1Y4Eiy)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/slides/rl-turorial-3h-rlchina2024.pdf
+- **上海交大张伟楠强化学习课程第1讲：强化学习简介I**
+  - [B station](https://www.bilibili.com/video/BV1jUHdePEUZ)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/1-rl-intro.pdf
+- **上海交大张伟楠强化学习课程第1讲：强化学习简介II**
+  - [B station](https://www.bilibili.com/video/BV1LSHdeYEQJ)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/1-rl-intro.pdf
+- **上海交大张伟楠强化学习课程第1讲：强化学习简介III**
+  - [B station](https://www.bilibili.com/video/BV1LSHdeYEsv)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/1-rl-intro.pdf
+- **上海交大张伟楠强化学习课程第2讲：探索与利用**
+  - [B station](https://www.bilibili.com/video/BV1jaHfekE2U)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/1-rl-intro.pdf
+- **上海交大张伟楠强化学习课程第3讲：马尔可夫决策过程I**
+  - [B station](https://www.bilibili.com/video/BV1ZaHfekEyL)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/2-mdp-dp.pdf
+- **上海交大张伟楠强化学习课程第3讲：马尔可夫决策过程II**
+  - [B station](https://www.bilibili.com/video/BV1D2HfewEmk)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/2-mdp-dp.pdf
+- **上海交大张伟楠强化学习课程第4讲：动态规划**
+  - [B station](https://www.bilibili.com/video/BV1S2HfewEQa)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/2-mdp-dp.pdf
+- **上海交大张伟楠强化学习课程第5讲：值函数估计I**
+  - [B station](https://www.bilibili.com/video/BV13yHfeeEo2)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/tutorials/sjtu-rl-2024/slides/3-value-est.pdf
+- **上海交大张伟楠强化学习课程第5讲：值函数估计II**
+  - [B station](https://www.bilibili.com/video/BV1QyHfeYEPY)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/3-value-est.pdf
+- **上海交大张伟楠强化学习课程第6讲：无模型控制方法I**
+  - [B station](https://www.bilibili.com/video/BV1USHfeFEZV)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/4-model-free-control.pdf
+- **上海交大张伟楠强化学习课程第6讲：无模型控制方法II**
+  - [B station](https://www.bilibili.com/video/BV1SmHfehE3E)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/4-model-free-control.pdf
+- **上海交大张伟楠强化学习课程第7讲：规划与学习I**
+  - [B station](https://www.bilibili.com/video/BV196HfeKEjm)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/5-planning-learning.pdf
+- **上海交大张伟楠强化学习课程第7讲：规划与学习II**
+  - [B station](https://www.bilibili.com/video/BV196HfeKEBr)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/5-planning-learning.pdf
+- **上海交大张伟楠强化学习课程第8讲：参数化的值函数和策略I**
+  - [B station](https://www.bilibili.com/video/BV1RBHfeqEHo)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/6-approx-methods.pdf
+- **上海交大张伟楠强化学习课程第8讲：参数化的值函数和策略II**
+  - [B station](https://www.bilibili.com/video/BV1RBHfeqEWK)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/tutorials/sjtu-rl-2024/slides/6-approx-methods.pdf
+- **上海交大张伟楠强化学习课程第9讲：深度强化学习价值方法I**
+  - [B station](https://www.bilibili.com/video/BV1DtpeewESC)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/7-drl-value.pdf
+- **上海交大张伟楠强化学习课程第9讲：深度强化学习价值方法II**
+  - [B station](https://www.bilibili.com/video/BV1drpve3Eip)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/7-drl-value.pdf
+- **上海交大张伟楠强化学习课程第10讲：深度强化学习策略方法I**
+  - [B station](https://www.bilibili.com/video/BV199pzeUEMA)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/8-drl-policy.pdf
+- **上海交大张伟楠强化学习课程第10讲：深度强化学习策略方法II**
+  - [B station](https://www.bilibili.com/video/BV199pzeUEgQ)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/8-drl-policy.pdf
+- **上海交大张伟楠强化学习课程第11讲：基于模型的深度强化学习I**
+  - [B station](https://www.bilibili.com/video/BV199pzeUEg9)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/9-model-based-rl.pdf
+- **上海交大张伟楠强化学习课程第11讲：基于模型的深度强化学习II**
+  - [B station](https://www.bilibili.com/video/BV1DfpzeLEkB)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/9-model-based-rl.pdf
+- **上海交大张伟楠强化学习课程第11讲：基于模型的深度强化学习III**
+  - [B station](https://www.bilibili.com/video/BV1DfpzeLE5K)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/9-model-based-rl.pdf
+- **上海交大张伟楠强化学习课程第12讲：模仿学习I**
+  - [B station](https://www.bilibili.com/video/BV1DfpzeLEmC)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/10-imitation.pdf
+- **上海交大张伟楠强化学习课程第12讲：模仿学习II**
+  - [B station](https://www.bilibili.com/video/BV1Qopze2Ee1)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/10-imitation.pdf
+- **上海交大张伟楠强化学习课程第13讲：离线强化学习**
+  - [B station](https://www.bilibili.com/video/BV1Qopze2EYU)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/11-offline-rl.pdf
+- **上海交大张伟楠强化学习课程第14讲：多智能体强化学习I**
+  - [B station](https://www.bilibili.com/video/BV1Qopze2E1M)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/12-13-marl.pdf
+- **上海交大张伟楠强化学习课程第14讲：多智能体强化学习II**
+  - [B station](https://www.bilibili.com/video/BV1Qopze2Ep6)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/12-13-marl.pdf
+- **上海交大张伟楠强化学习课程第14讲：多智能体强化学习III**
+  - [B station](https://www.bilibili.com/video/BV1GopzemEF2)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/12-13-marl.pdf
+- **上海交大张伟楠强化学习课程第14讲：多智能体强化学习IV**
+  - [B station](https://www.bilibili.com/video/BV1TspzezEoo)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/12-13-marl.pdf
+- **上海交大张伟楠强化学习课程第15讲：AI Agent与决策大模型I**
+  - [B station](https://www.bilibili.com/video/BV1TspzezEbE)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/14-llm-agents-ldm.pdf
+- **上海交大张伟楠强化学习课程第15讲：AI Agent与决策大模型II**
+  - [B station](https://www.bilibili.com/video/BV14spzezExv)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/14-llm-agents-ldm.pdf
+- **上海交大张伟楠强化学习课程第15讲：AI Agent与决策大模型III**
+  - [B station](https://www.bilibili.com/video/BV14spzezE85)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/14-llm-agents-ldm.pdf
+- **上海交大张伟楠强化学习课程第16讲：基于扩散模型的强化学习**
+  - [B station](https://www.bilibili.com/video/BV12spzezE9Y)
+  - links: https://wnzhang.net/teaching/sjtu-rl-2024/index.html https://wnzhang.net/teaching/sjtu-rl-2024/slides/15-diffusion-rl.pdf
+- **面向python、算法工程师的agent开发教程 s1-介绍**
+  - [B station](https://www.bilibili.com/video/BV12AwDzgEwe)
+  - links: https://github.com/yuanzhoulvpi2017/zero_agent
+- **面向python、算法工程师的agent开发教程 s2-图解+调试的方式查看agent数据流控制（查看agent是如何运行的）**
+  - [B station](https://www.bilibili.com/video/BV1XADnBBEMy)
+  - links: https://github.com/yuanzhoulvpi2017/zero_agent
+- **面向python、算法工程师的agent开发教程 s3-简单介绍一下agentscope的闪光点～**
+  - [B station](https://www.bilibili.com/video/BV1ksd9BcEx3)
+  - links: https://github.com/yuanzhoulvpi2017/zero_agent
+- **【PaperTrail】把 DeepSeek 论文 Agent 蒸馏到 4B：数据采集、SFT 训练与本地部署｜源码分享**
+  - [B station](https://www.bilibili.com/video/BV12CY96EEFP)
+  - links: https://github.com/yuanzhoulvpi2017/zero_agent
+- **【PaperTrail】Agent 技术拆解 S1：用 DeepSeek 和 AgentScope 搭建论文助手**
+  - [B station](https://www.bilibili.com/video/BV1Zkpp6HEuS)
+  - links: https://github.com/yuanzhoulvpi2017/zero_agent
+- **【PaperTrail】Agent 技术拆解 S2：记录大模型交互轨迹，为 SFT 准备数据**
+  - [B station](https://www.bilibili.com/video/BV15Cpu65Esb)
+  - links: https://github.com/yuanzhoulvpi2017/zero_agent
+- **图解deepseek的grpo原理、以debug形式阅读grpo的源码**
+  - [B station](https://www.bilibili.com/video/BV1wFNCehERn)
+  - links: https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/rl_grpo
+- **deepseek-r1复现踩坑系列1: 多机多卡环境下GRPO训练32B大模型的框架对比**
+  - [B station](https://www.bilibili.com/video/BV1tGGezxEGg)
+  - links: https://github.com/yuanzhoulvpi2017/nano_rl
+- **deepseek-r1复现踩坑系列2: verl的二次开发-reward模块**
+  - [B station](https://www.bilibili.com/video/BV1TwV1zdEHw)
+  - links: https://github.com/yuanzhoulvpi2017/nano_rl
+- **一个视频带你搞懂 verl里面的ray到底起什么作用？verl里面的worker怎么使用？——verl源码解读系列**
+  - [B station](https://www.bilibili.com/video/BV116gozmEdn)
+- **由浅入深的了解 verl如何使用fsdp初始化model并且计算logits——verl源码解读系列**
+  - [B station](https://www.bilibili.com/video/BV1gjgqzYEJ3)
+  - links: https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/verl_base
+- **文本转向量教程s1——总体介绍**
+  - [B station](https://www.bilibili.com/video/BV1dw4m1o7X9)
+  - links: https://huggingface.co/docs/optimum/index
+- **文本转向量教程s2——认识文本转向量方法（sbert本质和推理加速）**
+  - [B station](https://www.bilibili.com/video/BV1ex4y1S7u5)
+  - links: https://huggingface.co/docs/optimum/index
+- **文本转向量教程s3——Trainer二次开发（embedding为例）**
+  - [B station](https://www.bilibili.com/video/BV1BC411L7tB)
+  - links: https://huggingface.co/docs/optimum/index
+- **为什么我的模型就没有办法使用ddp——基于bert做embedding任务 使用ddp进行训练**
+  - [B station](https://www.bilibili.com/video/BV1ii421e7V6)
+  - links: https://github.com/yuanzhoulvpi2017/SentenceEmbedding/tree/parallel_train
+- **qwen3-embedidng、qwen3-reranker模型解读 使用ray进行部署**
+  - [B station](https://www.bilibili.com/video/BV18FThzuE4b)
+- **transformers源码阅读——入门（提高nlp工程师的工程能力）**
+  - [B station](https://www.bilibili.com/video/BV1DN4y1X7av)
+- **transformers源码阅读——transformers包的文件框架介绍**
+  - [B station](https://www.bilibili.com/video/BV1Tm4y1M7nQ)
+- **transformers源码阅读——如何看懂模型代码（以llama为例）**
+  - [B station](https://www.bilibili.com/video/BV1qj411y7kF)
+- **图解llama架构 解读源码实现**
+  - [B station](https://www.bilibili.com/video/BV1nK4y1F7x7)
+- **transformers源码阅读——llama模型调试**
+  - [B station](https://www.bilibili.com/video/BV1Cw411y7gs)
+- **transfomers源码阅读——Trainer解读系列1_了解训练流程**
+  - [B station](https://www.bilibili.com/video/BV1b8411y7rR)
+- **transformers源码阅读——Trainer解读系列2_关键方法**
+  - [B station](https://www.bilibili.com/video/BV1GN411n7rS)
+- **transformers疑惑解答S1——transformers是怎么保存模型权重的？**
+  - [B station](https://www.bilibili.com/video/BV1nw411y7qL)
+  - links: https://www.zhihu.com/question/620641385/answer/3230090109 https://huggingface.co/blog/accelerate-large-models https://github.com/huggingface/transformers/blob/03af4c42a624ea44b3325ff78151f499392dd617/src/transformers/trainer.py#L2965
+- **longlora是怎么实现的——如何在transformers的模型上修改的**
+  - [B station](https://www.bilibili.com/video/BV1JN4y1f7JX)
+- **transformers二次开发——（定义自己的数据加载器 模型 训练器）bge模型微调流程**
+  - [B station](https://www.bilibili.com/video/BV1eu4y1x7ix)
+- **transformers二次开发——bge-reranker模型微调流程**
+  - [B station](https://www.bilibili.com/video/BV1sQ4y137Ft)
+- **强化学习TRL包源码解读S1——reward_Trainer**
+  - [B station](https://www.bilibili.com/video/BV1RG411y71U)
+- **强化学习TRL包源码解读S2——PPO**
+  - [B station](https://www.bilibili.com/video/BV1vy4y1P7GT)
+- **transformers源码阅读——neftune的工程实现**
+  - [B station](https://www.bilibili.com/video/BV1YQ4y1n7c6)
+- **transformers源码阅读——gradient_checkpointing详解**
+  - [B station](https://www.bilibili.com/video/BV1K84y1Q7hH)
+- **transformers源码阅读——投机采样原理和实现方法**
+  - [B station](https://www.bilibili.com/video/BV1ZC4y177Tw)
+  - links: https://zhuanlan.zhihu.com/p/653935025
+- **大模型量化是怎么实现的——transformers源码解读**
+  - [B station](https://www.bilibili.com/video/BV1Ga4y1D7ed)
+  - links: https://github.com/huggingface/transformers/blob/9b25c164bdb2754002e118065bc5045436b72773/src/transformers/modeling_utils.py#L3291 https://github.com/huggingface/transformers/blob/4b796978656e461177a83d58ec3c2b06152c63db/src/transformers/integrations/bitsandbytes.py#L184
+- **chatglm3源码阅读——吐槽角度**
+  - [B station](https://www.bilibili.com/video/BV1Rv411F7Mk)
+- **国内的大模型结构和llama有多相似？**
+  - [B station](https://www.bilibili.com/video/BV15j411J7QP)
+- **transformers源码阅读——mixtral模型解读——MoE实现细节**
+  - [B station](https://www.bilibili.com/video/BV19N411G7J2)
+- **transformers源码阅读——图解mixtral模型——图解MoE细节**
+  - [B station](https://www.bilibili.com/video/BV1Xu4y1K7zn)
+- **transformers二次开发——百度轩辕70b大模型数据调度的实现**
+  - [B station](https://www.bilibili.com/video/BV1qT4y1H7G1)
+- **transformers二次开发——为什么要实现自己的sft代码**
+  - [B station](https://www.bilibili.com/video/BV1sK4y1z7LV)
+  - links: https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/internlm-sft
+- **transformers二次开发——为什么要实现自己的sentence-embedding训练代码**
+  - [B station](https://www.bilibili.com/video/BV1bN4y1n7Ex)
+  - links: https://github.com/yuanzhoulvpi2017/SentenceEmbedding
+- **miniCPM系列S1——技术报告解读（吊打llama2-70b-chat模型？）**
+  - [B station](https://www.bilibili.com/video/BV1cC411r7ZG)
+- **手把手带你发现transformers的bug 并且修复它！**
+  - [B station](https://www.bilibili.com/video/BV16F4m1V7E1)
+- **我的pr被transformers官方merge了&如何使用vscode和tensorboard查看训练日志**
+  - [B station](https://www.bilibili.com/video/BV1CZ421878s)
+  - links: https://github.com/huggingface/transformers/pull/29568
+- **图解minicpm-v-2.6源码（debug的形式 一个视频看懂他的网络结构）**
+  - [B station](https://www.bilibili.com/video/BV1SCYSeYET9)
+- **一个视频让你对flash attention2下头（比较FA2和sdpa的效率）**
+  - [B station](https://www.bilibili.com/video/BV18ceWeFEoP)
+  - links: https://github.com/huggingface/transformers/commit/1c37e8c1a6274e6e87b45c6319eb190757214c2a https://github.com/huggingface/transformers/pull/31940 https://gist.github.com/qubvel/ac691a54e54f9fae8144275f866a7ff8
+- **transformers集成了Liger Kernel：在llm训练的时间更少、显存使用的更少**
+  - [B station](https://www.bilibili.com/video/BV1XCWzeJE7A)
+  - links: https://github.com/huggingface/transformers/pull/32860 https://github.com/huggingface/transformers/issues/32861 https://github.com/linkedin/Liger-Kernel
+- **如何优雅的修改transformers包的模型结构——面向nlp小白的开发教程**
+  - [B station](https://www.bilibili.com/video/BV1KhWmehEVz)
+- **transformers一个非常严重的bug——在使用梯度累计的时候 loss不等效**
+  - [B station](https://www.bilibili.com/video/BV1oY1aYzEVi)
+  - links: https://unsloth.ai/blog/gradient https://github.com/huggingface/transformers/commit/d9f733625c43158f3fa52377f2f8bf49350160f3 https://github.com/huggingface/transformers/pull/34283
+- **AutoModel的lazy加载方式原理解读**
+  - [B station](https://www.bilibili.com/video/BV1mhmeYiE3T)
+- **图解大模型的KV Cache——图解+transformers源码阅读**
+  - [B station](https://www.bilibili.com/video/BV1U5CcYeEX8)
+- **vLLM源码阅读s1——源码介绍**
+  - [B station](https://www.bilibili.com/video/BV1Vp421S7zg)
+- **vLLM源码阅读s2——是如何进行离线推理的**
+  - [B station](https://www.bilibili.com/video/BV1qE42157Rn)
+- **vllm二次开发——自定义的新模型如何部署在vllm上S1**
+  - [B station](https://www.bilibili.com/video/BV1xbypYtEu2)
+  - links: https://docs.vllm.ai/en/latest/index.html https://github.com/vllm-project/vllm/pull/8896/files https://github.com/vllm-project/vllm
+- **多模态大模型LLaVA模型讲解——transformers源码解读**
+  - [B station](https://www.bilibili.com/video/BV1nw4m1S7nZ)
+- **自定义多模态大模型LLaVA——LLaVA系列**
+  - [B station](https://www.bilibili.com/video/BV1GS411P74b)
+- **训练LLaVA模型（数据集构建、基于Trainer的训练框架搭建）——LLaVA系列**
+  - [B station](https://www.bilibili.com/video/BV1Si421v7j1)
+- **nlp开发利器——vscode如何debug transformers源码**
+  - [B station](https://www.bilibili.com/video/BV1Hh4y1i7Li)
+- **nlp开发利器——vscode如何debug transformers源码(torchrun形式）**
+  - [B station](https://www.bilibili.com/video/BV1b84y1R75V)
+- **nlp开发利器——vscode如何debug transformers源码(deepspeed形式）**
+  - [B station](https://www.bilibili.com/video/BV1xC4y1P7LH)
+- **nlp开发利器——vscode debug nlp大工程（最最最优雅的方式）**
+  - [B station](https://www.bilibili.com/video/BV1wt421V718)
+  - links: https://github.com/yuanzhoulvpi2017/vscode_debug_transformers
+- **我的vscode主题配色**
+  - [B station](https://www.bilibili.com/video/BV1xv411c7ti)
+  - links: https://blog.csdn.net/adley_app/article/details/108821464
+- **使用vscode愉快的阅读transformers源码**
+  - [B station](https://www.bilibili.com/video/BV14b4y1G7bF)
+- **nlp开发利器——vscode愉快的写nlp代码**
+  - [B station](https://www.bilibili.com/video/BV1LH4y1H7jj)
+- **transformers更新了啥S2——在国庆的时候 更新了啥（闲聊）**
+  - [B station](https://www.bilibili.com/video/BV1Lw411y7kD)
+- **transformers更新了啥S1——InternLM模型和llama模型竟然是差不多的**
+  - [B station](https://www.bilibili.com/video/BV1rz4y1G74d)
+- **transformers更新了啥S3——23-10-22日更新**
+  - [B station](https://www.bilibili.com/video/BV1Bj411v7PA)
+- **transformers更新了啥S3——23-11-05日更新**
+  - [B station](https://www.bilibili.com/video/BV1BC4y1J7Rs)
+- **transformers包新功能——一行代码将模型效率提高40%**
+  - [B station](https://www.bilibili.com/video/BV1ap4y1d7MZ)
+- **[国内一小伙自制]地理坐标系的映射关系**
+  - [B station](https://www.bilibili.com/video/BV1uR4y1W7hZ)
+- **3d视角查看中国各个省级地图(demo)**
+  - [B station](https://www.bilibili.com/video/BV1JF41187Jf)
+- **python入门教程之写代码素质1【管理数据和代码】【中国人不骗中国人，这个绝对是最走心的教程】**
+  - [B station](https://www.bilibili.com/video/BV1Vg411T74D)
+- **最走心的python学习分享【没有广告、没有焦虑、单纯的分享干货】**
+  - [B station](https://www.bilibili.com/video/BV1JP4y157uV)
+- **我用技术成功追星啦**
+  - [B station](https://www.bilibili.com/video/BV1DT4y1R79v)
+- **手写数值识别web应用**
+  - [B station](https://www.bilibili.com/video/BV15X4y1M7DT)
+  - links: https://github.com/yuanzhoulvpi2017/classdigits_inter
+- **python通关羊了个羊**
+  - [B station](https://www.bilibili.com/video/BV1HG4y1q7gi)
+- **vscode调试jupyter notebook**
+  - [B station](https://www.bilibili.com/video/BV1KB4y1B78v)
+- **细节怪27秋招面经八股合集：Day00 Multi-Agent 和 ReAct 和 Harness 有什么区别（不理解为什么会问这样的问题**
+  - [B station](https://www.bilibili.com/video/BV1k3YJ6GEek)
+- **细节怪27秋招面经八股合集：ReAct 和 Plan-and-Excute 有什么区别**
+  - [B station](https://www.bilibili.com/video/BV1EEeA64ET3)
+- **细节怪-2027秋招必学：如何拆解一个Agent （从loop到Harness,从openclaw 到Hermes )**
+  - [B station](https://www.bilibili.com/video/BV1GcKV6rEQq)
+- **细节怪-27秋招必学：Claude Code 强大的Runtime到底是什么样的**
+  - [B station](https://www.bilibili.com/video/BV1VB3Y61EyE)
+- **细节怪27秋招必学-Claude Code的上下文工程（听说最近删除了80%的System Prompt?!)**
+  - [B station](https://www.bilibili.com/video/BV1Z33o6HEmG)
+- **细节怪27秋招必学：Claude Code 的 Memory 是如何设计的（CLADE.md和Auto Memory)**
+  - [B station](https://www.bilibili.com/video/BV1xr3f6zEcS)
+- **细节怪-27秋招必学：Claude Code如何组织Skill,MCP,等tool(Action层）**
+  - [B station](https://www.bilibili.com/video/BV1dou96KEGk)
+- **细节怪27秋招必学：Herman Agent 惊艳一时的爱马仕究竟是如何完成自进化的？**
+  - [B station](https://www.bilibili.com/video/BV1wBbT6aEMY)
+- **细节怪手撕LLM-混合专家模型MoE详解**
+  - [B station](https://www.bilibili.com/video/BV1iji7BwEqC)
+- **细节怪-手撕LLM之如何训练一个大模型（大模型的能力，特点以及发展趋势）【本期为后续预告】**
+  - [B station](https://www.bilibili.com/video/BV1yZBbBSEUg)
+- **细节怪-手撕LLM-LLaMA（激活函数SwiGLU, GQA…数学原理分析)**
+  - [B station](https://www.bilibili.com/video/BV1damrBbErz)
+- **细节怪-手撕LLM-Decoder-only之GLM（国内模型，创新点分析，架构设计）**
+  - [B station](https://www.bilibili.com/video/BV1bZmiBKE4E)
+- **细节怪-手撕LLM- GPT系列（细节设计分析，发展历程回顾）**
+  - [B station](https://www.bilibili.com/video/BV11AmxBAEiR)
+- **细节怪-手斯LLM- T5（Encoder-Decoder)创新点原理分析**
+  - [B station](https://www.bilibili.com/video/BV1W12QBiEoy)
+- **细节怪-手撕LLM-Bert全景分析：ALBERT(Encoder-only)**
+  - [B station](https://www.bilibili.com/video/BV1HU2SBoENv)
+- **细节怪之手撕LLM-Bert 全景分析：RoBERTa（四大优化点剖析）**
+  - [B station](https://www.bilibili.com/video/BV1aw25B3End)
+- **细节怪之手撕LLM-Bert 全景分析（1）：Bert 细节分析和原理介绍（Encoder-only)**
+  - [B station](https://www.bilibili.com/video/BV1eq25BLE5N)
+- **细节怪-手撕LLM-旋转位置编码（3）：代码实现**
+  - [B station](https://www.bilibili.com/video/BV1K6UuBoEiY)
+- **细节怪-手撕LLM-PE&RoPE: 为什么需要旋转位置编码（数学证明）**
+  - [B station](https://www.bilibili.com/video/BV1MbycBbE4A)
+- **细节怪-手撕LLM-PE&RoPE(1)：什么是旋转位置编码（原理分析）**
+  - [B station](https://www.bilibili.com/video/BV19jycBiEBd)
+  - links: https://www.bilibili.com/video/BV1c9sizJEMv/ https://www.bilibili.com/video/BV1DxyWBfEh1/
+- **细节怪-手撕Transformer: Add & Norm 残差连接和归一化的理论原理**
+  - [B station](https://www.bilibili.com/video/BV1agCeBdEdW)
+- **细节怪-手撕Transformer: 位置编码（设计原理与示意图）**
+  - [B station](https://www.bilibili.com/video/BV1DxyWBfEh1)
+- **细节怪-手撕Transformer: 注意力机制之多头注意力（为什么需要多头注意力，为什么多头可以提取的多维信息，计算优化和纬度变化）**
+  - [B station](https://www.bilibili.com/video/BV12jsyz2EeV)
+- **细节怪-手撕Transformer: 注意力机制之掩码注意力（为什么需要掩码，如何构建掩码）**
+  - [B station](https://www.bilibili.com/video/BV1WpsyzkEY3)
+- **细节怪-手撕Transformer(2): 注意力机制原理分析与代码实践！（公式推导；自注意力）**
+  - [B station](https://www.bilibili.com/video/BV1c9sizJEMv)
+- **细节怪-手撕Transformer(1) : 整体架构（从数学原理到代码实践）**
+  - [B station](https://www.bilibili.com/video/BV1DX4BzyEfC)
+- **细节怪-手撕LLM之如何估算模型所需的显存（看完就会！算力选购必备~)【B站AI创作大赛-开放赛道】**
+  - [B station](https://www.bilibili.com/video/BV1Lj69BkEpi)
+- **细节怪-手撕LLM之 LoRA 原理（大模型算法面试必考！）【2026开个好头】**
+  - [B station](https://www.bilibili.com/video/BV1wHkYBiEap)
+- **细节怪-手撕 LLM 之 KV Cache 推理优化（1）实例分析（8分钟透彻理解）**
+  - [B station](https://www.bilibili.com/video/BV1mDzcByEcv)
+- **细节怪-手撕 LLM 之 vLLM 推理优化（2）最流行的大模型部署方式（一学就会！）**
+  - [B station](https://www.bilibili.com/video/BV1wvzuBfEgD)
+- **细节怪-手撕 LLM 之 Flash Attention 训练与推理优化（4）超清晰的讲解和手动推导，零基础也能听懂！**
+  - [B station](https://www.bilibili.com/video/BV1PazCBZEAK)
+- **细节怪-手撕 LLM 之 TensorRT-LLM 推理优化（3）静态计算图，深度算子融合，超详细解读（一学就会！）**
+  - [B station](https://www.bilibili.com/video/BV1mkz6BWEF4)
+- **细节怪-手撕 LLM 系列：DeepSpeed 详解（ ZeRO 三阶段和底层通信原理，值得细细品味！)**
+  - [B station](https://www.bilibili.com/video/BV1yP6GBzE7V)
+- **细节怪-手撕 LLM 之 RLHF 概念详解与PPO算法详解（1）（近期高频八股，系统搞定！）**
+  - [B station](https://www.bilibili.com/video/BV1LB6nBJECs)
+- **细节怪-手撕 LLM 之大模型常用的几种精度（FP32，FP16，BF16，NF8，实例分析，一步到位，小知识点扫盲）**
+  - [B station](https://www.bilibili.com/video/BV1SDZXB3Ewe)
+- **细节怪-手撕 LLM 系列之 QLoRA 详解（什么是双重量化）**
+  - [B station](https://www.bilibili.com/video/BV1BqZeBMEvZ)
+- **细节怪手撕 LLM 之 DeepSeek-V4 注意力机制（CSA，HCA，Sliding Window, 从架构到原理**
+  - [B station](https://www.bilibili.com/video/BV1vsd3BcE97)
+- **细节怪-手撕Transformer: KL散度公式推导（从信息量到交叉熵）**
+  - [B station](https://www.bilibili.com/video/BV1Pxui6eErQ)
+- **细节怪-手撕Transformer: RL中的KL散度，与DPO替代奖励函数的解析解**
+  - [B station](https://www.bilibili.com/video/BV1nQuv6oEKW)
+- **手撕 LLM - 沉浸式实战跟练：手撕 MHA（多头注意力）大模型算法工程师必备技能！**
+  - [B station](https://www.bilibili.com/video/BV1TqkVB9EPL)
+- **沉浸式手撕 LLM 系列 —— 手撕 GQA （大模型算法工程师入门必学）十分钟搞定！**
+  - [B station](https://www.bilibili.com/video/BV12ozABEEEG)
+- **沉浸式手撕 LLM ：RoPE (旋转位置编码）细节只有手撕了才知道！大模型算法工程师入门必学～**
+  - [B station](https://www.bilibili.com/video/BV1soz2BMEmY)
+- **沉浸式手撕 LLM 系列：Softmax (面试题目，新鲜出炉，做了一点拓展，后面的还得撕一下online softmax)**
+  - [B station](https://www.bilibili.com/video/BV1yH6FBzE6t)
+- **手撕 LLM 之沉浸式实战 plus : SFT-loss 原理分析公式推导**
+  - [B station](https://www.bilibili.com/video/BV1QoGf6HEqU)
+- **沉浸式手撕实战：SFT-loss （numpy) 面试必会手撕跟练!**
+  - [B station](https://www.bilibili.com/video/BV1EUEF6LEb9)
+- **LLM 应用开发原理-Agent 入门介绍（2）（Function calling 底层原理，如何选择合适的范式）**
+  - [B station](https://www.bilibili.com/video/BV1nCcPzYExP)
+- **LLM 应用开发原理：Agent 开发框架介绍（1）低代码开发平台（dify, Coze, n8n, CrewAI)**
+  - [B station](https://www.bilibili.com/video/BV1dNFUzVEhk)
+- **LLM 应用开发实战篇 ：从零构建一个 Agent Skill (小白友好，有手就会）第一期**
+  - [B station](https://www.bilibili.com/video/BV1MRf7B1EZW)
+- **LLM 应用开发原理实战篇：从零手搓一个skill (包含自己手搓和使用 skill-creator 来构建）小白友好，有手就行**
+  - [B station](https://www.bilibili.com/video/BV1naf7BhE8J)
+- **LLM 应用开发原理实战篇：安装一些好用的 skill (手把手教学，有手就行）**
+  - [B station](https://www.bilibili.com/video/BV1uffJBDEGD)
+- **LLM 应用开发原理—拆解现象级 Agent 产品 OpenClaw 大虾（源码加原理）**
+  - [B station](https://www.bilibili.com/video/BV15NQQBaE93)
+- **多模态 之 CLIP ｜ 1、CLIP 网络结构精讲**
+  - [B station](https://www.bilibili.com/video/BV1BeZFBGEhe)
+- **多模态 之 CLIP | 2、官方不开源训练代码？给你推荐个社区版开源复现 -- OpenCLIP**
+  - [B station](https://www.bilibili.com/video/BV1YP5v6tEop)
+- **多模态 之 ViLT ｜ 1、ViLT 的 Single Stream 结构**
+  - [B station](https://www.bilibili.com/video/BV1YUVJ6EERN)
+- **多模态 之 ViLT ｜2、模型结构详解、三类任务、模型权重初始化方案**
+  - [B station](https://www.bilibili.com/video/BV1pwVU6VEjS)
+- **MLM｜Masked Language Model 详解 & Whole Word Masking**
+  - [B station](https://www.bilibili.com/video/BV1QB7S63Ed2)
+- **多模态 之 BLIP｜  一个模型 可以支持 3种工作模式（图文对比、图文匹配、配文生成）**
+  - [B station](https://www.bilibili.com/video/BV1YwTk6tEPj)
+- **多模态 之 BLIP｜ CapFilt ：自举式训练（Bootstrapped），用模型反哺数据**
+  - [B station](https://www.bilibili.com/video/BV1UMMN6DEvs)
+- **3）BeamSearch 与 NucleusSampling**
+  - [B station](https://www.bilibili.com/video/BV1Mr3Q64E8o)
+- **多模态 之 YOLO-World ｜ 1、整体网络结构**
+  - [B station](https://www.bilibili.com/video/BV1S78w6eEAK)
+- **多模态 之 YOLO-World ｜2、训练数据集 以及 Grounding 数据集的标注格式要求 （基于 Ultralytics）**
+  - [B station](https://www.bilibili.com/video/BV1Nm826QEc4)
+- **3）online/offline vocabulary**
+  - [B station](https://www.bilibili.com/video/BV1R7tN6VE5T)
+- **4）CLIP Text Encoder 处理文本流程**
+  - [B station](https://www.bilibili.com/video/BV19LtN6yEoH)
+- **5）T-CSP Layer**
+  - [B station](https://www.bilibili.com/video/BV1RLtN6yE1M)
+- **6）Max-Sigmoid Attention**
+  - [B station](https://www.bilibili.com/video/BV1Znt36vEc1)
+- **7）Image-pooling Attention**
+  - [B station](https://www.bilibili.com/video/BV1BTbF6zEQh)
+- **8）World Head / Contrastive Head**
+  - [B station](https://www.bilibili.com/video/BV1Wcbw6HEVY)
+- **9）Region-Text Contrastive Loss**
+  - [B station](https://www.bilibili.com/video/BV1webT6NEdk)
+- **多模态 之 YOLOE ｜ 1、YOLOE 的三种模式 & 三阶段训练 & 模型整体网络结构**
+  - [B station](https://www.bilibili.com/video/BV1dMY16gEJP)
+- **2）Text Embedding 与 RepRTA  网络结构**
+  - [B station](https://www.bilibili.com/video/BV1wzeh62Eg1)
+- **3）YOLO-World 与 YOLOE 对比**
+  - [B station](https://www.bilibili.com/video/BV1fXev6pE8L)
+- **4）BNContrastiveHead**
+  - [B station](https://www.bilibili.com/video/BV1FEha6uESV)
+- **5）RepRTA 结构重参数化 推导 & 代码讲解**
+  - [B station](https://www.bilibili.com/video/BV1hLaN6JE9Z)
+- **6）第二阶段训练 参数冻结**
+  - [B station](https://www.bilibili.com/video/BV1ozaW61Eyx)
+- **7）第二阶段整体训练框架 & 视觉提示 mask 预处理**
+  - [B station](https://www.bilibili.com/video/BV1LLYP6sEMk)
+- **8）SAVPE 网络结构 & 分组加权聚合**
+  - [B station](https://www.bilibili.com/video/BV15Vp46ZE6j)
+- **Tokenizer｜1、基础知识准备 ：Unicode、UTF-8、ASCII**
+  - [B station](https://www.bilibili.com/video/BV116daB6EC5)
+- **Tokenizer｜2、三大分词方法 ：Word / Character / Subword**
+  - [B station](https://www.bilibili.com/video/BV1NtdZB1Eai)
+- **Tokenizer｜3、BPE 与 BBPE Tokenizer 详解**
+  - [B station](https://www.bilibili.com/video/BV1YYdmBhErJ)
+- **Tokenizer｜4、词边界符**
+  - [B station](https://www.bilibili.com/video/BV1cE9xByEXx)
+- **5）WordPiece Tokenizer**
+  - [B station](https://www.bilibili.com/video/BV14k3Q6REHR)
+- **1）Flickr8k**
+  - [B station](https://www.bilibili.com/video/BV1Z6Gs6NEaJ)
+- **多模态 常用数据集｜ Flickr30k & Entities （Grounding 任务常用）**
+  - [B station](https://www.bilibili.com/video/BV1kPpJ6DEhk)
+- **Conda 环境管理工具**
+  - [B station](https://www.bilibili.com/video/BV1bqKE6pEmD)
+- **Enzo 深度学习  入门篇 （更新中）**
+  - [B station](https://www.bilibili.com/video/BV1tLuw6VEJd)
+- **反向传播 ：计算图、叶子节点/非叶子节点/根节点、requires_grad、grad**
+  - [B station](https://www.bilibili.com/video/BV12Q4X6aEjt)
+- **模型压缩神技：结构重参数化 ： 训练时多分支，推理时单卷积！**
+  - [B station](https://www.bilibili.com/video/BV1uhN96JEzF)
+- **环境配置 依赖包安装 常见问题 【50系显卡 Blackwell架构】**
+  - [B station](https://www.bilibili.com/video/BV1RLtU6eE7f)
+- **【即插即用 卷积模块】蛇形卷积 DSConv ：Dynamic Snake Convolution**
+  - [B station](https://www.bilibili.com/video/BV18SYt6EE64)
+- **【即插即用 卷积模块】中国结卷积 CKConv ：Chinese Knot Convolution**
+  - [B station](https://www.bilibili.com/video/BV1i9eH6LEkq)
+- **【即插即用 卷积模块】方向引导的边缘门控卷积 DEGConv ：Direction-guided Edge Gated Convolution**
+  - [B station](https://www.bilibili.com/video/BV1xRhs6hEXr)
+- **【即插即用 注意力模块】LA：Linear Attention**
+  - [B station](https://www.bilibili.com/video/BV1N8at6uEpi)
+- **【即插即用 卷积模块】风车卷积 PConv ：Pinwheel-shaped Convolution**
+  - [B station](https://www.bilibili.com/video/BV1UUpt6XEJZ)
+- **self-Attention｜自注意力机制 ｜位置编码 ｜ 理论 + 代码**
+  - [B station](https://www.bilibili.com/video/BV1qo4y1F7Ep)
+- **Multi-Head Attention | 算法 + 代码**
+  - [B station](https://www.bilibili.com/video/BV1gV4y167rS)
+- **ViT｜ Vision Transformer ｜理论 + 代码**
+  - [B station](https://www.bilibili.com/video/BV1xm4y1b7Pw)
+  - links: https://65d8gk.axshare.com
+- **Positional Encoding ｜ 位置编码**
+  - [B station](https://www.bilibili.com/video/BV1z84y1R7t8)
+- **Swin Transformer ｜ Abstract**
+  - [B station](https://www.bilibili.com/video/BV1Nz4y177aW)
+- **Swin Transformer （上）**
+  - [B station](https://www.bilibili.com/video/BV1xF41197E4)
+- **Swin Transformer （下）**
+  - [B station](https://www.bilibili.com/video/BV1qX4y1Y7mj)
+- **DETR ｜ 1、算法概述**
+  - [B station](https://www.bilibili.com/video/BV1Zo4y1A7FB)
+- **DETR ｜2、模型结构讲解**
+  - [B station](https://www.bilibili.com/video/BV1Gh4y127eZ)
+- **DETR ｜3、损失函数讲解**
+  - [B station](https://www.bilibili.com/video/BV1qu411V7ud)
+- **Attention Map ｜ 复现 DETR 论文中 encoder layer 的 attention map**
+  - [B station](https://www.bilibili.com/video/BV1jC411W7sC)
+- **Deformable Convolution ｜可变形卷积**
+  - [B station](https://www.bilibili.com/video/BV1Sh4y1y75i)
+- **Deformable DETR | 1、Abstract  算法概述**
+  - [B station](https://www.bilibili.com/video/BV1rh4y1F7fG)
+- **Deformable DETR ｜ 2、backbone 、MultiHeadAttention 公式讲解**
+  - [B station](https://www.bilibili.com/video/BV1vr4y1o73B)
+- **Deformable DETR｜ 3、Deformable Attention、MSDeformAttention、流程讲解**
+  - [B station](https://www.bilibili.com/video/BV1Uj411z7QU)
+- **torchvision.models.resnet50() 可以使用哪些参数 ？ 这些参数有什么用 ？ 学习 DETR 必读 ！**
+  - [B station](https://www.bilibili.com/video/BV1Ya4y1o7HP)
+- **RT-DETR ｜1、abstract 算法概述**
+  - [B station](https://www.bilibili.com/video/BV1Nb4y1F7k9)
+- **RT-DETR  ｜ 2、backbone**
+  - [B station](https://www.bilibili.com/video/BV1Ac411k7Sg)
+- **RT-DETR  ｜ 3、AIFI**
+  - [B station](https://www.bilibili.com/video/BV1be411S74w)
+- **RT- DETR ｜ 4、CCFM**
+  - [B station](https://www.bilibili.com/video/BV1DG411z71m)
+- **5）CCFM 收尾工作**
+  - [B station](https://www.bilibili.com/video/BV1bUR3BDEWC)
+- **6）decoder 整体网络结构**
+  - [B station](https://www.bilibili.com/video/BV1njt36uEk6)
+- **7）denoising 理论讲解**
+  - [B station](https://www.bilibili.com/video/BV1Fjt36uEKD)
+- **8）denoising 代码讲解**
+  - [B station](https://www.bilibili.com/video/BV1fJt36KEw9)
+- **9）IoU-aware query selection**
+  - [B station](https://www.bilibili.com/video/BV1fJt36KEuA)
+- **10）IoU-aware query selection**
+  - [B station](https://www.bilibili.com/video/BV1PMt36yEUR)
+- **11）decoder MSDeformableAttention**
+  - [B station](https://www.bilibili.com/video/BV1A3t36kEnm)
+- **12）损失函数**
+  - [B station](https://www.bilibili.com/video/BV1L4t36aErd)
+- **13）RT-DETR 快速跑通**
+  - [B station](https://www.bilibili.com/video/BV1v4t36aEyb)
+- **14）Pycharm远程连接 + 配置 + 全流程跑通**
+  - [B station](https://www.bilibili.com/video/BV1Xht36ZE48)
+- **RT-DETR v1 ｜快速跑通 + AutoDL**
+  - [B station](https://www.bilibili.com/video/BV1UWmMBREJ7)
+- **RT-DETR | Pycharm 远程连接 (AutoDL) + 配置 + 全流程跑通**
+  - [B station](https://www.bilibili.com/video/BV1egm7BxE4T)
+- **RT-DETR v2 相较于 v1 的 4个优化点**
+  - [B station](https://www.bilibili.com/video/BV1ePwzehEEy)
+- **RT-DETRv4 ｜ RT-DETR + DINOv3**
+  - [B station](https://www.bilibili.com/video/BV1zbE56sEmG)
+- **D-Fine ｜1、FDR ： Fine-grained Distribution Refinement**
+  - [B station](https://www.bilibili.com/video/BV1JHopYjEV7)
+- **D-Fine｜2、损失函数细节精讲 之  FGL 数据准备**
+  - [B station](https://www.bilibili.com/video/BV1jHJNzGEDC)
+- **D-Fine｜3、损失函数  FGL :  Fine-Grained Localization Loss**
+  - [B station](https://www.bilibili.com/video/BV1eDJ6zuErg)
+- **D-Fine | 4、GO-LDS 全局优化定位自蒸馏、DDFLoss**
+  - [B station](https://www.bilibili.com/video/BV1kgjXz5EjJ)
+- **DEIM | 为什么 DEIM 能让 DETR 收敛提速一倍？？**
+  - [B station](https://www.bilibili.com/video/BV1saKAzSEHg)
+- **RoPE 旋转位置编码**
+  - [B station](https://www.bilibili.com/video/BV1ReLq6BE8i)
+- **Vibe Researching | Codex 介绍与安装**
+  - [B station](https://www.bilibili.com/video/BV1ZoJG6nEi9)
+- **Vibe Researching | Codex 基础使用**
+  - [B station](https://www.bilibili.com/video/BV1wSL96YENx)
+- **Vibe Researching | Codex - SKILL 基础介绍**
+  - [B station](https://www.bilibili.com/video/BV1Qjjh6SEYm)
+- **Vibe Researching | Codex - SKILL 实践 ： 创建一个用于收集论文基本信息的 SKILL**
+  - [B station](https://www.bilibili.com/video/BV1e17g6PEEk)
+- **解放生产力！我整了一个自动整理即插即用模块的 Codex Skill**
+  - [B station](https://www.bilibili.com/video/BV1rwjd6TE7w)
+- **DINO v1 |  自监督学习、无标签的自蒸馏  self-distillation with no labels**
+  - [B station](https://www.bilibili.com/video/BV1Q74HzeEBY)
+- **DINO v2 ｜ 5大改进点概述、整体训练框架解读**
+  - [B station](https://www.bilibili.com/video/BV1BoUnByEWr)
+- **DINO v3 ｜3阶段训练 +  扩大数据集（LVD-1689M）+ 扩大模型（ ViT-7B/16 ）**
+  - [B station](https://www.bilibili.com/video/BV1vTvDBWEgG)
+- **DINOv3｜多模态｜DINOv3 +  CLIP 图文对齐 方案解析**
+  - [B station](https://www.bilibili.com/video/BV1JRd3B6EwN)
+- **1、Dino v1 整体介绍**
+  - [B station](https://www.bilibili.com/video/BV1AKDdBsEib)
+- **2、Multi-crop**
+  - [B station](https://www.bilibili.com/video/BV1kKDdBWEZC)
+- **3、教师网络与学生网络**
+  - [B station](https://www.bilibili.com/video/BV1pKDdBWEsp)
+- **4、损失函数**
+  - [B station](https://www.bilibili.com/video/BV1HKDdBWEXb)
+- **5、实验｜centering 与 sharpening**
+  - [B station](https://www.bilibili.com/video/BV1kKDdBWE9E)
+- **6、教师网络参数的更新**
+  - [B station](https://www.bilibili.com/video/BV1pKDdBWEbm)
+- **7、实验｜教师网络构建方法的选择**
+  - [B station](https://www.bilibili.com/video/BV1AKDdBsE1E)
+- **8、优化器、调度器、各组件重要性分析**
+  - [B station](https://www.bilibili.com/video/BV1pKDdBWEJZ)
+- **0、前言**
+  - [B station](https://www.bilibili.com/video/BV1scDdBoEoy)
+- **1、数据集构建_LVD142M**
+  - [B station](https://www.bilibili.com/video/BV1scDdBoEzN)
+- **2、改进点概述**
+  - [B station](https://www.bilibili.com/video/BV1scDdBoEzP)
+- **3、patch-level objective**
+  - [B station](https://www.bilibili.com/video/BV1xcDdBoEKe)
+- **4、Sepeated Head**
+  - [B station](https://www.bilibili.com/video/BV1ycDdBoEfg)
+- **5、Sinkhorn-Knopp**
+  - [B station](https://www.bilibili.com/video/BV1scDdBoE85)
+- **6、KoLeo Regularizer**
+  - [B station](https://www.bilibili.com/video/BV1scDdBoEm9)
+- **1、DINOv3**
+  - [B station](https://www.bilibili.com/video/BV1qEDdBLEMk)
+- **2、LVD1689M数据集的构建**
+  - [B station](https://www.bilibili.com/video/BV1qEDdBLE6i)
+- **3、第一阶段训练**
+  - [B station](https://www.bilibili.com/video/BV1oEDdBLENy)
+- **4、第二阶段训练 ： Gram Anchoring**
+  - [B station](https://www.bilibili.com/video/BV1ZEDdBLEua)
+- **5、第三阶段训练 High Resolution Adaptat**
+  - [B station](https://www.bilibili.com/video/BV1jEDdBLEz2)
+- **6、多学生模型并行蒸馏**
+  - [B station](https://www.bilibili.com/video/BV1jEDdBLE9c)
+- **7、图文对齐（DINOv3 - CLIP）**
+  - [B station](https://www.bilibili.com/video/BV1ZHRDBkEjf)
+- **9、2D RoPE**
+  - [B station](https://www.bilibili.com/video/BV1yfGE6fE3R)
+- **1、自蒸馏训练 环境配置 + 运行**
+  - [B station](https://www.bilibili.com/video/BV1utQxBDEtY)
+- **2、多学生模型并行蒸馏 环境配置+运行**
+  - [B station](https://www.bilibili.com/video/BV1jEDdBLEy3)
+- **yolov1 算法精讲（上）**
+  - [B station](https://www.bilibili.com/video/BV1ec411T7Rh)
+- **yolov1 算法精讲（下）**
+  - [B station](https://www.bilibili.com/video/BV1ks4y137oU)
+- **yolov5 ｜ 手把手代码精读 ｜数据增强 之 仿射变换(Affine)、透视变换(Perspective)**
+  - [B station](https://www.bilibili.com/video/BV1Vr421h7wF)
+- **yolov5 ｜ 手把手代码精读 ｜数据增强 之 仿射变换(Affine)、透视变换(Perspective) | opencv 相关使用**
+  - [B station](https://www.bilibili.com/video/BV1sp42117Ti)
+- **yolov5 网络结构｜yaml 文件解读**
+  - [B station](https://www.bilibili.com/video/BV1tH4y1n7MT)
+- **yolov5 网络搭建 代码精讲**
+  - [B station](https://www.bilibili.com/video/BV1YZ421e7zH)
+- **yolov5 ｜损失函数 ｜ 正样本匹配**
+  - [B station](https://www.bilibili.com/video/BV1iH4y1G7hV)
+- **yolov5 ｜损失函数 ｜ 正样本匹配  代码精讲**
+  - [B station](https://www.bilibili.com/video/BV1nr421j7X5)
+- **番外 ｜ anchor-based 与 anchor-free 、anchor 与 anchor-point、grid cell**
+  - [B station](https://www.bilibili.com/video/BV1W1421b7uF)
+- **yolov8  |  损失函数 之  1、数据预处理 代码精读**
+  - [B station](https://www.bilibili.com/video/BV1Rb421n7fr)
+- **yolov8  |  损失函数 之  2、正样本匹配 理论讲解**
+  - [B station](https://www.bilibili.com/video/BV1p142187Sv)
+- **yolov8  |  损失函数 之  3、正样本匹配 代码精讲（上）**
+  - [B station](https://www.bilibili.com/video/BV1HM4m1276w)
+- **yolov8  |  损失函数 之  4、正样本匹配 代码精讲（下）**
+  - [B station](https://www.bilibili.com/video/BV1b1421t7rY)
+- **yolov8  |  损失函数 之  5、类别损失**
+  - [B station](https://www.bilibili.com/video/BV1ti421h77Z)
+- **yolov8  |  损失函数 之  6、定位损失 CIoU + DFL**
+  - [B station](https://www.bilibili.com/video/BV1Zy411i75C)
+- **yolov5 ｜ 手把手代码精读 ｜数据增强 之 mosaic**
+  - [B station](https://www.bilibili.com/video/BV1ax4y1U7Ym)
+- **yolo v11 网络结构的改动有哪些 ？**
+  - [B station](https://www.bilibili.com/video/BV1q7DpYtEWL)
+- **yolo v11 ｜  C3k2 模块结构详解**
+  - [B station](https://www.bilibili.com/video/BV1uUyUY6ETc)
+- **yolo v11 ｜ C2PSA 模块详解**
+  - [B station](https://www.bilibili.com/video/BV1ko18YLEir)
+- **yolo v11 ｜ Detect Head  检测头**
+  - [B station](https://www.bilibili.com/video/BV1vHDpYREFR)
+- **怎么盘项目新版本的改动点 ？ yolo v11 的图像增强 和 损失函数 有改动嘛 ？**
+  - [B station](https://www.bilibili.com/video/BV1xErrYTEb1)
+- **yolo 实例分割 ｜ Segmentation Head 结构 与 推理阶段后处理流程**
+  - [B station](https://www.bilibili.com/video/BV1TpgqzbEu2)
+- **YOLO26 ｜ SPPF、C3K2、Detect Head 的模块改动**
+  - [B station](https://www.bilibili.com/video/BV1ULF5zBEnz)
+- **YOLO26 ｜ 整体训练流程，以及 STAL 与 ProgLoss 处理节点**
+  - [B station](https://www.bilibili.com/video/BV1o2FzzsENp)
+- **YOLO26 | DFL Removal 需要做哪些配合调整 ？**
+  - [B station](https://www.bilibili.com/video/BV1N8cwzvEum)
+- **YOLO26 | NMS-Free 的后处理是怎么做的 ？End-to-End NMS-Free Inference**
+  - [B station](https://www.bilibili.com/video/BV13QcuzYEKj)
+- **YOLO26 | ProgLoss & STAL ， STAL 解决的是什么问题 ？ 具体解决方案是什么 ？**
+  - [B station](https://www.bilibili.com/video/BV1nJcxzbEA2)
+- **9）YOLO26 ｜ MuSGD 知识准备 ：奇异值分解**
+  - [B station](https://www.bilibili.com/video/BV1UPPvz3EfN)
+- **10）YOLO26 ｜ MuSGD 知识准备 ：牛顿法**
+  - [B station](https://www.bilibili.com/video/BV1mNPvz6EfV)
+- **8）YOLO26 ｜MuSGD**
+  - [B station](https://www.bilibili.com/video/BV1SNPvz6EFZ)
+- **Ultralytics 使用指南  | 下载哪个发布版本的 Ultralytics 项目 ？ 如何下载指定版本的 ？**
+  - [B station](https://www.bilibili.com/video/BV1f1PezWEKN)
+- **YOLO26 | AutoDL + Ultralytics 环境配置，全程复制粘贴命令，懒人必备 ！**
+  - [B station](https://www.bilibili.com/video/BV1q5ftBXE48)
+- **小白必看 ！ 训练效率优化，需要观察哪些指标，如何查看，有哪些参数会影响 训练效率 ？**
+  - [B station](https://www.bilibili.com/video/BV1HuA3zoEAB)
+- **训练小技巧 ｜ ultralytics 项目如此庞大且复杂，如何快速定位网络搭建入口/训练入口/损失函数入口/数据增强入口 ？ 怎么找到那条执行的任务主线 ？**
+  - [B station](https://www.bilibili.com/video/BV1VqJnz7EjB)
+- **pycharm 使用小技巧｜断点的灵活使用，如何断点在逻辑重叠的代码行，以及断点的统一管理**
+  - [B station](https://www.bilibili.com/video/BV1K3h4zUEif)
+- **深度学习 pycharm 使用 ｜ 命令行完全解析：从 CLI 命令 到 PyCharm 配置**
+  - [B station](https://www.bilibili.com/video/BV11CZWBWE7N)
+- **深度学习炼丹必修！AutoDL 租 GPU 全流程教学，跑通深度学习项目**
+  - [B station](https://www.bilibili.com/video/BV1s2YdzNESZ)
+- **AutoDL 实例迁移 | 在其他实例中复用环境 与 数据集、项目代码**
+  - [B station](https://www.bilibili.com/video/BV1PN1VB4Etx)
+- **远程训练必备！再也不担心 断网 / 断电 / 关机，screen 一招搞定**
+  - [B station](https://www.bilibili.com/video/BV1eRwYzrEGq)
+- **23.2、tmux**
+  - [B station](https://www.bilibili.com/video/BV19ZAEzTE9A)
+- **免费 GPU / TPU ｜ kaggle 项目部署**
+  - [B station](https://www.bilibili.com/video/BV1qM41137SY)
+- **kaggle 上白嫖 GPU 资源 训练 ViT 网络**
+  - [B station](https://www.bilibili.com/video/BV1zLSKBgE4S)
+- **深度学习基础 ｜ argparse 模块 ｜ 命令行参数解析**
+  - [B station](https://www.bilibili.com/video/BV1jM4m1176F)
+- **tensor基础知识 1 -  pytorch 之 tensor 内部存储结构**
+  - [B station](https://www.bilibili.com/video/BV1NH4y177VL)
+- **Dataset 与 DataLoader**
+  - [B station](https://www.bilibili.com/video/BV1sRtresEbB)
+- **Batch Normalization**
+  - [B station](https://www.bilibili.com/video/BV11s4y1c7pg)
+- **优化器 ｜SGD ｜Momentum ｜Adagrad ｜RMSProp ｜Adam**
+  - [B station](https://www.bilibili.com/video/BV1jh4y1q7ua)
+- **优化器 optimizer｜ 权重衰减、weight decay、L2 正则化惩罚**
+  - [B station](https://www.bilibili.com/video/BV1LghvzHEKn)
+- **信息量 ｜熵 ｜ 交叉熵 ｜KL散度 （相对熵）｜交叉熵损失函数**
+  - [B station](https://www.bilibili.com/video/BV1L8411X7ZZ)
+- **深度学习基础 ｜目标检测 评价指标 ：AP、mAP**
+  - [B station](https://www.bilibili.com/video/BV1XHTwzhE1V)
+- **Mamba 超超超详细解说 ｜ 1、对 SSM 的透彻理解**
+  - [B station](https://www.bilibili.com/video/BV1n7421d7xG)
+- **Mamba 超超超详细解说 ｜ 2、SSM 的离散化推导 + 代码示例**
+  - [B station](https://www.bilibili.com/video/BV1GT421Y7vN)
+- **Mamba 超超超详细解说 ｜3、S4 ：Structured State Spaces for Sequences**
+  - [B station](https://www.bilibili.com/video/BV1wR67YhE18)
+- **Mamba 超超超详细解说 ｜4、Mamba**
+  - [B station](https://www.bilibili.com/video/BV16862YgEFK)
+- **VMamba | Mamba 如何应用于2维图像 ？ SS2D ！ 前 2D-Cross-Scan，后 2D-Cross-Merge**
+  - [B station](https://www.bilibili.com/video/BV1FVbQzqEis)
+- **基础知识准备 之 Triton（上）**
+  - [B station](https://www.bilibili.com/video/BV1CjtbzGERE)
+- **基础知识准备 之 Triton（下）**
+  - [B station](https://www.bilibili.com/video/BV1rntbzzEUX)
+- **4.1、VMamba 整体网络结构**
+  - [B station](https://www.bilibili.com/video/BV1uRhJzKEyG)
+- **4.2、SS2D**
+  - [B station](https://www.bilibili.com/video/BV1TfhJzYExF)
+- **4.3、CrossScan 的 Triton 并行实现**
+  - [B station](https://www.bilibili.com/video/BV1CshJzdEyh)
+- **CUDA 编程快速上手 ｜ 1、grid、block、thread**
+  - [B station](https://www.bilibili.com/video/BV1vpPXekEdC)
+- **CUDA 编程快速上手 ｜ 2、global memory、shared memory、register**
+  - [B station](https://www.bilibili.com/video/BV16ZPCeoETD)
+- **不会写 cuda / c++ ？ 用平替的 triton 呀 !**
+  - [B station](https://www.bilibili.com/video/BV1uvVFziE2k)
+- **triton 基础使用 第2课 ｜通过 一个简单的【向量加法并行计算】，带你入门 Triton 基础使用 ！**
+  - [B station](https://www.bilibili.com/video/BV1oLVrz8EVW)
+- **triton 基础使用 第3课 ｜LayerNorm 的并行实现**
+  - [B station](https://www.bilibili.com/video/BV1cU5PzTE2b)
+- **triton 基础使用 第4课 ｜LayerNorm 的并行实现**
+  - [B station](https://www.bilibili.com/video/BV17qEuz9EQ9)
+- **Diffusion ｜ DDPM ｜ 1 - 概述**
+  - [B station](https://www.bilibili.com/video/BV1Xu4y147ov)
+  - links: https://www.bilibili.com/video/BV1xc411X7wx
+- **Diffusion ｜ DDPM ｜2 - 基础知识准备**
+  - [B station](https://www.bilibili.com/video/BV1UN411E7hz)
+  - links: https://www.bilibili.com/video/BV1xc411X7wx
+- **Diffusion | DDPM ｜ 3 - 前向扩散过程**
+  - [B station](https://www.bilibili.com/video/BV1vw41117r1)
+  - links: https://www.bilibili.com/video/BV1xc411X7wx
+- **Diffusion | DDPM | 4 - 反向去噪过程、图像概率分布的理解**
+  - [B station](https://www.bilibili.com/video/BV13N411J7zK)
+  - links: https://www.bilibili.com/video/BV1xc411X7wx
+- **Diffusion ｜ DDPM ｜ 5 - 损失函数**
+  - [B station](https://www.bilibili.com/video/BV1ju4y1x7L4)
+  - links: https://www.bilibili.com/video/BV1xc411X7wx
+- **《ROS 2机器人开发从入门到实践》课程介绍**
+  - [B station](https://www.bilibili.com/video/BV1GW42197Ck)
+- **《ROS 2机器人开发从入门到实践》1.1 ROS部落的自我介绍**
+  - [B station](https://www.bilibili.com/video/BV1tE4m1d7Ug)
+- **《ROS 2机器人开发从入门到实践》1.2.1~1.2.3 ROS2开发环境搭建之安装虚拟机和Ubuntu**
+  - [B station](https://www.bilibili.com/video/BV14M4m117LJ)
+- **《ROS 2机器人开发从入门到实践》1.2.3.1使用Windows子系统WSL安装ROS2运行小海龟**
+  - [B station](https://www.bilibili.com/video/BV1QarYYsEnE)
+- **《ROS 2机器人开发从入门到实践》1.2.4 在Ubuntu中安装ROS2**
+  - [B station](https://www.bilibili.com/video/BV1Jz421B7Ey)
+- **《ROS 2机器人开发从入门到实践》1.3 运行你的第一个机器人**
+  - [B station](https://www.bilibili.com/video/BV1iE421w7d5)
+- **《ROS 2机器人开发从入门到实践》 1.4.5 Linux基础之环境变量**
+  - [B station](https://www.bilibili.com/video/BV1pm42137bR)
+- **《ROS 2机器人开发从入门到实践》 2.1.1编写你的第一个节点(Python示例)**
+  - [B station](https://www.bilibili.com/video/BV1iy411i727)
+- **《ROS 2机器人开发从入门到实践》 2.1.2编写你的第一个节点( C++ 示例)**
+  - [B station](https://www.bilibili.com/video/BV1FH4y1c7Px)
+- **《ROS 2机器人开发从入门到实践》 2.2 使用功能包组织Python节点**
+  - [B station](https://www.bilibili.com/video/BV1ky411e7hp)
+- **《ROS 2机器人开发从入门到实践》 2.3 使用功能包组织C++节点**
+  - [B station](https://www.bilibili.com/video/BV1Pb42177BJ)
+- **《ROS 2机器人开发从入门到实践》 2.4 多功能包的最佳实践WorkSpace**
+  - [B station](https://www.bilibili.com/video/BV1Hx4y147gW)
+- **《ROS 2机器人开发从入门到实践》2.5.1ROS2基础之编程:面向对象编程Python示例**
+  - [B station](https://www.bilibili.com/video/BV1xU411U7yR)
+- **《ROS 2机器人开发从入门到实践》2.5.1ROS2基础之编程:面向对象编程C++示例**
+  - [B station](https://www.bilibili.com/video/BV191p2eMErj)
+- **《ROS 2机器人开发从入门到实践》2.5.2用得到的C++新特性**
+  - [B station](https://www.bilibili.com/video/BV1CRWWeoEso)
+- **《ROS 2机器人开发从入门到实践》2.5.3.1多线程与回调函数Python示例**
+  - [B station](https://www.bilibili.com/video/BV1DvWYehEWz)
+- **《ROS 2机器人开发从入门到实践》2.5.3.2多线程与回调函数C++示例**
+  - [B station](https://www.bilibili.com/video/BV18mWjeEEXS)
+- **《ROS 2机器人开发从入门到实践》3.1话题通信介绍**
+  - [B station](https://www.bilibili.com/video/BV1D3WXeSELP)
+- **《ROS 2机器人开发从入门到实践》3.2.1通过话题发布小说**
+  - [B station](https://www.bilibili.com/video/BV1g1sFezEpx)
+- **《ROS 2机器人开发从入门到实践》3.2.2订阅小说并合成语音**
+  - [B station](https://www.bilibili.com/video/BV18GWreJEVo)
+- **《ROS 2机器人开发从入门到实践》3.3.1发布速度控制海龟画圆**
+  - [B station](https://www.bilibili.com/video/BV1pas7eGEkk)
+- **《ROS 2机器人开发从入门到实践》3.3.2订阅pose实现闭环控制**
+  - [B station](https://www.bilibili.com/video/BV1mLsseKEiN)
+- **《ROS 2机器人开发从入门到实践》3.4.1完成工程架构设计**
+  - [B station](https://www.bilibili.com/video/BV118sMeQExX)
+- **《ROS 2机器人开发从入门到实践》3.4.2自定义通信接口**
+  - [B station](https://www.bilibili.com/video/BV1dTHgeeEPm)
+- **《ROS 2机器人开发从入门到实践》3.4.3系统信息获取与发布**
+  - [B station](https://www.bilibili.com/video/BV1GnH5eGEC3)
+- **《ROS 2机器人开发从入门到实践》3.4.4在功能包中使用QT**
+  - [B station](https://www.bilibili.com/video/BV1W4noe5Ezr)
+- **《ROS 2机器人开发从入门到实践》3.4.5订阅数据并用Qt显示**
+  - [B station](https://www.bilibili.com/video/BV1MxHvebEdL)
+- **《ROS 2机器人开发从入门到实践》3.5ROS2基础之Git入门**
+  - [B station](https://www.bilibili.com/video/BV1FoHreaEMc)
+- **《ROS 2机器人开发从入门到实践》4.1.1服务通信介绍**
+  - [B station](https://www.bilibili.com/video/BV1kAHxepEcf)
+- **《ROS 2机器人开发从入门到实践》4.1.2基于服务的参数通信**
+  - [B station](https://www.bilibili.com/video/BV1pGHaerErL)
+- **《ROS 2机器人开发从入门到实践》4.2.1自定义服务接口**
+  - [B station](https://www.bilibili.com/video/BV18rpKeUETp)
+- **《ROS 2机器人开发从入门到实践》4.2.2人脸检测**
+  - [B station](https://www.bilibili.com/video/BV14HHQeKEPm)
+- **《ROS 2机器人开发从入门到实践》4.2.3人脸检测服务实现**
+  - [B station](https://www.bilibili.com/video/BV13zpbeJEG2)
+- **《ROS 2机器人开发从入门到实践》4.2.4人脸检测客户端的实现**
+  - [B station](https://www.bilibili.com/video/BV1yMpBehEWW)
+- **《ROS 2机器人开发从入门到实践》4.3.1自定义服务接口**
+  - [B station](https://www.bilibili.com/video/BV123pJe2EgX)
+- **《ROS 2机器人开发从入门到实践》4.3.2服务端代码实现**
+  - [B station](https://www.bilibili.com/video/BV1ncpEevE4N)
+- **《ROS 2机器人开发从入门到实践》4.3.3客户端代码实现**
+  - [B station](https://www.bilibili.com/video/BV1mj4zeUELx)
+- **《ROS 2机器人开发从入门到实践》4.4.1参数声明设置**
+  - [B station](https://www.bilibili.com/video/BV1G54neuEiH)
+- **《ROS 2机器人开发从入门到实践》4.4.2订阅参数更新**
+  - [B station](https://www.bilibili.com/video/BV16T4fe4EpX)
+- **《ROS 2机器人开发从入门到实践》4.4.3客户端代码实现**
+  - [B station](https://www.bilibili.com/video/BV1xatKeWEFT)
+- **《ROS 2机器人开发从入门到实践》4.5.1参数声明与设置**
+  - [B station](https://www.bilibili.com/video/BV19k4UeXEvZ)
+- **《ROS 2机器人开发从入门到实践》4.5.2接收参数事件**
+  - [B station](https://www.bilibili.com/video/BV1sutteUEry)
+- **《ROS 2机器人开发从入门到实践》4.5.3修改其他节点的参数**
+  - [B station](https://www.bilibili.com/video/BV1dAtieREYf)
+- **《ROS 2机器人开发从入门到实践》4.6.1使用Launch启动多个节点**
+  - [B station](https://www.bilibili.com/video/BV1hdtLeZE9y)
+- **《ROS 2机器人开发从入门到实践》4.6.2使用launch传递参数**
+  - [B station](https://www.bilibili.com/video/BV18MtRePEdY)
+- **《ROS 2机器人开发从入门到实践》4.6.3 launch使用进阶**
+  - [B station](https://www.bilibili.com/video/BV1BMbAeKEY8)
+- **《ROS 2机器人开发从入门到实践》5.1.1通过命令行使用TF**
+  - [B station](https://www.bilibili.com/video/BV1ietCe2E9F)
+- **《ROS 2机器人开发从入门到实践》5.1.2对TF原理的简单探究**
+  - [B station](https://www.bilibili.com/video/BV1wnsCe1EgM)
+- **《ROS 2机器人开发从入门到实践》5.2Python中的手眼坐标变换**
+  - [B station](https://www.bilibili.com/video/BV1YesXeoEGd)
+- **《ROS 2机器人开发从入门到实践》5.2.2 通过Python发布动态TF**
+  - [B station](https://www.bilibili.com/video/BV1mxsheXEpc)
+- **《ROS 2机器人开发从入门到实践》5.2.3通过Python查询TF关系**
+  - [B station](https://www.bilibili.com/video/BV1CSszeuEH3)
+- **《ROS 2机器人开发从入门到实践》5.3.1 通过C++发布静态TF**
+  - [B station](https://www.bilibili.com/video/BV1h8xnePEMe)
+- **《ROS 2机器人开发从入门到实践》5.3.2通过C++发布动态TF**
+  - [B station](https://www.bilibili.com/video/BV12RsoefEyV)
+- **《ROS 2机器人开发从入门到实践》5.3.3通过C++查询TF关系**
+  - [B station](https://www.bilibili.com/video/BV1CexqevEAw)
+- **《ROS 2机器人开发从入门到实践》5.4.1常用可视化工具rqt**
+  - [B station](https://www.bilibili.com/video/BV1dtxmeJEbG)
+- **《ROS 2机器人开发从入门到实践》5.4.2 数据化可视工具Rviz**
+  - [B station](https://www.bilibili.com/video/BV1NQx4e5EoJ)
+- **《ROS 2机器人开发从入门到实践》5.5 数据记录工具ros2 bag**
+  - [B station](https://www.bilibili.com/video/BV1KyxeewEuY)
+- **《ROS 2机器人开发从入门到实践》5.6 ROS 2基础之Git进阶**
+  - [B station](https://www.bilibili.com/video/BV1qs4geDEzC)
+- **《ROS 2机器人开发从入门到实践》5.6.2 Git进阶之学会撤销代码**
+  - [B station](https://www.bilibili.com/video/BV1ejxDesExB)
+- **《ROS 2机器人开发从入门到实践》5.6.3 Git进阶之分支**
+  - [B station](https://www.bilibili.com/video/BV1tbxDejE9n)
+- **《ROS 2机器人开发从入门到实践》6.1 机器人建模与仿真概述**
+  - [B station](https://www.bilibili.com/video/BV1CB19Y1Ew8)
+- **《ROS 2机器人开发从入门到实践》6.2 使用URDF创建机器人**
+  - [B station](https://www.bilibili.com/video/BV1RT1BYQEAk)
+- **《ROS 2机器人开发从入门到实践》6.2.2 在RViz中显示机器人**
+  - [B station](https://www.bilibili.com/video/BV1Vq2LYoECn)
+- **《ROS 2机器人开发从入门到实践》6.2.3使用Xacro简化URDF**
+  - [B station](https://www.bilibili.com/video/BV1WY2WYaEwc)
+- **《ROS 2机器人开发从入门到实践》6.2.4创建机器人及传感器部件**
+  - [B station](https://www.bilibili.com/video/BV12a2NYJE7L)
+- **《ROS 2机器人开发从入门到实践》6.2.5完善机器人执行器部件**
+  - [B station](https://www.bilibili.com/video/BV1s92VYTEc7)
+- **《ROS 2机器人开发从入门到实践》6.2.6贴合地面，添加虚拟部件**
+  - [B station](https://www.bilibili.com/video/BV1xU2mYBE9u)
+- **《ROS 2机器人开发从入门到实践》6.3.1为机器人部件添加碰撞属性**
+  - [B station](https://www.bilibili.com/video/BV11J29YQESi)
+- **《ROS 2机器人开发从入门到实践》6.3.2为机器人部件添加质量与惯性**
+  - [B station](https://www.bilibili.com/video/BV1wJ2BYqER6)
+- **《ROS 2机器人开发从入门到实践》6.4.1安装与使用Gazebo构建世界**
+  - [B station](https://www.bilibili.com/video/BV1oamGYxEty)
+- **《ROS 2机器人开发从入门到实践》6.4.2在Gazebo中加载机器人模型**
+  - [B station](https://www.bilibili.com/video/BV1ho2dYNE6T)
+- **《ROS 2机器人开发从入门到实践》6.4.3 使用Gazebo标签扩展URDF**
+  - [B station](https://www.bilibili.com/video/BV1k8mNYyEjW)
+- **《ROS 2机器人开发从入门到实践》6.4.4 使用两轮差速插件控制机器人**
+  - [B station](https://www.bilibili.com/video/BV1wyyPYvEPy)
+- **《ROS 2机器人开发从入门到实践》6.4.5 激光雷达传感器仿真**
+  - [B station](https://www.bilibili.com/video/BV1vTCUYyEcX)
+- **《ROS 2机器人开发从入门到实践》6.4.6惯性测量传感器仿真**
+  - [B station](https://www.bilibili.com/video/BV1qLCRYYEMa)
+- **《ROS 2机器人开发从入门到实践》6.4.7深度相机传感器仿真**
+  - [B station](https://www.bilibili.com/video/BV1SVy8YQEzu)
+- **《ROS 2机器人开发从入门到实践》6.5.1ros2_control介绍与安装**
+  - [B station](https://www.bilibili.com/video/BV1f1yVYREG6)
+- **《ROS 2机器人开发从入门到实践》6.5.2使用 Gazebo 接入 ros2_control**
+  - [B station](https://www.bilibili.com/video/BV1VayHYqEUe)
+- **《ROS 2机器人开发从入门到实践》6.5.3使用关节状态发布控制器**
+  - [B station](https://www.bilibili.com/video/BV1kfyZY9EaA)
+- **《ROS 2机器人开发从入门到实践》6.5.4使用力控制器控制轮子**
+  - [B station](https://www.bilibili.com/video/BV18QyzY2ExG)
+- **《ROS 2机器人开发从入门到实践》6.5.5使用两轮差速控制器控制机器人**
+  - [B station](https://www.bilibili.com/video/BV13SyDYmEPx)
+- **《ROS 2机器人开发从入门到实践》7 自主导航 让机器人自己动起来**
+  - [B station](https://www.bilibili.com/video/BV1fA1bYYE5q)
+- **《ROS 2机器人开发从入门到实践》7.1 机器人导航介绍**
+  - [B station](https://www.bilibili.com/video/BV1gf1KYoEMf)
+- **《ROS 2机器人开发从入门到实践》7.2.1构建第一章导航地图**
+  - [B station](https://www.bilibili.com/video/BV1Ff1jYqEyU)
+- **《ROS 2机器人开发从入门到实践》7.2.2将地图保存为文件**
+  - [B station](https://www.bilibili.com/video/BV1kB1JYmEvR)
+- **《ROS 2机器人开发从入门到实践》7.3.1Navigation2介绍与安装**
+  - [B station](https://www.bilibili.com/video/BV1ezSiYdEJG)
+- **《ROS 2机器人开发从入门到实践》7.3.2编写launch并启动导航**
+  - [B station](https://www.bilibili.com/video/BV1kiSHYaEh8)
+- **《ROS 2机器人开发从入门到实践》7.3.3编写launch并启动导航**
+  - [B station](https://www.bilibili.com/video/BV1bNSoY6EVj)
+- **《ROS 2机器人开发从入门到实践》7.3.4进行单点与路点导航**
+  - [B station](https://www.bilibili.com/video/BV1bPSoY3E9D)
+- **《ROS 2机器人开发从入门到实践》7.3.5导航过程中进行动态避障**
+  - [B station](https://www.bilibili.com/video/BV1VdSdY2EzK)
+- **《ROS 2机器人开发从入门到实践》7.3.6优化导航速度和膨胀半径**
+  - [B station](https://www.bilibili.com/video/BV15CDWYbEnG)
+- **《ROS 2机器人开发从入门到实践》7.3.7 优化机器人到点精度**
+  - [B station](https://www.bilibili.com/video/BV1iaDMYDEHW)
+- **《ROS 2机器人开发从入门到实践》7.4.1使用话题初始化机器人位姿**
+  - [B station](https://www.bilibili.com/video/BV11bDDYXEsC)
+- **《ROS 2机器人开发从入门到实践》7.4.2使用TF获取机器人实时位置**
+  - [B station](https://www.bilibili.com/video/BV1i5DaYnE31)
+- **《ROS 2机器人开发从入门到实践》7.4.3调用接口进行单点导航**
+  - [B station](https://www.bilibili.com/video/BV1ALD6YXENf)
+- **《ROS 2机器人开发从入门到实践》7.4.4使用接口完成路点导航**
+  - [B station](https://www.bilibili.com/video/BV1NumkY9E8H)
+- **《ROS 2机器人开发从入门到实践》7.5.1完成机器人系统架构设计**
+  - [B station](https://www.bilibili.com/video/BV1eZm1YmEhm)
+- **《ROS 2机器人开发从入门到实践》7.5.2编写巡检控制节点**
+  - [B station](https://www.bilibili.com/video/BV17WmhYyEZi)
+- **《ROS 2机器人开发从入门到实践》7.5.3.1添加语音播报功能（上）**
+  - [B station](https://www.bilibili.com/video/BV1yQU5Y5EVu)
+- **《ROS 2机器人开发从入门到实践》7.5.3.2添加语音播报功能（中）**
+  - [B station](https://www.bilibili.com/video/BV1PnmZYaEox)
+- **《ROS 2机器人开发从入门到实践》7.5.3.3添加语音播报功能（下）**
+  - [B station](https://www.bilibili.com/video/BV1oAUiY4EUY)
+- **《ROS 2机器人开发从入门到实践》7.5.4订阅图像并记录**
+  - [B station](https://www.bilibili.com/video/BV1s7UrYpE1Z)
+- **《ROS 2机器人开发从入门到实践》7.6.1添加自描述文件**
+  - [B station](https://www.bilibili.com/video/BV19HUkYBEYV)
+- **《ROS 2机器人开发从入门到实践》7.6.2将代码托管在Gitee**
+  - [B station](https://www.bilibili.com/video/BV1pAUkYQE6J)
+- **《ROS 2机器人开发从入门到实践》7.6.3将代码托管在GitHub**
+  - [B station](https://www.bilibili.com/video/BV1mbU7YoE6t)
+- **《ROS 2机器人开发从入门到实践》8.1.1pluginlib介绍与安装**
+  - [B station](https://www.bilibili.com/video/BV1tbUQYREiY)
+- **《ROS 2机器人开发从入门到实践》8.1.2定义插件抽象类**
+  - [B station](https://www.bilibili.com/video/BV1HVBqYVECK)
+- **《ROS 2机器人开发从入门到实践》8.1.3编写并生成第一个插件**
+  - [B station](https://www.bilibili.com/video/BV1DYB2YnEYz)
+- **《ROS 2机器人开发从入门到实践》8.1.4编写插件测试程序**
+  - [B station](https://www.bilibili.com/video/BV1hjB4YhELs)
+- **《ROS 2机器人开发从入门到实践》8.2.1自定义规划器介绍**
+  - [B station](https://www.bilibili.com/video/BV1fSzNYHEza)
+- **【面试必考】交叉熵 vs KL散度到底是什么？从惊讶度讲到损失函数，一次说清它俩的关系**
+  - [B station](https://www.bilibili.com/video/BV13tMK6oEAA)
+- **【面试高频】熵、交叉熵、KL 散度什么关系？一枚硬币讲透 交叉熵 = 熵 + KL**
+  - [B station](https://www.bilibili.com/video/BV1BJMh6uEGj)
+- **【手撕代码】交叉熵到底在惩罚什么？BCE 与多分类 CE 一次讲透**
+  - [B station](https://www.bilibili.com/video/BV1vmM36EEmH)
+- **【面试高频】InfoNCE Loss 和 Cross Entropy Loss 有什么区别？对比学习核心损失全解析**
+  - [B station](https://www.bilibili.com/video/BV1VQMp6LEvg)
+- **【面试高频】什么是语言模型：从 N-gram、数据稀疏到神经语言模型与大模型**
+  - [B station](https://www.bilibili.com/video/BV1h9No6cE6x)
+- **【强化学习】Q-Learning 到 DQN：TD 更新、经验回放、target 网络，为什么能玩 Atari**
+  - [B station](https://www.bilibili.com/video/BV1FUKW6JE3P)
+- **【强化学习最小模型】多臂老虎机：探索利用、ε-greedy、UCB、汤普森采样**
+  - [B station](https://www.bilibili.com/video/BV1ZYKs6EEGQ)
+- **【强化学习】Actor-Critic / A2C / A3C：优势函数 A=Q−V、多 worker 并行为什么更稳**
+  - [B station](https://www.bilibili.com/video/BV13bKt6UELM)
+- **【强化学习】Actor-Critic / A2C / A3C：优势函数 A=Q−V、多 worker 并行为什么更稳**
+  - [B station](https://www.bilibili.com/video/BV15fKx6nEDN)
+- **【手撕代码】寻找质数：为什么只需试除到 √n？从暴力到埃氏筛**
+  - [B station](https://www.bilibili.com/video/BV1TYKx6MEBZ)
+- **【机器学习】决策树三兄弟 ID3 / C4.5 / CART：划分标准、结构差异、工程选用**
+  - [B station](https://www.bilibili.com/video/BV1J5gR6mEuu)
+- **【机器学习】K-means 聚类讲透：两步迭代 + 肘部法则 + EM 视角**
+  - [B station](https://www.bilibili.com/video/BV1E5gR6mEdn)
+- **【机器学习】L1 vs L2 正则化：为什么 L1 产生稀疏解？几何/梯度/贝叶斯三视角**
+  - [B station](https://www.bilibili.com/video/BV1nVgR6EExs)
+- **【机器学习】逻辑回归：名字叫回归 本质是分类——Sigmoid / 决策边界 / 交叉熵 一次讲透**
+  - [B station](https://www.bilibili.com/video/BV177gR61EJX)
+- **【强化学习】SARSA vs Q-learning：一个绕悬崖一个贴悬崖，On/Off-Policy 本质**
+  - [B station](https://www.bilibili.com/video/BV18vgR6PEbf)
+- **【强化学习基石】TD 时序差分：MC 采样 + DP bootstrap，SARSA / Q-learning / Actor-Critic 全是它的实例**
+  - [B station](https://www.bilibili.com/video/BV1uvgR6PEin)
+- **【手撕面试】AUC 0.8 到底是什么意思：正样本排在负样本前面的概率，三行代码手撕**
+  - [B station](https://www.bilibili.com/video/BV1ampE6YEkX)
+- **【从 Transformer 到大模型现代架构 01/20】大模型到底在算什么：下一词预测**
+  - [B station](https://www.bilibili.com/video/BV1SSpE6cECv)
+- **【RL 入门到 GRPO 01】强化学习到底在学什么？监督学习给答案，RL 只给一个分数**
+  - [B station](https://www.bilibili.com/video/BV1HAhU6WEod)
+- **【RL 入门到 GRPO 02】折扣因子 γ 到底在决定什么？为什么大模型里直接取 1**
+  - [B station](https://www.bilibili.com/video/BV1HThU6DEJi)
+- **【RL 入门到 GRPO 03】V、Q 和 Advantage 分别在算什么？贝尔曼方程与 PPO 的 Critic**
+  - [B station](https://www.bilibili.com/video/BV16ThU6DEk9)
+- **【RL 入门到 GRPO 04】蒙特卡洛和 TD 差在哪？偏差方差的取舍与 TD 误差 δ**
+  - [B station](https://www.bilibili.com/video/BV1nKhU6HEva)
+- **【RL 入门到 GRPO 05】策略梯度是怎么推出来的？REINFORCE 与 DeepSeekMath 的统一形式**
+  - [B station](https://www.bilibili.com/video/BV14Zhm6oE5i)
+- **【RL 入门到 GRPO 06】baseline 为什么不引入偏差？减 V 得到优势，GRPO 减的是组平均**
+  - [B station](https://www.bilibili.com/video/BV14Zhm6oEPG)
+- **【RL 入门到 GRPO 07】Actor-Critic 为什么要两个网络？Critic 的作业与它在大模型上的代价**
+  - [B station](https://www.bilibili.com/video/BV1Tohm6bE1K)
+- **【RL 入门到 GRPO 08】GAE 的 λ 到底在调什么？λ 为什么可以比 γ 小得多**
+  - [B station](https://www.bilibili.com/video/BV1Tohm6bEe4)
+- **【RL 入门到 GRPO 09】重要性采样是什么？旧策略采的数据为什么还能用、能用到什么程度**
+  - [B station](https://www.bilibili.com/video/BV1schU6REqP)
+- **【RL 入门到 GRPO 10】从 TRPO 到 PPO：KL 围栏与 clip 剪刀，ε 为什么是 0.2**
+  - [B station](https://www.bilibili.com/video/BV1WFhU6xED8)
+- **【RL 入门到 GRPO 11】PPO 完整训练流程：三步一轮、三项损失，以及大模型版的参数**
+  - [B station](https://www.bilibili.com/video/BV1WFhU6xEmR)
+- **【RL 入门到 GRPO 12】大模型怎么变成策略？单步老虎机与 token 级 MDP 的两种看法**
+  - [B station](https://www.bilibili.com/video/BV1LjhU6yEy1)
+- **【RL 入门到 GRPO 13】RLHF 三阶段是怎么串起来的？InstructGPT 的三个数与对齐税**
+  - [B station](https://www.bilibili.com/video/BV17LhU6LEDs)
+- **【RL 入门到 GRPO 14】Reward Model 是怎么训出来的？Bradley-Terry 与 batch 的反直觉细节**
+  - [B station](https://www.bilibili.com/video/BV1LJhU6kEkp)
+- **【RL 入门到 GRPO 15】KL 惩罚在拴住谁？β 的取值、k3 估计，以及放奖励还是放损失**
+  - [B station](https://www.bilibili.com/video/BV1iEhU6VEm5)
+- **【RL 入门到 GRPO 16】PPO 的四个模型：谁在学、谁在看，以及显存为什么是它的死穴**
+  - [B station](https://www.bilibili.com/video/BV1vEhU6VE81)
+- **【RL 入门到 GRPO 17】DPO 是怎么推出来的？闭式解、配分函数与「你的语言模型其实是个 Reward Model」**
+  - [B station](https://www.bilibili.com/video/BV1fghU6UEUB)
+- **【RL 入门到 GRPO 18】GRPO 到底改了 PPO 什么？去掉 Critic、换成组内基线、KL 进损失**
+  - [B station](https://www.bilibili.com/video/BV1e6hm6uEYW)
+- **【RL 入门到 GRPO 19】GRPO 的两个偏差藏在哪？Dr. GRPO 删两个分母、DAPO 放宽 clip 治熵坍塌**
+  - [B station](https://www.bilibili.com/video/BV1EVhU62Ein)
+- **【RL 入门到 GRPO 20】DeepSeek-R1 做对了什么？规则奖励、顿悟时刻与四阶段配方**
+  - [B station](https://www.bilibili.com/video/BV17VhU62EwM)
+- **【面试高频】SFT 为什么要 Mask 掉 User 的部分？只学 Assistant，label 设 -100**
+  - [B station](https://www.bilibili.com/video/BV1KyNH6nEPk)
+- **【面试高频】指令微调 Instruction Tuning：多任务、统一格式、零样本泛化，和 RLHF 别搞混**
+  - [B station](https://www.bilibili.com/video/BV1qLKj6ZE8D)
+- **【面试高频】PEFT 参数高效微调五种方法：Adapter/Prefix/P-Tuning/Prompt Tuning/LoRA 对比**
+  - [B station](https://www.bilibili.com/video/BV1VUNo6vE1H)
+- **【微调排障】chat template 不一致：不报错但效果暴降的 silent error**
+  - [B station](https://www.bilibili.com/video/BV1t68264Eyx)
+- **【微调实操】LoRA 超参调优：rank、alpha、target modules 与学习率怎么设**
+  - [B station](https://www.bilibili.com/video/BV1VY826wEd2)
+- **【微调必修】LoRA 显存悖论：只训 1% 参数，为什么显存没等比例下降**
+  - [B station](https://www.bilibili.com/video/BV1aq826bExU)
+- **【立项必答】SFT 到底需要多少条数据？从 LIMA 与 Alpaca 的对比讲透质量与数量**
+  - [B station](https://www.bilibili.com/video/BV1Rg8s6qEyy)
+- **【微调排障】SFT 后的三种退化：重复、啰嗦、幻觉加剧各自的根因与修复**
+  - [B station](https://www.bilibili.com/video/BV1YL8s6PENV)
+- **【SFT 排障】第二个 epoch loss 断崖暴跌：三大根因、判断方法与五个避免手段**
+  - [B station](https://www.bilibili.com/video/BV1hL8s6PE3u)
+- **【大模型基础】SFT 和预训练的区别在哪里？损失掩码机制详解**
+  - [B station](https://www.bilibili.com/video/BV19V8s6vEKY)
+- **【DeepSeek R1】冷启动 SFT 详解：千条数据为什么能解决 R1-Zero 的可读性问题**
+  - [B station](https://www.bilibili.com/video/BV14V8t6AELz)
+- **【SFT 进阶】多轮对话训练详解：上下文拼接、loss mask 与长对话截断**
+  - [B station](https://www.bilibili.com/video/BV1wgbL6XE3k)
+- **【推理提升】RFT 拒绝采样微调详解：性价比最高的推理能力提升方法**
+  - [B station](https://www.bilibili.com/video/BV1kdb76fEAX)
+- **【SFT 调参】学习率实操指南：十分之一法则、经验值与两侧症状**
+  - [B station](https://www.bilibili.com/video/BV1TAb76KEap)
+- **【SFT 数据】GRAPE：用目标模型概率挑回答，三分之一数据为什么能超过 Tulu3-SFT**
+  - [B station](https://www.bilibili.com/video/BV1VneY6qEhN)
+- **【Qwen3 技术报告】思考与非思考模式怎么训进一个模型？空 think 块、/no_think 标记与涌现的思考预算**
+  - [B station](https://www.bilibili.com/video/BV18mea6FEt1)
+- **【训练排障】LoRA 开梯度检查点后 loss 纹丝不动，根因是什么？enable_input_require_grads 与 use_reentrant**
+  - [B station](https://www.bilibili.com/video/BV1ezea6vE4D)
+- **【SFT 面试】为什么用 SFT 教模型新知识，反而会让它更爱编？未知样本学得慢、学会后幻觉线性上升**
+  - [B station](https://www.bilibili.com/video/BV1Yrea6PEJH)
+- **【SFT 评测】SFT 之后模型对提示词措辞更鲁棒了吗？1.7B/4B 降 54%~71%，8B 几乎为零**
+  - [B station](https://www.bilibili.com/video/BV1Wfea6QEWG)
+- **【SFT 进阶】SFT 里每个 token 都该学吗？Rho-1 超额损失选 token 与 ProFit 屏蔽低概率措辞**
+  - [B station](https://www.bilibili.com/video/BV1Wfea6QEJ9)
+- **【SFT 调参】六个决定一次讲透：为什么按验证 loss 早停会停错？LoRA lr 1e-3、过 2 轮 IFEval 退化、Muon**
+  - [B station](https://www.bilibili.com/video/BV1knea6mErC)
+- **【SFT 面试】为 RL 准备的 SFT 为什么不该追求最低 loss？TailSFT、SWE-Prime 与数据选择的容量边界**
+  - [B station](https://www.bilibili.com/video/BV16xea65ExR)
+- **【SFT 面试】SFT 一定要 mask 掉 prompt 吗？指令长 5 倍、样本少于 1 万时给 prompt 算 loss 反而涨点**
+  - [B station](https://www.bilibili.com/video/BV1UTea64E3a)
+- **【面试高频】梯度裁剪原理：按范数裁剪 vs 按值裁剪，阈值怎么设，为什么必开**
+  - [B station](https://www.bilibili.com/video/BV14ZNa6HEru)
+- **【面试高频】大模型训练为何突然 NaN？QK-Norm 两行代码治好注意力 logit 爆炸**
+  - [B station](https://www.bilibili.com/video/BV1UUua6wEVU)
+- **【微调实操】灾难性遗忘的五种缓解方法：从 LoRA rank 到任务向量加法**
+  - [B station](https://www.bilibili.com/video/BV1PD826SEFs)
+- **【训练稳定性】梯度裁剪详解：静态全局范数裁剪与 AdaGC 自适应裁剪**
+  - [B station](https://www.bilibili.com/video/BV1EH826zEU7)
+- **【RLHF 排障】三大崩溃现象诊断：reward 崩塌、KL 爆炸、输出发散**
+  - [B station](https://www.bilibili.com/video/BV1Bu8S6LEJU)
+- **【训练排障】loss 突然变 NaN 怎么办？脏数据、梯度爆炸、精度溢出三路排查**
+  - [B station](https://www.bilibili.com/video/BV13f846kEU1)
+- **【训练排障】训练不收敛的系统排查清单：学习率、数据、初始化、精度四步走**
+  - [B station](https://www.bilibili.com/video/BV1LQ8467E4e)
+- **【持续学习】数据回放详解：配比、选样与遗忘监控**
+  - [B station](https://www.bilibili.com/video/BV1MT8t6TEaB)
+- **【训练踩坑】token level mean vs sequence level sum：一个除法决定训练稳定还是崩溃**
+  - [B station](https://www.bilibili.com/video/BV1qNbE6XEfw)
+- **【训练调试】可复现性详解：cuDNN、DataLoader 与分布式浮点误差三大随机源**
+  - [B station](https://www.bilibili.com/video/BV1iMbE6DEbj)
+- **【训练诊断】train vs val loss：过拟合、欠拟合的判断标准与量化指标**
+  - [B station](https://www.bilibili.com/video/BV1RTbE6HEkW)
+- **【训练监控】除了 loss 还必须看的五个指标：grad norm、PPL、MFU、学习率、吞吐量**
+  - [B station](https://www.bilibili.com/video/BV1zwbE6REWX)
+- **【持续学习】三种技术路线：经验回放、EWC 与渐进式网络（LoRA adapter）**
+  - [B station](https://www.bilibili.com/video/BV17pb76pEuR)
+- **【训练监控】梯度范数多大算正常？基线建立与三种预警阈值设法**
+  - [B station](https://www.bilibili.com/video/BV1Urb76uETw)
+- **【训练监控】WandB 与 TensorBoard 选型 + 必须记录的六大指标**
+  - [B station](https://www.bilibili.com/video/BV1gobj6gE67)
+- **【训练排障】变长 SFT 开梯度累积，loss 为什么会系统性偏高？HF Trainer 存在两年的归一化 bug**
+  - [B station](https://www.bilibili.com/video/BV1LReh6iES9)
+- **【后训练面试】为什么 RL 比 SFT 更不容易遗忘？陈丹琦组消融：关键是 on-policy 数据而不是 KL**
+  - [B station](https://www.bilibili.com/video/BV1oUeh6zEr8)
+- **【训练排障】训练末期 grad norm 为什么反而上升？weight decay 与 LR 衰减的耦合，AdamC 一行修正**
+  - [B station](https://www.bilibili.com/video/BV1mMea6dEtA)
+- **强化学习中的熵坍塌**
+  - [B station](https://www.bilibili.com/video/BV1qY9NBCEo2)
+- **【面试高频】什么是熵坍塌和 Reward Hacking？它们的关系与解决办法**
+  - [B station](https://www.bilibili.com/video/BV1j1M36UEP1)
+- **【面试高频】什么是 Rollout？RL 训练的经验采样，四步流程 + 为什么是头号瓶颈**
+  - [B station](https://www.bilibili.com/video/BV14rNH6pEvw)
+- **【面试进阶】熵坍塌为什么发生？又如何解决？从协方差机制到 Clip-Higher**
+  - [B station](https://www.bilibili.com/video/BV1rKKx6dEjc)
+- **【RLHF】KL 惩罚系数 β 怎么调？太小 Reward Hacking，太大学不动**
+  - [B station](https://www.bilibili.com/video/BV1ck3R6pE2G)
+  - links: https://arxiv.org/abs/2203.02155 https://arxiv.org/abs/2307.09288
+- **【RL 工程】RLEP 经验回放：把高质量 rollout 存进 buffer 反复利用**
+  - [B station](https://www.bilibili.com/video/BV1fK8S6jE8G)
+- **【RLHF 调参】PPO 三大超参详解：clip range、KL coefficient、GAE lambda**
+  - [B station](https://www.bilibili.com/video/BV1w9b76wE6Z)
+- **【RL 工程】batch 组织策略：难度分布、类型平衡与 rollout 数量**
+  - [B station](https://www.bilibili.com/video/BV1Kmb76KEqu)
+- **【RL 调参】entropy bonus 详解：系数怎么设、衰减调度怎么做、熵坍缩怎么救**
+  - [B station](https://www.bilibili.com/video/BV1Tmb76KEFh)
+- **【RL 工程】rollout 是 RL 训练的瓶颈：vLLM 加速与异步训练详解**
+  - [B station](https://www.bilibili.com/video/BV1N1b76qEif)
+- **【RLHF 监控】target KL 设置与 KL 曲线诊断**
+  - [B station](https://www.bilibili.com/video/BV12yb76TEzJ)
+- **【RL 基础】探索与利用的平衡：epsilon-greedy、UCB、entropy bonus 与好奇心驱动**
+  - [B station](https://www.bilibili.com/video/BV1UBb763E1D)
+- **【RL 调参】rollout 采样温度：让 group 内有区分度才有训练信号**
+  - [B station](https://www.bilibili.com/video/BV1DBb763EHZ)
+- **【RL 加速】用投机解码给 rollout 提速：draft 模型选择与命中率优化**
+  - [B station](https://www.bilibili.com/video/BV1KTb76YELi)
+- **【异步 RL】PPO-EWMA：通过参数滑动平均改进 old logits 缺失问题，重要性比为什么要拆成两项**
+  - [B station](https://www.bilibili.com/video/BV1BVeY6GEwD)
+- **【推理 Infra】Batch 不变内核：通过固定归约顺序消除大模型推理的不确定性，RL 训推 KL 归零**
+  - [B station](https://www.bilibili.com/video/BV173eY6CESH)
+- **【Agentic RL 复盘】GPT-OSS 做 RL 为什么 KL 一开训就爆炸？MoE 路由、attention sink 与显存三个坑**
+  - [B station](https://www.bilibili.com/video/BV1VpeY6KEtn)
+- **【MoE × RL】R3：通过重放推理时的专家路由，改进 MoE 做 RL 时训推路由不一致导致的崩溃 #大会员10周年**
+  - [B station](https://www.bilibili.com/video/BV1UTea64E41)
+- **【RL 训练稳定性】训推不一致为什么是优化问题而不是精度问题？按回答长度激增触发学习率减半**
+  - [B station](https://www.bilibili.com/video/BV1h1ea6hEhW)
+- **【RL 长训练】ProRL：通过验证停滞时重置参考策略，改进 RL 训几百步就停滞的问题**
+  - [B station](https://www.bilibili.com/video/BV1akea6YEjg)
+- **【RL 训练】RL 的 batch 越大训练越快吗？√B 学习率缩放与「吞吐增益 > 样本惩罚」决策不等式**
+  - [B station](https://www.bilibili.com/video/BV1HceY6nEUr)
+- **【RL 数据准备】RL 训练数据的难度怎么定？待训模型跑 8 次筛题、镜像 J 形分布、通过率拉回 50%**
+  - [B station](https://www.bilibili.com/video/BV1rWea61Erm)
+- **【RL 排障】RL 后期熵为什么会突然暴涨？正负样本不对称与 token 级熵流失衡，常规旋钮为何无效**
+  - [B station](https://www.bilibili.com/video/BV1ppea67Eni)
+- **【RLVR 多样性】Uniqueness-Aware RL：通过按解题策略聚类加权优势，改进 RLVR 解题策略单一化的坍缩问题**
+  - [B station](https://www.bilibili.com/video/BV1rpea6jELJ)
+- **【长 CoT RL】max response length 该分阶段放开还是一步到位？DeepScaleR、Skywork-OR1 与 Polaris 反例**
+  - [B station](https://www.bilibili.com/video/BV12Vea6pEBV)
+- **【RL 前沿】BroRL：通过把每题 rollout 从 16 加到 512 改进 RL 训练饱和的问题（NVIDIA）**
+  - [B station](https://www.bilibili.com/video/BV1f4ea6CETH)
+- **【RL 训练动力学】GRPO 的训练曲线能预测吗？用阻尼振子解释动量、陈旧度与 group size**
+  - [B station](https://www.bilibili.com/video/BV1RZeh6YETk)
+- **【RL 系统】APRIL：通过 partial rollout 改进同步 RL 的长尾等待，多发一倍、够了就停、没写完续写**
+  - [B station](https://www.bilibili.com/video/BV1jDeh6uEYy)
+- **【RL 省显存】QeRL：4-bit 量化噪声为什么让 RL 探索更好？32B 模型单卡 H100 跑 GRPO**
+  - [B station](https://www.bilibili.com/video/BV1ZUeh6zECH)
+- **【RL 超参】RL 的学习率为什么比 SFT 小 10 倍？1e-5 断崖式崩溃、JustRL 恒定 1e-6 与 LoRA 例外**
+  - [B station](https://www.bilibili.com/video/BV1R9eh6KEMN)
+- **【RLVR 多样性】多样性坍塌发生在哪？集中在开头几个 token，只插值第 20 到 28 层就能找回 37% 覆盖**
+  - [B station](https://www.bilibili.com/video/BV1LQeh6BE1J)
+- **【RL 训练】LLMZero：通过 Agent 逐 checkpoint 诊断与树搜索改进 RL 超参的固定日程问题**
+  - [B station](https://www.bilibili.com/video/BV1dQeh6qEJJ)
+- **【面试高频】BLEU 与 ROUGE 讲透：精确率 vs 召回率、简短惩罚与最长公共子序列**
+  - [B station](https://www.bilibili.com/video/BV1X9No6cEVf)
+- **【评测原理】pass@k 怎么推导计算：无偏估计公式 1−C(n−c,k)/C(n,k)，有偏 vs 无偏**
+  - [B station](https://www.bilibili.com/video/BV1DMK46VEAW)
+- **【跑分黑箱】GSM8K 数据污染：benchmark 过拟合、n-gram 重叠检测、记忆探测**
+  - [B station](https://www.bilibili.com/video/BV1PzKx6PEo3)
+- **【大模型评估】Elo 评分与 Bradley-Terry：Chatbot Arena 排名系统讲透**
+  - [B station](https://www.bilibili.com/video/BV17U3R6EENL)
+- **【MT-Bench 实测】LLM-as-Judge 的四大偏差：位置/冗长/自我偏好/风格**
+  - [B station](https://www.bilibili.com/video/BV1f13R6JEfP)
+- **【大模型评估】MMLU 分数有水分？57 个学科的评估细节、三大坑与改进版**
+  - [B station](https://www.bilibili.com/video/BV1e8826PEiP)
+- **【上线必修】压力测试六维度：超长、空输入、特殊字符、多语言、对抗与重复**
+  - [B station](https://www.bilibili.com/video/BV1PUb76vEkx)
+- **【训练工程】评测频率怎么定？proxy 高频看趋势、完整低频做决策，兼谈数据污染**
+  - [B station](https://www.bilibili.com/video/BV1FZb76bEW8)
+- **【评测陷阱】benchmark 分数为什么会骗你？数据泄露与过拟合的检测方法**
+  - [B station](https://www.bilibili.com/video/BV1eab76jEkY)
+- **【评测可信度】数据污染的检测与清洗：n-gram、embedding 与 PPL 三重检测**
+  - [B station](https://www.bilibili.com/video/BV1mrb76uEDc)
+- **【RL 面试】RL 涨分是真学会还是在背题？Qwen 数学基准污染、记忆锚点电路与模型任务对齐度**
+  - [B station](https://www.bilibili.com/video/BV1R9eh6KEhk)
+- **【RLHF】RM 分数涨人类却摇头？Goodhart 定律与 Reward Overoptimization 讲透**
+  - [B station](https://www.bilibili.com/video/BV1RX3R6yEh3)
+- **【RLHF】为什么 ChatGPT 越训话越多？Length Bias 的来龙去脉**
+  - [B station](https://www.bilibili.com/video/BV1J23R6SE52)
+- **【RLHF】Reward Model Ensemble：一个 RM 易被骗，K 个 RM 投票才公正**
+  - [B station](https://www.bilibili.com/video/BV15R3R65E2J)
+- **【大模型对齐】Self-Rewarding LM：不要 Reward Model，让 LLM 自己当裁判**
+  - [B station](https://www.bilibili.com/video/BV1XZ3R63EYU)
+- **【面试高频】PRM vs ORM：过程奖励为什么碾压结果奖励？一次讲透**
+  - [B station](https://www.bilibili.com/video/BV1UUua6wE44)
+- **【对齐前沿】检测到模型作弊，为什么不该丢弃整条 rollout？GLM-5.2 在线守卫详解**
+  - [B station](https://www.bilibili.com/video/BV1A9826mEDt)
+- **【推理 RL】奖励稀疏问题详解：奖励塑形、课程学习、好奇心驱动与 PRM**
+  - [B station](https://www.bilibili.com/video/BV1Lg8S6yE84)
+- **【面试高频】规则奖励 vs 奖励模型：两种奖励来源的优劣与选择策略**
+  - [B station](https://www.bilibili.com/video/BV1Sx8S6YESV)
+- **【Yuan3.0】RIRM + RAPO：用负奖励改进推理模型答对后仍继续反思的浪费**
+  - [B station](https://www.bilibili.com/video/BV1LX8462E9d)
+- **【Reasoning RL】RLVR 数据准备全流程：格式、冷启动、反思 token 与课程学习**
+  - [B station](https://www.bilibili.com/video/BV1uob56aEMT)
+- **【对齐必修】reward hacking 详解：Goodhart 定律与五种实用防御手段**
+  - [B station](https://www.bilibili.com/video/BV16Rb768EZo)
+- **【RL 工程】reward 归一化详解：running mean-std、batch 归一化与三个常见坑**
+  - [B station](https://www.bilibili.com/video/BV1CDb76AEk8)
+- **【推理 RL】Cliff：通过标注第一处出错改进 GRPO 结果奖励过粗的问题，λ 为什么必须设 0**
+  - [B station](https://www.bilibili.com/video/BV1nPeY6EEQq)
+- **【RL 奖励设计】RLVR 该不该给格式奖励？FrameThinker 消融与 Open-Reasoner-Zero 无格式分实践**
+  - [B station](https://www.bilibili.com/video/BV1V7eY6zEeZ)
+- **【RL 奖励】探针裁判：从 1.7B 小模型隐藏层读 rubric 判断，为什么能超过 8B 生成式裁判**
+  - [B station](https://www.bilibili.com/video/BV15JeY6MEnz)
+- **【RLVR 数据】RLVE：通过程序化生成、难度自适应的可验证环境，改进 RL 静态题库的信号衰减问题**
+  - [B station](https://www.bilibili.com/video/BV1Yrea6PE1R)
+- **【Agent 安全】为什么 RL 后训练的 Agent 更爱作弊？同基座作弊率 23 倍，环境加固砍掉 87.7%**
+  - [B station](https://www.bilibili.com/video/BV1sdea69ELG)
+- **【RL 奖励】没有标准答案的任务怎么做 RL？给裁判一份参考回答，比 SFT 蒸馏高 20 分**
+  - [B station](https://www.bilibili.com/video/BV1tSea6ZEQm)
+- **【RL 前沿】VerIF：用代码校验硬约束、推理模型判软约束，改进指令遵循 RL 的验证难题，IFEval 68.4→84.5**
+  - [B station](https://www.bilibili.com/video/BV1vYea6zEDe)
+- **【RLVR 工程】训练前为什么要先 fuzz 你的 verifier？93% 判卷失败来自空格标点、版本间半数判法相反**
+  - [B station](https://www.bilibili.com/video/BV1qaea6gE6K)
+- **【AI 安全】为什么不能把思维链监控写进 RL 奖励？混淆式作弊、反馈外溢与可监控性税**
+  - [B station](https://www.bilibili.com/video/BV1B4ea6CES3)
+- **【RLVR 面试】奖励随机错 40% 为什么 RL 还能训？看训练奖励饱和速度判断模型在学还是在背**
+  - [B station](https://www.bilibili.com/video/BV1Xoeh6PEzc)
+- **【RL 奖励】LLM 裁判为什么会被一个 token 骗过？万能钥匙攻击、Master-RM 与 rubric dropout**
+  - [B station](https://www.bilibili.com/video/BV15Zeh6eEBg)
+- **【大模型训练】Scaling Law 到底是什么原理？从幂律直线到 Chinchilla 黄金配比全解析**
+  - [B station](https://www.bilibili.com/video/BV1ECTj6YEyT)
+- **【面试必考】大模型为什么很少用Dropout？从过拟合讲到单epoch时代，config考古实锤**
+  - [B station](https://www.bilibili.com/video/BV1YhT46HEhM)
+- **【面试高频】训练算力 6ND 公式详解：前向 2N / 反向 4N 怎么来的？MoE 激活参数与 Chinchilla 一并讲透**
+  - [B station](https://www.bilibili.com/video/BV1jzNa6eEom)
+- **【面试高频】训练算力 6ND 公式详解：前向 2N / 反向 4N 怎么来的？MoE 激活参数与 Chinchilla 一并讲透**
+  - [B station](https://www.bilibili.com/video/BV1eTKM6wEx6)
+- **【大模型基础】预训练为什么只做「预测下一个词」就能学到知识？兼谈曝光偏差**
+  - [B station](https://www.bilibili.com/video/BV1RL8S6gEDV)
+- **【训练常识】大模型预训练为什么只跑 1 个 epoch？三个原因与什么时候可以多跑**
+  - [B station](https://www.bilibili.com/video/BV1vR846LEHM)
+- **【垂域实操】继续预训练的数据配比与遗忘防御：D-CPT Law 与三招工程手段**
+  - [B station](https://www.bilibili.com/video/BV1T38t6eEtb)
+- **【训练技巧】大模型预训练为什么不用 Dropout？三个副作用与替代的正则化机制**
+  - [B station](https://www.bilibili.com/video/BV1xY8468Evd)
+- **【训练技巧】Label Smoothing 在大模型上为什么基本不用？**
+  - [B station](https://www.bilibili.com/video/BV1cVbL6DEHz)
+- **【训练技巧】早停配置详解：patience、验证集选择与预训练为何不用早停**
+  - [B station](https://www.bilibili.com/video/BV17Wb76QEma)
+- **【训练配置】序列长度怎么选？O(n²) 成本、主流演进与分阶段扩展**
+  - [B station](https://www.bilibili.com/video/BV1Sib76kEZk)
+- **【预训练面试】大模型真的不该用 Dropout 吗？层级 Dropout 配 1/ρ 缩放，8.2B 少用 25% 训练算力（Cerebras）**
+  - [B station](https://www.bilibili.com/video/BV1y7ea6SEe6)
+- **【ICML 2025】CPT Scaling Law：用分布偏移项与退火面积预测继续预训练的 loss 曲线**
+  - [B station](https://www.bilibili.com/video/BV1Rvea6MEhE)
+- **【预训练前沿】专用预训练 SPT：领域数据混进预训练，为什么 1B 能打赢微调的 3B**
+  - [B station](https://www.bilibili.com/video/BV1Zbea6GEq7)
+- **【ICLR 2026】数据重复训练，决定过拟合的是次数还是间隔？记忆窗口与 190 个 epoch**
+  - [B station](https://www.bilibili.com/video/BV1XFea6wEqq)
+- **【推理 RL】OctoThinker：通过中段训练补推理语料，改进 Llama 做 RL 时长度失控、不涨分的问题**
+  - [B station](https://www.bilibili.com/video/BV19Fea6wEg4)
+- **【面试高频】什么是 Checkpoint？梯度/激活检查点：大模型省显存的救命技巧**
+  - [B station](https://www.bilibili.com/video/BV1dmM36EESX)
+- **【面试进阶】张量并行为什么先列切再行切？MLP 的切分秘密全在 GELU**
+  - [B station](https://www.bilibili.com/video/BV1nCKW6XEji)
+- **【面试高频】大模型训练所需显存怎么计算？三大件 + RLHF 讲透**
+  - [B station](https://www.bilibili.com/video/BV1R7gD6FEF5)
+- **【面试高频】一层 Decoder 张量并行需要几次通信？答案 4 次 All-Reduce**
+  - [B station](https://www.bilibili.com/video/BV1ZXKx6WEnK)
+- **【面试高频】Scatter/Gather/Reduce/AllReduce 分别是什么？5 个通信原语一张图讲透**
+  - [B station](https://www.bilibili.com/video/BV1wCKx6hEoy)
+- **【面试高频】DeepSpeed 的 3 个 Stage 是什么？ZeRO 逐级切分省显存讲透**
+  - [B station](https://www.bilibili.com/video/BV1BuKx69EDn)
+- **【ZeRO 显存优化】70 亿参数训练要 110G？三刀砍掉 100G 冗余**
+  - [B station](https://www.bilibili.com/video/BV13tgX6cEYZ)
+- **【分布式训练收官】序列并行 × 专家并行：百万 token 与上千专家的解法**
+  - [B station](https://www.bilibili.com/video/BV1VxgX6aEz8)
+- **【Megatron 张量并行】一层都装不下？把权重矩阵劈开算 —— 4 次 AllReduce 讲透**
+  - [B station](https://www.bilibili.com/video/BV1GxgX6aELP)
+- **【Ring AllReduce】打破参数服务器瓶颈：PyTorch DDP 的底层核心**
+  - [B station](https://www.bilibili.com/video/BV1Qggd6uE9u)
+- **【流水线并行】显卡摸鱼的元凶：GPipe 挤气泡 vs PipeDream 1F1B**
+  - [B station](https://www.bilibili.com/video/BV15WgR6rEfr)
+- **【训练工程】断点续训详解：为什么恢复权重远远不够**
+  - [B station](https://www.bilibili.com/video/BV1UB826dEuV)
+- **【分布式训练】通信瓶颈详解：为什么多节点训练卡在网络而不是算力**
+  - [B station](https://www.bilibili.com/video/BV1FF8m6CEdp)
+- **【训练工程】大规模训练容错：Flash Checkpoint、DLRover 与 checkpoint 频率权衡**
+  - [B station](https://www.bilibili.com/video/BV1H58265EA1)
+- **【训练效率】MFU 和 GPU 利用率的区别在哪里？兼谈 MFU 与 HFU**
+  - [B station](https://www.bilibili.com/video/BV1Vh826YExp)
+- **【RLHF 工程】PPO 训练显存爆炸怎么办？四模型驻留、offload 与稳定性调参**
+  - [B station](https://www.bilibili.com/video/BV15V8S6kEkq)
+- **【显存必修】训练显存花在哪？缩 batch、梯度检查点、ZeRO、LoRA 四级省显存阶梯**
+  - [B station](https://www.bilibili.com/video/BV15Q8467EdP)
+- **【显存优化】激活检查点选层策略：Uniform、Selective 与根号 n 法则**
+  - [B station](https://www.bilibili.com/video/BV1xg8t6NEQW)
+- **【混合精度】BF16 / FP16 / FP8 选型决策树：尾数指数位数决定一切**
+  - [B station](https://www.bilibili.com/video/BV1NV8t6AEpU)
+- **【训练加速】FP8 训练实操：E4M3/E5M2 选型、分层策略与 Transformer Engine 配置**
+  - [B station](https://www.bilibili.com/video/BV1D9b56eEv4)
+- **【训练工程】GPU 利用率周期性归零：IO 瓶颈的定位与优化**
+  - [B station](https://www.bilibili.com/video/BV1xfb56cEdo)
+- **【混合精度】Loss Scaling 与 GradScaler 详解：FP16 下溢怎么救，BF16 为何不用**
+  - [B station](https://www.bilibili.com/video/BV1JjbL6UEEe)
+- **【DeepSpeed 配置】ZeRO Stage 怎么选、offload 怎么开：config.json 手把手**
+  - [B station](https://www.bilibili.com/video/BV1WTbL6REnE)
+- **【分布式必修】并行策略选型决策树：DDP、ZeRO、张量并行、流水线并行**
+  - [B station](https://www.bilibili.com/video/BV1w9b76wE1c)
+- **【性能分析】给训练做体检：PyTorch Profiler 与 nsys 的用法与瓶颈定位**
+  - [B station](https://www.bilibili.com/video/BV1eMbE6DEWh)
+- **【训练效率】长度分桶策略：padding 浪费 98% 是怎么发生的**
+  - [B station](https://www.bilibili.com/video/BV1dxb76JEjP)
+- **【分布式训练】同步 vs 异步梯度更新：staleness 与 99% 选同步的理由**
+  - [B station](https://www.bilibili.com/video/BV1Uzb766EtP)
+- **【训练效率】序列 Packing 实现详解：装箱算法、cu_seqlens 与 block diagonal mask**
+  - [B station](https://www.bilibili.com/video/BV1KPb76vEWq)
+- **【训练效率】varlen attention 配置详解：cu_seqlens、position_ids 与 packing 的配套关系**
+  - [B station](https://www.bilibili.com/video/BV1MZbj6zEeK)
+- **【混合精度面试】纯 bf16 训练为什么会停滞？相对更新小于 0.39% 就被舍入吞掉**
+  - [B station](https://www.bilibili.com/video/BV1viea6qEhh)
+- **【训练显存】大词表训练时 logits 为什么吃掉 89% 显存？Cut Cross-Entropy 与 Liger Kernel 讲透**
+  - [B station](https://www.bilibili.com/video/BV19Reh6vEk5)
+- **【面试必考】大模型Agent的Function Calling怎么设计更稳定？约束解码/工具检索/校验重试三层拆解**
+  - [B station](https://www.bilibili.com/video/BV14aMP6jEj3)
+- **【面试前沿】大模型Agentic RL最新方向到底是什么？从GLM/Qwen看RL的下半场**
+  - [B station](https://www.bilibili.com/video/BV1HcMP6qEfQ)
+- **【面试前沿】Agentic RL 中的行为崩塌到底是什么？从 Search-R1 复现看行为相变**
+  - [B station](https://www.bilibili.com/video/BV1vNMu6gEkG)
+- **【Agent 工程】工具调用失败时，怎么保证 Agent 不死循环或乱回答？**
+  - [B station](https://www.bilibili.com/video/BV1oZT161Ez4)
+- **【论文精读】35B 打平万亿参数？该 Scale 的是轨迹不是参数**
+  - [B station](https://www.bilibili.com/video/BV1GrMx6SE63)
+- **【论文精读】Agent 最缺的能力是收手？28000 任务实测｜Agentic Abstention**
+  - [B station](https://www.bilibili.com/video/BV1cHMx6YEXj)
+- **【面试高频】MCP 与 Skills 有什么区别？连接协议 vs 行为规范，附协同关系与省 token 原理**
+  - [B station](https://www.bilibili.com/video/BV14zNH69EYY)
+- **【Agent 设计模式】Reflexion：语言化反思+记忆，不改参数从失败中迭代改进**
+  - [B station](https://www.bilibili.com/video/BV1SMKs6vEwe)
+- **【强化学习第一课】MDP 与贝尔曼方程：五要素、回报、价值函数、价值迭代**
+  - [B station](https://www.bilibili.com/video/BV1SqKT6QERp)
+- **【Agent 范式】Plan-and-Execute vs ReAct：先规划再执行，长任务为什么要先拆**
+  - [B station](https://www.bilibili.com/video/BV1NqKW6oEEQ)
+- **【LLM Agent】LATS：把蒙特卡洛树搜索搬进 Agent，比 ReAct 强 20-30%**
+  - [B station](https://www.bilibili.com/video/BV1wk3R6pEKs)
+- **【LLM 工具使用】Toolformer 讲透：让模型自监督学会"何时调工具"，零人工标注**
+  - [B station](https://www.bilibili.com/video/BV1e63Z6nECL)
+- **【Agent 工程化】约四成 Agent 项目失败：五道鸿沟与系统工程化四板斧**
+  - [B station](https://www.bilibili.com/video/BV1NS826nEDS)
+- **【Agent 前沿】Agent-Omit：通过省略思考与观察改进多轮 Agent 的上下文膨胀问题**
+  - [B station](https://www.bilibili.com/video/BV1JMeY61EcG)
+- **【Agentic RL】River：通过过滤劣质合成环境改进终端 Agent RL 的奖励质量，不到 30% 的环境增益翻倍**
+  - [B station](https://www.bilibili.com/video/BV1rNeY6mE54)
+- **【Agent RL】OTC-PO：把工具生产率写进奖励，为什么能让工具调用减 68.3% 而正确率不变**
+  - [B station](https://www.bilibili.com/video/BV1bUea6bE1M)
+- **【Agent RL】长程工具 Agent 的 RL 配方怎么定？1K 条 4:3:3 数据、按模型大小配奖励、工具故障率压到 5% 以下**
+  - [B station](https://www.bilibili.com/video/BV1tQea64E5C)
+- **【Agent RL】CompactionRL：通过把写摘要纳入 RL 训练，改进长程 Agent 的上下文压缩问题**
+  - [B station](https://www.bilibili.com/video/BV1y5ea6QEnz)
+- **【Agent 训练】DART-SD：多轮工具调用是菱形不是链，只在第一个断点之后算 loss，BFCL 多轮 57.38 对 48.81**
+  - [B station](https://www.bilibili.com/video/BV115ea6QEuR)
+- **【Agent RL】EnvHarness：通过围绕策略弱点改写环境动态，改进 Agent RL 的环境饱和问题（HF 518 赞）**
+  - [B station](https://www.bilibili.com/video/BV1Cjea6nEUc)
+- **【Agent RL】harness 原生 RL：在模型 API 边界记 token，训练与部署用同一套脚手架**
+  - [B station](https://www.bilibili.com/video/BV11jea6nEaK)
+- **【Agent RL】多轮交互 RL 为什么学到的是裁判偏好？ARC 按策略分组 τ-airline +12.67，FACA 用户反应奖励 +10.22**
+  - [B station](https://www.bilibili.com/video/BV1rxea65EFj)
+- **【Agent RL 面试】多轮 Agent RL 里工具返回的 token 为什么要 mask？loss、KL、重要性比三处都要排**
+  - [B station](https://www.bilibili.com/video/BV1B8ea6rEc7)
+- **【RL 前沿】不用反向传播能训大模型 Agent 吗？进化策略与 GRPO 的方差、显存与 pass@k 对比**
+  - [B station](https://www.bilibili.com/video/BV1zbea6GEF9)
+- **【大模型训练】同策略蒸馏 On-Policy Distillation：AIME 74.4 反超 RL，算力只要 1/10**
+  - [B station](https://www.bilibili.com/video/BV16tTk6zE7N)
+- **【面试前沿】OPD 的 reward 设计合理吗？从 log 无界到 PowerOPD 幂变换**
+  - [B station](https://www.bilibili.com/video/BV1DtTC6tEy4)
+- **【论文精读】蒸馏也会学出假实力？DOPD 揭穿特权错觉｜OPD 系列**
+  - [B station](https://www.bilibili.com/video/BV1AHMx6YEwW)
+- **【后训练前沿】什么是 On-Policy Distillation？取 SFT 与 RL 之长（reverse KL 详解）**
+  - [B station](https://www.bilibili.com/video/BV1BnMh6BEMz)
+- **【模型压缩经典】知识蒸馏 KD：软标签、暗知识、温度、KL+CE 双损失**
+  - [B station](https://www.bilibili.com/video/BV1VcKs63Eo5)
+- **【蒸馏细节】温度系数讲人话：T 在软化什么、为什么蒸馏 loss 要乘 T² 补偿**
+  - [B station](https://www.bilibili.com/video/BV1dXKW61EpT)
+- **【反直觉】集成、蒸馏、自蒸馏三个秘密：多视角假设，为什么自蒸馏也能涨点**
+  - [B station](https://www.bilibili.com/video/BV1UgKs6PE4p)
+- **【Alignment Tax】RLHF 让模型变乖，也让它变笨 — PPO-ptx 解法详解**
+  - [B station](https://www.bilibili.com/video/BV1cH3d6dETE)
+- **【大模型对齐】1952 年的公式撑起 ChatGPT：Bradley-Terry 模型讲透**
+  - [B station](https://www.bilibili.com/video/BV1iS3R6mEdV)
+- **【LLaMA 3 对齐】Iterative DPO：让模型自我改进，PPO 效果的 1/10 成本**
+  - [B station](https://www.bilibili.com/video/BV1JC3R6QE5N)
+- **【LLaMA 3 的选择】Online RLHF vs Offline RLHF：在线交互与静态数据的取舍**
+  - [B station](https://www.bilibili.com/video/BV1Gc3d6gEDo)
+- **【RLHF】RM 损失函数为什么用 sigmoid 差值?Pairwise Ranking 讲透**
+  - [B station](https://www.bilibili.com/video/BV1UN3d6iErs)
+- **【LLM 对齐】RLHF 三阶段：SFT → RM → PPO 是怎么串起来的？**
+  - [B station](https://www.bilibili.com/video/BV1Qf3R66E8c)
+- **【RLHF】Reward Model Calibration：RM 分数到底能不能信？0.2 差距的真实含义**
+  - [B station](https://www.bilibili.com/video/BV1GZ3R6GEmJ)
+- **【面试高频】一次讲透宪法AI与RLAIF：大模型如何用AI反馈替代人类标注**
+  - [B station](https://www.bilibili.com/video/BV1iLuY6CESB)
+- **【面试高频】DPO 变体全家桶：SimPO/KTO/ORPO/IPO 各改了什么、怎么选？**
+  - [B station](https://www.bilibili.com/video/BV1zKuY6SEhi)
+- **【面试高频】生成式奖励模型GRM全解：会思考的考官，让奖励不再黑箱**
+  - [B station](https://www.bilibili.com/video/BV1zKuY6SEqJ)
+- **【面试高频】不用成对偏好数据怎么做对齐？KTO 把前景理论塞进训练目标，损失厌恶一战封神**
+  - [B station](https://www.bilibili.com/video/BV1zMuY6EEZD)
+- **【面试高频】SimPO vs DPO：扔掉参考模型，显存省一半还更强？**
+  - [B station](https://www.bilibili.com/video/BV196ua6qELh)
+- **【对齐踩坑】DPO 的 loss 一直降，模型为什么反而变差？隐式奖励的作弊通道**
+  - [B station](https://www.bilibili.com/video/BV1AX826EEgv)
+- **【DPO 实操】偏好数据怎么构造？三种生产方式、四个质量陷阱与完整流程**
+  - [B station](https://www.bilibili.com/video/BV1PD826SEAJ)
+- **【RLHF 基础】奖励模型是怎么训练出来的？用排序代替打分的成对比较损失**
+  - [B station](https://www.bilibili.com/video/BV17T8S62EnA)
+- **【DPO 原理】reference model 为什么不能丢？KL 约束的数学体现**
+  - [B station](https://www.bilibili.com/video/BV1uN8t6zEwx)
+- **【蒸馏实操】推理能力蒸馏三法：CoT 数据、on-policy 与 SFT + RLVR**
+  - [B station](https://www.bilibili.com/video/BV1cob76FERQ)
+- **【DPO 调参】beta 参数详解：物理意义、两侧失效表现与经验值**
+  - [B station](https://www.bilibili.com/video/BV1dxb76JEVc)
+- **【OPD 系列 05】Distilled RL：通过让老师重分配学生梯度，改进 OPD 的师生差距两难**
+  - [B station](https://www.bilibili.com/video/BV1CweY6SENu)
+- **【OPD 系列】MOPD：用多教师在线蒸馏改进多域 RL 能力融合的跷跷板问题，Open-MOPD 从 35.6% 修到 83.4%**
+  - [B station](https://www.bilibili.com/video/BV1hyea6wELy)
+- **【OPD 系列】在线蒸馏需要多少数据？为什么 8 道难题就能追平 1.7 万条，驱动收益的是思维链长度**
+  - [B station](https://www.bilibili.com/video/BV1yZea6pEVy)
+- **【在线蒸馏】OPSA：通过压低学生自身低概率 token 改进 OPD 的老师噪声问题，不要老师 AIME24 +35**
+  - [B station](https://www.bilibili.com/video/BV1rWea61EUz)
+- **【对齐面试】Likelihood Displacement：为什么 DPO 越训 chosen 的概率越低？安全 DPO 拒答率反降 55%**
+  - [B station](https://www.bilibili.com/video/BV1ivea6MEGr)
+- **【面试高频】权重初始化 0.02 的由来：Xavier/He、残差流与小初始化，为什么不是随便设的**
+  - [B station](https://www.bilibili.com/video/BV17BNa6NEDc)
+- **【面试高频】学习率 Warmup 为什么重要：损失面陡峭 + Adam 二阶矩不准，不加会怎样**
+  - [B station](https://www.bilibili.com/video/BV1F5Kj68Ecy)
+- **【面试高频】学习率 Warmup 为什么重要：损失面陡峭 + Adam 二阶矩不准，不加会怎样**
+  - [B station](https://www.bilibili.com/video/BV1qcKM6KEDe)
+- **【面试进阶】Muon 优化器凭什么取代 AdamW？只存动量、显存减半，还收敛更快**
+  - [B station](https://www.bilibili.com/video/BV1LLKx6SEkQ)
+- **【大模型优化器】Adam 统治 10 年，三个新挑战者正在分庭抗礼——Lion/Sophia/Adafactor 讲透**
+  - [B station](https://www.bilibili.com/video/BV1F13R6nEAV)
+- **【面试进阶】μTransfer原理详解：小模型调超参如何零样本迁移到大模型**
+  - [B station](https://www.bilibili.com/video/BV1ftua61Ezc)
+- **【面试高频】WSD 学习率调度凭什么能随时停？三段式拆解+省算力套路**
+  - [B station](https://www.bilibili.com/video/BV1P5ua6xErX)
+- **【训练技巧】梯度累积 vs 真大 batch：三个不等价的地方与实操建议**
+  - [B station](https://www.bilibili.com/video/BV1w9826mEYd)
+- **【训练必修】大模型学习率怎么选？LR Range Test、warmup 与 cosine decay 实操**
+  - [B station](https://www.bilibili.com/video/BV13i826FEjB)
+- **【优化器】Spike-Aware Adam：loss 尖峰之后动量 buffer 的残留问题**
+  - [B station](https://www.bilibili.com/video/BV15Z846VE3Y)
+- **【训练调参】Batch size 怎么选？Critical Batch Size 与线性缩放规则详解**
+  - [B station](https://www.bilibili.com/video/BV1TM8t6iEFL)
+- **【训练技巧】学习率衰减策略对比：cosine、linear 与 WSD 的适用场景**
+  - [B station](https://www.bilibili.com/video/BV1uP8t6uEud)
+- **【科学调参】梯度噪声尺度：用一百步小实验算出最优 batch size**
+  - [B station](https://www.bilibili.com/video/BV1bfb56cENP)
+- **【调参工具】LR Finder 详解：怎么画、怎么读、怎么和 warmup 配合**
+  - [B station](https://www.bilibili.com/video/BV1fLbL6EEFL)
+- **【多任务训练】loss 权重平衡三法：手动调权、不确定性加权与 GradNorm**
+  - [B station](https://www.bilibili.com/video/BV1cgbL6XEYc)
+- **【调参细节】warmup 步数详解：比例怎么定、做错了会怎样、怎么监控**
+  - [B station](https://www.bilibili.com/video/BV1qcbE6xEoL)
+- **【优化器】Weight Decay 详解：系数怎么选、为什么 AdamW 的解耦这么关键**
+  - [B station](https://www.bilibili.com/video/BV1ebb76EEYc)
+- **【训练细节】初始化标准差 0.02 的由来：从方差不变推导到实践修正**
+  - [B station](https://www.bilibili.com/video/BV1dbb767EV5)
+- **【优化器面试】大模型 Adam 的 β₂ 为什么是 0.95 而不是 0.999？记忆 20 步 vs 1000 步**
+  - [B station](https://www.bilibili.com/video/BV1Zaea6gE8C)
+- **【面试高频】大模型的 badcase 如何解决？从便宜到贵的解决顺序**
+  - [B station](https://www.bilibili.com/video/BV1YsKx6CEJq)
+- **【面试高频】模型合并 TIES 与 DARE 原理全拆解：任务向量加减法如何缝合大模型**
+  - [B station](https://www.bilibili.com/video/BV1Z8ua65E9h)
+- **【DeepSeek R1】R1 是怎么训练出来的？四阶段配方：RL 涌现、冷启动、拒绝采样、蒸馏**
+  - [B station](https://www.bilibili.com/video/BV1RL8S6gECS)
+- **【全景图】大模型训练 pipeline 设计：PT、SFT、偏好对齐与 PAFT 并行范式**
+  - [B station](https://www.bilibili.com/video/BV1zwbE6REjt)
+- **【零成本提升】Model Soup 详解：权重平均为什么有效、三种炖法怎么选**
+  - [B station](https://www.bilibili.com/video/BV1Qvb76VEQi)
+- **【后训练工程】BCIT：通过绑定来源上下文与小预算试跑，改进后训练配方跨基座复用的有害迁移问题**
+  - [B station](https://www.bilibili.com/video/BV1ijeY6gELo)
+- **【企业后训练】线上流量怎么变成后训练？T-Tech 三个 GRPO 专家各撞一种作弊与两段 SLERP 合并，32B 超过 235B**
+  - [B station](https://www.bilibili.com/video/BV1eBea6KEWE)
+- **【后训练】Self-Routing：通过按对错与置信度把样本分到四条路，改进后训练用单一算法的浪费**
+  - [B station](https://www.bilibili.com/video/BV14Xea6dE8q)
+- **【后训练方法论】训练的中间阶段该怎么评估？RL 前分最低的 Mixed SFT，RL 后打败 next-chunk RL**
+  - [B station](https://www.bilibili.com/video/BV1iYea6zEvS)
+- **【数据工程刚需】预训练数据清洗全流程：抽正文、质量过滤、去重、数据配比**
+  - [B station](https://www.bilibili.com/video/BV1QNK46LEea)
+- **【数据工程硬核】数据去重 MinHash / SimHash：Jaccard、LSH 分桶、汉明距离**
+  - [B station](https://www.bilibili.com/video/BV1EdKx6pEuH)
+- **【数据为王】FineWeb：15T token 数据集怎么筛出来的，消融驱动、FineWeb-Edu**
+  - [B station](https://www.bilibili.com/video/BV127K46TEyc)
+- **【RLHF】Anthropic HH 数据集：Helpful 和 Harmless 是怎么标注的？**
+  - [B station](https://www.bilibili.com/video/BV1oQ3R6LEgz)
+- **【数据工程】Phi-2：Textbooks Are All You Need——2.7B 打赢 70B，质量胜过规模**
+  - [B station](https://www.bilibili.com/video/BV1SP3d6TE81)
+- **【训练技巧】课程学习工程实现：难度评估、课程设计与 pacing 控制**
+  - [B station](https://www.bilibili.com/video/BV1uw8t66Eo2)
+- **【数据工程】文本数据增强三法：回译、改写与 GPT-4 生成的适用场景**
+  - [B station](https://www.bilibili.com/video/BV1MT8t6TEwW)
+- **【IFT 数据】Self-Instruct 与 Evol-Instruct：指令微调数据的构造与三层过滤**
+  - [B station](https://www.bilibili.com/video/BV1fVbL6SECM)
+- **【数据工程】合成数据完整 pipeline：Self-Instruct、Evol-Instruct 与四步质量控制**
+  - [B station](https://www.bilibili.com/video/BV1qNbE6XEU2)
+- **【数据工程】标注质量控制：流程、Cohen Kappa 一致性检验与五个质控手段**
+  - [B station](https://www.bilibili.com/video/BV1L4b76SEAd)
+- **【数据配比】代码与数学数据加多少？20%~40% 最优区间与梯度实验结论**
+  - [B station](https://www.bilibili.com/video/BV198b762Euk)
+- **【数据工程】数据去重实操：MinHash、LSH 分桶与亿级数据并行处理**
+  - [B station](https://www.bilibili.com/video/BV1Zpb76HEeu)
+- **【数据工程】数据不均衡详解：五步诊断、三种解法与主流模型配比**
+  - [B station](https://www.bilibili.com/video/BV1onb76XEqP)
+- **【中文大模型】中英数据配比：1T 纯中文 vs 2T 混合的实验结论与跨语言迁移**
+  - [B station](https://www.bilibili.com/video/BV1QYb76yEBu)
+- **【数据质量】SFT 数据自动筛选：GPT-4 打分、PPL 检测与 embedding 聚类**
+  - [B station](https://www.bilibili.com/video/BV1xPb76vEzd)
+- **【数据工程】预训练数据配比：主流模型参考、DoReMi 与消融实验**
+  - [B station](https://www.bilibili.com/video/BV1TKb76PEcu)
+- **【RL 数据配比】数学、代码、表格混训 RL，哪些域能跨域迁移、哪些必须专训？Guru 六域实验与 CARE-RL、TAC**
+  - [B station](https://www.bilibili.com/video/BV1yVea6pE2L)
+- **QwenVL到Qwen3.5技术改进**
+  - [B station](https://www.bilibili.com/video/BV1GpXaBGEoE)
+- **【文生图地基】DDPM 扩散模型原理：前向加噪、反向去噪，为什么 loss 化简成预测噪声**
+  - [B station](https://www.bilibili.com/video/BV1qyNo6TEN1)
+- **【扩散加速】DDIM 采样原理：非马尔可夫、确定性采样，50 步媲美 1000 步不用重训**
+  - [B station](https://www.bilibili.com/video/BV1ikNo6BEkC)
+- **【扩散进阶】Score/SDE 统一视角：分数场、Langevin 采样，DDPM 与分数匹配的统一**
+  - [B station](https://www.bilibili.com/video/BV1ikNo6BE9h)
+- **【文生图必调】Classifier-Free Guidance 原理：一个系数如何权衡真实感与多样性**
+  - [B station](https://www.bilibili.com/video/BV1qkNo6BEzF)
+- **【多模态第一课】CLIP 原理：图文对比预训练、InfoNCE、zero-shot 分类**
+  - [B station](https://www.bilibili.com/video/BV1YGKM6ZEuh)
+- **【多模态】BLIP-2 的 Q-Former：可学习 query、cross-attention，桥接冻结视觉与 LLM**
+  - [B station](https://www.bilibili.com/video/BV1Y3KM6bEjj)
+- **【多模态】LLaVA 视觉对齐：CLIP ViT、Projector 投影层、两阶段训练**
+  - [B station](https://www.bilibili.com/video/BV1SzKT6nEPj)
+- **【多模态】视觉编码器盘点：Patch、ViT、Projector，各家 VLM 视觉塔对比**
+  - [B station](https://www.bilibili.com/video/BV1MzKT6HESr)
+- **【语音合成】VITS 端到端 TTS：变分推断、归一化流、对抗训练，一步合成语音**
+  - [B station](https://www.bilibili.com/video/BV1QwKs6zEhi)
+- **【语音大模型地基】音频 Tokenizer：VQ-VAE、RVQ 残差量化，语音怎么离散化成 token**
+  - [B station](https://www.bilibili.com/video/BV1jdKW6yEgH)
+- **【文生图全流程】Stable Diffusion 原理：潜空间扩散、CLIP、U-Net、cross-attention**
+  - [B station](https://www.bilibili.com/video/BV123Ks6YEfb)
+- **【Sora 同款骨干】DiT 原理：patchify、adaLN-Zero，Transformer 取代 U-Net**
+  - [B station](https://www.bilibili.com/video/BV1uTKs6TE4B)
+- **【文生图最新范式】Flow Matching / Rectified Flow：向量场、拉直路径，SD3/FLUX 同款**
+  - [B station](https://www.bilibili.com/video/BV1mYKW68Esk)
+- **【语音大模型入门】Whisper 原理：弱监督 68 万小时、encoder-decoder、特殊 token 多任务**
+  - [B station](https://www.bilibili.com/video/BV1qYKs6EEBj)
+- **【生成基石】VAE 变分自编码器：ELBO 推导、重参数化、KL 正则的作用**
+  - [B station](https://www.bilibili.com/video/BV1U5K46uEJN)
+- **【扩散进阶】扩散的数学=分层 VAE：x₀/噪声/分数 三种预测目标为什么等价**
+  - [B station](https://www.bilibili.com/video/BV1nPKW6JEJy)
+- **【面试高频】多模态早融合 vs 后融合：Chameleon 凭什么把图文从头一起训**
+  - [B station](https://www.bilibili.com/video/BV1iLuY6CEX1)
+- **【面试高频】NaViT 原生任意分辨率 + Patch n' Pack：视觉大模型为什么不再把图片压成方块？**
+  - [B station](https://www.bilibili.com/video/BV1oYua6GERd)
+- **【面试高频】多模态大模型又慢又贵？视觉Token压缩 ToMe / FastV 两招讲透**
+  - [B station](https://www.bilibili.com/video/BV1Kuua6fEf3)
+- **【AIGC 加速】一致性模型为什么能一步出图？从去噪轨迹讲到 LCM-LoRA**
+  - [B station](https://www.bilibili.com/video/BV1mC826sEre)
+- **【前沿架构】扩散语言模型为什么能一次并行吐出一整句？离散扩散原理详解**
+  - [B station](https://www.bilibili.com/video/BV1fF8m6kEiA)
+- **【多模态】Google 用 sigmoid 替代 softmax——SigLIP vs CLIP 讲透**
+  - [B station](https://www.bilibili.com/video/BV1GZ846VETv)
+- **【多模态基石】ViT 视觉 Transformer：把图像切成 patch，Transformer 也能做视觉**
+  - [B station](https://www.bilibili.com/video/BV1VR846LEY6)
+  - links: https://arxiv.org/abs/2010.11929
+- **【多模态面试】VLM 微调要不要解冻视觉编码器？只训 ViT 感知涨分、MMMU 可能下降，按任务来定**
+  - [B station](https://www.bilibili.com/video/BV1CJea6EEXs)
+- **【大模型训练】GLM-5.2 为什么放弃 GRPO 换回 critic-based PPO？三个隐性假设崩塌全解析**
+  - [B station](https://www.bilibili.com/video/BV1qSTr6vEys)
+- **【大模型训练】从概率模型看 SFT 和 RL 的区别：正向 KL vs 反向 KL 完整推导**
+  - [B station](https://www.bilibili.com/video/BV1rKTn65E9V)
+- **【面试必考】GRPO、DAPO、GSPO三代强化学习算法，到底改了什么？从PPO讲起**
+  - [B station](https://www.bilibili.com/video/BV1oRMP6hE7f)
+- **【面试高频】RLHF 优化算法进化史：PPO / DPO / GRPO / DAPO / GSPO 一次串清楚**
+  - [B station](https://www.bilibili.com/video/BV1qnMh6BEoZ)
+- **【面试必考】PPO 到底在裁剪什么？从策略梯度的坑到那条安全带｜强化学习零基础**
+  - [B station](https://www.bilibili.com/video/BV1qnMh6BEx1)
+- **【面试高频】KL 散度计算的三种近似方法？K1/K2/K3 一次讲透**
+  - [B station](https://www.bilibili.com/video/BV11jMt6yED7)
+- **【RLHF 面试高频】GRPO 比 PPO 做了什么改进？一刀砍掉 Critic 省显存**
+  - [B station](https://www.bilibili.com/video/BV1iJMh6uERR)
+- **【强化学习面试高频】GRPO 的损失为什么开始时是 0？两部分同时归零**
+  - [B station](https://www.bilibili.com/video/BV1imM36EEqD)
+- **【面试进阶】GRPO 用旧策略数据，为什么还叫 on-policy？一个打篮球的例子讲透**
+  - [B station](https://www.bilibili.com/video/BV1fJNA69EFy)
+- **【面试进阶】什么是重要性采样？为什么 token 级的损失难以收敛？「猫喜欢鱼」讲透**
+  - [B station](https://www.bilibili.com/video/BV1HENA6xEpB)
+- **【强化学习】策略梯度定理：log-derivative 技巧、REINFORCE，怎么对随机采样求梯度**
+  - [B station](https://www.bilibili.com/video/BV1LVKW6VEEy)
+- **【面试陷阱】GRPO 里被 clip 的 token 反向有没有梯度？用 torch.clamp 一跑就懂**
+  - [B station](https://www.bilibili.com/video/BV1HmKx6ZEyX)
+- **【面试高频】ReMax：PPO 的轻量替代，砍 Critic 用 greedy 解码当 baseline**
+  - [B station](https://www.bilibili.com/video/BV1gYgR6vEt4)
+- **【RLOO 讲透】REINFORCE Leave-One-Out：不要 Critic、不要 greedy 假想敌，同组 response 互卷就够了**
+  - [B station](https://www.bilibili.com/video/BV13agR6KEDw)
+- **【PPO 工程】π_θ/π_θ_old 是怎么算的？token-level log prob 的 3 个工程坑**
+  - [B station](https://www.bilibili.com/video/BV1Dw3d6BEYP)
+- **【PPO 工程精华】importance sampling ratio + clip：同一 batch 训 4 epoch 的秘密**
+  - [B station](https://www.bilibili.com/video/BV1DP3d6TED7)
+- **【RLHF】Reference Model 是干嘛的？为什么 PPO 离不开这个"躺平"的模型**
+  - [B station](https://www.bilibili.com/video/BV1Xd3R6kEdU)
+- **【概率视角】SFT 和 RLHF 竟是同一枚硬币的两面：正向 KL vs 反向 KL**
+  - [B station](https://www.bilibili.com/video/BV1er3Z6SEcf)
+- **【RLHF 理论基础】Token-level MDP：LLM 的 state 和 action 到底是什么？**
+  - [B station](https://www.bilibili.com/video/BV1R63Z6nEeD)
+- **【2025 RL 前沿】ASPO：通过重要性比率翻转改进 GRPO 的熵崩塌问题**
+  - [B station](https://www.bilibili.com/video/BV1WS826nEh5)
+- **【RL 进阶】DAPO 动态采样：通过过滤全对全错组改进 GRPO 的零梯度浪费**
+  - [B station](https://www.bilibili.com/video/BV1rf8265Eg4)
+- **【RL 进阶】DAPO：通过 token 级归一化改进 GRPO 长答案被稀释的问题**
+  - [B station](https://www.bilibili.com/video/BV1Ff8265E3j)
+- **【RL 进阶】GSPO：通过序列级重要性比率改进 PPO/GRPO 的逐 token 方差问题**
+  - [B station](https://www.bilibili.com/video/BV1Bn826gEWs)
+- **【RLHF 基础】PPO 的 clip 为什么只在一半情况下才生效？不对称四象限详解**
+  - [B station](https://www.bilibili.com/video/BV1RG8S6GEhk)
+- **【RLHF 基础】PPO 的奖励为什么只在最后一个 token 才发？逐 token 算账拆解**
+  - [B station](https://www.bilibili.com/video/BV1RG8S6GEoq)
+- **【RLHF 基础】PPO 为什么需要四个模型？演员、评论家、奖励、参考各自的作用**
+  - [B station](https://www.bilibili.com/video/BV1og8S6CE26)
+- **【RLHF 深入】critic value function 详解：为什么难训准、GAE 怎么补、GRPO 怎么砍**
+  - [B station](https://www.bilibili.com/video/BV1uP8t6uE9J)
+- **【RL 原理】credit assignment 与 GRPO 的 advantage 分配机制**
+  - [B station](https://www.bilibili.com/video/BV1PTb76YEVw)
+- **【RL 前沿】SIGNBALANCE：通过保号与全局尺度改进 GRPO 给蒙对答案发高奖励的问题，附 DA3PO 难题错误放大**
+  - [B station](https://www.bilibili.com/video/BV1nNeY6mEGC)
+- **【RL 面试新题】k3 估计器是无偏的，为什么 KL 项的梯度却是有偏的？放奖励与放 loss 的区别**
+  - [B station](https://www.bilibili.com/video/BV1GxeY6PEVi)
+- **【RL 前沿】μ-GRPO：放宽 clip 加负优势否决，GRPO 用 250 倍陈旧的数据为什么不崩**
+  - [B station](https://www.bilibili.com/video/BV1aWeY6vEpH)
+- **【GRPO 进阶】OraRL：通过解耦策略基线与标准答案增益，改进 GRPO 塞入标准答案时的优势反转问题**
+  - [B station](https://www.bilibili.com/video/BV1hyea6wEyV)
+- **【RL 前沿】VAPO：通过 value 预训练与解耦 GAE 改进长思维链上 critic 训不准的问题（字节 Seed）**
+  - [B station](https://www.bilibili.com/video/BV1rnea6mE4y)
+- **【面试高频】大模型能过律考却算不对六位数乘法：分词错位+进位是未来信息+概率≠确定+调工具**
+  - [B station](https://www.bilibili.com/video/BV1azNU6BEpK)
+- **【面试高频】In-Context Learning 机理：贝叶斯任务定位，为什么乱标签也能 work**
+  - [B station](https://www.bilibili.com/video/BV1F5Kj68EPG)
+- **【面试高频】涌现能力之争：是真的突现，还是度量假象？精确匹配 vs 平滑指标**
+  - [B station](https://www.bilibili.com/video/BV1B5Kj6bEGF)
+- **【可解释性】激活导向详解：不改一个权重，用一个方向向量控制模型性格**
+  - [B station](https://www.bilibili.com/video/BV1ty8269ExR)
+- **【范式反思】自回归的三个根本局限：滚雪球错误、无法全局规划、曝光偏差**
+  - [B station](https://www.bilibili.com/video/BV1g68264E7h)
+- **【反直觉现象】Grokking 延迟泛化：模型"背完答案"后突然"开窍"，挑战早停智慧**
+  - [B station](https://www.bilibili.com/video/BV1Jn826gEKr)
+- **【认知盲区】大模型为什么算不对多位数乘法？三重根因与逆序输入解法**
+  - [B station](https://www.bilibili.com/video/BV1rE826rEF6)
+- **【AI 安全】大模型水印是怎么做的？绿名单方案详解：γ 切名单、δ 加分数、z 做检验**
+  - [B station](https://www.bilibili.com/video/BV1J7826GEU2)
+- **【可解释性】Logit Lens 详解：把每一层的残差解码成词，看答案如何逐层结晶**
+  - [B station](https://www.bilibili.com/video/BV1Ye826hEBW)
+- **【AI 安全】机器遗忘详解：梯度上升、RMU、NPO 三种让大模型选择性失忆的方法**
+  - [B station](https://www.bilibili.com/video/BV15t826vEUA)
+- **【可解释性】SAE 稀疏自编码器详解：用 L1 约束把多义神经元拆成单义特征**
+  - [B station](https://www.bilibili.com/video/BV1ux8S6eEc4)
+- **【认知盲区】大模型数不清 strawberry 的 r、算不对乘法，根因都在 tokenizer**
+  - [B station](https://www.bilibili.com/video/BV1hc8t63EKR)
+- **【训练诊断】用 Logit Lens 看训练到底改善了什么：中间层表示 vs 输出映射**
+  - [B station](https://www.bilibili.com/video/BV1cGbL6HEzH)
+- **【AI 安全】红队测试实操：四种攻击手法、安全分类器与 RLHF 安全对齐**
+  - [B station](https://www.bilibili.com/video/BV1CDb76AEB8)
+- **【RL 面试】RL 微调的幻觉税：为什么 RFT 之后模型对无解题不再拒答？混 10% 无解题 SUM 就能修回来**
+  - [B station](https://www.bilibili.com/video/BV1xXea6dECx)
+- **【面试高频】如何理解 MoE 网络？Router 怎么实现？**
+  - [B station](https://www.bilibili.com/video/BV15XMp6yEzV)
+- **【面试高频】MoE 架构相比 Dense 有什么好处？一个最小例子把计算量算清楚**
+  - [B station](https://www.bilibili.com/video/BV1TTMW6NEqk)
+- **【手撕代码】MoE 设备受限路由怎么写？一招锁死跨卡通信（华为面试真题 / DeepSeek-V2）**
+  - [B station](https://www.bilibili.com/video/BV1AkKx6wEXL)
+- **【面试进阶】如何计算 sequence 粒度的负载均衡损失？MoE 专家忙闲不均怎么纠偏**
+  - [B station](https://www.bilibili.com/video/BV157gD6FE3J)
+- **【MoE 架构】DeepseekMoE 细粒度 + 共享专家：凭什么比标准 MoE 强 10-15%？**
+  - [B station](https://www.bilibili.com/video/BV1oS3R62ESL)
+- **【面试高频】DeepSeek 删掉辅助损失，MoE 反而更均衡？无辅助损失负载均衡一次讲透**
+  - [B station](https://www.bilibili.com/video/BV11dua64ECo)
+- **【面试高频】Mixture-of-Depths：让 token 学会跳层，Transformer 算力省一半还不掉点**
+  - [B station](https://www.bilibili.com/video/BV19qua6zExA)
+- **【Kimi K3】Stable LatentMoE：用三件套改进万亿 MoE 的训练崩溃**
+  - [B station](https://www.bilibili.com/video/BV1kL826CETq)
+- **【架构】Mixture of Depths 详解：深度方向的稀疏，与 MoE 有何不同**
+  - [B station](https://www.bilibili.com/video/BV1WTbL6REiT)
+- **【MoE 训练】专家忙闲不均怎么治？aux loss 调参与 DeepSeek-V3 动态偏置**
+  - [B station](https://www.bilibili.com/video/BV1kKbL6xEm1)
+- **【MoE 训练】从零训练完整流程：专家初始化、router 设置与训练 schedule**
+  - [B station](https://www.bilibili.com/video/BV1Qvb76VE4D)
+- **【面试前沿】大模型深度思考的自主切换是怎么实现的？不确定性 / 决策器 / 多阶段 RL**
+  - [B station](https://www.bilibili.com/video/BV1bGMt67E7J)
+- **【面试高频】Zero/One/Few-shot 与 In-Context Learning：GPT-3 为什么是 few-shot learner**
+  - [B station](https://www.bilibili.com/video/BV1FVKj6cEz6)
+- **【面试高频】思维草稿Chain-of-Draft：一句提示词让大模型少写80%token，正确率几乎不掉**
+  - [B station](https://www.bilibili.com/video/BV1q3uY6jEYg)
+- **【面试高频】思维图GoT讲透：链→树→图演进+聚合/回环+三大思维变换，质量涨六成还更省钱**
+  - [B station](https://www.bilibili.com/video/BV1nNuY6HEF4)
+- **【面试高频】推理模型的显式思考真的必要吗？NoThinking 跳过思考反而更省更快**
+  - [B station](https://www.bilibili.com/video/BV1dYua6GEBn)
+- **【面试高频】推理模型越想越歪？ParaThinker并行思考，打破长思维链的隧道视野**
+  - [B station](https://www.bilibili.com/video/BV1dhua6CEmV)
+- **【面试高频】Quiet-STaR 原理拆解：每个 token 前先默想，推理能力自己长出来**
+  - [B station](https://www.bilibili.com/video/BV1U2ua6YEr4)
+- **【面试高频】一张图讲透推理型大模型：推理时计算/PRM/搜索/自我进化 四根支柱**
+  - [B station](https://www.bilibili.com/video/BV1mQua6FEf9)
+- **【面试高频】7B小模型自进化超o1？rStar-Math三件套(代码CoT+MCTS+过程偏好模型)一次讲透**
+  - [B station](https://www.bilibili.com/video/BV1tSua6aEHu)
+- **【面试高频】大模型自我精炼Self-Refine：同一个模型自己批评自己，零训练提升输出质量**
+  - [B station](https://www.bilibili.com/video/BV1Gkua6TEHE)
+- **【面试高频】测试时算力 Test-Time Compute：为什么 o1 多想一会儿就变强？四招讲透**
+  - [B station](https://www.bilibili.com/video/BV1QCua6vEv2)
+- **【面试高频】思维链一条道走到黑？思维树ToT让大模型学会回溯，正确率从4%飙到74%**
+  - [B station](https://www.bilibili.com/video/BV1T3ua6tEjt)
+- **【推理增强】自洽性采样详解：为什么多想几遍取多数票能涨点**
+  - [B station](https://www.bilibili.com/video/BV1gs8S6NEtr)
+- **【推理增强】Best-of-N 采样详解：四种挑选方法与 RFT 的衔接**
+  - [B station](https://www.bilibili.com/video/BV1Qab76LEvu)
+- **大模型面试：为什么现在的大模型都是Decoder-Only架构？**
+  - [B station](https://www.bilibili.com/video/BV1uiXmBUEfp)
+- **【面试必考】LayerNorm为什么被RMSNorm全面取代？从0讲透归一化+手撕LLaMA同款代码**
+  - [B station](https://www.bilibili.com/video/BV1owTx6pEqM)
+- **【面试高频】请介绍 BERT 的流程：五大部件 + 预训练全讲透**
+  - [B station](https://www.bilibili.com/video/BV1SGMt67EEq)
+- **【面试高频】Qwen 从 1 到 3 每个版本改了什么？一条线讲透六代改进点**
+  - [B station](https://www.bilibili.com/video/BV1KjMt6yE6h)
+- **【面试高频】BERT 与 LSTM 有什么不同？结构 / 并行 / 双向 / 预训练四维度对比**
+  - [B station](https://www.bilibili.com/video/BV1KMMW6eEnp)
+- **【面试高频】Encoder-Only 和 Decoder-Only 建模有何区别？BERT 与 GPT 的分水岭**
+  - [B station](https://www.bilibili.com/video/BV1HLNA6tEX9)
+- **【面试高频】Engram 以存储换算力：确定性哈希查表的先天记忆，O(1) 取语义，NIAH 84→97**
+  - [B station](https://www.bilibili.com/video/BV17MNS6UEhc)
+- **【面试高频】Kimi AttnRes：把残差升级成对历史层的注意力，伪查询+块级检索，N≈8 延迟<2%**
+  - [B station](https://www.bilibili.com/video/BV1LVNS6LEHX)
+- **【面试高频】SwiGLU 激活函数：GLU 门控 × Swish，为何取代 ReLU/GELU 成大模型 FFN 标配**
+  - [B station](https://www.bilibili.com/video/BV1i3NS62E68)
+- **【面试高频】weight tying 详解：输入输出 Embedding 为什么共享？转置关系 / 省参数 / GPT-2 与 LLaMA 的取舍**
+  - [B station](https://www.bilibili.com/video/BV151Na68EcR)
+- **【面试高频】BPE 分词详解：中文为什么比英文更费 Token？子词 / 字节级 / WordPiece / Unigram 全讲透**
+  - [B station](https://www.bilibili.com/video/BV1uUN86SEHs)
+- **【面试高频】Word2Vec 词向量详解：CBOW / Skip-gram / 负采样，为什么它是 Embedding 的祖师爷**
+  - [B station](https://www.bilibili.com/video/BV1hmN86nEVC)
+- **【面试高频】Transformer FFN 详解：为什么先升维 4 倍再降回？升维 / 降维 / 残差 / SwiGLU 2.67 倍全讲透**
+  - [B station](https://www.bilibili.com/video/BV14LN86GEG1)
+- **【面试高频】7B 参数量怎么手算？12Ld²+Vd 公式详解，词嵌入 / 注意力 / FFN 逐块拆解**
+  - [B station](https://www.bilibili.com/video/BV1jiNa6iECe)
+- **【面试高频】残差连接为什么重要：退化问题、梯度高速路，与 Transformer 的残差流**
+  - [B station](https://www.bilibili.com/video/BV1SXNa6RE4J)
+- **【面试高频】RNN vs CNN vs Transformer：并行能力与长程依赖两把尺子讲透**
+  - [B station](https://www.bilibili.com/video/BV1q7Kj64EcD)
+- **【面试高频】Embedding 到底是什么、为什么乘 √d_model：查找表、位置编码与数值量级**
+  - [B station](https://www.bilibili.com/video/BV1qyNo6TESa)
+- **【面试高频】7B 参数量怎么手算？12Ld²+Vd 公式详解，词嵌入 / 注意力 / FFN 逐块拆解**
+  - [B station](https://www.bilibili.com/video/BV1BwKM6vEGs)
+- **【面试高频】weight tying 详解：输入输出 Embedding 为什么共享？转置关系 / 省参数 / GPT-2 与 LLaMA 的取舍**
+  - [B station](https://www.bilibili.com/video/BV1BZKT6MEmC)
+- **【面试高频】BatchNorm 与 LayerNorm 的区别：为什么 Transformer 只用 LayerNorm？**
+  - [B station](https://www.bilibili.com/video/BV1j7gD6cE75)
+- **【大模型架构】RetNet 讲透：微软的 Transformer 杀手，训练并行 + 推理 O(1)**
+  - [B station](https://www.bilibili.com/video/BV1RR3R6VEn7)
+- **【面试高频】扔掉分词器！Byte Latent Transformer 用字节熵动态切 patch 全解析**
+  - [B station](https://www.bilibili.com/video/BV1oGuY61EFH)
+- **【面试高频】Mamba+注意力+MoE三合一，Jamba如何把25万字塞进单张显卡？混合架构原理拆解**
+  - [B station](https://www.bilibili.com/video/BV1zuuY6mEqQ)
+- **【面试高频】Titans：让大模型在推理时学会长期记忆，注意力+神经记忆到底怎么融合？**
+  - [B station](https://www.bilibili.com/video/BV1DCua6vEpr)
+- **【面试进阶】大模型新结构TTT层：处理一条序列=训练一个小模型，线性复杂度+恒定内存扛长文本**
+  - [B station](https://www.bilibili.com/video/BV1Muua6fEpa)
+- **【Kimi 新架构】Attention Residuals：用深度方向 softmax 改进残差连接的等权相加问题**
+  - [B station](https://www.bilibili.com/video/BV1Nm826QELP)
+- **【面试高频】SwiGLU 的中间层维度为什么是 8/3·d？从参数量守恒一步步推导**
+  - [B station](https://www.bilibili.com/video/BV1Qc8t63EsP)
+- **【架构辩论】Transformer 会被取代吗？三个致命伤，取代派/改良派/共存派三种解法**
+  - [B station](https://www.bilibili.com/video/BV1jS846SETu)
+- **【训练第一步】tokenizer 词表设计：vocab size、中英混合与 Byte-level BPE**
+  - [B station](https://www.bilibili.com/video/BV1BPbE6WELv)
+- **【模型压缩】模型剪枝原理：结构化 vs 非结构化、按幅度剪、剪枝+微调**
+  - [B station](https://www.bilibili.com/video/BV14eKW6fENJ)
+- **【顶会最佳论文】彩票假设：稀疏子网、重置回初始化，为什么小子网能单独达标**
+  - [B station](https://www.bilibili.com/video/BV1w6KW6RENb)
+- **【LLM 剪枝】SparseGPT / Wanda：一次性剪枝不重训，按权重×激活选，公式讲透**
+  - [B station](https://www.bilibili.com/video/BV1qgKW6LEDW)
+- **【面试高频】BitNet b1.58 全解：权重只用-1/0/1，乘法变加法，省电71倍还不掉点**
+  - [B station](https://www.bilibili.com/video/BV1iGuY61EDX)
+- **【面试高频】大模型四位量化为什么总崩？旋转量化一招治激活离群点**
+  - [B station](https://www.bilibili.com/video/BV1mQua6FEAN)
+- **【量化必修】离群激活详解：为什么清零 99% 的激活模型还活着，动几个大的就崩**
+  - [B station](https://www.bilibili.com/video/BV1vt826vEKv)
+- **【量化部署】QAT vs PTQ：fake quantization、直通估计器与选型标准**
+  - [B station](https://www.bilibili.com/video/BV1pQb76YE6q)
+- **大模型KV Cache原理详解**
+  - [B station](https://www.bilibili.com/video/BV12fXyBKEor)
+- **图解大模型缓存 KV Cache的原理**
+  - [B station](https://www.bilibili.com/video/BV1yy5o6zELy)
+- **【大模型加速】推测解码 Speculative Decoding 原理详解：从草稿验证到拒绝采样**
+  - [B station](https://www.bilibili.com/video/BV1CsTv6tEDU)
+- **【大模型推理】内存墙 Memory-Bound 到底是什么？H100 算力利用率不足 1% 的真相**
+  - [B station](https://www.bilibili.com/video/BV1euTj6dEqX)
+- **【推理优化】PagedAttention：显存浪费 60-80% 怎么救｜vLLM 核心技术**
+  - [B station](https://www.bilibili.com/video/BV1AHMx6YEAm)
+- **【面试高频】温度·Top-K·Top-P 到底动了什么？解码采样一次讲透**
+  - [B station](https://www.bilibili.com/video/BV1cHMx6YE8i)
+- **【面试高频】推理过程中的 KV Cache 怎么估算？从原理到 Qwen/DeepSeek 实算**
+  - [B station](https://www.bilibili.com/video/BV1KTMW6NE9t)
+- **【面试高频】大模型推理占用的显存怎么计算？一个公式秒算**
+  - [B station](https://www.bilibili.com/video/BV1VsNH6PECF)
+- **【面试高频】现在大模型为什么都用 left padding？一句话讲透**
+  - [B station](https://www.bilibili.com/video/BV1CyNH6nEXF)
+- **【面试高频】MTP 多 Token 预测：一次预测多个未来字 + 投机解码，步数砍半提速 1.8×**
+  - [B station](https://www.bilibili.com/video/BV1EoNg6kERe)
+- **【面试高频】解码策略详解：贪心 / Beam Search / 采样怎么选？束宽、Top-K、Top-P 核采样全讲透**
+  - [B station](https://www.bilibili.com/video/BV1LyNa6cELQ)
+- **【面试高频】解码策略详解：贪心 / Beam Search / 采样怎么选？束宽、Top-K、Top-P 核采样全讲透**
+  - [B station](https://www.bilibili.com/video/BV1FdKT66EAS)
+- **【推理优化】Chunked Prefill：8000 token prompt 一进，Decode 集体卡 1 秒？**
+  - [B station](https://www.bilibili.com/video/BV1jWgR6rEK9)
+- **【大模型推理】Continuous Batching：同样 8 张卡，凭啥 vLLM 比 HF 快 24 倍？**
+  - [B station](https://www.bilibili.com/video/BV1jpgR6GEM1)
+- **【大模型推理】Continuous Batching：同样 8 张卡，凭啥 vLLM 比 HF 快 24 倍？**
+  - [B station](https://www.bilibili.com/video/BV1ipgR6GE1K)
+- **【LLM 推理】PD 分离部署：Mooncake / DistServe / Splitwise 三家方案讲透**
+  - [B station](https://www.bilibili.com/video/BV1J7gR61EgA)
+- **【LLM 推理】Prefill vs Decode：一个拼算力一个拼带宽，推理框架的灵魂**
+  - [B station](https://www.bilibili.com/video/BV1JjgR6jEgH)
+- **【LLM 推理优化】RadixAttention：SGLang 的招牌技术，一棵 Radix Tree 让吞吐提升 2-5×**
+  - [B station](https://www.bilibili.com/video/BV1gYgR6vEas)
+- **【推理优化】7B 在 H100 上理论极限 TPS 是多少？从 HBM 带宽推公式**
+  - [B station](https://www.bilibili.com/video/BV1e4gR6zEfR)
+- **【LLM 推理】TTFT vs ITL：推理体验的两个 SLO，优化路径完全不同**
+  - [B station](https://www.bilibili.com/video/BV1VxgR6gEmj)
+- **【面试高频】KV缓存驱逐：H2O与SnapKV，95%的KV都在陪跑**
+  - [B station](https://www.bilibili.com/video/BV1Liua63EZG)
+- **【面试进阶】Lookahead Decoding：把大模型解码看成解方程，雅可比并行无损加速**
+  - [B station](https://www.bilibili.com/video/BV1Reua6rEkb)
+- **【面试高频】美杜莎解码：多解码头+树注意力，一次前向验证一整棵候选树**
+  - [B station](https://www.bilibili.com/video/BV1Vzua6uEKE)
+- **【面试高频】DeepSeek V3 招牌 MTP 多 token 预测全解：训练当辅助任务、推理当投机解码加速器**
+  - [B station](https://www.bilibili.com/video/BV1o8ua65EdB)
+- **【面试高频】自投机解码：不加显存，大模型推理怎么白捡两倍加速？**
+  - [B station](https://www.bilibili.com/video/BV1V6ua6BEnX)
+- **【Agent 必修】约束解码怎么保证模型只吐合法 JSON？FSM/PDA 与 logit 屏蔽详解**
+  - [B station](https://www.bilibili.com/video/BV1bC826sEMX)
+- **【推理必修】温度、Top-K、Top-P 的区别在哪里？兼谈贪心与束搜索**
+  - [B station](https://www.bilibili.com/video/BV1co8261ERi)
+- **【推理调参】温度、Top-P、Top-K 该按什么顺序调？为什么不能同时拉满**
+  - [B station](https://www.bilibili.com/video/BV1Ew8m6GEeG)
+- **【推理优化】KV Cache 为什么只缓存 K 和 V，从不缓存 Q？注意力的根本不对称**
+  - [B station](https://www.bilibili.com/video/BV1JL826CEQK)
+- **【推理加速】Medusa 多解码头讲透：一次预测 k 个 token，无需草稿模型的内嵌方案**
+  - [B station](https://www.bilibili.com/video/BV1j4826KEUb)
+- **【推理调参】存在惩罚和频率惩罚的区别在哪里？两个治复读旋钮讲透**
+  - [B station](https://www.bilibili.com/video/BV1e8826PEYT)
+- **【推理架构】Prefill 与 Decode 为什么差 140 倍？PD 分离架构的由来**
+  - [B station](https://www.bilibili.com/video/BV1Xj8S6zEe1)
+- **【推理踩坑】训练 right padding、推理 left padding：搞混就是 silent bug**
+  - [B station](https://www.bilibili.com/video/BV1cubL6WEQi)
+- **【面试必考】RoPE位置编码到底是什么？从0手撕Qwen3源码，代码和公式竟然对不上!?**
+  - [B station](https://www.bilibili.com/video/BV1gLTx6CEHx)
+- **【手撕代码】Multi-Head Attention 多头注意力怎么写（接上期自注意力）**
+  - [B station](https://www.bilibili.com/video/BV1imM36EETx)
+- **【面试高频】Softmax 前为什么要除以根号 d？含完整数学推导**
+  - [B station](https://www.bilibili.com/video/BV1cJNA6REKc)
+- **【面试高频】Encoder 和 Decoder 中的 Mask 有什么不同？两层掩码一次讲透**
+  - [B station](https://www.bilibili.com/video/BV1cENA6xEtb)
+- **【面试高频】DeepSeek NSA 原生稀疏注意力：压缩+选择+滑窗，长文本解码快 11 倍还反超全注意力**
+  - [B station](https://www.bilibili.com/video/BV1YKN36iEBs)
+- **【面试高频】YaRN 长度外推：RoPE 高频外推低频内插 + 注意力温度，4k→128k 几乎零成本**
+  - [B station](https://www.bilibili.com/video/BV1RNN36TEva)
+- **【面试高频】DCA 双块注意力：块内/块间/相邻块 + 位置重映射封顶，零训练扩到百万上下文**
+  - [B station](https://www.bilibili.com/video/BV1zdNg6VEsk)
+- **【面试高频】DeepSeek DSA 稀疏注意力：闪电索引器选 top-2048，真正省的是访存而非 FLOPs**
+  - [B station](https://www.bilibili.com/video/BV1LFN366ER5)
+- **【面试高频】门控注意力：SDPA 输出后加 Sigmoid 门，强稀疏+破低秩+去 attention-sink，只多 1% 参数**
+  - [B station](https://www.bilibili.com/video/BV1jgNS67EsS)
+- **【面试高频】注意力为什么是 O(n²)？n×n 矩阵、显存爆炸与上下文长度的真相**
+  - [B station](https://www.bilibili.com/video/BV16VKj6FEA8)
+- **【手撕代码】softmax / safe softmax / online softmax：从会溢出到一遍算完（FlashAttention 核心）**
+  - [B station](https://www.bilibili.com/video/BV1ETKW67EXG)
+- **【RoPE 之后必问】长度外推：训短推长为什么崩，ALiBi/PI/NTK/YaRN 方法全景**
+  - [B station](https://www.bilibili.com/video/BV13pKW6TECw)
+- **【长文本扩展】位置插值 PI → NTK-aware → YaRN：怎么把 32K 免训练扩到 128K**
+  - [B station](https://www.bilibili.com/video/BV1uxKW6NE7B)
+- **【面试综述题】高效 Transformer 四大流派：稀疏、低秩、核化、可逆，一张图看懂**
+  - [B station](https://www.bilibili.com/video/BV15jKW63E8e)
+- **【线性注意力】Linformer & Performer：低秩投影、核化+结合律，O(n²) 降到 O(n)**
+  - [B station](https://www.bilibili.com/video/BV1GJKW6uEEH)
+- **【稀疏注意力】Longformer & BigBird：滑动窗口、全局、随机注意力，O(n²) 降到 O(n)**
+  - [B station](https://www.bilibili.com/video/BV19wK467EJE)
+- **【手撕代码】self-attention 自注意力：一个公式讲透 Transformer 的心脏**
+  - [B station](https://www.bilibili.com/video/BV1d7gD6FEUe)
+- **【面试高频】MQA 和 GQA：把 KV 头砍到 8 组为什么效果不掉？｜注意力演化 MHA→MQA→GQA→MLA**
+  - [B station](https://www.bilibili.com/video/BV1tiKx6KE8v)
+- **【手撕代码】RoPE 旋转位置编码：为什么点积只看相对距离？一个视频讲透**
+  - [B station](https://www.bilibili.com/video/BV1gigR6YEiz)
+- **【大模型数值稳定性】Safe Softmax：一行 exp(100) 让模型崩溃，FlashAttention 的数学基石**
+  - [B station](https://www.bilibili.com/video/BV1bigR6YEpq)
+- **【位置编码】ALiBi 注意力线性偏置：不存位置向量，反而比 RoPE 外推更好？**
+  - [B station](https://www.bilibili.com/video/BV1zW3d6WE9z)
+- **【面试高频】删掉开头几个 token 大模型当场崩盘？一图看透 Attention Sink 与 StreamingLLM**
+  - [B station](https://www.bilibili.com/video/BV1youa6dEug)
+- **【面试高频】M-RoPE 多模态位置编码全解：一套 RoPE 如何通吃文字图片视频**
+  - [B station](https://www.bilibili.com/video/BV1Xzua6MEe2)
+- **【面试高频】滑动窗口注意力一次讲透：平方级降到线性，小窗口为何能看穿13万token**
+  - [B station](https://www.bilibili.com/video/BV1D1ua6PErD)
+- **【NeurIPS 2025 最佳论文】Gated Attention：用 head 级 sigmoid 门改进注意力的线性聚合与 attention sink**
+  - [B station](https://www.bilibili.com/video/BV1cd826jEGT)
+- **【线性注意力】Linear Attention 讲透：核函数替代 softmax，O(n²) 降到 O(n)**
+  - [B station](https://www.bilibili.com/video/BV1JE826rEVe)
+- **【长文本】LongRoPE 讲透：把 4K 上下文扩到 2048K，非均匀插值 vs 均匀插值**
+  - [B station](https://www.bilibili.com/video/BV13e826hE9X)
+- **【长上下文】Lost in the Middle 详解：答案放中间为什么就找不到了？兼谈 RAG 重排**
+  - [B station](https://www.bilibili.com/video/BV1hi826FEwT)
+- **【大模型推理】StreamingLLM 讲透：保留 4 个 sink token 让模型记住无限长对话**
+  - [B station](https://www.bilibili.com/video/BV1Rd846yETR)
+- **【长文本】attention sink 详解：成因、后果与 StreamingLLM 的解法**
+  - [B station](https://www.bilibili.com/video/BV1Tg8t6NE6U)
+- **【长文本】4K 扩到 128K：PI、NTK-aware、YaRN 三种外推方法与分阶段训练**
+  - [B station](https://www.bilibili.com/video/BV1JjbL6UEPF)
+- **【面试高频】BM25 相比 TF-IDF 做了什么改进？非线性饱和 + 长度归一化全解析**
+  - [B station](https://www.bilibili.com/video/BV1uGMt67Eig)
+- **【RAG 地基】向量数据库索引 HNSW / IVF-PQ：多层图导航、聚类分桶、乘积量化**
+  - [B station](https://www.bilibili.com/video/BV1EQKW67EgT)
+- **【RAG】HyDE 讲透：先让 LLM"瞎编"答案，再用它去检索真实文档**
+  - [B station](https://www.bilibili.com/video/BV1vQ3R6jEds)
+- **【面试高频】CRAG 纠错式检索增强：给 RAG 加一道质检，三档纠错让大模型不再胡说**
+  - [B station](https://www.bilibili.com/video/BV1v5uY65EXS)
+- **【面试高频】GraphRAG 原理拆解：先建图谱再分社区，RAG 终于能答全局问题了**
+  - [B station](https://www.bilibili.com/video/BV1zuuY6mEyK)
+- **【面试高频】Late Chunking：调换切块和编码顺序，RAG检索质量的零成本提升**
+  - [B station](https://www.bilibili.com/video/BV1Liua63ER5)
+- **【面试高频】Self-RAG 四种反思 token 全拆解：按需检索 + 批判资料 + 拦截幻觉**
+  - [B station](https://www.bilibili.com/video/BV1MSua6aEi6)
+- **【RAG 必修】余弦相似度的维度灾难：为什么检索结果全挤在 0.9 附近**
+  - [B station](https://www.bilibili.com/video/BV1Sr826dExM)
+- **【RAG 实操】检索器与生成器的微调 pipeline：对比学习、上下文利用与联合训练**
+  - [B station](https://www.bilibili.com/video/BV1ZT8S61E3b)
+- **【RAG 实操】embedding 模型微调：对比学习、InfoNCE 与难负样本挖掘**
+  - [B station](https://www.bilibili.com/video/BV1WY8468EbL)
+- **我Vibe Coding做的游戏，上架Steam了【B站AI创造公开赛】**
+  - [B station](https://www.bilibili.com/video/BV1MPMd64EiD)
+- **《群侠传：幸存者》47分钟完整实机演示+开发者全程解说【B站AI创造公开赛】**
+  - [B station](https://www.bilibili.com/video/BV1S9uw6jE12)
+- **《群侠传：幸存者》开场CG：幸而存生，何处是江湖？**
+  - [B station](https://www.bilibili.com/video/BV1j1uB6bEYZ)
+- **上架三周，好评如潮，谢谢你玩我用AI做的游戏。**
+  - [B station](https://www.bilibili.com/video/BV1eCbA6rEZV)
+- **【2025最新版】B站第一套系统的AI绘画课！零基础学会Stable Diffusion，这绝对是你看过的最容易上手的AI绘画教程 | SD WebUI系列课**
+  - [B station](https://www.bilibili.com/video/BV1VXYszZEvD)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **从零开始认识SD模型体系：版本、功能、风格和获取渠道——如何选择合适的AI绘图模型？｜AI绘画+SD WebUI零基础入门系列教程（2025最新版）**
+  - [B station](https://www.bilibili.com/video/BV1YdYszoEcj)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **Stable Diffusion提示词全方位解析：两大书写逻辑+两个绝妙技巧，小白也能快速学会写Prompt！｜AI绘画+SD WebUI零基础入门系列教程**
+  - [B station](https://www.bilibili.com/video/BV15RYszbEWd)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **一个视频，理清Stable Diffusion所有参数的调节方式，自由掌控出图效果！｜AI绘画+SD WebUI零基础入门系列教程（2025最新版）**
+  - [B station](https://www.bilibili.com/video/BV1B1YszeEaW)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **一键“复刻”世界名画！Stable Diffusion图生图技巧详细解析｜AI绘画+SD WebUI零基础入门系列教程（2025最新版）**
+  - [B station](https://www.bilibili.com/video/BV1qUYszaEKd)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **拒绝低质量出图！提高AI绘画分辨率，就靠高分辨率修复了！| SD WebUI高清修复优化细节无损放大教程 · AI绘图零基础入门系列教程（2025最新版）**
+  - [B station](https://www.bilibili.com/video/BV1T7eLzdETo)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **低显存也能跑高清大图！Stable Diffusion放大脚本+附加功能算法放大教程，轻松输出2K级分辨率！ AI绘画零基础入门系列教程（2025最新版）**
+  - [B station](https://www.bilibili.com/video/BV1MweEzeEa4)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **AI绘画的救星！定向修改画面，手把手教你玩转SD局部重绘！ Stable Diffusion WebUI重绘功能详解 · AI绘画零基础入门系列教程（2025最**
+  - [B station](https://www.bilibili.com/video/BV1CGeEzdEP3)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **一个视频，讲明白AI绘画里的2种附加网络模型！LoRA、Embedding分别是什么？怎么用？Stable Diffusion WebUI零基础入门系列教程**
+  - [B station](https://www.bilibili.com/video/BV1gnaEzeEiU)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **Embedding模型的5种用法，懂了才是真高手！Stable Diffusion附加网络模型解析 · AI绘画零基础入门系列教程**
+  - [B station](https://www.bilibili.com/video/BV1mxaEzFEWp)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **LoRA模型的4大分类与实用姿势，一次性讲明白！Stable Diffusion附加网络模型解析 · AI绘画零基础入门系列教程**
+  - [B station](https://www.bilibili.com/video/BV1UMaHzuEmy)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **一个视频搞定10大Stable Diffusion插件：提示词翻译反推+放大修复+抠图重绘！SD WebUI扩展插件专题 · AI绘画零基础入门教程**
+  - [B station](https://www.bilibili.com/video/BV1D2pEzVENY)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **一口气了解10种ControlNet！原理+应用，全方位解析Stable Diffusion控制网！SD WebUI扩展插件专题 · AI绘画零基础入门教程**
+  - [B station](https://www.bilibili.com/video/BV1pwpJzAEr8)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/EmUcwsUoQiwDSqkyZk1cmXyonGe
+- **ComfyUI全球爆红，AI绘画进入“工作流时代”？做最好懂的Comfy UI入门教程：Stable Diffusion专业节点式界面新手教学**
+  - [B station](https://www.bilibili.com/video/BV1D7421N7xN)
+  - links: https://www.esheep.com/?channel=zz&from=19
+- **史诗级更新！ComfyUI“改头换面”，晚一秒更新都是浪费！全新界面、功能与海量体验优化，10分钟带你速览新版本所有操作技巧！（附整合包下载地址）**
+  - [B station](https://www.bilibili.com/video/BV1X8xFeCERn)
+- **让Comfy UI“无所不能”的秘密——自定义节点！ComfyUI零基础入门教程系列：自定义节点的安装与使用，用ComfyUI Manager一键安装缺失工作流**
+  - [B station](https://www.bilibili.com/video/BV1pZ421b7t7)
+- **ComfyUI“不好用”？这期视频，帮你找到最正确的入门姿势！全面掌握高清修复+重绘+LoRA+ControlNet，无缝丝滑上手SD Comfy UI教程**
+  - [B station](https://www.bilibili.com/video/BV1ab42187er)
+- **小白也能听懂的ComfyUI工作流搭建教程！节点连线整理技巧+复杂工作流解构 | AI绘画和SD应用落地的最佳载体！从思路到实操，一口气讲明白！**
+  - [B station](https://www.bilibili.com/video/BV19f421q7EU)
+  - links: https://www.bilibili.com/opus/982835353717047312
+- **太爽了！AI绘画全面进化：懂中文、会做中文设计，还开源免费！Qwen Image+Edit模型零基础教程，一个视频讲清楚全部应用 | 附Comfy UI工作流**
+  - [B station](https://www.bilibili.com/video/BV11SabzWEUZ)
+  - links: https://pan.baidu.com/s/1kjPwnc4-Ww3NEjrW8-8Z8Q?pwd=y9fk https://pan.quark.cn/s/6cbe46a3f0d1 https://wuying.com/
+- **一口气了解FLUX.1：AI生图的“新王”，凭什么震惊世界？FLUX模型使用教程，基本用法到进阶应用，一网打尽！（含SD Forge与ComfyUI整合包）**
+  - [B station](https://www.bilibili.com/video/BV1UytNexEUk)
+- **取代PS，颠覆AI绘画的新神器？FLUX Kontext零基础上手教程：一句话搞定图像编辑！无缝修图、改文字、换背景 | 含ComfyUI工作流**
+  - [B station](https://www.bilibili.com/video/BV1vYKVzfEYB)
+- **开源+免费！这个AI彻底改变了美工和设计！FLUX Kontext Dev本地安装与使用教程：最强一致性图像编辑模型！ | 含模型下载与ComfyUI工作流**
+  - [B station](https://www.bilibili.com/video/BV1P8KyzAEQ6)
+- **关于Stable Diffusion 3.5，这个视频有你需要知道的一切：免费可商用，和Flux比谁强？ | SD3.5使用教程，含ComfyUI工作流与整合包**
+  - [B station](https://www.bilibili.com/video/BV1XCmyYME4c)
+  - links: https://serverless.datastone.cn/sprite/app/register?marketing_invite_code=2155128
+- **8倍加速，低配福音！笔记本跑出“4090级”速度？AI绘图门槛大幅降低，ComfyUI Nunchaku节点详解，四位量化的FLUX模型究竟有多快？| 含工作流**
+  - [B station](https://www.bilibili.com/video/BV16WKwzTExU)
+  - links: https://github.com/mit-han-lab/ComfyUI-nunchaku/ https://github.com/mit-han-lab/nunchaku/releases https://huggingface.co/mit-han-lab/nunchaku/tree/main
+- **一句话修出创意大片，摄影界的“ChatGPT”有多强？零基础小白也能玩的AI摄影生成器，超能画布入门教程，AI绘画应用实践**
+  - [B station](https://www.bilibili.com/video/BV1xC411H7NH)
+  - links: https://photo.baidu.com/photasy/home】
+- **重磅黑科技！让照片“开口说话”，这项AI技术终于可以用了！阿里EMO正式开放，一键同步音频表情、眼神、嘴型，还能唱歌、RAP？新一代AI“数字人”使用教程**
+  - [B station](https://www.bilibili.com/video/BV1AF4m1A7kX)
+- **可能是全世界最会做设计的AI！3秒一张海报，文案全自动排版，还能做Logo和UI！Ideogram2.0使用教程：最强平面设计大模型，连FLUX都“甘拜下风”！**
+  - [B station](https://www.bilibili.com/video/BV1De2uYeEtK)
+- **如何将ComfyUI工作流变成月入$1000的AI图像“App”（零代码）| ShellAgent入门教程 · AI Agent Bot手把手搭建教学**
+  - [B station](https://www.bilibili.com/video/BV16qQRYoE1r)
+- **用嘴改图的AI神器！效率秒杀Photoshop，“开源版”GPT4o来了？ICEdit实测与教程：通过FLUX Fill实现定向编辑 | 含ComfyUI工作流**
+  - [B station](https://www.bilibili.com/video/BV1bNEvzrEn1)
+- **二次元角色“穿越”现实世界，5种整活玩法，这个AI太强了！Vidu Q1参考生视频教程：AI动画/视频生成如何保证人物角色一致性？**
+  - [B station](https://www.bilibili.com/video/BV1vv32zNERc)
+- **一句话搞定全套海报+Logo全案+电商合成图！星流Agent全方位使用教程 | Lovart“中文版”开放使用！无需邀请码！**
+  - [B station](https://www.bilibili.com/video/BV1Eb8XzuEqC)
+  - links: https://www.xingliu.art/
+- **0代码开发AI应用，一句话生成完整App！ShellAgent 2.0使用教程：全球首个“Text 2 App”工具，靠自然语言做完全套开发工作？**
+  - [B station](https://www.bilibili.com/video/BV1yNt3zdEHu)
+- **0 基础 22 分钟速通大模型应用：无痛学会DeepSeek+ChatGPT+一切AI对话软件，我为你总结了这四大“必备场景”——**
+  - [B station](https://www.bilibili.com/video/BV1J5TfzYEuk)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/AooDweIrNiVOSmkMkmvcpHGtnmd
+- **拳打PS Beta，SD Web UI最强“替代品”，Invoke AI竟然这么好用！开源免费可商用，内附安装教程与基本操作指南！| AI绘画入门教程**
+  - [B station](https://www.bilibili.com/video/BV1xc411M7hp)
+  - links: https://github.com/invoke-ai/InvokeAI（ https://pan.quark.cn/s/98b88f75cc5f（ https://www.amazonaws.cn/free/
+- **超详细云端部署Stable Diffusion教程！100%还原本地操作，免费试用3个月，自由切换模型、扩展，阿里云的函数计算太香了！| 在线安装Web UI**
+  - [B station](https://www.bilibili.com/video/BV19u411x7Bk)
+  - links: https://free.aliyun.com/?productCategory=%E5%87%BD%E6%95%B0%E8%AE%A1%E7%AE%97%20FC&scm=20140722.M_9489742._.V_1?spm=a1z389.11499242.0.0.65452413jgv5bn&utm_content=g_1000372611 https://www.aliyun.com/product/fc?spm=5176.devs https://free.aliyun.com/?product=9657388
+- **一口气实测SD+FLUX+DeepSeek，RTX 50系显卡AI绘图/视频/LLM性能全方位测试！—— 5070Ti&70&80&5090D AIGC速度测评**
+  - [B station](https://www.bilibili.com/video/BV1av9oY9Ez2)
+- **1秒6张图，比4090快1.5倍？5090 D & 5080 AI画图速度测评 |  RTX 50系显卡上手体验 | Stable Diffusion/FLUX**
+  - [B station](https://www.bilibili.com/video/BV1vCFLefE94)
+- **首个40系SUPER显卡“AI评测”：速度提升50%？生成视频也很快！Stable Diffusion 绘画 & SVD动画性能实测 70S/70TiS/80S**
+  - [B station](https://www.bilibili.com/video/BV1Yx4y1Z7xk)
+- **AI绘画的“显存杀手”？5块全新40系显卡怒测“最强开源大模型”——Stable Diffusion XL效率测试&使用技巧，SDXL低显存Web UI优化指南**
+  - [B station](https://www.bilibili.com/video/BV1MG411R7XQ)
+  - links: https://www.notion.so/nenly/1-732d811aff564e8387924f4ff5a106bd?pvs=4（
+- **显卡速度翻3倍，AI绘画进入“秒速时代”？Stable Diffusion究极加速插件，NVIDIA TensorRT扩展安装与使用全方位教程**
+  - [B station](https://www.bilibili.com/video/BV1Lv411F7Rr)
+  - links: https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT https://www.nvidia.cn/geforce/drivers/ https://www.nvidia.cn/geforce/geforce-experience/
+- **国产显卡到底能不能跑AI？摩尔线程MTT S4000 GPU“云”实测，ComfyUI / SD / 混元3D都能用！**
+  - [B station](https://www.bilibili.com/video/BV11buJzqEm9)
+  - links: https://www.autodl.com/market/list https://academy.mthreads.com/ https://maliang.mthreads.com/
+- **大概是站内第一个SORA系统实操教程：SORA全功能讲解+分析！【OpenAI发布全新视频生成模型】**
+  - [B station](https://www.bilibili.com/video/BV1HZqkYREmx)
+- **一口气入门AI视频：3大主流路径与30个热门工具，全面分析AI做视频的各种技巧！|  AI视频生成入门教程&软件盘点：图生视频、转绘、二创拥抱整活、数字人 …**
+  - [B station](https://www.bilibili.com/video/BV1mJyTYEEPT)
+- **一线艺术家的AI短片工作流揭秘：“大佬”们这样用AI做视频！如何制作一个“商业级”的AI生成品牌宣传片？| 七彩虹iGame Ultra Family主机**
+  - [B station](https://www.bilibili.com/video/BV1F8zBYLEKp)
+- **最强免费AI视频模型，颠覆后期剪辑素材行业！一张图生成视频空镜，Stable Video Diffusion（SVD）零基础上手使用教学 ComfyUI工作流**
+  - [B station](https://www.bilibili.com/video/BV1iZ421t7Ax)
+  - links: https://www.bilibili.com/read/cv33109228/ https://www.bilibili.com/read/cv33251369
+- **AI视频时代的“开源先驱”：Sora来之前，你可以先掌握这些——AnimateDiff动画插件全方位教学，制作丝滑流畅动图！Stable Diffusion应用**
+  - [B station](https://www.bilibili.com/video/BV1zS421A7PG)
+- **Deforum AI视频生成入门教程：打造过亿播放的爆款短视频，20分钟学会Stable Diffusion“瞬息全宇宙”！AI空间运镜无限穿越动画生成**
+  - [B station](https://www.bilibili.com/video/BV1Fy421v7SB)
+- **15分钟入门AI动画！Mov2Mov零基础教学，用Stable Diffusion生成酷炫逐帧重绘动画短视频，开启低成本动画时代 | 扩展插件教程**
+  - [B station](https://www.bilibili.com/video/BV1Su411b7Nm)
+  - links: https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **10倍效率，打造无闪烁丝滑AI动画！EbSynth插件全流程操作解析与原理分析，超智能的“补帧”动画制作揭秘！| Stable Diffusion扩展插件教程**
+  - [B station](https://www.bilibili.com/video/BV1uX4y1H7U3)
+- **可能是目前最适合小白的AI视频工具：免费、不限次数，一键扩写脚本，还能自动“配音”？阿里通义万相模型测评 | AI做视频的软件工具入门教程**
+  - [B station](https://www.bilibili.com/video/BV1M9tnevEBh)
+  - links: https://tongyi.aliyun.com/wanxiang/videoCreation
+- **2天用AI做完一个“商业级"广告？5090D首发宣传片“AI版”工作流分享！ | AIGC短片幕后分享 & AI生成视频教程 | 华硕RTX 5090D显卡**
+  - [B station](https://www.bilibili.com/video/BV1RkfEYAEyj)
+- **全站首个【教程】工作流分享！百万播放的系列课是如何诞生的？策划剪辑视频后期全流程揭秘，学AI绘画一定看过这套Stable Diffusion入门课——**
+  - [B station](https://www.bilibili.com/video/BV14X4y1p7A9)
+- **8年设计师，聊聊AI是怎么把我“取代”的：创意工作者如何面对AI浪潮？经历分享与职业建议 | ProArt创艺国度校园行分享记录**
+  - [B station](https://www.bilibili.com/video/BV1TR1aYxEYM)
+- **我一臭打游戏的，AI革命和我有啥关系？**
+  - [B station](https://www.bilibili.com/video/BV1Ai421a7ns)
+- **全 世 界 都 在 学 A I 绘 画 ——**
+  - [B station](https://www.bilibili.com/video/BV16u411j7u3)
+- **我在WAIC见到了马斯克和Stable Diffusion的创始人！聊大模型、AI应用的未来、AI焦虑？探秘2023世界人工智能大会——**
+  - [B station](https://www.bilibili.com/video/BV1rh4y1f7XJ)
+- **B站第一套系统的AI绘画课！零基础学会Stable Diffusion，这绝对是你看过的最容易上手的AI绘画教程 | SD WebUI 保姆级攻略**
+  - [B station](https://www.bilibili.com/video/BV1As4y127HW)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **20分钟搞懂Prompt与参数设置，你的AI绘画“咒语”学明白了吗？ | 零基础入门Stable Diffusion·保姆级新手教程 | Prompt关键词教学**
+  - [B station](https://www.bilibili.com/video/BV12X4y1r7QB)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **打破次元壁！用AI“重绘”照片和CG，效果惊艳到我了—— | Stable Diffusion图生图零基础入门·保姆级新手教程 | AI漫画特效&赛博Coser**
+  - [B station](https://www.bilibili.com/video/BV1Lh411u7vs)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **AI绘画模型新手包！“画风”自由切换，有哪些你不知道的模型使用技巧？ | 零基础入门Stable Diffusion的保姆级新手教程 | SD模型下载方式与推荐**
+  - [B station](https://www.bilibili.com/video/BV1Us4y117Rg)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **拒绝低质量出图！3种快速提高AI绘画分辨率的方式，十分钟讲完！| StableDiffusion WebUI 保姆级攻略·高清修复优化细节无损放大教程**
+  - [B station](https://www.bilibili.com/video/BV11m4y12727)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **Embeddings是啥？怎么用？三大AI绘画高级模型概念解析，懂了才是真高手！| StableDiffusion保姆级教程·模型原理解析及应用**
+  - [B station](https://www.bilibili.com/video/BV1th4y1p7fH)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **AI绘画的救星！定向修手修脸，手把手教你玩转局部重绘！| StableDiffusion WebUI 保姆级教程·inPainting功能详解·含PS操作**
+  - [B station](https://www.bilibili.com/video/BV1uL411e7Uk)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **新手入门：如何在SD里安装扩展插件？ | StableDiffusion教程 拓展（Extensions）的安装与应用**
+  - [B station](https://www.bilibili.com/video/BV1hz4y1a76M)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **LoRA从原理到实践，零基础打造赛博Coser、一键更换服饰，无所不能！5大应用方向剖析 & 保姆级讲解！Stable Diffusion AI绘画**
+  - [B station](https://www.bilibili.com/video/BV1nL411B7XT)
+  - links: https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **30分钟零基础掌握ControlNet！绝对是你看过最好懂的控制网原理分析 | 基本操作、插件安装与5大模型应用 · Stable Diffusion教程**
+  - [B station](https://www.bilibili.com/video/BV1Ds4y1e7ZB)
+  - links: https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f
+- **Multi Diffusion + Tiled VAE + ControlNet Tile模型，低显存打造AI绘画超高清6K分辨率体验！SD扩展插件教程**
+  - [B station](https://www.bilibili.com/video/BV1Su4y1d7Dp)
+- **“牛逼”的教程来了！一次学会AI二维码+艺术字+光影光效+创意Logo生成，绝对是B站最详细的Stable Diffusion特效设计流程教学！AI绘画进阶应用**
+  - [B station](https://www.bilibili.com/video/BV1gX4y1J7ei)
+- **AI打开新世界大门！立绘一键“真人化”，还能换皮肤！ControlNet LineArt 线稿上色+换装换背景，Stable Diffusion系统教程**
+  - [B station](https://www.bilibili.com/video/BV1oB4y1R7Ms)
+  - links: https://nenly.notion.site/AI-f93575fc3b63418bbb98faf9a02fb854?pvs=4
+- **AI再进化，这次竟然学会摄影了！一秒生成胶片风、拍立得，还能智能“修脸”！Stable Diffusion AI绘画真实系人像模型+LoRA推荐**
+  - [B station](https://www.bilibili.com/video/BV1DP41167bZ)
+- **我用AI修复了50年前的亚运会老照片！Stable Diffusion智能上色+高清修复教程！StableSR + ControlNetTile&Recolor**
+  - [B station](https://www.bilibili.com/video/BV1mm4y1575y)
+  - links: https://click.aliyun.com/m/1000380882/ https://nenly.notion.site/73af68ee048e4f9ab0dba7956c515229?pvs=4
+- **一秒打通PS+SD！AI功能免费“平替”，还支持ControlNet？Auto Stable Diffusion Photoshop插件教程，释放轻薄本AI潜力**
+  - [B station](https://www.bilibili.com/video/BV1Zj411h7od)
+  - links: https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin https://pan.quark.cn/s/98b88f75cc5f https://pan.baidu.com/s/10rzgzIjzad7AKmj-w8zO_w?pwd=nely
+- **AI一键调光布景，这个开源神器改变了摄影和设计！IC-Light教程，全自动融图调色，附一键包+ComfyUI工作流+SD Forge插件 | 华硕天选Air**
+  - [B station](https://www.bilibili.com/video/BV1Yy411e7y1)
+- **5秒生成一张分图层AI素材，“抠图”已成过去式？设计师的免费PNG“素材库”！ControlNet作者新作，Layer Diffusion生成免抠AI绘图素材！**
+  - [B station](https://www.bilibili.com/video/BV1Xq421F7Ny)
+- **8张照片训练个人LoRA，一分钱不花打造“AI写真”？Stable Diffusion EasyPhoto扩展插件教程，轻松训练AI绘画人脸模型**
+  - [B station](https://www.bilibili.com/video/BV1b8411k7fb)
+  - links: https://github.com/aigc-apps/sd-webui-EasyPhoto https://www.bilibili.com/video/BV1mm4y1575y?t=809.2 https://nenly.notion.site/EasyPhoto-AI-b8cfabb1b82a4a30b49d8d0a37dd4581?pvs=4
+- **靠AI开一家服装店？超详细AI衣服款式设计+“AI模特”换装教程 | Stable Diffusion商业落地实践&男女装电商应用，一秒生成“摄影级”产品图**
+  - [B station](https://www.bilibili.com/video/BV1994y1W7Tg)
+  - links: https://nenly.notion.site/AI-5653d05481264235b9871d17403727cf https://developer.aliyun.com/adc/series/activity/aigc_design https://click.aliyun.com/m/1000379966/
+- **一流模型！10个高手都在用的二次元插画绘画风大模型推荐，内附模型下载渠道与出图参数提示词关键词模版 | AI绘画 · StableDiffusion**
+  - [B station](https://www.bilibili.com/video/BV1Us4y1M7x4)
+  - links: https://www.liblibai.com/#/】
+- **关于SDXL 1.0，这个视频里有你想知道的全部 | 15分钟全面解读，AI绘画即将迎来“新时代”？Stable Diffusion XL大模型安装及使用教程**
+  - [B station](https://www.bilibili.com/video/BV1TM4y1p7RJ)
+- **手稿变动画，AI生成3D贴图，艺术家手里的Stable Diffusion把我惊呆了！SD进阶工作流分享，强势辅助插画线稿上色+Blender建模！**
+  - [B station](https://www.bilibili.com/video/BV1ma4y1z7Cs)
+  - links: https://nenly.notion.site/9e920bfe34b34326bffece505789d63d?pvs=74 https://huggingface.co/stabilityai/stable-video-diffusion-img2vid/tree/main https://www.youtube.com/watch?v=teIKjugRFlo
+- **B站第一套系统的AI绘画模型训练课程！零基础入门“炼丹”，制作属于你的SD模型！模型微调（Dreambooth、LoRA、Embedding）原理分析教学**
+  - [B station](https://www.bilibili.com/video/BV1TK411v7Jw)
+  - links: https://gf66fxi6ji.feishu.cn/wiki/CEQgw0Bfdi1HBRktnIxcNg7CnRf（ https://pan.baidu.com/s/1W4ha-dMcoaCqF4ltyDNf7A?pwd=nely https://pan.quark.cn/s/8bcb33aa5c89
+- **60分钟速通LORA训练！绝对是你看过最好懂的AI绘画模型训练教程！StableDiffusion超详细训练原理讲解+实操教学，LORA参数详解与训练集处理技巧**
+  - [B station](https://www.bilibili.com/video/BV16e411e7Zx)
+  - links: https://space.bilibili.com/507303431 https://space.bilibili.com/219296
+- **照片发光了！超详细的PS光感设计教程：一个“发光”小技巧，让你的设计不再普通 | PS视觉合成教程，照片修图后期讲解！**
+  - [B station](https://www.bilibili.com/video/BV1tq4y1P7Nk)
+- **无需3D建模，用PS制作一个梦幻宇宙星球，简单几步就能搞定 | Photoshop视觉合成教程系列**
+  - [B station](https://www.bilibili.com/video/BV1JL4y1W7At)
+- **视觉效果拉满！这个PS教程，教你轻松设计“赛博朋克”的科幻光环效果！（适合海报设计/摄影后期修图）| Photoshop视觉合成系列设计课**
+  - [B station](https://www.bilibili.com/video/BV1844y1a7ty)
+- **用AI制作一个酷炫的三维文字环绕效果（科幻感光环合成补充教程） |  PS视觉合成系列 For 平面设计 & 摄影后期修图 By Nenly**
+  - [B station](https://www.bilibili.com/video/BV1LR4y1W7Zm)
+- **使用Photoshop，为你的照片添加闪亮的夜景光斑效果 | PS设计课：视觉合成系列教程（适用于海报设计、摄影后期修图等）**
+  - [B station](https://www.bilibili.com/video/BV1hg411w7k3)
+- **用PS设计梦幻的后期夜景光照效果（补充教程）| PS设计课：视觉合成系列教程（适用于海报设计、摄影后期修图等）**
+  - [B station](https://www.bilibili.com/video/BV1nq4y127LN)
+- **PS合成技巧：在高速公路上划船的“秘笈”！巧妙融合马路与水面—— | Photoshop视觉合成系列**
+  - [B station](https://www.bilibili.com/video/BV1Yr4y1J7MR)
+- **如何利用PS制作漫画风人像手绘效果？ | 3分钟PS小技巧**
+  - [B station](https://www.bilibili.com/video/BV11V411n75u)
+- **文字消失术！如何用PS制作酷炫的文字粒子消散效果？| 设计案例教程 Daily Poster 海报设计第2期**
+  - [B station](https://www.bilibili.com/video/BV1wA411A7uN)
+- **三步，用PS制作一个立体金属文字，十分钟一定能让你学会 | Photoshop文字设计教程**
+  - [B station](https://www.bilibili.com/video/BV113411i76R)
+- **这么甜的文字设计，是我能用PS做出来的吗？不用怀疑，三步搞定一个“果冻文字”，你上你也行 | 字体效果设计系列，Photoshop教程，设计公开课**
+  - [B station](https://www.bilibili.com/video/BV1934y1S75B)
+- **太酷炫了！用PS打造一个霓虹灯文字效果，这个教程15分钟一定能教会你 | Photoshop技巧教学，字效设计系列 & 视觉设计**
+  - [B station](https://www.bilibili.com/video/BV1bq4y1K79B)
+- **全自动操作，三步实现“故障风”的PS文字效果，你能做到吗？（内附Photoshop源文件，可一键替换文字内容）**
+  - [B station](https://www.bilibili.com/video/BV1n44y1t768)
+- **PS教程：制作一个可口又可爱的“曲奇饼干”文字效果，简单清晰，你也能学会 | Photoshop字效设计系列，平面海报设计**
+  - [B station](https://www.bilibili.com/video/BV1wq4y157zm)
+- **用PS一键生成3D透视立体文字，十分钟教程，五分钟操作 | Photoshop字体效果设计系列**
+  - [B station](https://www.bilibili.com/video/BV1bR4y1t7Yn)
+- **用PS制作一个炫彩油漆笔刷字，这是为你准备的详细教程—— | Photoshop字体效果设计系列**
+  - [B station](https://www.bilibili.com/video/BV1Aq4y1r7qb)
+- **PS教程：我的文字设计是用雪“堆”起来的，你的呢？这个“冰雪文字”，超适合你的圣诞海报设计 —— Photoshop字体效果设计课**
+  - [B station](https://www.bilibili.com/video/BV1iY411p75L)
+- **PS教程来了！超酷炫的迷幻流体渐变文字，10分钟教你学会搞定！潮到爆炸的“酸性”风，少不了这个设计—— | PS字体效果系列免费教程**
+  - [B station](https://www.bilibili.com/video/BV1GF411i77d)
+- **PS教程：三步打造潮到爆炸的酸性镀铬文字效果设计！适用于酷炫的海报、视觉设计 | Photoshop字体效果设计系列 By Nenly**
+  - [B station](https://www.bilibili.com/video/BV1Yr4y1B7AP)
+- **酸性热成像风格文字设计，用PS三步搞定 | Photoshop字体设计系列课 | 酸性潮流设计 | 适用于海报、视觉设计**
+  - [B station](https://www.bilibili.com/video/BV1k541127TE)
+- **游戏秒变“8-Bit”像素风？这两个方法，你该学起来了！一期复古像素风PS视觉设计效果教程（适用于插画、摄影、后期） | Photoshop视觉设计课**
+  - [B station](https://www.bilibili.com/video/BV1Ve4y1X7CL)
+- **PS教程：设计三步变“燃”，从图层样式和混合模式开始 —— Photoshop字体效果设计系列课 | 适用于海报设计、特效制作**
+  - [B station](https://www.bilibili.com/video/BV19a411Y7pq)
+- **【PS教程】你要的小清新，靠植物的神奇“穿插”来实现—— | Photoshop视觉设计系列 | 文艺风海报标题设计**
+  - [B station](https://www.bilibili.com/video/BV1B94y11764)
+- **酷炫、高级的魔法烟雾效果，用PS两步轻松搞定 | Photoshop视觉设计系列 | 适用于海报主视觉 & 字体设计等**
+  - [B station](https://www.bilibili.com/video/BV1nN4y1j7QJ)
+- **设计怎么“找素材”？适合新手的素材搜索“2步法”，高效收获对口的设计素材——（素材搜索教程，内附各类型素材网站推荐）**
+  - [B station](https://www.bilibili.com/video/BV1Qq4y1h7YH)
+  - links: https://js.design/］
+- **第1课：新手上路，如何挑选适合自己的PS软件版本？ | Photoshop百科全书 · PS教程系列公开课 · 零基础入门学设计**
+  - [B station](https://www.bilibili.com/video/BV1xT4y1S7CK)
+- **第2课：新手必看！如何获取最新版本的PS软件资源？（内附2022版安装包地址）| Photoshop百科全书 · PS教程系列公开课 · 零基础入门学设计**
+  - [B station](https://www.bilibili.com/video/BV11q4y1479F)
+- **一秒修复照片！移除人像、修补裂痕、去除污渍，PS自带的这四大“黑科技”工具，99%的人都没打开用过—— | Photoshop百科全书 · PS教程系列公开课**
+  - [B station](https://www.bilibili.com/video/BV1Xr4y1B7J6)
+- **用PS，在云端与超级月亮共舞  |  Photoshop视觉合成流程拆解 · 第001期（三连过百出教程）**
+  - [B station](https://www.bilibili.com/video/BV1sS4y1e78q)
+- **PS深度映射，打造酷炫的星空螺旋视觉效果 | Photoshop教程，设计过程快放 & 作品展示**
+  - [B station](https://www.bilibili.com/video/BV1ev411Y7dA)
+- **如何用PS设计一个“饼干字”标题？展示一下操作流程 | Photoshop教学设计流程快放**
+  - [B station](https://www.bilibili.com/video/BV14A411K7ox)
+- **PS视觉合成效果教程：如何设计一只瓶中的鲸鱼？设计全过程展示——**
+  - [B station](https://www.bilibili.com/video/BV1ZX4y1G7D7)
+- **用PS设计一张“月球表面”质感的海报，没有素材，自己动手做 | PS设计过程快放 & 作品展示**
+  - [B station](https://www.bilibili.com/video/BV1Mf4y167GS)
+- **PS置换滤镜设计人脸文字海报，超级有艺术感的设计手法！（全流程展示）**
+  - [B station](https://www.bilibili.com/video/BV1Hy4y1a7eb)
+- **如何用PS制作一个创意“传送门”？设计全过程来了 | Photoshop视觉合成教程**
+  - [B station](https://www.bilibili.com/video/BV1qA411M7Yi)
+- **如何用PS制作一张酷炫的渐变Photoshop人像海报？模仿练习——视觉与版式设计 | Daily Poster**
+  - [B station](https://www.bilibili.com/video/BV183411q7hp)
+- **1986卫报广告：《视角》The Guardian's 1986 'Points of view' advert**
+  - [B station](https://www.bilibili.com/video/BV1Er421L7ac)
+  - links: https://www.youtube.com/watch?v=_SsccRkLLzU&ab_channel=TheGuardian
+- **判断英语权重的正确逻辑**
+  - [B station](https://www.bilibili.com/video/BV1MBao6xE3Q)
+- **晶格玻尔兹曼方法LBM01-宏观，微观，介观**
+  - [B station](https://www.bilibili.com/video/BV192SDBoEnu)
+- **晶格玻尔兹曼方法LBM02-连续介质流体力学复习**
+  - [B station](https://www.bilibili.com/video/BV1U9dJBVE3s)
+- **晶格玻尔兹曼方法LBM03-玻尔兹曼方程**
+  - [B station](https://www.bilibili.com/video/BV1sGocBpEZJ)
+- **晶格玻尔兹曼方法LBM04-分布函数的矩**
+  - [B station](https://www.bilibili.com/video/BV1DwRCBGE4H)
+- **晶格玻尔兹曼方法LBM05-从玻尔兹曼方程推导宏观方程**
+  - [B station](https://www.bilibili.com/video/BV1HhR4BEETQ)
+- **晶格玻尔兹曼方法LBM06-BGK近似，局部平衡分布函数**
+  - [B station](https://www.bilibili.com/video/BV1qsVF6AEbr)
+- **晶格玻尔兹曼方法LBM07-局部平衡分布函数的矩**
+  - [B station](https://www.bilibili.com/video/BV1PFJH6pEmZ)
+- **晶格玻尔兹曼方法08-从BE恢复NSE**
+  - [B station](https://www.bilibili.com/video/BV1iP756mEdR)
+- **特征值与特征向量01-基本知识复习**
+  - [B station](https://www.bilibili.com/video/BV1mKNTzFEmY)
+- **行列式01-行列式计算1**
+  - [B station](https://www.bilibili.com/video/BV1W9c5ziERw)
+- **线性映射01-基本知识复习与简单练习**
+  - [B station](https://www.bilibili.com/video/BV1Pui2B8EhV)
+- **行空间01-寻找子空间的基1**
+  - [B station](https://www.bilibili.com/video/BV15kiuBGEas)
+- **向量空间的基01-基本知识复习与简单练习**
+  - [B station](https://www.bilibili.com/video/BV1RQBUBxEMn)
+- **向量空间01-基本知识复习**
+  - [B station](https://www.bilibili.com/video/BV1SPUSBCErf)
+- **初等矩阵与可逆矩阵01-基本知识复习与简单练习**
+  - [B station](https://www.bilibili.com/video/BV14F1sBbEh4)
+- **线性方程组01-基本知识复习**
+  - [B station](https://www.bilibili.com/video/BV1N7ymBpENU)
+- **矩阵01-对称与反对称**
+  - [B station](https://www.bilibili.com/video/BV12JsqzhER1)
+- **复数与多项式01-基本运算性质**
+  - [B station](https://www.bilibili.com/video/BV1TZ4BzGEQk)
+- **域01-判断域1**
+  - [B station](https://www.bilibili.com/video/BV1e94JzwEgM)
+- **【淅沥橙基础数学精品】线性代数A（已完结）**
+  - [B station](https://www.bilibili.com/video/BV1HB4gzHE9o)
+- **数学分析一第1课-基本概念和简介**
+  - [B station](https://www.bilibili.com/video/BV1doPPzeEY5)
+- **数学分析一第2课-数列的极限性质**
+  - [B station](https://www.bilibili.com/video/BV1qRwAzFEdm)
+- **数学分析一第3课-数列审敛**
+  - [B station](https://www.bilibili.com/video/BV1BbA7zME5F)
+- **数学分析一第4课-子数列**
+  - [B station](https://www.bilibili.com/video/BV1NaX8BtEgL)
+- **数学分析一第5课-拓扑学简介，函数简介**
+  - [B station](https://www.bilibili.com/video/BV1CGS9BmEXD)
+- **数学分析一第6课-函数的极限**
+  - [B station](https://www.bilibili.com/video/BV1sf5y6rEmM)
+- **数学分析一第7课-连续函数**
+  - [B station](https://www.bilibili.com/video/BV1yhLw69Ese)
+- **数学分析一第8课-导数**
+  - [B station](https://www.bilibili.com/video/BV1ZuEm6jEDR)
+- **常微分方程ODE新版（一）：一阶方程**
+  - [B station](https://www.bilibili.com/video/BV1tCPpe2E7E)
+  - links: https://pan.baidu.com/s/13MC3nNCIOpWtL7rbfdbSXQ
+- **常微分方程ODE练习一：一阶方程**
+  - [B station](https://www.bilibili.com/video/BV12qotY6E55)
+- **常微分方程ODE02：n阶线性齐次方程的基本性质**
+  - [B station](https://www.bilibili.com/video/BV1hMRUYPEqA)
+- **常微分方程ODE03: 降阶法**
+  - [B station](https://www.bilibili.com/video/BV11hdSYcEjF)
+- **常微分方程ODE04：n阶线性常系数齐次方程**
+  - [B station](https://www.bilibili.com/video/BV1ni5EzrE7T)
+- **常微分方程ODE05: n阶线性常系数非齐次方程的待定系数法**
+  - [B station](https://www.bilibili.com/video/BV1nrGkzBEmm)
+- **常微分方程ODE06: 振子与共振**
+  - [B station](https://www.bilibili.com/video/BV1vqJez9Ehf)
+- **常微分方程ODE07: Euler方程**
+  - [B station](https://www.bilibili.com/video/BV1hZj9zcEAy)
+- **常微分方程ODE08: n阶线性非齐次方程：常数变易法**
+  - [B station](https://www.bilibili.com/video/BV1m6NxzUEMi)
+- **常微分方程ODE09: 一阶线性方程组简介**
+  - [B station](https://www.bilibili.com/video/BV132gHzoEPx)
+- **常微分方程ODE10: 求解一阶线性常系数方程组**
+  - [B station](https://www.bilibili.com/video/BV1MshAzQEBB)
+- **ODE11-求解一阶线性常系数方程组练习**
+  - [B station](https://www.bilibili.com/video/BV1fehhzEEZ6)
+- **ODE12-线性非齐次方程组**
+  - [B station](https://www.bilibili.com/video/BV1qyHnzbE6S)
+- **傅里叶级数和积分变换（一）：傅里叶级数**
+  - [B station](https://www.bilibili.com/video/BV1Nm4y1F7eW)
+  - links: https://pan.baidu.com/s/1At23_1dTJQeSuGMNcAoaKA
+- **傅里叶级数和积分变换（二）：傅里叶变换和拉普拉斯变换基础**
+  - [B station](https://www.bilibili.com/video/BV1bAqgYGENQ)
+  - links: https://www.bilibili.com/video/BV1Nm4y1F7eW/?vd_source=2e0ba5ab2ea18243a228cb0ffc59bf75 https://pan.baidu.com/s/1BigPT1cQ7qrz1TsMmeC1Tg
+- **复变函数新编集版（已完结）**
+  - [B station](https://www.bilibili.com/video/BV1P44y1873i)
+- **多相流01-多相流简介和离散相基本性质**
+  - [B station](https://www.bilibili.com/video/BV1BS4y1A7Ej)
+- **多相流02-相间耦合**
+  - [B station](https://www.bilibili.com/video/BV16r4y1J74N)
+- **多相流03-相间耦合续**
+  - [B station](https://www.bilibili.com/video/BV1fB4y127xe)
+- **多相流04-单颗粒方程**
+  - [B station](https://www.bilibili.com/video/BV1eY411w7R3)
+- **多相流05-单颗粒能量守恒**
+  - [B station](https://www.bilibili.com/video/BV1fB4y1172k)
+- **多相流06-质量耦合**
+  - [B station](https://www.bilibili.com/video/BV1ER4y1N7fK)
+- **多相流07-曳力**
+  - [B station](https://www.bilibili.com/video/BV1WA4y1Q7A5)
+- **多相流08-曳力影响因素**
+  - [B station](https://www.bilibili.com/video/BV1r3411N7KM)
+- **多相流09-颗粒其他受力**
+  - [B station](https://www.bilibili.com/video/BV1ou411r7d2)
+- **气液界面流01-表面张力1**
+  - [B station](https://www.bilibili.com/video/BV13B4y1W7gM)
+- **气液界面流02-表面张力2**
+  - [B station](https://www.bilibili.com/video/BV1zr4y1M73A)
+- **气液界面流03-界面描述1**
+  - [B station](https://www.bilibili.com/video/BV1nY4y1J7ba)
+- **气液界面流04-界面描述2**
+  - [B station](https://www.bilibili.com/video/BV1CN41127Hy)
+- **气液界面流05-流动方程1**
+  - [B station](https://www.bilibili.com/video/BV1Ax4y1Z7qP)
+- **气液界面流06-流动方程2**
+  - [B station](https://www.bilibili.com/video/BV1NV41157G2)
+- **多分散多相流1-简介，NDF**
+  - [B station](https://www.bilibili.com/video/BV1vT4y1y7dj)
+- **多分散多相流2-细颗粒的PBE**
+  - [B station](https://www.bilibili.com/video/BV1GS4y157xy)
+- **多分散多相流3-细颗粒的PBE（续），气固流的KE**
+  - [B station](https://www.bilibili.com/video/BV1s34y1y7yj)
+- **动力学01-向量**
+  - [B station](https://www.bilibili.com/video/BV1JZ4y1q7Ki)
+- **动力学02-运动学基础，切法坐标**
+  - [B station](https://www.bilibili.com/video/BV1234y157mF)
+- **动力学03-极坐标**
+  - [B station](https://www.bilibili.com/video/BV1qW4y1J7WC)
+- **动力学04-移动旋转坐标系**
+  - [B station](https://www.bilibili.com/video/BV1Ch4y1M71j)
+- **第二门计算机课-正课（完）**
+  - [B station](https://www.bilibili.com/video/BV1RD4y1z7dy)
+- **第二门计算机课之UNIX**
+  - [B station](https://www.bilibili.com/video/BV15N411F7T4)
+  - links: https://www.bilibili.com/video/BV1Q44y1x7Q4/ https://www.bilibili.com/video/BV1RD4y1z7dy/
+- **第二门计算机课之C语言（上）**
+  - [B station](https://www.bilibili.com/video/BV1Mk4y1t7BD)
+  - links: https://www.bilibili.com/video/BV1Q44y1x7Q4/ https://www.bilibili.com/video/BV1RD4y1z7dy/ https://www.bilibili.com/video/BV15N411F7T4/
+- **第二门计算机课之C语言（下）**
+  - [B station](https://www.bilibili.com/video/BV1a84y13728)
+- **C++（1）：类**
+  - [B station](https://www.bilibili.com/video/BV1Mh4y1d7FN)
+- **C++（2）：异常**
+  - [B station](https://www.bilibili.com/video/BV1Qu411p7tM)
+- **C++（3）：OOP**
+  - [B station](https://www.bilibili.com/video/BV12P411v7QM)
+- **Python（上）：基础**
+  - [B station](https://www.bilibili.com/video/BV1eN41167dt)
+- **Python（下）：OOP**
+  - [B station](https://www.bilibili.com/video/BV1Ch411N7Cx)
+- **工程数学之格林函数解常微分方程**
+  - [B station](https://www.bilibili.com/video/BV1NM411B7PN)
+- **工程数学之渐进分析/摄动理论基础**
+  - [B station](https://www.bilibili.com/video/BV1EG4y1c735)
+- **湍流/紊流01-湍流基本性质，流体方程1**
+  - [B station](https://www.bilibili.com/video/BV1JL411A7cE)
+- **湍流/紊流02-流体方程2**
+  - [B station](https://www.bilibili.com/video/BV1gZ4y187JR)
+- **湍流/紊流03-统计描述1**
+  - [B station](https://www.bilibili.com/video/BV1WB4y1y7Ub)
+- **湍流/紊流04-统计描述2**
+  - [B station](https://www.bilibili.com/video/BV1RA4y1f7jp)
+- **湍流/紊流05-统计描述3**
+  - [B station](https://www.bilibili.com/video/BV1j3411P7h8)
+- **湍流/紊流06-统计描述4，湍流方程1**
+  - [B station](https://www.bilibili.com/video/BV12t4y1x7o7)
+- **湍流/紊流07-湍流方程2**
+  - [B station](https://www.bilibili.com/video/BV1Zr4y1x7cV)
+- **湍流/紊流08-湍流方程3，湍流尺度1**
+  - [B station](https://www.bilibili.com/video/BV1cY411c7Cd)
+- **湍流/紊流09-湍流尺度2**
+  - [B station](https://www.bilibili.com/video/BV1wF411V74G)
+- **湍流/紊流10-湍流尺度3**
+  - [B station](https://www.bilibili.com/video/BV1kY4y1x7zc)
+- **湍流/紊流11-湍流尺度4**
+  - [B station](https://www.bilibili.com/video/BV1Fd4y1o7At)
+- **湍流/紊流12-湍流尺度5**
+  - [B station](https://www.bilibili.com/video/BV1US4y1s7Bg)
+- **湍流/紊流13-湍流尺度6**
+  - [B station](https://www.bilibili.com/video/BV1bB4y157nB)
+- **拉普拉斯变换基础1**
+  - [B station](https://www.bilibili.com/video/BV1rZ4y1o7j4)
+- **拉普拉斯变换基础2**
+  - [B station](https://www.bilibili.com/video/BV1Zr4y1b73G)
+- **拉普拉斯变换基础3**
+  - [B station](https://www.bilibili.com/video/BV1RW4y127C5)
+- **拉普拉斯变换基础4**
+  - [B station](https://www.bilibili.com/video/BV1Lr4y177ga)
+- **【东方钢琴easy练习】永遠の巫女**
+  - [B station](https://www.bilibili.com/video/BV1vK411p7X9)
+- **【东方钢琴easy练习】遠野の森**
+  - [B station](https://www.bilibili.com/video/BV1tA411i7u3)
+- **【东方钢琴easy练习】妖々夢　～ Snow or Cherry Petal**
+  - [B station](https://www.bilibili.com/video/BV1nv411q7Td)
+- **【东方钢琴练习】春色小径 ～ Colorful Path（节选）**
+  - [B station](https://www.bilibili.com/video/BV1Pq4y1g7Qr)
+- **【东方钢琴easy练习】神は恵みの雨を降らす ～ Sylphid Dream**
+  - [B station](https://www.bilibili.com/video/BV1FQ4y1P7ts)
+- **英文非小说评鉴：《公正》**
+  - [B station](https://www.bilibili.com/video/BV17K411V749)
+- **英文非小说评鉴：《心流》**
+  - [B station](https://www.bilibili.com/video/BV1G54y1r7b3)
+- **多项式1：余式定理，因式定理**
+  - [B station](https://www.bilibili.com/video/BV1VZ4y1u75m)
+- **多项式2：多项式求根**
+  - [B station](https://www.bilibili.com/video/BV1e54y1q72f)
+- **多项式3：多项式求根，韦达定理**
+  - [B station](https://www.bilibili.com/video/BV15f4y1R7qE)
+- **愉快学习的5条建议**
+  - [B station](https://www.bilibili.com/video/BV1Pt4y197ua)
+- **如何在word中打公式？**
+  - [B station](https://www.bilibili.com/video/BV1C4411q7LS)
+- **The Willpower Instinct(《自控力》)精读-前言**
+  - [B station](https://www.bilibili.com/video/BV1tb41127KK)
+  - links: https://space.bilibili.com/14767534/channel/seriesdetail?sid=3063738 https://pan.baidu.com/s/1WH_hVXZ8IXNRfWvfsWZLpg
+- **The Willpower Instinct(《自控力》)精读-第一章：什么是自控力**
+  - [B station](https://www.bilibili.com/video/BV1pb411h7vY)
+  - links: https://space.bilibili.com/14767534/channel/seriesdetail?sid=3063738 https://pan.baidu.com/s/1WH_hVXZ8IXNRfWvfsWZLpg
+- **The Willpower Instinct(《自控力》)精读-第二章：自控力本能**
+  - [B station](https://www.bilibili.com/video/BV1xb411v7tm)
+  - links: https://space.bilibili.com/14767534/channel/seriesdetail?sid=3063738 https://pan.baidu.com/s/1WH_hVXZ8IXNRfWvfsWZLpg
+- **The Willpower Instinct(《自控力》)精读-第三章：自控力好似肌肉**
+  - [B station](https://www.bilibili.com/video/BV1wb411t7d3)
+  - links: https://space.bilibili.com/14767534/channel/seriesdetail?sid=3063738 https://pan.baidu.com/s/1WH_hVXZ8IXNRfWvfsWZLpg
+- **The Willpower Instinct(《自控力》)精读-第四章：“罪恶许可证”**
+  - [B station](https://www.bilibili.com/video/BV1jb411L7TY)
+  - links: https://space.bilibili.com/14767534/channel/seriesdetail?sid=3063738 https://pan.baidu.com/s/1WH_hVXZ8IXNRfWvfsWZLpg
+- **The Willpower Instinct（《自控力》）精读第五章：欲望还是幸福？**
+  - [B station](https://www.bilibili.com/video/BV114411Y7r7)
+  - links: https://space.bilibili.com/14767534/channel/seriesdetail?sid=3063738 https://pan.baidu.com/s/1WH_hVXZ8IXNRfWvfsWZLpg
+- **The Willpower Instinct（自控力）第六章：What the Hell效应**
+  - [B station](https://www.bilibili.com/video/BV16J411A7Z4)
+  - links: https://space.bilibili.com/14767534/channel/seriesdetail?sid=3063738 https://pan.baidu.com/s/1WH_hVXZ8IXNRfWvfsWZLpg
+- **The Willpower Instinct（《自控力》）精读-第七章：卖未来**
+  - [B station](https://www.bilibili.com/video/BV1EE411B7Cg)
+  - links: https://space.bilibili.com/14767534/channel/detail?cid=66140
+- **The Willpower Instinct（《自控力》）精读-第八章：自控力的感染性**
+  - [B station](https://www.bilibili.com/video/BV1zJ411Q7UM)
+  - links: https://space.bilibili.com/14767534/channel/detail?cid=66140
+- **The Willpower Instinct（《自控力》）精读-第9、10章：“不要做”的局限性，结束语**
+  - [B station](https://www.bilibili.com/video/BV1YJ411q7k1)
+  - links: https://space.bilibili.com/14767534/channel/detail?cid=66140
+- **1_老奶奶学算法---两数之和**
+  - [B station](https://www.bilibili.com/video/BV1QeaP6EEiy)
+- **2_老奶奶学算法---字母异位词分组**
+  - [B station](https://www.bilibili.com/video/BV1oHhX6REKo)
+- **3_老奶奶学算法---最长连续序列**
+  - [B station](https://www.bilibili.com/video/BV1MBam6YE1E)
+- **4_老奶奶学算法---哈希表大总结**
+  - [B station](https://www.bilibili.com/video/BV1tram6aEFB)
+- **1_老奶奶学python---认知新帮手**
+  - [B station](https://www.bilibili.com/video/BV1m8uH6eEjE)
+- **2_老奶奶学python---会装东西的纸箱**
+  - [B station](https://www.bilibili.com/video/BV1dbu86TEpC)
+- **3_老奶奶学python---会开口问的帮手**
+  - [B station](https://www.bilibili.com/video/BV122u86REkY)
+- **4_老奶奶学python---会拿主意的帮手**
+  - [B station](https://www.bilibili.com/video/BV1WVu86EE7Q)
+- **5_老奶奶学python---数一遍与干到收工**
+  - [B station](https://www.bilibili.com/video/BV1AVu86EEzE)
+- **6_老奶奶学python---货架装货**
+  - [B station](https://www.bilibili.com/video/BV1AVu86EEX3)
+- **7_老奶奶学python---纸条的更多招式**
+  - [B station](https://www.bilibili.com/video/BV1AVu86EEBV)
+- **8_老奶奶学python---小本本管货**
+  - [B station](https://www.bilibili.com/video/BV1AVu86EEbZ)
+- **9_老奶奶学python---总结课(一)：会装会想**
+  - [B station](https://www.bilibili.com/video/BV1WVu86EEc8)
+- **10_老奶奶学python---菜谱干货**
+  - [B station](https://www.bilibili.com/video/BV1K3uu6FEYy)
+- **11_老奶奶学python---模具做货**
+  - [B station](https://www.bilibili.com/video/BV1x3uu6FEUd)
+- **12_老奶奶学python---帮手摔倒也不慌**
+  - [B station](https://www.bilibili.com/video/BV1x3uu6FEeK)
+- **13_老奶奶学python---借领居家工具箱**
+  - [B station](https://www.bilibili.com/video/BV11guu6fEiq)
+- **14_老奶奶学python---记账本存档**
+  - [B station](https://www.bilibili.com/video/BV11Xtm6JEq9)
+- **15_老奶奶学python---大总结课：小帮手全能上岗**
+  - [B station](https://www.bilibili.com/video/BV1CLuu6xEZ4)
+- **最优化进阶---线性规划概述**
+  - [B station](https://www.bilibili.com/video/BV1o5UEBvENP)
+- **老奶奶学最优化---线性规划基础**
+  - [B station](https://www.bilibili.com/video/BV1Cgg16bEPo)
+- **老奶奶学最优化---单纯形法**
+  - [B station](https://www.bilibili.com/video/BV1Rxge6UE9E)
+- **老奶奶学最优化---对偶**
+  - [B station](https://www.bilibili.com/video/BV19G3u6LEuW)
+- **老奶奶学最优化---非单纯形法**
+  - [B station](https://www.bilibili.com/video/BV1T33G6CETZ)
+- **老奶奶学最优化---整数规划**
+  - [B station](https://www.bilibili.com/video/BV1WT376QEwK)
+- **写专利的周末**
+  - [B station](https://www.bilibili.com/video/BV1kZZ6YBExR)
+- **循环**
+  - [B station](https://www.bilibili.com/video/BV19TVczCESR)
+- **陈默的一天**
+  - [B station](https://www.bilibili.com/video/BV1yAo7BYEK7)
+- **最近工作**
+  - [B station](https://www.bilibili.com/video/BV1BmLP6DEoX)
+- **视觉主动跟随**
+  - [B station](https://www.bilibili.com/video/BV1aKLT6jEgp)
+- **轮臂视觉主动跟随（注意看机器人头）**
+  - [B station](https://www.bilibili.com/video/BV1GPLT6mEw4)
+- **移动星厨**
+  - [B station](https://www.bilibili.com/video/BV1guLT65Etu)
+- **手臂驱动**
+  - [B station](https://www.bilibili.com/video/BV1gTLT61Ezi)
+- **星厨一代**
+  - [B station](https://www.bilibili.com/video/BV1VFLT6nEZf)
+- **全部功能集成**
+  - [B station](https://www.bilibili.com/video/BV15ZLK6QErr)
+- **日常**
+  - [B station](https://www.bilibili.com/video/BV1KgEc6cEC4)
+- **每次付完款就弹出，利用人手抖、消费习惯，消费心理学开通，然后关闭又贼费劲。**
+  - [B station](https://www.bilibili.com/video/BV1rWJu6jEZz)
+- **vla 抓取和放置**
+  - [B station](https://www.bilibili.com/video/BV1we7x6oE8S)
+- **劝学**
+  - [B station](https://www.bilibili.com/video/BV1EuNJ6iEQF)
+- **自主作业**
+  - [B station](https://www.bilibili.com/video/BV1ubN96DEdj)
+- **《富爸爸穷爸爸》：财务状态分析图**
+  - [B station](https://www.bilibili.com/video/BV14WrGBSEDM)
+- **最优化基础---基本概念：凸优化、梯度、Jacobi矩阵、Hessian矩阵**
+  - [B station](https://www.bilibili.com/video/BV19M4y1n7M3)
+- **最优化基础---一维搜索(1)：暴力搜索法、区间消去法、黄金分割法和斐波那契法**
+  - [B station](https://www.bilibili.com/video/BV1ku411b7iZ)
+- **最优化基础---一维搜索(2)：二分法，牛顿法和割线法**
+  - [B station](https://www.bilibili.com/video/BV1Vh4y1E77d)
+- **最优化基础---一维搜索(3)：三点二次插值法**
+  - [B station](https://www.bilibili.com/video/BV16M4y1x7B8)
+- **最优化基础---非精确一维搜索：Armijo、Goldstein、Wolfe和强Wolfe条件；回溯法、内插公式和外插公式**
+  - [B station](https://www.bilibili.com/video/BV11X4y1E7yd)
+- **最优化基础---多维无约束优化方法(1)：方向导数和梯度、梯度下降法、最速下降法**
+  - [B station](https://www.bilibili.com/video/BV1gu41177ZZ)
+- **最优化基础---多维无约束优化方法(2)：牛顿法、Levenberg-Marquardt修正和高斯-牛顿法**
+  - [B station](https://www.bilibili.com/video/BV1mN4y1X7cP)
+- **最优化基础---多维无约束优化方法(3)：共轭向量及其性质、共轭方向法的基本原理、扩张子空间定理、共轭梯度法以及非二次型问题中的共轭梯度法**
+  - [B station](https://www.bilibili.com/video/BV1xu411T7XW)
+- **最优化基础---多维无约束优化方法(4)：拟牛顿法的引入、Hesse逆矩阵的近似、秩1修正公式、DFP算法和BFGS算法**
+  - [B station](https://www.bilibili.com/video/BV1ki421S7GH)
+- **非精确一维搜索octave代码实现**
+  - [B station](https://www.bilibili.com/video/BV1Di421v7Qq)
+- **最优化基础---求解线性方程组：概论、最小二乘法**
+  - [B station](https://www.bilibili.com/video/BV1ow4m1e7QC)
+- **最优化基础---求解线性方程组：递推最小二乘法**
+  - [B station](https://www.bilibili.com/video/BV1tz42187hd)
+- **最优化基础---求解线性方程组：最小范数解**
+  - [B station](https://www.bilibili.com/video/BV1ff421q7v5)
+- **最优化基础---求解线性方程组：Kaczmarz算法**
+  - [B station](https://www.bilibili.com/video/BV1RmyXYoEF2)
+- **最优化基础---求解线性方程组：一般意义下的方程组求解**
+  - [B station](https://www.bilibili.com/video/BV1zS6pYuEHR)
+- **一点点说明，2023年10月22日**
+  - [B station](https://www.bilibili.com/video/BV1u34y1u7yU)
+- **导数、梯度、雅可比矩阵、黑塞矩阵**
+  - [B station](https://www.bilibili.com/video/BV1iF41117ek)
+- **二分法、牛顿法、割线法**
+  - [B station](https://www.bilibili.com/video/BV1T841167Gn)
+- **暴力搜索法、区间消去法、黄金分割法、斐波拉契法**
+  - [B station](https://www.bilibili.com/video/BV1g94y1z7zu)
+- **三点二次插值法**
+  - [B station](https://www.bilibili.com/video/BV1np4y1L7RM)
+- **Armijo条件、Goldstein条件、Wolfe和强Wolfe条件**
+  - [B station](https://www.bilibili.com/video/BV1AP411h7sY)
+- **方向导数和梯度**
+  - [B station](https://www.bilibili.com/video/BV1zj41147Ei)
+- **牛顿法、LM修正和高斯牛顿法**
+  - [B station](https://www.bilibili.com/video/BV1rw4m1S7bN)
+- **共轭向量、扩张子空间定理和共轭梯度法**
+  - [B station](https://www.bilibili.com/video/BV1m7421R7RA)
+- **拟牛顿法、黑塞矩阵逆矩阵近似、秩1、DFP和BFGS算法**
+  - [B station](https://www.bilibili.com/video/BV1Yy411z7Ei)
+- **【01】AI Infra最详细Profile教程—vllm 实现及优化**
+  - [B station](https://www.bilibili.com/video/BV16w316ZEyS)
+- **【02】vLLM实战项目代码，可秋招可实习用**
+  - [B station](https://www.bilibili.com/video/BV1keGP6UED9)
+- **【03】vllm系列之torch.profiler与compile详解**
+  - [B station](https://www.bilibili.com/video/BV1XhM96FEjH)
+- **手撕vLLM系列[4]：从自回归一路讲到多卡并行，全程附带性能分析与理论讲解**
+  - [B station](https://www.bilibili.com/video/BV1W2tn6zEjU)
+- **手撕vLLM系列[5]: V0版本自回归推理概述**
+  - [B station](https://www.bilibili.com/video/BV1kvtW6yEt8)
+- **手撕vLLM系列【6】：手把手教你vLLM环境搭建**
+  - [B station](https://www.bilibili.com/video/BV1Ebe36QEr3)
+- **手撕vLLM系列【7】：RMSNorm代码实现**
+  - [B station](https://www.bilibili.com/video/BV1QEek6fEeq)
+- **手撕vLLM系列【8】：Rotary 公式详解**
+  - [B station](https://www.bilibili.com/video/BV1She26TEeJ)
+- **手撕vLLM系列【9】：RoPE 50行代码极简实现！**
+  - [B station](https://www.bilibili.com/video/BV1eFe16zEBi)
+- **手撕vLLM系列【10】：Activation激活函数完整实现**
+  - [B station](https://www.bilibili.com/video/BV145e16FEBP)
+- **手撕vLLM系列【11】：Attention 50行代码高效实现**
+  - [B station](https://www.bilibili.com/video/BV16qeB6cEJn)
+- **从零到一：像刷力扣一样手撕100个AI Infra的Kernel算子（CUDA+Triton+Pytorch）**
+  - [B station](https://www.bilibili.com/video/BV1qhDXBzEbA)
+  - links: https://dlog.com.cn https://leetgpu.com/challenges
+- **AI Infra的招聘要求以及学习路线**
+  - [B station](https://www.bilibili.com/video/BV1qKQGBtEDE)
+- **手撕AI Infra算子系列3：极速环境配置，20分钟学会！包你完全0报错！**
+  - [B station](https://www.bilibili.com/video/BV1VvQ3BSELZ)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列4：CUDA、Triton、Pytorch的前世今生**
+  - [B station](https://www.bilibili.com/video/BV147dYBLEi4)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列5：element wise算子详解（CUDA、Triton、Pytorch）**
+  - [B station](https://www.bilibili.com/video/BV1L6oNBSEGc)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列6：工业级Element Wise是如何实现的？Oneflow详解**
+  - [B station](https://www.bilibili.com/video/BV1npovBCE1r)
+  - links: https://dlog.com.cn https://github.com/xlite-dev/LeetCUDA https://github.com/Oneflow-Inc/oneflow
+- **手撕AI Infra算子系列7：Matrix Addition详解。**
+  - [B station](https://www.bilibili.com/video/BV1PvoeB2E2h)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列8：颜色反转；详解View与Offset**
+  - [B station](https://www.bilibili.com/video/BV1ono6BJEnt)
+- **手撕AI Infra算子系列9:Reduce的七种优化方法**
+  - [B station](https://www.bilibili.com/video/BV1cJdPBHEK2)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列10：英伟达官方reduce实现详解**
+  - [B station](https://www.bilibili.com/video/BV1wc5n6PEhQ)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列11：LeetGPU中的Reduce和Dot Product的代码实现**
+  - [B station](https://www.bilibili.com/video/BV1FS536zELn)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列12：Softmax详解+原理+论文+N种优化方法**
+  - [B station](https://www.bilibili.com/video/BV1tq5i69Epg)
+  - links: https://www.dlog.com.cn
+- **手撕AI Infra算子系列13：Scan算子详解+原理+代码+论文**
+  - [B station](https://www.bilibili.com/video/BV1K2Gq6SEvQ)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列14：BatchNorm/LayerNorm/RMSNorm理论解析**
+  - [B station](https://www.bilibili.com/video/BV1BKG76LEPM)
+  - links: https://dlog.com.cn
+- **手撕AI Infra算子系列15：Norm代码实现**
+  - [B station](https://www.bilibili.com/video/BV1fP7j6xEtN)
+  - links: https://github.com/ZiyuanDu/Awesome_AI_Infra_Learning/tree/main https://www.dlog.com.cn
+- **手撕AI Infra算子系列16：矩阵乘法**
+  - [B station](https://www.bilibili.com/video/BV1c77L6ZE5b)
+  - links: https://github.com/ZiyuanDu/Awesome_AI_Infra_Learning/tree/main https://www.dlog.com.cn
+- **手撕AI Infra算子系列18：别再背八股了！Transformer真的是一夜爆火吗？一文带你读懂Transformer的历史脉络！ALL才是论文的核心精华**
+  - [B station](https://www.bilibili.com/video/BV195Y16KEcg)
+- **北邮矩阵论期末复习——复习前的吐槽**
+  - [B station](https://www.bilibili.com/video/BV1v8qaBkEy7)
+  - links: https://pan.baidu.com/s/1Co61DdFqmlC51Z8GKWdlOw?pwd=vqmu
+- **范数理论**
+  - [B station](https://www.bilibili.com/video/BV1R8qaBkERy)
+- **范数习题**
+  - [B station](https://www.bilibili.com/video/BV1v8qaBkEUe)
+- **线性空间习题**
+  - [B station](https://www.bilibili.com/video/BV1njqrBVECz)
+- **线性空间习题**
+  - [B station](https://www.bilibili.com/video/BV1njqrBVE7C)
+- **北邮矩阵论对角化和Jordan**
+  - [B station](https://www.bilibili.com/video/BV1Z8BMBEEoW)
+- **北邮矩阵论线性变换一**
+  - [B station](https://www.bilibili.com/video/BV1B8BMBEEbV)
+- **矩阵分析**
+  - [B station](https://www.bilibili.com/video/BV1QivQBpEWe)
+- **矩阵函数课后习题全讲**
+  - [B station](https://www.bilibili.com/video/BV113v9B7EWj)
+- **LDU分解**
+  - [B station](https://www.bilibili.com/video/BV1SAv9BXEWE)
+- **LU的Crout分解**
+  - [B station](https://www.bilibili.com/video/BV1UAv9BXEfs)
+- **QR分解——施密特法**
+  - [B station](https://www.bilibili.com/video/BV1mKv9BDErD)
+- **QR——Given变换**
+  - [B station](https://www.bilibili.com/video/BV1rnv9B3Evg)
+- **QR分解——H分解**
+  - [B station](https://www.bilibili.com/video/BV13YicBjEYt)
+- **满秩分解**
+  - [B station](https://www.bilibili.com/video/BV1GhicBmEs1)
+- **SVD分解**
+  - [B station](https://www.bilibili.com/video/BV1TCicBzEJm)
+- **广义逆1——投影变换**
+  - [B station](https://www.bilibili.com/video/BV1MWifBBEJN)
+- **广义逆矩阵求解**
+  - [B station](https://www.bilibili.com/video/BV1tyiZBNEnd)
+- **广义逆课后题**
+  - [B station](https://www.bilibili.com/video/BV18ziZBBEbm)
+- **欧式空间**
+  - [B station](https://www.bilibili.com/video/BV1VbqTBTEQg)
+- **欧式空间习题**
+  - [B station](https://www.bilibili.com/video/BV1bdqKBfEsC)
+- **考后碎碎念**
+  - [B station](https://www.bilibili.com/video/BV1X8iyBTEw6)
+- **重生之我学Rust**
+  - [B station](https://www.bilibili.com/video/BV1ziDWYPEFQ)
+  - links: https://github.com/doublesevenshop/RUST_DEMOs/tree/main/
+- **进阶学ES 03-04 ES基于python API实践-2**
+  - [B station](https://www.bilibili.com/video/BV12d4y1i7QU)
+- **《ROS 2机器人开发从入门到实践》 1.4.1 Linux终端基础操作**
+  - [B station](https://www.bilibili.com/video/BV1NE421w72J)
+- **《ROS 2机器人开发从入门到实践》 1.4.2 在Linux中安装软件**
+  - [B station](https://www.bilibili.com/video/BV1yr421M7ya)
+- **《ROS 2机器人开发从入门到实践》 1.4.3 在Linux中编写Python代码**
+  - [B station](https://www.bilibili.com/video/BV1vb421J7XZ)
+- **《ROS 2机器人开发从入门到实践》 1.4.4 在Linux中编写C++代码**
+  - [B station](https://www.bilibili.com/video/BV174421S73i)
+- **《ROS 2机器人开发从入门到实践》8.2.2搭建规划器插件框架（上）**
+  - [B station](https://www.bilibili.com/video/BV1AdzVYnErk)
+- **《ROS 2机器人开发从入门到实践》8.2.2搭建规划器插件框架（下）**
+  - [B station](https://www.bilibili.com/video/BV1EUB9YWERp)
+- **《ROS 2机器人开发从入门到实践》8.2.3实现自定义规划算法**
+  - [B station](https://www.bilibili.com/video/BV1jAzYYtEEH)
+- **《ROS 2机器人开发从入门到实践》8.2.4配置导航参数并测试**
+  - [B station](https://www.bilibili.com/video/BV1EHzpYvEQk)
+- **《ROS 2机器人开发从入门到实践》8.3.1自定义控制介绍**
+  - [B station](https://www.bilibili.com/video/BV1tb6FYsErH)
+- **《ROS 2机器人开发从入门到实践》8.3.2搭建控制器插件框架**
+  - [B station](https://www.bilibili.com/video/BV1HF6uYKEEH)
+- **《ROS 2机器人开发从入门到实践》8.3.3实现自定义控制算法**
+  - [B station](https://www.bilibili.com/video/BV1E8q5YgEo6)
+- **《ROS 2机器人开发从入门到实践》8.3.4配置导航参数并测试**
+  - [B station](https://www.bilibili.com/video/BV1qPqCYSEge)
+- **《ROS 2机器人开发从入门到实践》第九章 搭建一个实体移动机器人**
+  - [B station](https://www.bilibili.com/video/BV13AqZYmEs2)
+- **《ROS 2机器人开发从入门到实践》9.0.1FishBot两轮差速机器人组装教程**
+  - [B station](https://www.bilibili.com/video/BV17KkHYqEcZ)
+- **《ROS 2机器人开发从入门到实践》9.0.2 FishBot配置助手介绍与安装**
+  - [B station](https://www.bilibili.com/video/BV1MQkwYNEi4)
+- **《ROS 2机器人开发从入门到实践》9.0.3. 主控板固件烧录与配置**
+  - [B station](https://www.bilibili.com/video/BV1oAC5YJEdT)
+- **《ROS 2机器人开发从入门到实践》9.0.4使用ROS2键盘控制FishBot**
+  - [B station](https://www.bilibili.com/video/BV1PqkdY5Ew8)
+- **《ROS 2机器人开发从入门到实践》9.0.5 雷达固件烧录及配置**
+  - [B station](https://www.bilibili.com/video/BV1GH63YfEq2)
+- **《ROS 2机器人开发从入门到实践》9.0.6雷达驱动及建图测试**
+  - [B station](https://www.bilibili.com/video/BV1HH6HYzErB)
+- **《ROS 2机器人开发从入门到实践》9.0.7 FishBot-Nav2导航测试**
+  - [B station](https://www.bilibili.com/video/BV1ePrFYvEvQ)
+- **《ROS 2机器人开发从入门到实践》9.1移动机器人系统设计**
+  - [B station](https://www.bilibili.com/video/BV1NyFNeEEAh)
+- **《ROS 2机器人开发从入门到实践》9.2.1开发平台介绍与安装**
+  - [B station](https://www.bilibili.com/video/BV1pLf2YxEzv)
+- **《ROS 2机器人开发从入门到实践》9.2.2 第一个HelloWorld工程**
+  - [B station](https://www.bilibili.com/video/BV11cPXeoEfg)
+- **《ROS 2机器人开发从入门到实践》9.2.3 使用代码点亮LED灯**
+  - [B station](https://www.bilibili.com/video/BV1FTNpeKEbG)
+- **《ROS 2机器人开发从入门到实践》9.2.4 使用超声波测量距离**
+  - [B station](https://www.bilibili.com/video/BV18FNbeNEE5)
+- **《ROS 2机器人开发从入门到实践》9.2.5 使用开源库驱动IMU**
+  - [B station](https://www.bilibili.com/video/BV1LgN8ejEHG)
+- **《ROS 2机器人开发从入门到实践》9.3.1 使用开源库驱动多路电机**
+  - [B station](https://www.bilibili.com/video/BV1UiNmeHEe1)
+- **《ROS 2机器人开发从入门到实践》9.3.2 电动机速度测量与转换**
+  - [B station](https://www.bilibili.com/video/BV11ZNdeuEge)
+- **《ROS 2机器人开发从入门到实践》9.3.3 使用PID控制轮子转速**
+  - [B station](https://www.bilibili.com/video/BV137KPezEaH)
+- **《ROS 2机器人开发从入门到实践》9.3.4 运动学正逆解的实现**
+  - [B station](https://www.bilibili.com/video/BV1XwKTejE6V)
+- **《ROS 2机器人开发从入门到实践》9.3.5 机器人里程计计算**
+  - [B station](https://www.bilibili.com/video/BV1BJA5eTE9t)
+- **《ROS 2机器人开发从入门到实践》9.4.1 第一个节点**
+  - [B station](https://www.bilibili.com/video/BV1kQAqeCEE9)
+- **《ROS 2机器人开发从入门到实践》9.4.2 订阅话题控制机器人**
+  - [B station](https://www.bilibili.com/video/BV12rPue6EoY)
+- **《ROS 2机器人开发从入门到实践》9.4.3  发布机器人里程计话题**
+  - [B station](https://www.bilibili.com/video/BV15LPxeYEVp)
+- **《ROS 2机器人开发从入门到实践》9.5.1  驱动并显示雷达点云**
+  - [B station](https://www.bilibili.com/video/BV1JnPeewEQ5)
+- **《ROS 2机器人开发从入门到实践》9.5.2 移动机器人的坐标系框架介绍**
+  - [B station](https://www.bilibili.com/video/BV1QmP7eBEz2)
+- **《ROS 2机器人开发从入门到实践》9.5.3 准备机器人URDF**
+  - [B station](https://www.bilibili.com/video/BV1Fk9AYnEg2)
+- **《ROS 2机器人开发从入门到实践》9.5.4 发布里程计TF**
+  - [B station](https://www.bilibili.com/video/BV1Uq93YRE5T)
+- **《ROS 2机器人开发从入门到实践》9.5.5 完成机器人建图并保存地图**
+  - [B station](https://www.bilibili.com/video/BV1yVXXYbETt)
+- **《ROS 2机器人开发从入门到实践》9.5.6 完成机器人导航**
+  - [B station](https://www.bilibili.com/video/BV12L9hYrEkp)
+- **《ROS 2机器人开发从入门到实践》10.1.1 QoS策略介绍**
+  - [B station](https://www.bilibili.com/video/BV1EK9zYDE1s)
+- **《ROS 2机器人开发从入门到实践》10.1.2 QoS的兼容性**
+  - [B station](https://www.bilibili.com/video/BV1UH9ZYpEs6)
+- **《ROS 2机器人开发从入门到实践》10.1.3 Python QoS兼容性测试**
+  - [B station](https://www.bilibili.com/video/BV17ERKY4E5U)
+- **《ROS 2机器人开发从入门到实践》10.1.4 C++ QoS兼容性测试**
+  - [B station](https://www.bilibili.com/video/BV12m9mY9E8f)
+- **《ROS 2机器人开发从入门到实践》10.2.1 执行器与回调组介绍**
+  - [B station](https://www.bilibili.com/video/BV1ViRHYcEhj)
+- **《ROS 2机器人开发从入门到实践》10.2.2 在Python中使用回调组**
+  - [B station](https://www.bilibili.com/video/BV1sRRYY2Ecc)
+- **《ROS 2机器人开发从入门到实践》10.2.3 在C++中使用回调组**
+  - [B station](https://www.bilibili.com/video/BV17aR5YSE9G)
+- **《ROS 2机器人开发从入门到实践》10.3.1 生命周期节点介绍**
+  - [B station](https://www.bilibili.com/video/BV1pdQGYyEm5)
+- **《ROS 2机器人开发从入门到实践》10.3.2 在Python中编写生命周期节点**
+  - [B station](https://www.bilibili.com/video/BV1R1QnYWEB3)
+- **《ROS 2机器人开发从入门到实践》10.3.3  在C++中编写生命周期节点**
+  - [B station](https://www.bilibili.com/video/BV1CAQ6Y9EvF)
+- **《ROS 2机器人开发从入门到实践》10.4.1 使用执行器组织多个节点**
+  - [B station](https://www.bilibili.com/video/BV11SXTYTEtu)
+- **《ROS 2机器人开发从入门到实践》10.4.2 使用组件运行组合节点**
+  - [B station](https://www.bilibili.com/video/BV153QoYWEpn)
+- **《ROS 2机器人开发从入门到实践》10.4.3 编写自己的组件**
+  - [B station](https://www.bilibili.com/video/BV1BCX6YnEKL)
+- **《ROS 2机器人开发从入门到实践》10.5.1 消息过滤器介绍**
+  - [B station](https://www.bilibili.com/video/BV1bso2YaEDD)
+- **《ROS 2机器人开发从入门到实践》10.5.2 在Python中同步传感器数据**
+  - [B station](https://www.bilibili.com/video/BV12UoeY4EuQ)
+- **《ROS 2机器人开发从入门到实践》10.5.3 在 C++中同步传感器数据**
+  - [B station](https://www.bilibili.com/video/BV1nfoRY3E3t)
+- **《ROS 2机器人开发从入门到实践》10.6.1 使用不同的DDS进行通信**
+  - [B station](https://www.bilibili.com/video/BV1UXZHYFExy)
+- **《ROS 2机器人开发从入门到实践》10.6.2 配置局域网通信**
+  - [B station](https://www.bilibili.com/video/BV1BhfNYPEML)
+- **《ROS 2机器人开发从入门到实践》10.6.3调整DDS配置**
+  - [B station](https://www.bilibili.com/video/BV1bMR2YxExi)
+- **《ROS 2机器人开发从入门到实践》10.6.4 使用DDS共享内存**
+  - [B station](https://www.bilibili.com/video/BV1k5dNYPEdo)
+- **【鱼香ROS】动手学ROS2|ROS2基础入门到实践教程|小鱼带你手把手学习ROS2**
+  - [B station](https://www.bilibili.com/video/BV1gr4y1Q7j5)
+- **【ROS2硬件控制】1.课程及开发平台介绍**
+  - [B station](https://www.bilibili.com/video/BV1po4y1676Q)
+- **【ROS2硬件控制】2.嵌入式开发从点灯开始**
+  - [B station](https://www.bilibili.com/video/BV1UD4y1M745)
+- **【ROS2硬件控制】3. 什么是单片机MCU，和CPU什么区别**
+  - [B station](https://www.bilibili.com/video/BV1hg4y1t7af)
+- **【ROS2硬件控制】4.细数-微处理器开发平台**
+  - [B station](https://www.bilibili.com/video/BV1354y1M7HM)
+- **【ROS2硬件控制】5. 搭建PlateFormIO开发环境**
+  - [B station](https://www.bilibili.com/video/BV1mX4y1U762)
+- **【ROS2硬件控制】6.PIO工程结构&构建方式**
+  - [B station](https://www.bilibili.com/video/BV1QY411B71V)
+- **【ROS2硬件控制】7.串口输出HelloWorld（上）**
+  - [B station](https://www.bilibili.com/video/BV1nv4y1L7QJ)
+- **【ROS2硬件控制】7.串口输出HelloWorld（下）**
+  - [B station](https://www.bilibili.com/video/BV1yM4y1z73M)
+- **【ROS2硬件控制】13B.6串口通信-接收实验**
+  - [B station](https://www.bilibili.com/video/BV1xk4y1874q)
+- **【ROS2硬件控制】13G.1 点灯基础-看懂LED驱动电路**
+  - [B station](https://www.bilibili.com/video/BV1nv4y1L7G9)
+- **【ROS2硬件控制】13G.2 完成点灯-GPIO控制**
+  - [B station](https://www.bilibili.com/video/BV16m4y1k7xK)
+- **【ROS2硬件控制】13G.3.学会使用按键-GPIO输入**
+  - [B station](https://www.bilibili.com/video/BV11m4y167GK)
+- **【ROS2硬件控制】13G.4.电池电压测量-学会使用ADC**
+  - [B station](https://www.bilibili.com/video/BV1fm4y1B7Ur)
+- **【ROS2硬件控制】13A.1.学会安装第三方开源库**
+  - [B station](https://www.bilibili.com/video/BV17k4y1i7Dj)
+- **【ROS2硬件控制】13A.2.使用开源库驱动IMU**
+  - [B station](https://www.bilibili.com/video/BV1BL411S7vu)
+- **【ROS2硬件控制】13A.3.学会面向对象编程-封装IMU驱动（上）**
+  - [B station](https://www.bilibili.com/video/BV1Tc411W7jT)
+- **【ROS2硬件控制】13A.3.学会面向对象编程-封装IMU驱动（下）**
+  - [B station](https://www.bilibili.com/video/BV1mg4y1g7n6)
+- **【ROS2硬件控制】13A.4.使用开源库驱动OLED**
+  - [B station](https://www.bilibili.com/video/BV1FN411P7md)
+- **【ROS2硬件控制】13A.5.通讯协议小课堂-I2C通信**
+  - [B station](https://www.bilibili.com/video/BV1ov4y1p799)
+- **【ROS2硬件控制】13A.6.I2C通信实验-点亮OLEDU**
+  - [B station](https://www.bilibili.com/video/BV11j411w7W8)
+- **【ROS2硬件控制】14.MicroROS入门与实践**
+  - [B station](https://www.bilibili.com/video/BV15M4y1m7Rq)
+- **【ROS2硬件控制】14B.1.Micro-ROS介绍与服务安装**
+  - [B station](https://www.bilibili.com/video/BV16m4y1q7zC)
+- **【ROS2硬件控制】14B.2.在单片机上编写ROS2节点**
+  - [B station](https://www.bilibili.com/video/BV1gh411E7jU)
+- **【ROS2硬件控制】14G.1.MicroROS话题订阅-控制LED**
+  - [B station](https://www.bilibili.com/video/BV1sL411Y7NE)
+- **【ROS2硬件控制】14G.2.ESP32上实现ROS-话题发布**
+  - [B station](https://www.bilibili.com/video/BV1No4y1t7x3)
+- **14G.3.ESP32上实现ROS-服务通信**
+  - [B station](https://www.bilibili.com/video/BV17T411t7Ph)
+- **14A.1.ESP32上实现ROS2自定义服务接口（上）**
+  - [B station](https://www.bilibili.com/video/BV1nk4y1L7pz)
