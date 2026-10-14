@@ -1,6 +1,6 @@
 # 访谈与行业观察
 
-> Source: **张小珺商业访谈录, 五里墩茶社, 林粒粒呀** - Snapshot: **2026-10-13** - **760** episodes.
+> Source: **张小珺商业访谈录, 五里墩茶社, 林粒粒呀** - Snapshot: **2026-10-14** - **760** episodes.
 > Data: [`items.json`](items.json)
 
 ## Data source / method / limits
